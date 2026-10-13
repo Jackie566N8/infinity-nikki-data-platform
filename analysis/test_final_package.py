@@ -56,7 +56,13 @@ def check():
     assert "66/71" in readme and "92.96%" in readme and "43/44" in readme and "6/6" in readme
     assert all(value not in readme for value in ("YOUR_USERNAME", "你的用户名", "84.5%"))
     assert not re.search(r"[A-Z]:[\\/]+Users[\\/]", readme)
-    assert len(readme.split("截图位置：")) - 1 == 4
+    # README may use either English or Chinese labels; require four actual list entries.
+    screenshot_slots = re.findall(
+        r"^\s*-\s+\*\*(?:Screenshot slot|截图位置)[:：]",
+        readme,
+        flags=re.MULTILINE,
+    )
+    assert len(screenshot_slots) == 4, f"Expected four README screenshot slots, found {len(screenshot_slots)}"
     assert (ROOT / "analysis/notebooks/catalog-exploration.ipynb").is_file()
     print("PASS final CSV joins preserve IDs, Unicode names, evidence, ingredient units and incomplete records; independent metric edge cases; README identity/scope")
 

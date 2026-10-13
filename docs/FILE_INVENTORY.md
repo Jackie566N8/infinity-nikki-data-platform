@@ -25,7 +25,7 @@ FILE_MANIFEST.json记录其余文件的字节数与SHA-256；本清单及manifes
 | `analysis/results/data_quality_check.json` | Python独立质量或搜索指标复算结果 | 4381 |
 | `analysis/results/search_evaluation.json` | Python独立质量或搜索指标复算结果 | 48122 |
 | `analysis/search_evaluation.py` | 真实模型重跑与Python独立人审指标复算 | 4659 |
-| `analysis/test_final_package.py` | 关联CSV、Unicode、单位及指标边界回归 | 4054 |
+| `analysis/test_final_package.py` | 关联CSV、Unicode、单位及指标边界回归；中英文README截图位检查 | 4351 |
 | `analysis/test_research.py` | Python/SQL研究实现与回归 | 2588 |
 | `data/aliases.csv` | 57382条正式名称/译名/昵称及一级/补充来源 | 10547760 |
 | `data/assets/region-banners/memorial-mountains-original.jpg` | 用户提供原图或资产证据 | 285925 |
