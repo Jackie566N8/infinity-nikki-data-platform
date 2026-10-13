@@ -1,0 +1,247 @@
+[
+  {
+    "material_id": "maromalily",
+    "outfit_id": "o10022",
+    "source_id": "src:ab1bd4cd367f0adf3a5d61b2"
+  },
+  {
+    "material_id": "maromalily",
+    "outfit_id": "o10083",
+    "source_id": "src:ab1bd4cd367f0adf3a5d61b2"
+  },
+  {
+    "material_id": "maromalily",
+    "outfit_id": "o20021",
+    "source_id": "src:ab1bd4cd367f0adf3a5d61b2"
+  },
+  {
+    "material_id": "mbuttoncone",
+    "outfit_id": "o10083",
+    "source_id": "src:74619497c937d26f7cebf95e"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10022",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10028",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10029",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10036",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10060",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10083",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mdaisy",
+    "outfit_id": "o10112",
+    "source_id": "src:b4d73d29f20f080fea27212c"
+  },
+  {
+    "material_id": "mflight-fruit",
+    "outfit_id": "o10090",
+    "source_id": "src:f04cdbaeb29bca581ef97fde"
+  },
+  {
+    "material_id": "mflorapom",
+    "outfit_id": "o10083",
+    "source_id": "src:39995b1777fccb1975752992"
+  },
+  {
+    "material_id": "mflorapom",
+    "outfit_id": "o10121",
+    "source_id": "src:39995b1777fccb1975752992"
+  },
+  {
+    "material_id": "mflorapom",
+    "outfit_id": "o20052",
+    "source_id": "src:39995b1777fccb1975752992"
+  },
+  {
+    "material_id": "mglimmergrass",
+    "outfit_id": "o10062",
+    "source_id": "src:f6210ae2a7a89ecf66c88e36"
+  },
+  {
+    "material_id": "mglimmergrass",
+    "outfit_id": "o10086",
+    "source_id": "src:f6210ae2a7a89ecf66c88e36"
+  },
+  {
+    "material_id": "mgrasspom",
+    "outfit_id": "o10083",
+    "source_id": "src:58814f8e8bc2973b186ffd66"
+  },
+  {
+    "material_id": "mgrasspom",
+    "outfit_id": "o10121",
+    "source_id": "src:58814f8e8bc2973b186ffd66"
+  },
+  {
+    "material_id": "mgrasspom",
+    "outfit_id": "o20052",
+    "source_id": "src:58814f8e8bc2973b186ffd66"
+  },
+  {
+    "material_id": "mhare-powder",
+    "outfit_id": "o10022",
+    "source_id": "src:636308efd25085e3d711304d"
+  },
+  {
+    "material_id": "mhare-powder",
+    "outfit_id": "o10083",
+    "source_id": "src:636308efd25085e3d711304d"
+  },
+  {
+    "material_id": "mhare-powder",
+    "outfit_id": "o10112",
+    "source_id": "src:636308efd25085e3d711304d"
+  },
+  {
+    "material_id": "mhare-powder",
+    "outfit_id": "o20052",
+    "source_id": "src:636308efd25085e3d711304d"
+  },
+  {
+    "material_id": "mlampbloom",
+    "outfit_id": "o10009",
+    "source_id": "src:c757259c4e7d50b59fb9390d"
+  },
+  {
+    "material_id": "mlampbloom",
+    "outfit_id": "o10062",
+    "source_id": "src:c757259c4e7d50b59fb9390d"
+  },
+  {
+    "material_id": "mlampbloom",
+    "outfit_id": "o10112",
+    "source_id": "src:c757259c4e7d50b59fb9390d"
+  },
+  {
+    "material_id": "mlampbloom",
+    "outfit_id": "o10121",
+    "source_id": "src:c757259c4e7d50b59fb9390d"
+  },
+  {
+    "material_id": "mlampchili",
+    "outfit_id": "o10048",
+    "source_id": "src:92a5a303e9857a9afe262893"
+  },
+  {
+    "material_id": "mlampchili",
+    "outfit_id": "o10090",
+    "source_id": "src:92a5a303e9857a9afe262893"
+  },
+  {
+    "material_id": "mseed-pearl",
+    "outfit_id": "o10009",
+    "source_id": "src:71577dc022be82ae33135c78"
+  },
+  {
+    "material_id": "mseed-pearl",
+    "outfit_id": "o10029",
+    "source_id": "src:71577dc022be82ae33135c78"
+  },
+  {
+    "material_id": "mseed-pearl",
+    "outfit_id": "o10062",
+    "source_id": "src:71577dc022be82ae33135c78"
+  },
+  {
+    "material_id": "mseed-pearl",
+    "outfit_id": "o10112",
+    "source_id": "src:71577dc022be82ae33135c78"
+  },
+  {
+    "material_id": "msizzpollen",
+    "outfit_id": "o10062",
+    "source_id": "src:042df1118547b3fd79ce9625"
+  },
+  {
+    "material_id": "msizzpollen",
+    "outfit_id": "o10090",
+    "source_id": "src:042df1118547b3fd79ce9625"
+  },
+  {
+    "material_id": "msizzpollen",
+    "outfit_id": "o20021",
+    "source_id": "src:042df1118547b3fd79ce9625"
+  },
+  {
+    "material_id": "msizzpollen",
+    "outfit_id": "o20052",
+    "source_id": "src:042df1118547b3fd79ce9625"
+  },
+  {
+    "material_id": "msol-fruit",
+    "outfit_id": "o10062",
+    "source_id": "src:f22763356e9ed54d052f93ab"
+  },
+  {
+    "material_id": "msol-fruit",
+    "outfit_id": "o10081",
+    "source_id": "src:f22763356e9ed54d052f93ab"
+  },
+  {
+    "material_id": "mstarlight-scallop",
+    "outfit_id": "o10121",
+    "source_id": "src:a90ea93bdb0a8cbadbd2aa12"
+  },
+  {
+    "material_id": "mstellar-fruit",
+    "outfit_id": "o10086",
+    "source_id": "src:841c2758cdac976183957506"
+  },
+  {
+    "material_id": "msunny-orchid",
+    "outfit_id": "o10022",
+    "source_id": "src:4db40d17283ea5100f5b223d"
+  },
+  {
+    "material_id": "msunny-orchid",
+    "outfit_id": "o10121",
+    "source_id": "src:4db40d17283ea5100f5b223d"
+  },
+  {
+    "material_id": "mwindbloom",
+    "outfit_id": "o10062",
+    "source_id": "src:9659263c095c6ed5d3122c07"
+  },
+  {
+    "material_id": "mwindbloom",
+    "outfit_id": "o10090",
+    "source_id": "src:9659263c095c6ed5d3122c07"
+  },
+  {
+    "material_id": "mwindbloom",
+    "outfit_id": "o20021",
+    "source_id": "src:9659263c095c6ed5d3122c07"
+  },
+  {
+    "material_id": "mwisteriasol",
+    "outfit_id": "o10062",
+    "source_id": "src:42aacfcabbe93ac39271300c"
+  },
+  {
+    "material_id": "mwisteriasol",
+    "outfit_id": "o20021",
+    "source_id": "src:42aacfcabbe93ac39271300c"
+  }
+]

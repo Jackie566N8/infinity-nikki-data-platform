@@ -1,0 +1,425 @@
+[
+  {
+    "object_id": "o1016504",
+    "checked_at": "2026-10-11T15:38:21.450Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"晶莹诗集·炽日晖\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crystal Poems: Blazing\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"晶莹诗集·炽日晖\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crystal Poems: Blazing\" evolution materials OR \"晶莹诗集·炽日晖\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crystal Poems: Blazing | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Blazing",
+        "evolution": "2 Crystal Poems\n\n1 Crystal Poems: Blazing",
+        "crafting": null
+      },
+      {
+        "title": "Crystal Poems: Spring | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Spring",
+        "evolution": "1 Heartshine\n\n1 Crystal Poems: Spring",
+        "crafting": null
+      },
+      {
+        "title": "Crystal Poems: Snow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Snow",
+        "evolution": "1 Heartshine\n\n1 Crystal Poems: Snow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016602",
+    "checked_at": "2026-10-11T15:38:23.301Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"流星绚烂时·星火\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starfall Radiance: Starfire\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"流星绚烂时·星火\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Starfall Radiance: Starfire\" evolution materials OR \"流星绚烂时·星火\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Starfall Radiance: Starfire | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Starfall_Radiance%3A_Starfire",
+        "evolution": "2 Starfall Radiance\n\n1 Starfall Radiance: Starfire",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016702",
+    "checked_at": "2026-10-11T15:38:25.007Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"丰饶之赞·星光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Harvest's Blessing: Starlight\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"丰饶之赞·星光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Harvest's Blessing: Starlight\" evolution materials OR \"丰饶之赞·星光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "纯爱狮子小想-百度贴吧",
+        "url": "https://tieba.baidu.com/home/main/?fr=frs&ie=utf-8&un=%E7%BA%AF%E7%88%B1%E7%8B%AE%E5%AD%90%E5%B0%8F%E6%83%B3",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1017302",
+    "checked_at": "2026-10-11T15:38:27.047Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"一念生芳·映月\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Thought in Bloom: Moonlit Veil\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"一念生芳·映月\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Thought in Bloom: Moonlit Veil\" evolution materials OR \"一念生芳·映月\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Thought in Bloom: Moonlit Veil | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Thought_in_Bloom%3A_Moonlit_Veil",
+        "evolution": "2 Thought in Bloom\n\n1 Thought in Bloom: Moonlit Veil",
+        "crafting": null
+      },
+      {
+        "title": "燕云十六声官方-百度贴吧",
+        "url": "https://tieba.baidu.com/home/main?fr=home&id=tb.1.2f63f933.HPIbpU1m7JEs4Vo8aTK8vw",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1017402",
+    "checked_at": "2026-10-11T15:38:29.113Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"来自深海·归寂\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"From the Depth: Silenced\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"来自深海·归寂\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"From the Depth: Silenced\" evolution materials OR \"来自深海·归寂\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 커뮤니티 :: 가이드 :: 『Stellaris 』考古星界",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3451028305&l=koreana&searchtext=Search+Stellaris+Guides",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Workshop služby Steam::512",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3566660389&l=czech",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: 英魂之刃",
+        "url": "https://steamcommunity.com/app/1591600/announcements/",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=portuguese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidad de Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=latam",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steamワークショップ::郝翔南",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3656663732&l=japanese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komunitas Steam :: 英魂之刃",
+        "url": "https://steamcommunity.com/app/1591600/announcements/?l=indonesian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-Community :: 英魂之刃",
+        "url": "https://steamcommunity.com/app/1591600/announcements/?l=german",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Cộng đồng Steam :: 呆罗 :: Trò chơi",
+        "url": "https://steamcommunity.com/id/GreyRhythm/recommended/?l=vietnamese&p=2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::Mods",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3003104029",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::20251206dorwa1.6中世纪自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3618615536",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Workshop di Steam::明日方舟",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1860181777&l=italian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1017502",
+    "checked_at": "2026-10-11T15:38:31.092Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"林中雾语·余温\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Mistbound Whispers: Warmth\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"林中雾语·余温\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Mistbound Whispers: Warmth\" evolution materials OR \"林中雾语·余温\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "张枣诗选：镜中（72首）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405080111744680118",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1017602",
+    "checked_at": "2026-10-11T15:38:33.171Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"渡我莲心·久念\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lotus Heart: Longing\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"渡我莲心·久念\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Lotus Heart: Longing\" evolution materials OR \"渡我莲心·久念\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1017802",
+    "checked_at": "2026-10-11T15:38:35.025Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"炽羽不渝·落羽\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crimson Feather: Ember\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"炽羽不渝·落羽\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crimson Feather: Ember\" evolution materials OR \"炽羽不渝·落羽\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Feather: Ember | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Ember",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Ember",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Feather: Rebirth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Rebirth",
+        "evolution": "2 Crimson Feather\n\n1 Crimson Feather: Rebirth",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Feather: Blaze | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Blaze",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Blaze",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1017803",
+    "checked_at": "2026-10-11T15:38:37.196Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"炽羽不渝·焚风\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crimson Feather: Blaze\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"炽羽不渝·焚风\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crimson Feather: Blaze\" evolution materials OR \"炽羽不渝·焚风\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Feather: Blaze | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Blaze",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Blaze",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Feather: Ember | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Ember",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Ember",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Feather: Rebirth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Rebirth",
+        "evolution": "2 Crimson Feather\n\n1 Crimson Feather: Rebirth",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1017804",
+    "checked_at": "2026-10-11T15:38:39.405Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"炽羽不渝·涅槃\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crimson Feather: Rebirth\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"炽羽不渝·涅槃\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crimson Feather: Rebirth\" evolution materials OR \"炽羽不渝·涅槃\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Feather: Rebirth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Rebirth",
+        "evolution": "2 Crimson Feather\n\n1 Crimson Feather: Rebirth",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Feather: Ember | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Ember",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Ember",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Feather: Blaze | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Blaze",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Blaze",
+        "crafting": null
+      }
+    ]
+  }
+]

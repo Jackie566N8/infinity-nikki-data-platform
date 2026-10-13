@@ -1,0 +1,344 @@
+[
+  {
+    "object_id": "o1035204",
+    "checked_at": "2026-10-11T15:43:57.491Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"万相渡浮生·人世间\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Where Wanxiang Weaves Life: Lived World\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"万相渡浮生·人世间\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Where Wanxiang Weaves Life: Lived World\" evolution materials OR \"万相渡浮生·人世间\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Where Wanxiang Weaves Life: Lived World | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Lived_World",
+        "evolution": "2 Where Wanxiang Weaves Life\n\n1 Where Wanxiang Weaves Life: Lived World",
+        "crafting": null
+      },
+      {
+        "title": "Where Wanxiang Weaves Life: Benevolence | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Benevolence",
+        "evolution": "Heartshine: Where Wanxiang Weaves Life1 Heartshine: Where Wanxiang Weaves Life\n\n1 Where Wanxiang Weaves Life: Benevolence",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035302",
+    "checked_at": "2026-10-11T15:43:59.392Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"九色亦尘心·焚心\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Chroma's Mortal Heart: Seared\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"九色亦尘心·焚心\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Chroma's Mortal Heart: Seared\" evolution materials OR \"九色亦尘心·焚心\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Chroma's Mortal Heart: Seared | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Seared",
+        "evolution": "Heartshine: Chroma's Mortal Heart1 Heartshine: Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Seared",
+        "crafting": null
+      },
+      {
+        "title": "Chroma's Mortal Heart: Parting | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Parting",
+        "evolution": "Heartshine: Chroma's Mortal Heart1 Heartshine: Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Parting",
+        "crafting": null
+      },
+      {
+        "title": "Chroma's Mortal Heart: Wanxiang | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Wanxiang",
+        "evolution": "2 Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Wanxiang",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035303",
+    "checked_at": "2026-10-11T15:44:02.477Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"九色亦尘心·长决\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Chroma's Mortal Heart: Parting\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"九色亦尘心·长决\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Chroma's Mortal Heart: Parting\" evolution materials OR \"九色亦尘心·长决\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Chroma's Mortal Heart: Parting | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Parting",
+        "evolution": "Heartshine: Chroma's Mortal Heart1 Heartshine: Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Parting",
+        "crafting": null
+      },
+      {
+        "title": "Chroma's Mortal Heart: Wanxiang | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Wanxiang",
+        "evolution": "2 Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Wanxiang",
+        "crafting": null
+      },
+      {
+        "title": "Chroma's Mortal Heart: Seared | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Seared",
+        "evolution": "Heartshine: Chroma's Mortal Heart1 Heartshine: Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Seared",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035304",
+    "checked_at": "2026-10-11T15:44:04.626Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"九色亦尘心·万相\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Chroma's Mortal Heart: Wanxiang\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"九色亦尘心·万相\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Chroma's Mortal Heart: Wanxiang\" evolution materials OR \"九色亦尘心·万相\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Chroma's Mortal Heart: Wanxiang | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Wanxiang",
+        "evolution": "2 Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Wanxiang",
+        "crafting": null
+      },
+      {
+        "title": "Chroma's Mortal Heart: Parting | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Parting",
+        "evolution": "Heartshine: Chroma's Mortal Heart1 Heartshine: Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Parting",
+        "crafting": null
+      },
+      {
+        "title": "Chroma's Mortal Heart: Seared | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Seared",
+        "evolution": "Heartshine: Chroma's Mortal Heart1 Heartshine: Chroma's Mortal Heart\n\n1 Chroma's Mortal Heart: Seared",
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖 2.6版本优化内容汇总 :: Infinity Nikki General Discussions",
+        "url": "https://steamcommunity.com/app/3164330/discussions/0/661611313944969442/",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035402",
+    "checked_at": "2026-10-11T15:44:06.926Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"尘外羽歌·莫离\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Song Beyond: Unparting\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"尘外羽歌·莫离\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Song Beyond: Unparting\" evolution materials OR \"尘外羽歌·莫离\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "二哈和他的白猫师尊正常时间发展顺序概述",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309634592958920851464",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "“世间悲苦太多，江今算个屁啊“|整理总结九州门全十季",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309634611713709244623",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "中央航校1-16期名单",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404947775858016406",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035502",
+    "checked_at": "2026-10-11T15:44:08.800Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"予梦心时·幻言\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dreamtime Bestowed: Hollow Rumor\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"予梦心时·幻言\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dreamtime Bestowed: Hollow Rumor\" evolution materials OR \"予梦心时·幻言\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1035503",
+    "checked_at": "2026-10-11T15:44:11.169Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"予梦心时·炽心\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dreamtime Bestowed: Blazing Heart\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"予梦心时·炽心\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dreamtime Bestowed: Blazing Heart\" evolution materials OR \"予梦心时·炽心\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1035504",
+    "checked_at": "2026-10-11T15:44:12.802Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"予梦心时·终斓\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dreamtime Bestowed: Bright Ending\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"予梦心时·终斓\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dreamtime Bestowed: Bright Ending\" evolution materials OR \"予梦心时·终斓\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1035801",
+    "checked_at": "2026-10-11T15:44:14.762Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"无声颂歌·虔心\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Silent Ode: Devoted Heart\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"无声颂歌·虔心\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Silent Ode: Devoted Heart\" evolution materials OR \"无声颂歌·虔心\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1036002",
+    "checked_at": "2026-10-11T15:44:16.615Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"青野漫林歌·暮影\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forest's Song: Twilight Silhouette\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"青野漫林歌·暮影\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forest's Song: Twilight Silhouette\" evolution materials OR \"青野漫林歌·暮影\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forest's Song: Twilight Silhouette | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forest%27s_Song%3A_Twilight_Silhouette",
+        "evolution": "2 Forest's Song\n\n1 Forest's Song: Twilight Silhouette",
+        "crafting": null
+      }
+    ]
+  }
+]

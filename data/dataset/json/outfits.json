@@ -1,0 +1,7752 @@
+[
+  {
+    "outfit_id": "o10001",
+    "family_id": "family:o10001",
+    "base_outfit_id": "o10001",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1000101",
+    "family_id": "family:o10001",
+    "base_outfit_id": "o10001",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1000102",
+    "family_id": "family:o10001",
+    "base_outfit_id": "o10001",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1000103",
+    "family_id": "family:o10001",
+    "base_outfit_id": "o10001",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1000104",
+    "family_id": "family:o10001",
+    "base_outfit_id": "o10001",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10002",
+    "family_id": "family:o10002",
+    "base_outfit_id": "o10002",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10003",
+    "family_id": "family:o10003",
+    "base_outfit_id": "o10003",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10007",
+    "family_id": "family:o10007",
+    "base_outfit_id": "o10007",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10009",
+    "family_id": "family:o10009",
+    "base_outfit_id": "o10009",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1000901",
+    "family_id": "family:o10009",
+    "base_outfit_id": "o10009",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1000902",
+    "family_id": "family:o10009",
+    "base_outfit_id": "o10009",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10011",
+    "family_id": "family:o10011",
+    "base_outfit_id": "o10011",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1001101",
+    "family_id": "family:o10011",
+    "base_outfit_id": "o10011",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1001102",
+    "family_id": "family:o10011",
+    "base_outfit_id": "o10011",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10016",
+    "family_id": "family:o10016",
+    "base_outfit_id": "o10016",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10018",
+    "family_id": "family:o10018",
+    "base_outfit_id": "o10018",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10019",
+    "family_id": "family:o10019",
+    "base_outfit_id": "o10019",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10020",
+    "family_id": "family:o10020",
+    "base_outfit_id": "o10020",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1002001",
+    "family_id": "family:o10020",
+    "base_outfit_id": "o10020",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1002002",
+    "family_id": "family:o10020",
+    "base_outfit_id": "o10020",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10021",
+    "family_id": "family:o10021",
+    "base_outfit_id": "o10021",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10022",
+    "family_id": "family:o10022",
+    "base_outfit_id": "o10022",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10028",
+    "family_id": "family:o10028",
+    "base_outfit_id": "o10028",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1002801",
+    "family_id": "family:o10028",
+    "base_outfit_id": "o10028",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1002802",
+    "family_id": "family:o10028",
+    "base_outfit_id": "o10028",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10029",
+    "family_id": "family:o10029",
+    "base_outfit_id": "o10029",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1002901",
+    "family_id": "family:o10029",
+    "base_outfit_id": "o10029",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1002902",
+    "family_id": "family:o10029",
+    "base_outfit_id": "o10029",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10031",
+    "family_id": "family:o10031",
+    "base_outfit_id": "o10031",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10033",
+    "family_id": "family:o10033",
+    "base_outfit_id": "o10033",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1003301",
+    "family_id": "family:o10033",
+    "base_outfit_id": "o10033",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1003302",
+    "family_id": "family:o10033",
+    "base_outfit_id": "o10033",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1003303",
+    "family_id": "family:o10033",
+    "base_outfit_id": "o10033",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1003304",
+    "family_id": "family:o10033",
+    "base_outfit_id": "o10033",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10036",
+    "family_id": "family:o10036",
+    "base_outfit_id": "o10036",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1003601",
+    "family_id": "family:o10036",
+    "base_outfit_id": "o10036",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1003602",
+    "family_id": "family:o10036",
+    "base_outfit_id": "o10036",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10038",
+    "family_id": "family:o10038",
+    "base_outfit_id": "o10038",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10043",
+    "family_id": "family:o10043",
+    "base_outfit_id": "o10043",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10045",
+    "family_id": "family:o10045",
+    "base_outfit_id": "o10045",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1004501",
+    "family_id": "family:o10045",
+    "base_outfit_id": "o10045",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1004502",
+    "family_id": "family:o10045",
+    "base_outfit_id": "o10045",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10048",
+    "family_id": "family:o10048",
+    "base_outfit_id": "o10048",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1004801",
+    "family_id": "family:o10048",
+    "base_outfit_id": "o10048",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1004802",
+    "family_id": "family:o10048",
+    "base_outfit_id": "o10048",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10049",
+    "family_id": "family:o10049",
+    "base_outfit_id": "o10049",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1004901",
+    "family_id": "family:o10049",
+    "base_outfit_id": "o10049",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1004902",
+    "family_id": "family:o10049",
+    "base_outfit_id": "o10049",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10051",
+    "family_id": "family:o10051",
+    "base_outfit_id": "o10051",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1005101",
+    "family_id": "family:o10051",
+    "base_outfit_id": "o10051",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1005102",
+    "family_id": "family:o10051",
+    "base_outfit_id": "o10051",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10052",
+    "family_id": "family:o10052",
+    "base_outfit_id": "o10052",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1005201",
+    "family_id": "family:o10052",
+    "base_outfit_id": "o10052",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1005202",
+    "family_id": "family:o10052",
+    "base_outfit_id": "o10052",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10054",
+    "family_id": "family:o10054",
+    "base_outfit_id": "o10054",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10056",
+    "family_id": "family:o10056",
+    "base_outfit_id": "o10056",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1005601",
+    "family_id": "family:o10056",
+    "base_outfit_id": "o10056",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1005602",
+    "family_id": "family:o10056",
+    "base_outfit_id": "o10056",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10058",
+    "family_id": "family:o10058",
+    "base_outfit_id": "o10058",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1005801",
+    "family_id": "family:o10058",
+    "base_outfit_id": "o10058",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1005802",
+    "family_id": "family:o10058",
+    "base_outfit_id": "o10058",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10059",
+    "family_id": "family:o10059",
+    "base_outfit_id": "o10059",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1005901",
+    "family_id": "family:o10059",
+    "base_outfit_id": "o10059",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1005902",
+    "family_id": "family:o10059",
+    "base_outfit_id": "o10059",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10060",
+    "family_id": "family:o10060",
+    "base_outfit_id": "o10060",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1006001",
+    "family_id": "family:o10060",
+    "base_outfit_id": "o10060",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1006002",
+    "family_id": "family:o10060",
+    "base_outfit_id": "o10060",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10061",
+    "family_id": "family:o10061",
+    "base_outfit_id": "o10061",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10062",
+    "family_id": "family:o10062",
+    "base_outfit_id": "o10062",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1006201",
+    "family_id": "family:o10062",
+    "base_outfit_id": "o10062",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1006202",
+    "family_id": "family:o10062",
+    "base_outfit_id": "o10062",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1006203",
+    "family_id": "family:o10062",
+    "base_outfit_id": "o10062",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1006204",
+    "family_id": "family:o10062",
+    "base_outfit_id": "o10062",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10063",
+    "family_id": "family:o10063",
+    "base_outfit_id": "o10063",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10064",
+    "family_id": "family:o10064",
+    "base_outfit_id": "o10064",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10066",
+    "family_id": "family:o10066",
+    "base_outfit_id": "o10066",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10067",
+    "family_id": "family:o10067",
+    "base_outfit_id": "o10067",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1006701",
+    "family_id": "family:o10067",
+    "base_outfit_id": "o10067",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1006702",
+    "family_id": "family:o10067",
+    "base_outfit_id": "o10067",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10076",
+    "family_id": "family:o10076",
+    "base_outfit_id": "o10076",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10077",
+    "family_id": "family:o10077",
+    "base_outfit_id": "o10077",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10081",
+    "family_id": "family:o10081",
+    "base_outfit_id": "o10081",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10082",
+    "family_id": "family:o10082",
+    "base_outfit_id": "o10082",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1008201",
+    "family_id": "family:o10082",
+    "base_outfit_id": "o10082",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1008202",
+    "family_id": "family:o10082",
+    "base_outfit_id": "o10082",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10083",
+    "family_id": "family:o10083",
+    "base_outfit_id": "o10083",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1008301",
+    "family_id": "family:o10083",
+    "base_outfit_id": "o10083",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1008302",
+    "family_id": "family:o10083",
+    "base_outfit_id": "o10083",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10084",
+    "family_id": "family:o10084",
+    "base_outfit_id": "o10084",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1008401",
+    "family_id": "family:o10084",
+    "base_outfit_id": "o10084",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1008402",
+    "family_id": "family:o10084",
+    "base_outfit_id": "o10084",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10085",
+    "family_id": "family:o10085",
+    "base_outfit_id": "o10085",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1008501",
+    "family_id": "family:o10085",
+    "base_outfit_id": "o10085",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1008502",
+    "family_id": "family:o10085",
+    "base_outfit_id": "o10085",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10086",
+    "family_id": "family:o10086",
+    "base_outfit_id": "o10086",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10088",
+    "family_id": "family:o10088",
+    "base_outfit_id": "o10088",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10090",
+    "family_id": "family:o10090",
+    "base_outfit_id": "o10090",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009001",
+    "family_id": "family:o10090",
+    "base_outfit_id": "o10090",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009002",
+    "family_id": "family:o10090",
+    "base_outfit_id": "o10090",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10091",
+    "family_id": "family:o10091",
+    "base_outfit_id": "o10091",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10092",
+    "family_id": "family:o10092",
+    "base_outfit_id": "o10092",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009201",
+    "family_id": "family:o10092",
+    "base_outfit_id": "o10092",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009202",
+    "family_id": "family:o10092",
+    "base_outfit_id": "o10092",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10093",
+    "family_id": "family:o10093",
+    "base_outfit_id": "o10093",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009301",
+    "family_id": "family:o10093",
+    "base_outfit_id": "o10093",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009302",
+    "family_id": "family:o10093",
+    "base_outfit_id": "o10093",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1009303",
+    "family_id": "family:o10093",
+    "base_outfit_id": "o10093",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1009304",
+    "family_id": "family:o10093",
+    "base_outfit_id": "o10093",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10094",
+    "family_id": "family:o10094",
+    "base_outfit_id": "o10094",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009401",
+    "family_id": "family:o10094",
+    "base_outfit_id": "o10094",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009402",
+    "family_id": "family:o10094",
+    "base_outfit_id": "o10094",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10095",
+    "family_id": "family:o10095",
+    "base_outfit_id": "o10095",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009501",
+    "family_id": "family:o10095",
+    "base_outfit_id": "o10095",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009502",
+    "family_id": "family:o10095",
+    "base_outfit_id": "o10095",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10096",
+    "family_id": "family:o10096",
+    "base_outfit_id": "o10096",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009601",
+    "family_id": "family:o10096",
+    "base_outfit_id": "o10096",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009602",
+    "family_id": "family:o10096",
+    "base_outfit_id": "o10096",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10097",
+    "family_id": "family:o10097",
+    "base_outfit_id": "o10097",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1009701",
+    "family_id": "family:o10097",
+    "base_outfit_id": "o10097",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1009702",
+    "family_id": "family:o10097",
+    "base_outfit_id": "o10097",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10101",
+    "family_id": "family:o10101",
+    "base_outfit_id": "o10101",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1010101",
+    "family_id": "family:o10101",
+    "base_outfit_id": "o10101",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1010102",
+    "family_id": "family:o10101",
+    "base_outfit_id": "o10101",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10104",
+    "family_id": "family:o10104",
+    "base_outfit_id": "o10104",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10105",
+    "family_id": "family:o10105",
+    "base_outfit_id": "o10105",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1010501",
+    "family_id": "family:o10105",
+    "base_outfit_id": "o10105",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1010502",
+    "family_id": "family:o10105",
+    "base_outfit_id": "o10105",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10106",
+    "family_id": "family:o10106",
+    "base_outfit_id": "o10106",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10107",
+    "family_id": "family:o10107",
+    "base_outfit_id": "o10107",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1010701",
+    "family_id": "family:o10107",
+    "base_outfit_id": "o10107",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1010702",
+    "family_id": "family:o10107",
+    "base_outfit_id": "o10107",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10108",
+    "family_id": "family:o10108",
+    "base_outfit_id": "o10108",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10109",
+    "family_id": "family:o10109",
+    "base_outfit_id": "o10109",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1010901",
+    "family_id": "family:o10109",
+    "base_outfit_id": "o10109",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1010902",
+    "family_id": "family:o10109",
+    "base_outfit_id": "o10109",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10111",
+    "family_id": "family:o10111",
+    "base_outfit_id": "o10111",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10112",
+    "family_id": "family:o10112",
+    "base_outfit_id": "o10112",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10113",
+    "family_id": "family:o10113",
+    "base_outfit_id": "o10113",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1011301",
+    "family_id": "family:o10113",
+    "base_outfit_id": "o10113",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1011302",
+    "family_id": "family:o10113",
+    "base_outfit_id": "o10113",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10114",
+    "family_id": "family:o10114",
+    "base_outfit_id": "o10114",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1011401",
+    "family_id": "family:o10114",
+    "base_outfit_id": "o10114",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1011402",
+    "family_id": "family:o10114",
+    "base_outfit_id": "o10114",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10117",
+    "family_id": "family:o10117",
+    "base_outfit_id": "o10117",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1011701",
+    "family_id": "family:o10117",
+    "base_outfit_id": "o10117",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1011702",
+    "family_id": "family:o10117",
+    "base_outfit_id": "o10117",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1011703",
+    "family_id": "family:o10117",
+    "base_outfit_id": "o10117",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1011704",
+    "family_id": "family:o10117",
+    "base_outfit_id": "o10117",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10119",
+    "family_id": "family:o10119",
+    "base_outfit_id": "o10119",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10120",
+    "family_id": "family:o10120",
+    "base_outfit_id": "o10120",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10121",
+    "family_id": "family:o10121",
+    "base_outfit_id": "o10121",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1012101",
+    "family_id": "family:o10121",
+    "base_outfit_id": "o10121",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1012102",
+    "family_id": "family:o10121",
+    "base_outfit_id": "o10121",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10123",
+    "family_id": "family:o10123",
+    "base_outfit_id": "o10123",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1012301",
+    "family_id": "family:o10123",
+    "base_outfit_id": "o10123",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1012302",
+    "family_id": "family:o10123",
+    "base_outfit_id": "o10123",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10124",
+    "family_id": "family:o10124",
+    "base_outfit_id": "o10124",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1012401",
+    "family_id": "family:o10124",
+    "base_outfit_id": "o10124",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1012402",
+    "family_id": "family:o10124",
+    "base_outfit_id": "o10124",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10125",
+    "family_id": "family:o10125",
+    "base_outfit_id": "o10125",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10126",
+    "family_id": "family:o10126",
+    "base_outfit_id": "o10126",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1012601",
+    "family_id": "family:o10126",
+    "base_outfit_id": "o10126",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1012602",
+    "family_id": "family:o10126",
+    "base_outfit_id": "o10126",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1012603",
+    "family_id": "family:o10126",
+    "base_outfit_id": "o10126",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1012604",
+    "family_id": "family:o10126",
+    "base_outfit_id": "o10126",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10127",
+    "family_id": "family:o10127",
+    "base_outfit_id": "o10127",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10128",
+    "family_id": "family:o10128",
+    "base_outfit_id": "o10128",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1012801",
+    "family_id": "family:o10128",
+    "base_outfit_id": "o10128",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1012802",
+    "family_id": "family:o10128",
+    "base_outfit_id": "o10128",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1012803",
+    "family_id": "family:o10128",
+    "base_outfit_id": "o10128",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1012804",
+    "family_id": "family:o10128",
+    "base_outfit_id": "o10128",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10129",
+    "family_id": "family:o10129",
+    "base_outfit_id": "o10129",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1012901",
+    "family_id": "family:o10129",
+    "base_outfit_id": "o10129",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1012902",
+    "family_id": "family:o10129",
+    "base_outfit_id": "o10129",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1012903",
+    "family_id": "family:o10129",
+    "base_outfit_id": "o10129",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1012904",
+    "family_id": "family:o10129",
+    "base_outfit_id": "o10129",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10130",
+    "family_id": "family:o10130",
+    "base_outfit_id": "o10130",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1013001",
+    "family_id": "family:o10130",
+    "base_outfit_id": "o10130",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1013002",
+    "family_id": "family:o10130",
+    "base_outfit_id": "o10130",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10131",
+    "family_id": "family:o10131",
+    "base_outfit_id": "o10131",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10132",
+    "family_id": "family:o10132",
+    "base_outfit_id": "o10132",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1013201",
+    "family_id": "family:o10132",
+    "base_outfit_id": "o10132",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1013202",
+    "family_id": "family:o10132",
+    "base_outfit_id": "o10132",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10133",
+    "family_id": "family:o10133",
+    "base_outfit_id": "o10133",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10137",
+    "family_id": "family:o10137",
+    "base_outfit_id": "o10137",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1013701",
+    "family_id": "family:o10137",
+    "base_outfit_id": "o10137",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1013702",
+    "family_id": "family:o10137",
+    "base_outfit_id": "o10137",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10138",
+    "family_id": "family:o10138",
+    "base_outfit_id": "o10138",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10139",
+    "family_id": "family:o10139",
+    "base_outfit_id": "o10139",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10140",
+    "family_id": "family:o10140",
+    "base_outfit_id": "o10140",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10142",
+    "family_id": "family:o10142",
+    "base_outfit_id": "o10142",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1014201",
+    "family_id": "family:o10142",
+    "base_outfit_id": "o10142",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1014202",
+    "family_id": "family:o10142",
+    "base_outfit_id": "o10142",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10143",
+    "family_id": "family:o10143",
+    "base_outfit_id": "o10143",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1014301",
+    "family_id": "family:o10143",
+    "base_outfit_id": "o10143",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1014302",
+    "family_id": "family:o10143",
+    "base_outfit_id": "o10143",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10144",
+    "family_id": "family:o10144",
+    "base_outfit_id": "o10144",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10145",
+    "family_id": "family:o10145",
+    "base_outfit_id": "o10145",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1014501",
+    "family_id": "family:o10145",
+    "base_outfit_id": "o10145",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1014502",
+    "family_id": "family:o10145",
+    "base_outfit_id": "o10145",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1014503",
+    "family_id": "family:o10145",
+    "base_outfit_id": "o10145",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1014504",
+    "family_id": "family:o10145",
+    "base_outfit_id": "o10145",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10146",
+    "family_id": "family:o10146",
+    "base_outfit_id": "o10146",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1014601",
+    "family_id": "family:o10146",
+    "base_outfit_id": "o10146",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1014602",
+    "family_id": "family:o10146",
+    "base_outfit_id": "o10146",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10147",
+    "family_id": "family:o10147",
+    "base_outfit_id": "o10147",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10148",
+    "family_id": "family:o10148",
+    "base_outfit_id": "o10148",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10150",
+    "family_id": "family:o10150",
+    "base_outfit_id": "o10150",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10151",
+    "family_id": "family:o10151",
+    "base_outfit_id": "o10151",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1015101",
+    "family_id": "family:o10151",
+    "base_outfit_id": "o10151",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o10153",
+    "family_id": "family:o10153",
+    "base_outfit_id": "o10153",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1015301",
+    "family_id": "family:o10153",
+    "base_outfit_id": "o10153",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1015302",
+    "family_id": "family:o10153",
+    "base_outfit_id": "o10153",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10154",
+    "family_id": "family:o10154",
+    "base_outfit_id": "o10154",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1015401",
+    "family_id": "family:o10154",
+    "base_outfit_id": "o10154",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1015402",
+    "family_id": "family:o10154",
+    "base_outfit_id": "o10154",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1015403",
+    "family_id": "family:o10154",
+    "base_outfit_id": "o10154",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1015404",
+    "family_id": "family:o10154",
+    "base_outfit_id": "o10154",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10155",
+    "family_id": "family:o10155",
+    "base_outfit_id": "o10155",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10156",
+    "family_id": "family:o10156",
+    "base_outfit_id": "o10156",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10157",
+    "family_id": "family:o10157",
+    "base_outfit_id": "o10157",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10158",
+    "family_id": "family:o10158",
+    "base_outfit_id": "o10158",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10159",
+    "family_id": "family:o10159",
+    "base_outfit_id": "o10159",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10160",
+    "family_id": "family:o10160",
+    "base_outfit_id": "o10160",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016001",
+    "family_id": "family:o10160",
+    "base_outfit_id": "o10160",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016002",
+    "family_id": "family:o10160",
+    "base_outfit_id": "o10160",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10161",
+    "family_id": "family:o10161",
+    "base_outfit_id": "o10161",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016101",
+    "family_id": "family:o10161",
+    "base_outfit_id": "o10161",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016102",
+    "family_id": "family:o10161",
+    "base_outfit_id": "o10161",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1016103",
+    "family_id": "family:o10161",
+    "base_outfit_id": "o10161",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1016104",
+    "family_id": "family:o10161",
+    "base_outfit_id": "o10161",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10162",
+    "family_id": "family:o10162",
+    "base_outfit_id": "o10162",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016201",
+    "family_id": "family:o10162",
+    "base_outfit_id": "o10162",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016202",
+    "family_id": "family:o10162",
+    "base_outfit_id": "o10162",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1016203",
+    "family_id": "family:o10162",
+    "base_outfit_id": "o10162",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1016204",
+    "family_id": "family:o10162",
+    "base_outfit_id": "o10162",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10163",
+    "family_id": "family:o10163",
+    "base_outfit_id": "o10163",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016301",
+    "family_id": "family:o10163",
+    "base_outfit_id": "o10163",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016302",
+    "family_id": "family:o10163",
+    "base_outfit_id": "o10163",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10164",
+    "family_id": "family:o10164",
+    "base_outfit_id": "o10164",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016401",
+    "family_id": "family:o10164",
+    "base_outfit_id": "o10164",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016402",
+    "family_id": "family:o10164",
+    "base_outfit_id": "o10164",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10165",
+    "family_id": "family:o10165",
+    "base_outfit_id": "o10165",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016501",
+    "family_id": "family:o10165",
+    "base_outfit_id": "o10165",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016502",
+    "family_id": "family:o10165",
+    "base_outfit_id": "o10165",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1016503",
+    "family_id": "family:o10165",
+    "base_outfit_id": "o10165",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1016504",
+    "family_id": "family:o10165",
+    "base_outfit_id": "o10165",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10166",
+    "family_id": "family:o10166",
+    "base_outfit_id": "o10166",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016601",
+    "family_id": "family:o10166",
+    "base_outfit_id": "o10166",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016602",
+    "family_id": "family:o10166",
+    "base_outfit_id": "o10166",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10167",
+    "family_id": "family:o10167",
+    "base_outfit_id": "o10167",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1016701",
+    "family_id": "family:o10167",
+    "base_outfit_id": "o10167",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1016702",
+    "family_id": "family:o10167",
+    "base_outfit_id": "o10167",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10168",
+    "family_id": "family:o10168",
+    "base_outfit_id": "o10168",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10169",
+    "family_id": "family:o10169",
+    "base_outfit_id": "o10169",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10171",
+    "family_id": "family:o10171",
+    "base_outfit_id": "o10171",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10173",
+    "family_id": "family:o10173",
+    "base_outfit_id": "o10173",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017301",
+    "family_id": "family:o10173",
+    "base_outfit_id": "o10173",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017302",
+    "family_id": "family:o10173",
+    "base_outfit_id": "o10173",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10174",
+    "family_id": "family:o10174",
+    "base_outfit_id": "o10174",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017401",
+    "family_id": "family:o10174",
+    "base_outfit_id": "o10174",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017402",
+    "family_id": "family:o10174",
+    "base_outfit_id": "o10174",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10175",
+    "family_id": "family:o10175",
+    "base_outfit_id": "o10175",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017501",
+    "family_id": "family:o10175",
+    "base_outfit_id": "o10175",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017502",
+    "family_id": "family:o10175",
+    "base_outfit_id": "o10175",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10176",
+    "family_id": "family:o10176",
+    "base_outfit_id": "o10176",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017601",
+    "family_id": "family:o10176",
+    "base_outfit_id": "o10176",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017602",
+    "family_id": "family:o10176",
+    "base_outfit_id": "o10176",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10177",
+    "family_id": "family:o10177",
+    "base_outfit_id": "o10177",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017701",
+    "family_id": "family:o10177",
+    "base_outfit_id": "o10177",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017702",
+    "family_id": "family:o10177",
+    "base_outfit_id": "o10177",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10178",
+    "family_id": "family:o10178",
+    "base_outfit_id": "o10178",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017801",
+    "family_id": "family:o10178",
+    "base_outfit_id": "o10178",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017802",
+    "family_id": "family:o10178",
+    "base_outfit_id": "o10178",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1017803",
+    "family_id": "family:o10178",
+    "base_outfit_id": "o10178",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1017804",
+    "family_id": "family:o10178",
+    "base_outfit_id": "o10178",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10179",
+    "family_id": "family:o10179",
+    "base_outfit_id": "o10179",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1017901",
+    "family_id": "family:o10179",
+    "base_outfit_id": "o10179",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1017902",
+    "family_id": "family:o10179",
+    "base_outfit_id": "o10179",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10180",
+    "family_id": "family:o10180",
+    "base_outfit_id": "o10180",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10181",
+    "family_id": "family:o10181",
+    "base_outfit_id": "o10181",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1018101",
+    "family_id": "family:o10181",
+    "base_outfit_id": "o10181",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1018102",
+    "family_id": "family:o10181",
+    "base_outfit_id": "o10181",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10182",
+    "family_id": "family:o10182",
+    "base_outfit_id": "o10182",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1018201",
+    "family_id": "family:o10182",
+    "base_outfit_id": "o10182",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1018202",
+    "family_id": "family:o10182",
+    "base_outfit_id": "o10182",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10183",
+    "family_id": "family:o10183",
+    "base_outfit_id": "o10183",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1018301",
+    "family_id": "family:o10183",
+    "base_outfit_id": "o10183",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1018302",
+    "family_id": "family:o10183",
+    "base_outfit_id": "o10183",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1018303",
+    "family_id": "family:o10183",
+    "base_outfit_id": "o10183",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1018304",
+    "family_id": "family:o10183",
+    "base_outfit_id": "o10183",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10184",
+    "family_id": "family:o10184",
+    "base_outfit_id": "o10184",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10185",
+    "family_id": "family:o10185",
+    "base_outfit_id": "o10185",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10186",
+    "family_id": "family:o10186",
+    "base_outfit_id": "o10186",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1018601",
+    "family_id": "family:o10186",
+    "base_outfit_id": "o10186",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1018602",
+    "family_id": "family:o10186",
+    "base_outfit_id": "o10186",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10187",
+    "family_id": "family:o10187",
+    "base_outfit_id": "o10187",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10188",
+    "family_id": "family:o10188",
+    "base_outfit_id": "o10188",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10189",
+    "family_id": "family:o10189",
+    "base_outfit_id": "o10189",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10190",
+    "family_id": "family:o10190",
+    "base_outfit_id": "o10190",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10192",
+    "family_id": "family:o10192",
+    "base_outfit_id": "o10192",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1019201",
+    "family_id": "family:o10192",
+    "base_outfit_id": "o10192",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1019202",
+    "family_id": "family:o10192",
+    "base_outfit_id": "o10192",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10194",
+    "family_id": "family:o10194",
+    "base_outfit_id": "o10194",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10195",
+    "family_id": "family:o10195",
+    "base_outfit_id": "o10195",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10196",
+    "family_id": "family:o10196",
+    "base_outfit_id": "o10196",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10197",
+    "family_id": "family:o10197",
+    "base_outfit_id": "o10197",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1019701",
+    "family_id": "family:o10197",
+    "base_outfit_id": "o10197",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1019702",
+    "family_id": "family:o10197",
+    "base_outfit_id": "o10197",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10198",
+    "family_id": "family:o10198",
+    "base_outfit_id": "o10198",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1019801",
+    "family_id": "family:o10198",
+    "base_outfit_id": "o10198",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1019802",
+    "family_id": "family:o10198",
+    "base_outfit_id": "o10198",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10199",
+    "family_id": "family:o10199",
+    "base_outfit_id": "o10199",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10201",
+    "family_id": "family:o10201",
+    "base_outfit_id": "o10201",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020101",
+    "family_id": "family:o10201",
+    "base_outfit_id": "o10201",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020102",
+    "family_id": "family:o10201",
+    "base_outfit_id": "o10201",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10202",
+    "family_id": "family:o10202",
+    "base_outfit_id": "o10202",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10203",
+    "family_id": "family:o10203",
+    "base_outfit_id": "o10203",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020301",
+    "family_id": "family:o10203",
+    "base_outfit_id": "o10203",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020302",
+    "family_id": "family:o10203",
+    "base_outfit_id": "o10203",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10204",
+    "family_id": "family:o10204",
+    "base_outfit_id": "o10204",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020401",
+    "family_id": "family:o10204",
+    "base_outfit_id": "o10204",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020402",
+    "family_id": "family:o10204",
+    "base_outfit_id": "o10204",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10205",
+    "family_id": "family:o10205",
+    "base_outfit_id": "o10205",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020501",
+    "family_id": "family:o10205",
+    "base_outfit_id": "o10205",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020502",
+    "family_id": "family:o10205",
+    "base_outfit_id": "o10205",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10206",
+    "family_id": "family:o10206",
+    "base_outfit_id": "o10206",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020601",
+    "family_id": "family:o10206",
+    "base_outfit_id": "o10206",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020602",
+    "family_id": "family:o10206",
+    "base_outfit_id": "o10206",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10207",
+    "family_id": "family:o10207",
+    "base_outfit_id": "o10207",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020701",
+    "family_id": "family:o10207",
+    "base_outfit_id": "o10207",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020702",
+    "family_id": "family:o10207",
+    "base_outfit_id": "o10207",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10208",
+    "family_id": "family:o10208",
+    "base_outfit_id": "o10208",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1020801",
+    "family_id": "family:o10208",
+    "base_outfit_id": "o10208",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1020802",
+    "family_id": "family:o10208",
+    "base_outfit_id": "o10208",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10209",
+    "family_id": "family:o10209",
+    "base_outfit_id": "o10209",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10211",
+    "family_id": "family:o10211",
+    "base_outfit_id": "o10211",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10212",
+    "family_id": "family:o10212",
+    "base_outfit_id": "o10212",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10213",
+    "family_id": "family:o10213",
+    "base_outfit_id": "o10213",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021301",
+    "family_id": "family:o10213",
+    "base_outfit_id": "o10213",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021302",
+    "family_id": "family:o10213",
+    "base_outfit_id": "o10213",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10214",
+    "family_id": "family:o10214",
+    "base_outfit_id": "o10214",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021401",
+    "family_id": "family:o10214",
+    "base_outfit_id": "o10214",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021402",
+    "family_id": "family:o10214",
+    "base_outfit_id": "o10214",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10215",
+    "family_id": "family:o10215",
+    "base_outfit_id": "o10215",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021501",
+    "family_id": "family:o10215",
+    "base_outfit_id": "o10215",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021502",
+    "family_id": "family:o10215",
+    "base_outfit_id": "o10215",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10216",
+    "family_id": "family:o10216",
+    "base_outfit_id": "o10216",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021601",
+    "family_id": "family:o10216",
+    "base_outfit_id": "o10216",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021602",
+    "family_id": "family:o10216",
+    "base_outfit_id": "o10216",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10217",
+    "family_id": "family:o10217",
+    "base_outfit_id": "o10217",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021701",
+    "family_id": "family:o10217",
+    "base_outfit_id": "o10217",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021702",
+    "family_id": "family:o10217",
+    "base_outfit_id": "o10217",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10218",
+    "family_id": "family:o10218",
+    "base_outfit_id": "o10218",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021801",
+    "family_id": "family:o10218",
+    "base_outfit_id": "o10218",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021802",
+    "family_id": "family:o10218",
+    "base_outfit_id": "o10218",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10219",
+    "family_id": "family:o10219",
+    "base_outfit_id": "o10219",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1021901",
+    "family_id": "family:o10219",
+    "base_outfit_id": "o10219",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1021902",
+    "family_id": "family:o10219",
+    "base_outfit_id": "o10219",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10220",
+    "family_id": "family:o10220",
+    "base_outfit_id": "o10220",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022001",
+    "family_id": "family:o10220",
+    "base_outfit_id": "o10220",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022002",
+    "family_id": "family:o10220",
+    "base_outfit_id": "o10220",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10221",
+    "family_id": "family:o10221",
+    "base_outfit_id": "o10221",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10222",
+    "family_id": "family:o10222",
+    "base_outfit_id": "o10222",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022201",
+    "family_id": "family:o10222",
+    "base_outfit_id": "o10222",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022202",
+    "family_id": "family:o10222",
+    "base_outfit_id": "o10222",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10223",
+    "family_id": "family:o10223",
+    "base_outfit_id": "o10223",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022301",
+    "family_id": "family:o10223",
+    "base_outfit_id": "o10223",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022302",
+    "family_id": "family:o10223",
+    "base_outfit_id": "o10223",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1022303",
+    "family_id": "family:o10223",
+    "base_outfit_id": "o10223",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1022304",
+    "family_id": "family:o10223",
+    "base_outfit_id": "o10223",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10224",
+    "family_id": "family:o10224",
+    "base_outfit_id": "o10224",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022401",
+    "family_id": "family:o10224",
+    "base_outfit_id": "o10224",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022402",
+    "family_id": "family:o10224",
+    "base_outfit_id": "o10224",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10225",
+    "family_id": "family:o10225",
+    "base_outfit_id": "o10225",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10226",
+    "family_id": "family:o10226",
+    "base_outfit_id": "o10226",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022601",
+    "family_id": "family:o10226",
+    "base_outfit_id": "o10226",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022602",
+    "family_id": "family:o10226",
+    "base_outfit_id": "o10226",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10227",
+    "family_id": "family:o10227",
+    "base_outfit_id": "o10227",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022701",
+    "family_id": "family:o10227",
+    "base_outfit_id": "o10227",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022702",
+    "family_id": "family:o10227",
+    "base_outfit_id": "o10227",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10228",
+    "family_id": "family:o10228",
+    "base_outfit_id": "o10228",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1022801",
+    "family_id": "family:o10228",
+    "base_outfit_id": "o10228",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1022802",
+    "family_id": "family:o10228",
+    "base_outfit_id": "o10228",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10229",
+    "family_id": "family:o10229",
+    "base_outfit_id": "o10229",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10230",
+    "family_id": "family:o10230",
+    "base_outfit_id": "o10230",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10231",
+    "family_id": "family:o10231",
+    "base_outfit_id": "o10231",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1023101",
+    "family_id": "family:o10231",
+    "base_outfit_id": "o10231",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1023102",
+    "family_id": "family:o10231",
+    "base_outfit_id": "o10231",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1023103",
+    "family_id": "family:o10231",
+    "base_outfit_id": "o10231",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1023104",
+    "family_id": "family:o10231",
+    "base_outfit_id": "o10231",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10232",
+    "family_id": "family:o10232",
+    "base_outfit_id": "o10232",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1023201",
+    "family_id": "family:o10232",
+    "base_outfit_id": "o10232",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1023202",
+    "family_id": "family:o10232",
+    "base_outfit_id": "o10232",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10233",
+    "family_id": "family:o10233",
+    "base_outfit_id": "o10233",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10234",
+    "family_id": "family:o10234",
+    "base_outfit_id": "o10234",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1023401",
+    "family_id": "family:o10234",
+    "base_outfit_id": "o10234",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1023402",
+    "family_id": "family:o10234",
+    "base_outfit_id": "o10234",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10235",
+    "family_id": "family:o10235",
+    "base_outfit_id": "o10235",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1023501",
+    "family_id": "family:o10235",
+    "base_outfit_id": "o10235",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1023502",
+    "family_id": "family:o10235",
+    "base_outfit_id": "o10235",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10236",
+    "family_id": "family:o10236",
+    "base_outfit_id": "o10236",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10238",
+    "family_id": "family:o10238",
+    "base_outfit_id": "o10238",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1023801",
+    "family_id": "family:o10238",
+    "base_outfit_id": "o10238",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1023802",
+    "family_id": "family:o10238",
+    "base_outfit_id": "o10238",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10239",
+    "family_id": "family:o10239",
+    "base_outfit_id": "o10239",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1023901",
+    "family_id": "family:o10239",
+    "base_outfit_id": "o10239",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1023902",
+    "family_id": "family:o10239",
+    "base_outfit_id": "o10239",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1023903",
+    "family_id": "family:o10239",
+    "base_outfit_id": "o10239",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1023904",
+    "family_id": "family:o10239",
+    "base_outfit_id": "o10239",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10241",
+    "family_id": "family:o10241",
+    "base_outfit_id": "o10241",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1024101",
+    "family_id": "family:o10241",
+    "base_outfit_id": "o10241",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1024102",
+    "family_id": "family:o10241",
+    "base_outfit_id": "o10241",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10242",
+    "family_id": "family:o10242",
+    "base_outfit_id": "o10242",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10243",
+    "family_id": "family:o10243",
+    "base_outfit_id": "o10243",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1024301",
+    "family_id": "family:o10243",
+    "base_outfit_id": "o10243",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1024302",
+    "family_id": "family:o10243",
+    "base_outfit_id": "o10243",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10244",
+    "family_id": "family:o10244",
+    "base_outfit_id": "o10244",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1024401",
+    "family_id": "family:o10244",
+    "base_outfit_id": "o10244",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1024402",
+    "family_id": "family:o10244",
+    "base_outfit_id": "o10244",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10245",
+    "family_id": "family:o10245",
+    "base_outfit_id": "o10245",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1024501",
+    "family_id": "family:o10245",
+    "base_outfit_id": "o10245",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1024502",
+    "family_id": "family:o10245",
+    "base_outfit_id": "o10245",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10248",
+    "family_id": "family:o10248",
+    "base_outfit_id": "o10248",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10249",
+    "family_id": "family:o10249",
+    "base_outfit_id": "o10249",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1024901",
+    "family_id": "family:o10249",
+    "base_outfit_id": "o10249",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1024902",
+    "family_id": "family:o10249",
+    "base_outfit_id": "o10249",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10250",
+    "family_id": "family:o10250",
+    "base_outfit_id": "o10250",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1025001",
+    "family_id": "family:o10250",
+    "base_outfit_id": "o10250",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1025002",
+    "family_id": "family:o10250",
+    "base_outfit_id": "o10250",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1025003",
+    "family_id": "family:o10250",
+    "base_outfit_id": "o10250",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1025004",
+    "family_id": "family:o10250",
+    "base_outfit_id": "o10250",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10251",
+    "family_id": "family:o10251",
+    "base_outfit_id": "o10251",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1025101",
+    "family_id": "family:o10251",
+    "base_outfit_id": "o10251",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1025102",
+    "family_id": "family:o10251",
+    "base_outfit_id": "o10251",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10252",
+    "family_id": "family:o10252",
+    "base_outfit_id": "o10252",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1025201",
+    "family_id": "family:o10252",
+    "base_outfit_id": "o10252",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1025202",
+    "family_id": "family:o10252",
+    "base_outfit_id": "o10252",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10254",
+    "family_id": "family:o10254",
+    "base_outfit_id": "o10254",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10255",
+    "family_id": "family:o10255",
+    "base_outfit_id": "o10255",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10256",
+    "family_id": "family:o10256",
+    "base_outfit_id": "o10256",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1025601",
+    "family_id": "family:o10256",
+    "base_outfit_id": "o10256",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1025602",
+    "family_id": "family:o10256",
+    "base_outfit_id": "o10256",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10257",
+    "family_id": "family:o10257",
+    "base_outfit_id": "o10257",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10258",
+    "family_id": "family:o10258",
+    "base_outfit_id": "o10258",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1025801",
+    "family_id": "family:o10258",
+    "base_outfit_id": "o10258",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1025802",
+    "family_id": "family:o10258",
+    "base_outfit_id": "o10258",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10259",
+    "family_id": "family:o10259",
+    "base_outfit_id": "o10259",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1025901",
+    "family_id": "family:o10259",
+    "base_outfit_id": "o10259",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1025902",
+    "family_id": "family:o10259",
+    "base_outfit_id": "o10259",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10261",
+    "family_id": "family:o10261",
+    "base_outfit_id": "o10261",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1026101",
+    "family_id": "family:o10261",
+    "base_outfit_id": "o10261",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1026102",
+    "family_id": "family:o10261",
+    "base_outfit_id": "o10261",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10263",
+    "family_id": "family:o10263",
+    "base_outfit_id": "o10263",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1026301",
+    "family_id": "family:o10263",
+    "base_outfit_id": "o10263",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1026302",
+    "family_id": "family:o10263",
+    "base_outfit_id": "o10263",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1026303",
+    "family_id": "family:o10263",
+    "base_outfit_id": "o10263",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1026304",
+    "family_id": "family:o10263",
+    "base_outfit_id": "o10263",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10264",
+    "family_id": "family:o10264",
+    "base_outfit_id": "o10264",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1026401",
+    "family_id": "family:o10264",
+    "base_outfit_id": "o10264",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1026402",
+    "family_id": "family:o10264",
+    "base_outfit_id": "o10264",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10265",
+    "family_id": "family:o10265",
+    "base_outfit_id": "o10265",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1026501",
+    "family_id": "family:o10265",
+    "base_outfit_id": "o10265",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1026502",
+    "family_id": "family:o10265",
+    "base_outfit_id": "o10265",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1026503",
+    "family_id": "family:o10265",
+    "base_outfit_id": "o10265",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1026504",
+    "family_id": "family:o10265",
+    "base_outfit_id": "o10265",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10267",
+    "family_id": "family:o10267",
+    "base_outfit_id": "o10267",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10268",
+    "family_id": "family:o10268",
+    "base_outfit_id": "o10268",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1026801",
+    "family_id": "family:o10268",
+    "base_outfit_id": "o10268",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1026802",
+    "family_id": "family:o10268",
+    "base_outfit_id": "o10268",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1026803",
+    "family_id": "family:o10268",
+    "base_outfit_id": "o10268",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1026804",
+    "family_id": "family:o10268",
+    "base_outfit_id": "o10268",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10269",
+    "family_id": "family:o10269",
+    "base_outfit_id": "o10269",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10270",
+    "family_id": "family:o10270",
+    "base_outfit_id": "o10270",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10271",
+    "family_id": "family:o10271",
+    "base_outfit_id": "o10271",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10279",
+    "family_id": "family:o10279",
+    "base_outfit_id": "o10279",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1027901",
+    "family_id": "family:o10279",
+    "base_outfit_id": "o10279",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1027902",
+    "family_id": "family:o10279",
+    "base_outfit_id": "o10279",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10280",
+    "family_id": "family:o10280",
+    "base_outfit_id": "o10280",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10282",
+    "family_id": "family:o10282",
+    "base_outfit_id": "o10282",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1028201",
+    "family_id": "family:o10282",
+    "base_outfit_id": "o10282",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1028202",
+    "family_id": "family:o10282",
+    "base_outfit_id": "o10282",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10284",
+    "family_id": "family:o10284",
+    "base_outfit_id": "o10284",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10286",
+    "family_id": "family:o10286",
+    "base_outfit_id": "o10286",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1028601",
+    "family_id": "family:o10286",
+    "base_outfit_id": "o10286",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1028602",
+    "family_id": "family:o10286",
+    "base_outfit_id": "o10286",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10287",
+    "family_id": "family:o10287",
+    "base_outfit_id": "o10287",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1028701",
+    "family_id": "family:o10287",
+    "base_outfit_id": "o10287",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1028702",
+    "family_id": "family:o10287",
+    "base_outfit_id": "o10287",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10288",
+    "family_id": "family:o10288",
+    "base_outfit_id": "o10288",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1028801",
+    "family_id": "family:o10288",
+    "base_outfit_id": "o10288",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1028802",
+    "family_id": "family:o10288",
+    "base_outfit_id": "o10288",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10289",
+    "family_id": "family:o10289",
+    "base_outfit_id": "o10289",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1028901",
+    "family_id": "family:o10289",
+    "base_outfit_id": "o10289",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1028902",
+    "family_id": "family:o10289",
+    "base_outfit_id": "o10289",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1028903",
+    "family_id": "family:o10289",
+    "base_outfit_id": "o10289",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1028904",
+    "family_id": "family:o10289",
+    "base_outfit_id": "o10289",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10290",
+    "family_id": "family:o10290",
+    "base_outfit_id": "o10290",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029001",
+    "family_id": "family:o10290",
+    "base_outfit_id": "o10290",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029002",
+    "family_id": "family:o10290",
+    "base_outfit_id": "o10290",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1029003",
+    "family_id": "family:o10290",
+    "base_outfit_id": "o10290",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1029004",
+    "family_id": "family:o10290",
+    "base_outfit_id": "o10290",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10292",
+    "family_id": "family:o10292",
+    "base_outfit_id": "o10292",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029201",
+    "family_id": "family:o10292",
+    "base_outfit_id": "o10292",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029202",
+    "family_id": "family:o10292",
+    "base_outfit_id": "o10292",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10293",
+    "family_id": "family:o10293",
+    "base_outfit_id": "o10293",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029301",
+    "family_id": "family:o10293",
+    "base_outfit_id": "o10293",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029302",
+    "family_id": "family:o10293",
+    "base_outfit_id": "o10293",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1029303",
+    "family_id": "family:o10293",
+    "base_outfit_id": "o10293",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1029304",
+    "family_id": "family:o10293",
+    "base_outfit_id": "o10293",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10294",
+    "family_id": "family:o10294",
+    "base_outfit_id": "o10294",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029401",
+    "family_id": "family:o10294",
+    "base_outfit_id": "o10294",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029402",
+    "family_id": "family:o10294",
+    "base_outfit_id": "o10294",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1029403",
+    "family_id": "family:o10294",
+    "base_outfit_id": "o10294",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1029404",
+    "family_id": "family:o10294",
+    "base_outfit_id": "o10294",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10295",
+    "family_id": "family:o10295",
+    "base_outfit_id": "o10295",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029501",
+    "family_id": "family:o10295",
+    "base_outfit_id": "o10295",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029502",
+    "family_id": "family:o10295",
+    "base_outfit_id": "o10295",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10296",
+    "family_id": "family:o10296",
+    "base_outfit_id": "o10296",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029601",
+    "family_id": "family:o10296",
+    "base_outfit_id": "o10296",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029602",
+    "family_id": "family:o10296",
+    "base_outfit_id": "o10296",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10298",
+    "family_id": "family:o10298",
+    "base_outfit_id": "o10298",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029801",
+    "family_id": "family:o10298",
+    "base_outfit_id": "o10298",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029802",
+    "family_id": "family:o10298",
+    "base_outfit_id": "o10298",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10299",
+    "family_id": "family:o10299",
+    "base_outfit_id": "o10299",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1029901",
+    "family_id": "family:o10299",
+    "base_outfit_id": "o10299",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1029902",
+    "family_id": "family:o10299",
+    "base_outfit_id": "o10299",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10300",
+    "family_id": "family:o10300",
+    "base_outfit_id": "o10300",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1030001",
+    "family_id": "family:o10300",
+    "base_outfit_id": "o10300",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1030002",
+    "family_id": "family:o10300",
+    "base_outfit_id": "o10300",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1030003",
+    "family_id": "family:o10300",
+    "base_outfit_id": "o10300",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1030004",
+    "family_id": "family:o10300",
+    "base_outfit_id": "o10300",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10301",
+    "family_id": "family:o10301",
+    "base_outfit_id": "o10301",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1030101",
+    "family_id": "family:o10301",
+    "base_outfit_id": "o10301",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1030102",
+    "family_id": "family:o10301",
+    "base_outfit_id": "o10301",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1030103",
+    "family_id": "family:o10301",
+    "base_outfit_id": "o10301",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1030104",
+    "family_id": "family:o10301",
+    "base_outfit_id": "o10301",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10302",
+    "family_id": "family:o10302",
+    "base_outfit_id": "o10302",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1030201",
+    "family_id": "family:o10302",
+    "base_outfit_id": "o10302",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1030202",
+    "family_id": "family:o10302",
+    "base_outfit_id": "o10302",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10304",
+    "family_id": "family:o10304",
+    "base_outfit_id": "o10304",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1030401",
+    "family_id": "family:o10304",
+    "base_outfit_id": "o10304",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1030402",
+    "family_id": "family:o10304",
+    "base_outfit_id": "o10304",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1030403",
+    "family_id": "family:o10304",
+    "base_outfit_id": "o10304",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1030404",
+    "family_id": "family:o10304",
+    "base_outfit_id": "o10304",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10307",
+    "family_id": "family:o10307",
+    "base_outfit_id": "o10307",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1030701",
+    "family_id": "family:o10307",
+    "base_outfit_id": "o10307",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1030702",
+    "family_id": "family:o10307",
+    "base_outfit_id": "o10307",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10309",
+    "family_id": "family:o10309",
+    "base_outfit_id": "o10309",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10310",
+    "family_id": "family:o10310",
+    "base_outfit_id": "o10310",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10313",
+    "family_id": "family:o10313",
+    "base_outfit_id": "o10313",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1031301",
+    "family_id": "family:o10313",
+    "base_outfit_id": "o10313",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1031302",
+    "family_id": "family:o10313",
+    "base_outfit_id": "o10313",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10315",
+    "family_id": "family:o10315",
+    "base_outfit_id": "o10315",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10319",
+    "family_id": "family:o10319",
+    "base_outfit_id": "o10319",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10320",
+    "family_id": "family:o10320",
+    "base_outfit_id": "o10320",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1032001",
+    "family_id": "family:o10320",
+    "base_outfit_id": "o10320",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1032002",
+    "family_id": "family:o10320",
+    "base_outfit_id": "o10320",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10322",
+    "family_id": "family:o10322",
+    "base_outfit_id": "o10322",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1032201",
+    "family_id": "family:o10322",
+    "base_outfit_id": "o10322",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1032202",
+    "family_id": "family:o10322",
+    "base_outfit_id": "o10322",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10324",
+    "family_id": "family:o10324",
+    "base_outfit_id": "o10324",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1032401",
+    "family_id": "family:o10324",
+    "base_outfit_id": "o10324",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1032402",
+    "family_id": "family:o10324",
+    "base_outfit_id": "o10324",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10326",
+    "family_id": "family:o10326",
+    "base_outfit_id": "o10326",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1032601",
+    "family_id": "family:o10326",
+    "base_outfit_id": "o10326",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1032602",
+    "family_id": "family:o10326",
+    "base_outfit_id": "o10326",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1032603",
+    "family_id": "family:o10326",
+    "base_outfit_id": "o10326",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1032604",
+    "family_id": "family:o10326",
+    "base_outfit_id": "o10326",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10327",
+    "family_id": "family:o10327",
+    "base_outfit_id": "o10327",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1032701",
+    "family_id": "family:o10327",
+    "base_outfit_id": "o10327",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1032702",
+    "family_id": "family:o10327",
+    "base_outfit_id": "o10327",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10330",
+    "family_id": "family:o10330",
+    "base_outfit_id": "o10330",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1033001",
+    "family_id": "family:o10330",
+    "base_outfit_id": "o10330",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1033002",
+    "family_id": "family:o10330",
+    "base_outfit_id": "o10330",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1033003",
+    "family_id": "family:o10330",
+    "base_outfit_id": "o10330",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1033004",
+    "family_id": "family:o10330",
+    "base_outfit_id": "o10330",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10331",
+    "family_id": "family:o10331",
+    "base_outfit_id": "o10331",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1033101",
+    "family_id": "family:o10331",
+    "base_outfit_id": "o10331",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1033102",
+    "family_id": "family:o10331",
+    "base_outfit_id": "o10331",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1033103",
+    "family_id": "family:o10331",
+    "base_outfit_id": "o10331",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1033104",
+    "family_id": "family:o10331",
+    "base_outfit_id": "o10331",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10332",
+    "family_id": "family:o10332",
+    "base_outfit_id": "o10332",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1033201",
+    "family_id": "family:o10332",
+    "base_outfit_id": "o10332",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1033202",
+    "family_id": "family:o10332",
+    "base_outfit_id": "o10332",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10333",
+    "family_id": "family:o10333",
+    "base_outfit_id": "o10333",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1033301",
+    "family_id": "family:o10333",
+    "base_outfit_id": "o10333",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1033302",
+    "family_id": "family:o10333",
+    "base_outfit_id": "o10333",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10334",
+    "family_id": "family:o10334",
+    "base_outfit_id": "o10334",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1033401",
+    "family_id": "family:o10334",
+    "base_outfit_id": "o10334",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1033402",
+    "family_id": "family:o10334",
+    "base_outfit_id": "o10334",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10335",
+    "family_id": "family:o10335",
+    "base_outfit_id": "o10335",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10337",
+    "family_id": "family:o10337",
+    "base_outfit_id": "o10337",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10339",
+    "family_id": "family:o10339",
+    "base_outfit_id": "o10339",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10340",
+    "family_id": "family:o10340",
+    "base_outfit_id": "o10340",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10342",
+    "family_id": "family:o10342",
+    "base_outfit_id": "o10342",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10343",
+    "family_id": "family:o10343",
+    "base_outfit_id": "o10343",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1034301",
+    "family_id": "family:o10343",
+    "base_outfit_id": "o10343",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1034302",
+    "family_id": "family:o10343",
+    "base_outfit_id": "o10343",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10344",
+    "family_id": "family:o10344",
+    "base_outfit_id": "o10344",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10345",
+    "family_id": "family:o10345",
+    "base_outfit_id": "o10345",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10346",
+    "family_id": "family:o10346",
+    "base_outfit_id": "o10346",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1034601",
+    "family_id": "family:o10346",
+    "base_outfit_id": "o10346",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1034602",
+    "family_id": "family:o10346",
+    "base_outfit_id": "o10346",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10347",
+    "family_id": "family:o10347",
+    "base_outfit_id": "o10347",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1034701",
+    "family_id": "family:o10347",
+    "base_outfit_id": "o10347",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1034702",
+    "family_id": "family:o10347",
+    "base_outfit_id": "o10347",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1034703",
+    "family_id": "family:o10347",
+    "base_outfit_id": "o10347",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1034704",
+    "family_id": "family:o10347",
+    "base_outfit_id": "o10347",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10348",
+    "family_id": "family:o10348",
+    "base_outfit_id": "o10348",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1034801",
+    "family_id": "family:o10348",
+    "base_outfit_id": "o10348",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1034802",
+    "family_id": "family:o10348",
+    "base_outfit_id": "o10348",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10349",
+    "family_id": "family:o10349",
+    "base_outfit_id": "o10349",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1034901",
+    "family_id": "family:o10349",
+    "base_outfit_id": "o10349",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1034902",
+    "family_id": "family:o10349",
+    "base_outfit_id": "o10349",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1034903",
+    "family_id": "family:o10349",
+    "base_outfit_id": "o10349",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1034904",
+    "family_id": "family:o10349",
+    "base_outfit_id": "o10349",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10350",
+    "family_id": "family:o10350",
+    "base_outfit_id": "o10350",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035001",
+    "family_id": "family:o10350",
+    "base_outfit_id": "o10350",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035002",
+    "family_id": "family:o10350",
+    "base_outfit_id": "o10350",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1035003",
+    "family_id": "family:o10350",
+    "base_outfit_id": "o10350",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1035004",
+    "family_id": "family:o10350",
+    "base_outfit_id": "o10350",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10351",
+    "family_id": "family:o10351",
+    "base_outfit_id": "o10351",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035101",
+    "family_id": "family:o10351",
+    "base_outfit_id": "o10351",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035102",
+    "family_id": "family:o10351",
+    "base_outfit_id": "o10351",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10352",
+    "family_id": "family:o10352",
+    "base_outfit_id": "o10352",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035201",
+    "family_id": "family:o10352",
+    "base_outfit_id": "o10352",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035202",
+    "family_id": "family:o10352",
+    "base_outfit_id": "o10352",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1035203",
+    "family_id": "family:o10352",
+    "base_outfit_id": "o10352",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1035204",
+    "family_id": "family:o10352",
+    "base_outfit_id": "o10352",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10353",
+    "family_id": "family:o10353",
+    "base_outfit_id": "o10353",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035301",
+    "family_id": "family:o10353",
+    "base_outfit_id": "o10353",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035302",
+    "family_id": "family:o10353",
+    "base_outfit_id": "o10353",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1035303",
+    "family_id": "family:o10353",
+    "base_outfit_id": "o10353",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1035304",
+    "family_id": "family:o10353",
+    "base_outfit_id": "o10353",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10354",
+    "family_id": "family:o10354",
+    "base_outfit_id": "o10354",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035401",
+    "family_id": "family:o10354",
+    "base_outfit_id": "o10354",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035402",
+    "family_id": "family:o10354",
+    "base_outfit_id": "o10354",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10355",
+    "family_id": "family:o10355",
+    "base_outfit_id": "o10355",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035501",
+    "family_id": "family:o10355",
+    "base_outfit_id": "o10355",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035502",
+    "family_id": "family:o10355",
+    "base_outfit_id": "o10355",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1035503",
+    "family_id": "family:o10355",
+    "base_outfit_id": "o10355",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1035504",
+    "family_id": "family:o10355",
+    "base_outfit_id": "o10355",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10356",
+    "family_id": "family:o10356",
+    "base_outfit_id": "o10356",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10357",
+    "family_id": "family:o10357",
+    "base_outfit_id": "o10357",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10358",
+    "family_id": "family:o10358",
+    "base_outfit_id": "o10358",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1035801",
+    "family_id": "family:o10358",
+    "base_outfit_id": "o10358",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1035802",
+    "family_id": "family:o10358",
+    "base_outfit_id": "o10358",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10360",
+    "family_id": "family:o10360",
+    "base_outfit_id": "o10360",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036001",
+    "family_id": "family:o10360",
+    "base_outfit_id": "o10360",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036002",
+    "family_id": "family:o10360",
+    "base_outfit_id": "o10360",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10361",
+    "family_id": "family:o10361",
+    "base_outfit_id": "o10361",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036101",
+    "family_id": "family:o10361",
+    "base_outfit_id": "o10361",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036102",
+    "family_id": "family:o10361",
+    "base_outfit_id": "o10361",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10362",
+    "family_id": "family:o10362",
+    "base_outfit_id": "o10362",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036201",
+    "family_id": "family:o10362",
+    "base_outfit_id": "o10362",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036202",
+    "family_id": "family:o10362",
+    "base_outfit_id": "o10362",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10363",
+    "family_id": "family:o10363",
+    "base_outfit_id": "o10363",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036301",
+    "family_id": "family:o10363",
+    "base_outfit_id": "o10363",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036302",
+    "family_id": "family:o10363",
+    "base_outfit_id": "o10363",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10364",
+    "family_id": "family:o10364",
+    "base_outfit_id": "o10364",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036401",
+    "family_id": "family:o10364",
+    "base_outfit_id": "o10364",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036402",
+    "family_id": "family:o10364",
+    "base_outfit_id": "o10364",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1036403",
+    "family_id": "family:o10364",
+    "base_outfit_id": "o10364",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1036404",
+    "family_id": "family:o10364",
+    "base_outfit_id": "o10364",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10366",
+    "family_id": "family:o10366",
+    "base_outfit_id": "o10366",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036601",
+    "family_id": "family:o10366",
+    "base_outfit_id": "o10366",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036602",
+    "family_id": "family:o10366",
+    "base_outfit_id": "o10366",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1036603",
+    "family_id": "family:o10366",
+    "base_outfit_id": "o10366",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1036604",
+    "family_id": "family:o10366",
+    "base_outfit_id": "o10366",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10368",
+    "family_id": "family:o10368",
+    "base_outfit_id": "o10368",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1036801",
+    "family_id": "family:o10368",
+    "base_outfit_id": "o10368",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1036802",
+    "family_id": "family:o10368",
+    "base_outfit_id": "o10368",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10371",
+    "family_id": "family:o10371",
+    "base_outfit_id": "o10371",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1037101",
+    "family_id": "family:o10371",
+    "base_outfit_id": "o10371",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1037102",
+    "family_id": "family:o10371",
+    "base_outfit_id": "o10371",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10373",
+    "family_id": "family:o10373",
+    "base_outfit_id": "o10373",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1037301",
+    "family_id": "family:o10373",
+    "base_outfit_id": "o10373",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1037302",
+    "family_id": "family:o10373",
+    "base_outfit_id": "o10373",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10374",
+    "family_id": "family:o10374",
+    "base_outfit_id": "o10374",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1037401",
+    "family_id": "family:o10374",
+    "base_outfit_id": "o10374",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1037402",
+    "family_id": "family:o10374",
+    "base_outfit_id": "o10374",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10375",
+    "family_id": "family:o10375",
+    "base_outfit_id": "o10375",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10377",
+    "family_id": "family:o10377",
+    "base_outfit_id": "o10377",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1037701",
+    "family_id": "family:o10377",
+    "base_outfit_id": "o10377",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1037702",
+    "family_id": "family:o10377",
+    "base_outfit_id": "o10377",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10378",
+    "family_id": "family:o10378",
+    "base_outfit_id": "o10378",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1037801",
+    "family_id": "family:o10378",
+    "base_outfit_id": "o10378",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1037802",
+    "family_id": "family:o10378",
+    "base_outfit_id": "o10378",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10379",
+    "family_id": "family:o10379",
+    "base_outfit_id": "o10379",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1037901",
+    "family_id": "family:o10379",
+    "base_outfit_id": "o10379",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1037902",
+    "family_id": "family:o10379",
+    "base_outfit_id": "o10379",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10381",
+    "family_id": "family:o10381",
+    "base_outfit_id": "o10381",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038101",
+    "family_id": "family:o10381",
+    "base_outfit_id": "o10381",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038102",
+    "family_id": "family:o10381",
+    "base_outfit_id": "o10381",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10382",
+    "family_id": "family:o10382",
+    "base_outfit_id": "o10382",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038201",
+    "family_id": "family:o10382",
+    "base_outfit_id": "o10382",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038202",
+    "family_id": "family:o10382",
+    "base_outfit_id": "o10382",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1038203",
+    "family_id": "family:o10382",
+    "base_outfit_id": "o10382",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1038204",
+    "family_id": "family:o10382",
+    "base_outfit_id": "o10382",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10383",
+    "family_id": "family:o10383",
+    "base_outfit_id": "o10383",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038301",
+    "family_id": "family:o10383",
+    "base_outfit_id": "o10383",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038302",
+    "family_id": "family:o10383",
+    "base_outfit_id": "o10383",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10384",
+    "family_id": "family:o10384",
+    "base_outfit_id": "o10384",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038401",
+    "family_id": "family:o10384",
+    "base_outfit_id": "o10384",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038402",
+    "family_id": "family:o10384",
+    "base_outfit_id": "o10384",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10385",
+    "family_id": "family:o10385",
+    "base_outfit_id": "o10385",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038501",
+    "family_id": "family:o10385",
+    "base_outfit_id": "o10385",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038502",
+    "family_id": "family:o10385",
+    "base_outfit_id": "o10385",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10387",
+    "family_id": "family:o10387",
+    "base_outfit_id": "o10387",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038701",
+    "family_id": "family:o10387",
+    "base_outfit_id": "o10387",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038702",
+    "family_id": "family:o10387",
+    "base_outfit_id": "o10387",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10389",
+    "family_id": "family:o10389",
+    "base_outfit_id": "o10389",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1038901",
+    "family_id": "family:o10389",
+    "base_outfit_id": "o10389",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1038902",
+    "family_id": "family:o10389",
+    "base_outfit_id": "o10389",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10390",
+    "family_id": "family:o10390",
+    "base_outfit_id": "o10390",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039001",
+    "family_id": "family:o10390",
+    "base_outfit_id": "o10390",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039002",
+    "family_id": "family:o10390",
+    "base_outfit_id": "o10390",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10391",
+    "family_id": "family:o10391",
+    "base_outfit_id": "o10391",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039101",
+    "family_id": "family:o10391",
+    "base_outfit_id": "o10391",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039102",
+    "family_id": "family:o10391",
+    "base_outfit_id": "o10391",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10392",
+    "family_id": "family:o10392",
+    "base_outfit_id": "o10392",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039201",
+    "family_id": "family:o10392",
+    "base_outfit_id": "o10392",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039202",
+    "family_id": "family:o10392",
+    "base_outfit_id": "o10392",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10393",
+    "family_id": "family:o10393",
+    "base_outfit_id": "o10393",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10394",
+    "family_id": "family:o10394",
+    "base_outfit_id": "o10394",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039401",
+    "family_id": "family:o10394",
+    "base_outfit_id": "o10394",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039402",
+    "family_id": "family:o10394",
+    "base_outfit_id": "o10394",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10395",
+    "family_id": "family:o10395",
+    "base_outfit_id": "o10395",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10396",
+    "family_id": "family:o10396",
+    "base_outfit_id": "o10396",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10397",
+    "family_id": "family:o10397",
+    "base_outfit_id": "o10397",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039701",
+    "family_id": "family:o10397",
+    "base_outfit_id": "o10397",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039702",
+    "family_id": "family:o10397",
+    "base_outfit_id": "o10397",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10398",
+    "family_id": "family:o10398",
+    "base_outfit_id": "o10398",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039801",
+    "family_id": "family:o10398",
+    "base_outfit_id": "o10398",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039802",
+    "family_id": "family:o10398",
+    "base_outfit_id": "o10398",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10399",
+    "family_id": "family:o10399",
+    "base_outfit_id": "o10399",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1039901",
+    "family_id": "family:o10399",
+    "base_outfit_id": "o10399",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1039902",
+    "family_id": "family:o10399",
+    "base_outfit_id": "o10399",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 1,
+    "variation_label": "一进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o1039903",
+    "family_id": "family:o10399",
+    "base_outfit_id": "o10399",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": 2,
+    "variation_label": "二进",
+    "source_group_order": 3
+  },
+  {
+    "outfit_id": "o1039904",
+    "family_id": "family:o10399",
+    "base_outfit_id": "o10399",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 4
+  },
+  {
+    "outfit_id": "o10401",
+    "family_id": "family:o10401",
+    "base_outfit_id": "o10401",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1040101",
+    "family_id": "family:o10401",
+    "base_outfit_id": "o10401",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1040102",
+    "family_id": "family:o10401",
+    "base_outfit_id": "o10401",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10402",
+    "family_id": "family:o10402",
+    "base_outfit_id": "o10402",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10403",
+    "family_id": "family:o10403",
+    "base_outfit_id": "o10403",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10404",
+    "family_id": "family:o10404",
+    "base_outfit_id": "o10404",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1040401",
+    "family_id": "family:o10404",
+    "base_outfit_id": "o10404",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1040402",
+    "family_id": "family:o10404",
+    "base_outfit_id": "o10404",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10406",
+    "family_id": "family:o10406",
+    "base_outfit_id": "o10406",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10411",
+    "family_id": "family:o10411",
+    "base_outfit_id": "o10411",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10412",
+    "family_id": "family:o10412",
+    "base_outfit_id": "o10412",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10413",
+    "family_id": "family:o10413",
+    "base_outfit_id": "o10413",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10416",
+    "family_id": "family:o10416",
+    "base_outfit_id": "o10416",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10417",
+    "family_id": "family:o10417",
+    "base_outfit_id": "o10417",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1041701",
+    "family_id": "family:o10417",
+    "base_outfit_id": "o10417",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1041702",
+    "family_id": "family:o10417",
+    "base_outfit_id": "o10417",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o10418",
+    "family_id": "family:o10418",
+    "base_outfit_id": "o10418",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10419",
+    "family_id": "family:o10419",
+    "base_outfit_id": "o10419",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o10430",
+    "family_id": "family:o10430",
+    "base_outfit_id": "o10430",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "原色",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o1043001",
+    "family_id": "family:o10430",
+    "base_outfit_id": "o10430",
+    "form_type": "renewal",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "焕新",
+    "source_group_order": 1
+  },
+  {
+    "outfit_id": "o1043002",
+    "family_id": "family:o10430",
+    "base_outfit_id": "o10430",
+    "form_type": "evolution",
+    "is_base": 0,
+    "evolution_stage": null,
+    "variation_label": "满进",
+    "source_group_order": 2
+  },
+  {
+    "outfit_id": "o20002",
+    "family_id": "family:o20002",
+    "base_outfit_id": "o20002",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20021",
+    "family_id": "family:o20021",
+    "base_outfit_id": "o20021",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20023",
+    "family_id": "family:o20023",
+    "base_outfit_id": "o20023",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20027",
+    "family_id": "family:o20027",
+    "base_outfit_id": "o20027",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20028",
+    "family_id": "family:o20028",
+    "base_outfit_id": "o20028",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20048",
+    "family_id": "family:o20048",
+    "base_outfit_id": "o20048",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20052",
+    "family_id": "family:o20052",
+    "base_outfit_id": "o20052",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20053",
+    "family_id": "family:o20053",
+    "base_outfit_id": "o20053",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20054",
+    "family_id": "family:o20054",
+    "base_outfit_id": "o20054",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20057",
+    "family_id": "family:o20057",
+    "base_outfit_id": "o20057",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20061",
+    "family_id": "family:o20061",
+    "base_outfit_id": "o20061",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20072",
+    "family_id": "family:o20072",
+    "base_outfit_id": "o20072",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  },
+  {
+    "outfit_id": "o20098",
+    "family_id": "family:o20098",
+    "base_outfit_id": "o20098",
+    "form_type": "base",
+    "is_base": 1,
+    "evolution_stage": null,
+    "variation_label": "不可进化",
+    "source_group_order": 0
+  }
+]

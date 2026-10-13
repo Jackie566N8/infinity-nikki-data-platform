@@ -1,0 +1,241 @@
+{
+  "schema_version": 1,
+  "scope": "Decorative scenery/promotional banners, never geographic map data",
+  "regions": [
+    {
+      "id": "region:florawish",
+      "slug": "florawish",
+      "region": "花愿镇",
+      "primary_path": "assets/region-banners/florawish.jpg",
+      "fallback_path": "assets/region-banners/florawish-fallback.svg",
+      "image_kind": "official_scenery",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/home",
+      "source_image": "https://assets.infoldgames.com/resources/cdn/20251107/134087d85aee853e.jpg",
+      "source_title": "官网 WorldConfig：Florawish",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.292975+00:00",
+      "dimensions": [
+        1920,
+        969
+      ],
+      "object_position": "50% 42%",
+      "palette": [
+        "#b0d4dd",
+        "#e6bdbb",
+        "#826580"
+      ]
+    },
+    {
+      "id": "region:breezy-meadow",
+      "slug": "breezy-meadow",
+      "region": "微风绿野",
+      "primary_path": "assets/region-banners/breezy-meadow.jpg",
+      "fallback_path": "assets/region-banners/breezy-meadow-fallback.svg",
+      "image_kind": "official_scenery",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/home",
+      "source_image": "https://assets.infoldgames.com/resources/cdn/20251107/6bdf2efbf7f91484.jpg",
+      "source_title": "官网 WorldConfig：Breezy Meadow",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.300817+00:00",
+      "dimensions": [
+        1920,
+        969
+      ],
+      "object_position": "50% 48%",
+      "palette": [
+        "#bcdddc",
+        "#b4c697",
+        "#4d746a"
+      ]
+    },
+    {
+      "id": "region:stoneville",
+      "slug": "stoneville",
+      "region": "小石树田村",
+      "primary_path": "assets/region-banners/stoneville.jpg",
+      "fallback_path": "assets/region-banners/stoneville-fallback.svg",
+      "image_kind": "official_event",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/news/208",
+      "source_image": "https://webstatic.infoldgames.com/7d325eec933f05b1/images/bg/WXbqDSvn89G8hozx.jpg",
+      "source_title": "Playful Hearts Day：Stoneville 区域活动图",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.306586+00:00",
+      "dimensions": [
+        1788,
+        1005
+      ],
+      "object_position": "50% 40%",
+      "palette": [
+        "#d0c6ec",
+        "#bca8d8",
+        "#706b91"
+      ]
+    },
+    {
+      "id": "region:abandoned-district",
+      "slug": "abandoned-district",
+      "region": "石树田无人区",
+      "primary_path": "assets/region-banners/abandoned-district.jpg",
+      "fallback_path": "assets/region-banners/abandoned-district-fallback.svg",
+      "image_kind": "official_overview",
+      "region_specific": false,
+      "source_page": "https://infinitynikki.infoldgames.com/en/home",
+      "source_image": "https://assets.infoldgames.com/resources/cdn/20251107/64c6c20ead04683c.jpg",
+      "source_title": "官网 WorldConfig：Stonewoods 合并地区景观",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.314086+00:00",
+      "dimensions": [
+        1920,
+        969
+      ],
+      "object_position": "50% 52%",
+      "palette": [
+        "#adcbd8",
+        "#c6b5a2",
+        "#756887"
+      ]
+    },
+    {
+      "id": "region:wishing-woods",
+      "slug": "wishing-woods",
+      "region": "祈愿树林",
+      "primary_path": "assets/region-banners/wishing-woods.jpg",
+      "fallback_path": "assets/region-banners/wishing-woods-fallback.svg",
+      "image_kind": "official_scenery",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/home",
+      "source_image": "https://assets.infoldgames.com/resources/cdn/20251107/cce0693eb55f0dfa.jpg",
+      "source_title": "官网 WorldConfig：Wishing Woods",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.321670+00:00",
+      "dimensions": [
+        1920,
+        969
+      ],
+      "object_position": "50% 45%",
+      "palette": [
+        "#a6c9cb",
+        "#669d91",
+        "#295b65"
+      ]
+    },
+    {
+      "id": "region:memorial-mountains",
+      "slug": "memorial-mountains",
+      "region": "纪念山地",
+      "primary_path": "assets/region-banners/memorial-mountains.png",
+      "fallback_path": "assets/region-banners/memorial-mountains-fallback.svg",
+      "image_kind": "user_screenshot_restored",
+      "region_specific": true,
+      "source_page": null,
+      "source_image": "local:user-provided-memorial-screenshot",
+      "source_title": "用户提供纪念山地游戏截图，经AI裁剪与画质修复",
+      "rights_owner": "Infold Games / Papergames game artwork; screenshot supplied by user",
+      "source_status": "user_provided_ai_restored",
+      "retrieved_at": null,
+      "dimensions": [
+        1983,
+        793
+      ],
+      "object_position": "50% 0%",
+      "palette": [
+        "#dce1ed",
+        "#b8b4d5",
+        "#6e759d"
+      ],
+      "provided_on": "2026-10-13",
+      "processed_on": "2026-10-13",
+      "original_file": "data/assets/region-banners/memorial-mountains-original.jpg",
+      "original_sha256": "ca24574ed89e696c93ea2ccfafe6737e7a70902bb0585d2554bff17ef0cca58a",
+      "processing": {
+        "mode": "built_in_imagegen",
+        "operation": "Conservative restoration/upscale and lower-foreground crop",
+        "output_sha256": "41960be497da45de247e0ba50bc3fb84774634c59a58cdf075f44a3e6c5cdce6",
+        "limitations": "AI-restored decorative image; original retained, not pixel-exact geographical evidence or officially sourced promo"
+      }
+    },
+    {
+      "id": "region:firework-isles",
+      "slug": "firework-isles",
+      "region": "花焰群岛",
+      "primary_path": "assets/region-banners/firework-isles.png",
+      "fallback_path": "assets/region-banners/firework-isles-fallback.svg",
+      "image_kind": "official_promo",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/news/98",
+      "source_image": "https://webstatic.infoldgames.com/7d325eec933f05b1/images/bg/pACZxILK7mRjP8pZ.png",
+      "source_title": "From the Devs：Firework Isles 开发者宣传图",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.349588+00:00",
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "object_position": "50% 38%",
+      "palette": [
+        "#7679b8",
+        "#d79ab6",
+        "#434276"
+      ]
+    },
+    {
+      "id": "region:danqing-island",
+      "slug": "danqing-island",
+      "region": "丹青屿",
+      "primary_path": "assets/region-banners/danqing-island.jpg",
+      "fallback_path": "assets/region-banners/danqing-island-fallback.svg",
+      "image_kind": "official_scenery",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/news/265",
+      "source_image": "https://webstatic.infoldgames.com/7d325eec933f05b1/images/bg/VCYvvcos6Xqkhml9.jpg",
+      "source_title": "New Area: Danqing Island 官方风景拼图",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.358048+00:00",
+      "dimensions": [
+        1920,
+        2160
+      ],
+      "object_position": "50% 20%",
+      "palette": [
+        "#c0d9d3",
+        "#96b7aa",
+        "#536f79"
+      ]
+    },
+    {
+      "id": "region:itzaland",
+      "slug": "itzaland",
+      "region": "伊赞之土",
+      "primary_path": "assets/region-banners/itzaland.jpg",
+      "fallback_path": "assets/region-banners/itzaland-fallback.svg",
+      "image_kind": "official_scenery",
+      "region_specific": true,
+      "source_page": "https://infinitynikki.infoldgames.com/en/home",
+      "source_image": "https://assets.infoldgames.com/resources/cdn/20260717/6a546d2e4d6b3490.jpg",
+      "source_title": "官网 WorldConfig：Itzaland",
+      "rights_owner": "Infold Games / Papergames",
+      "source_status": "downloaded_and_visually_checked",
+      "retrieved_at": "2026-10-12T15:51:39.366011+00:00",
+      "dimensions": [
+        1920,
+        969
+      ],
+      "object_position": "50% 45%",
+      "palette": [
+        "#dcc99f",
+        "#cdac7c",
+        "#7b785f"
+      ]
+    }
+  ]
+}

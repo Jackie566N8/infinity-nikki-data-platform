@@ -1,0 +1,376 @@
+[
+  {
+    "object_id": "o1025102",
+    "checked_at": "2026-10-11T15:40:41.552Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"云露漫想·灿阳\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Cloud Reverie: Sun\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"云露漫想·灿阳\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Cloud Reverie: Sun\" evolution materials OR \"云露漫想·灿阳\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "重庆市第七届大学生艺术展演活动优秀组织单位和先进个人获奖情况公示",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405012206956970241",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1025202",
+    "checked_at": "2026-10-11T15:40:43.766Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"穗风过昨日·远歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Grains of Yesterday: Distant Song\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"穗风过昨日·远歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Grains of Yesterday: Distant Song\" evolution materials OR \"穗风过昨日·远歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1025602",
+    "checked_at": "2026-10-11T15:40:45.848Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"裙与梦影·年华\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dream's Silhouette: Youthful Years\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"裙与梦影·年华\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dream's Silhouette: Youthful Years\" evolution materials OR \"裙与梦影·年华\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "张枣诗选：镜中（72首）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405080111744680118",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1025802",
+    "checked_at": "2026-10-11T15:40:47.447Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"旧庭的花愿·蔓生\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Courtyard Flowers: Growth\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"旧庭的花愿·蔓生\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Courtyard Flowers: Growth\" evolution materials OR \"旧庭的花愿·蔓生\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Courtyard Flowers: Growth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Courtyard_Flowers%3A_Growth",
+        "evolution": "2 Courtyard Flowers\n\n1 Courtyard Flowers: Growth",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1025902",
+    "checked_at": "2026-10-11T15:40:50.667Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"应援的心跳·音浪\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Cheering Heartbeat: Soundwave\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"应援的心跳·音浪\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Cheering Heartbeat: Soundwave\" evolution materials OR \"应援的心跳·音浪\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Cheering Heartbeat: Soundwave | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Cheering_Heartbeat%3A_Soundwave",
+        "evolution": "2 Cheering Heartbeat\n\n1 Cheering Heartbeat: Soundwave",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026102",
+    "checked_at": "2026-10-11T15:40:52.237Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"叙火长诗·微晕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Poem of Emberlight: Dizzy\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"叙火长诗·微晕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Poem of Emberlight: Dizzy\" evolution materials OR \"叙火长诗·微晕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1026302",
+    "checked_at": "2026-10-11T15:40:54.557Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"谒灵·赤枷\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Providence Immemorial: Shackles\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"谒灵·赤枷\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Providence Immemorial: Shackles\" evolution materials OR \"谒灵·赤枷\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Providence Immemorial: Shackles | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Shackles",
+        "evolution": "1 Heartshine: Providence Immemorial\n\n7 Tranquil Thoughts\n\n1 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Shackles",
+        "crafting": null
+      },
+      {
+        "title": "Providence Immemorial: Finality | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Finality",
+        "evolution": "1 Heartshine: Providence Immemorial\n\n7 Tranquil Thoughts\n\n1 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Finality",
+        "crafting": null
+      },
+      {
+        "title": "Providence Immemorial: Cycle | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Cycle",
+        "evolution": "7 Tranquil Thoughts\n\n2 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Cycle",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026303",
+    "checked_at": "2026-10-11T15:40:56.371Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"谒灵·溟逝\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Providence Immemorial: Finality\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"谒灵·溟逝\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Providence Immemorial: Finality\" evolution materials OR \"谒灵·溟逝\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Providence Immemorial: Finality | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Finality",
+        "evolution": "1 Heartshine: Providence Immemorial\n\n7 Tranquil Thoughts\n\n1 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Finality",
+        "crafting": null
+      },
+      {
+        "title": "Providence Immemorial: Cycle | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Cycle",
+        "evolution": "7 Tranquil Thoughts\n\n2 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Cycle",
+        "crafting": null
+      },
+      {
+        "title": "Providence Immemorial: Shackles | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Shackles",
+        "evolution": "1 Heartshine: Providence Immemorial\n\n7 Tranquil Thoughts\n\n1 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Shackles",
+        "crafting": null
+      },
+      {
+        "title": "Майстерня Steam::三国杀",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3549058478&l=ukrainian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steamワークショップ::三国杀",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3549058478&l=japanese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::三国杀",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3549058478&l=malay",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::三国杀",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3549058478&l=vietnamese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::三国杀",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3549058478&l=spanish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-værksted::三国杀",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3549058478&l=danish",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026304",
+    "checked_at": "2026-10-11T15:40:58.329Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"谒灵·轮复\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Providence Immemorial: Cycle\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"谒灵·轮复\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Providence Immemorial: Cycle\" evolution materials OR \"谒灵·轮复\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Providence Immemorial: Cycle | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Cycle",
+        "evolution": "7 Tranquil Thoughts\n\n2 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Cycle",
+        "crafting": null
+      },
+      {
+        "title": "Providence Immemorial: Finality | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Finality",
+        "evolution": "1 Heartshine: Providence Immemorial\n\n7 Tranquil Thoughts\n\n1 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Finality",
+        "crafting": null
+      },
+      {
+        "title": "Providence Immemorial: Shackles | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Shackles",
+        "evolution": "1 Heartshine: Providence Immemorial\n\n7 Tranquil Thoughts\n\n1 Providence Immemorial\n\n300 Thread of Purity\n\n100k Bling\n\n1 Providence Immemorial: Shackles",
+        "crafting": null
+      },
+      {
+        "title": "泰山府君逸闻浅谈",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404690456280695513",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026402",
+    "checked_at": "2026-10-11T15:41:00.447Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花泉奇境·梦呓\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Springbloom Enchantment: Dreamwhisper\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花泉奇境·梦呓\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Springbloom Enchantment: Dreamwhisper\" evolution materials OR \"花泉奇境·梦呓\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Springbloom Enchantment: Dreamwhisper | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Springbloom_Enchantment%3A_Dreamwhisper",
+        "evolution": "1 Iridescent Thoughts\n\n2 Springbloom Enchantment\n\n100 Thread of Purity\n\n30k Bling\n\n1 Springbloom Enchantment: Dreamwhisper",
+        "crafting": null
+      }
+    ]
+  }
+]

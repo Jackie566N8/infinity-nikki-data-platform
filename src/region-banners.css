@@ -1,0 +1,96 @@
+.map-banner {
+  isolation: isolate;
+  background: linear-gradient(
+    115deg,
+    var(--region-sky, #dce1ed),
+    var(--region-hill, #b8b4d5)
+  );
+}
+.map-banner:after {
+  z-index: 1;
+  background:
+    linear-gradient(0deg, rgba(24, 28, 48, 0.78), rgba(24, 28, 48, 0.05) 88%),
+    linear-gradient(90deg, rgba(24, 28, 48, 0.3), transparent 70%);
+  pointer-events: none;
+}
+.map-banner img {
+  z-index: 0;
+}
+.map-banner h2 {
+  z-index: 2;
+  text-shadow: 0 2px 12px #182034a6;
+}
+.region-ornament {
+  position: absolute;
+  right: 9%;
+  top: 8%;
+  font-size: 150px;
+  color: white;
+  opacity: 0.3;
+  z-index: -1;
+  line-height: 1;
+  transform: rotate(12deg);
+}
+.region-image-badge,
+.region-credit {
+  position: absolute;
+  z-index: 3;
+  color: #fff;
+  background: #20283e82;
+  border: 1px solid #ffffff40;
+  border-radius: 30px;
+  padding: 7px 12px;
+  font: 12px system-ui;
+  max-width: calc(100% - 30px);
+}
+.region-image-badge {
+  top: 15px;
+  left: 18px;
+}
+.region-credit {
+  right: 18px;
+  bottom: 18px;
+  text-decoration: none;
+}
+.map-banner[data-image-state="graphic-only"] .region-ornament {
+  z-index: 0;
+}
+.map-banner[data-image-state="graphic-only"] {
+  background:
+    radial-gradient(circle at 75% 20%, #ffffff80 0 7%, transparent 7.3%),
+    repeating-linear-gradient(125deg, transparent 0 35px, #ffffff15 36px 38px),
+    linear-gradient(120deg, var(--region-sky), var(--region-hill));
+}
+.hero {
+  background: radial-gradient(circle at 70% 30%, #ecd8cc, #c4b4dc 60%, #9585ac);
+}
+.hero .hero-photo[hidden] {
+  display: none;
+}
+.hero-image-fallback {
+  display: none;
+}
+.hero.image-failed .hero-image-fallback {
+  display: block;
+  position: absolute;
+  right: 10%;
+  top: 15%;
+  font-size: 135px;
+  color: #ffffff85;
+}
+@media (max-width: 600px) {
+  .region-image-badge {
+    font-size: 10px;
+    left: 12px;
+    top: 12px;
+  }
+  .region-credit {
+    right: 12px;
+    bottom: 12px;
+    padding: 4px 8px;
+  }
+  .map-banner h2 small {
+    max-width: 85%;
+    font-size: 11px;
+  }
+}

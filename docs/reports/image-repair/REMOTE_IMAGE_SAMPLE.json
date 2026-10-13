@@ -1,0 +1,66 @@
+{
+  "checked_at": "2026-10-12T16:17:09.890078+00:00",
+  "scope": "One explicit remote URL from each of four catalog types. Not a full-catalog availability claim.",
+  "rows": [
+    {
+      "id": "o10294",
+      "name": "花影心期",
+      "kind": "outfits",
+      "url": "https://cdn.gongeo.us/images/outfits/10294.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 438327,
+      "dimensions": [
+        448,
+        656
+      ],
+      "format": "PNG",
+      "decoded": true
+    },
+    {
+      "id": "c1020100294",
+      "name": "暖煦薰风",
+      "kind": "clothing",
+      "url": "https://cdn.gongeo.us/images/items/1020100294.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 263355,
+      "dimensions": [
+        520,
+        724
+      ],
+      "format": "PNG",
+      "decoded": true
+    },
+    {
+      "id": "b10382003",
+      "name": "虹是心之迹·妆",
+      "kind": "makeups",
+      "url": "https://cdn.gongeo.us/images/items/makeups/10382003.png",
+      "status": 200,
+      "content_type": "image/png",
+      "bytes": 228713,
+      "dimensions": [
+        520,
+        724
+      ],
+      "format": "PNG",
+      "decoded": true
+    },
+    {
+      "id": "mmemory-projection-stand",
+      "name": "Memory Projection Stand",
+      "kind": "materials",
+      "url": "https://www.infinity-nikki.com/img/0/0d/Memory_Projection_Stand_Icon.png/revision/latest/scale-to-width-down/256?cb=20260225005444",
+      "status": 200,
+      "content_type": "image/webp",
+      "bytes": 30126,
+      "dimensions": [
+        256,
+        256
+      ],
+      "format": "WEBP",
+      "decoded": true
+    }
+  ]
+}

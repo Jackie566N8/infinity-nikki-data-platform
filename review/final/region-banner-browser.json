@@ -1,0 +1,303 @@
+{
+  "checked_at": "2026-10-13T05:51:34.154Z",
+  "cases": [
+    {
+      "entry": "source_file",
+      "regions": [
+        {
+          "id": "region:florawish",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:breezy-meadow",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:stoneville",
+          "width": 1788,
+          "height": 1005,
+          "stage": "primary"
+        },
+        {
+          "id": "region:abandoned-district",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:wishing-woods",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:memorial-mountains",
+          "width": 1983,
+          "height": 793,
+          "stage": "primary"
+        },
+        {
+          "id": "region:firework-isles",
+          "width": 1920,
+          "height": 1080,
+          "stage": "primary"
+        },
+        {
+          "id": "region:danqing-island",
+          "width": 1920,
+          "height": 2160,
+          "stage": "primary"
+        },
+        {
+          "id": "region:itzaland",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        }
+      ],
+      "language_quality_checks": 5,
+      "homepage_jpeg": "decoded",
+      "catalog_fallback": "passed"
+    },
+    {
+      "entry": "single_html",
+      "regions": [
+        {
+          "id": "region:florawish",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:breezy-meadow",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:stoneville",
+          "width": 1788,
+          "height": 1005,
+          "stage": "primary"
+        },
+        {
+          "id": "region:abandoned-district",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:wishing-woods",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:memorial-mountains",
+          "width": 1983,
+          "height": 793,
+          "stage": "primary"
+        },
+        {
+          "id": "region:firework-isles",
+          "width": 1920,
+          "height": 1080,
+          "stage": "primary"
+        },
+        {
+          "id": "region:danqing-island",
+          "width": 1920,
+          "height": 2160,
+          "stage": "primary"
+        },
+        {
+          "id": "region:itzaland",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        }
+      ],
+      "language_quality_checks": 5,
+      "homepage_jpeg": "decoded",
+      "catalog_fallback": "passed"
+    },
+    {
+      "entry": "http_root",
+      "regions": [
+        {
+          "id": "region:florawish",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:breezy-meadow",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:stoneville",
+          "width": 1788,
+          "height": 1005,
+          "stage": "primary"
+        },
+        {
+          "id": "region:abandoned-district",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:wishing-woods",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:memorial-mountains",
+          "width": 1983,
+          "height": 793,
+          "stage": "primary"
+        },
+        {
+          "id": "region:firework-isles",
+          "width": 1920,
+          "height": 1080,
+          "stage": "primary"
+        },
+        {
+          "id": "region:danqing-island",
+          "width": 1920,
+          "height": 2160,
+          "stage": "primary"
+        },
+        {
+          "id": "region:itzaland",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        }
+      ],
+      "language_quality_checks": 5,
+      "homepage_jpeg": "decoded",
+      "catalog_fallback": "passed"
+    },
+    {
+      "entry": "pages_subdirectory",
+      "regions": [
+        {
+          "id": "region:florawish",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:breezy-meadow",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:stoneville",
+          "width": 1788,
+          "height": 1005,
+          "stage": "primary"
+        },
+        {
+          "id": "region:abandoned-district",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:wishing-woods",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        },
+        {
+          "id": "region:memorial-mountains",
+          "width": 1983,
+          "height": 793,
+          "stage": "primary"
+        },
+        {
+          "id": "region:firework-isles",
+          "width": 1920,
+          "height": 1080,
+          "stage": "primary"
+        },
+        {
+          "id": "region:danqing-island",
+          "width": 1920,
+          "height": 2160,
+          "stage": "primary"
+        },
+        {
+          "id": "region:itzaland",
+          "width": 1920,
+          "height": 969,
+          "stage": "primary"
+        }
+      ],
+      "language_quality_checks": 5,
+      "homepage_jpeg": "decoded",
+      "catalog_fallback": "passed"
+    },
+    {
+      "entry": "broken-one",
+      "state": "fallback",
+      "hidden": false,
+      "header": "花愿镇区域采集索引 · 装饰背景，非地图底图",
+      "badge": "图片未加载 · 显示主题插画",
+      "session_availability": "8/9; original build denominator not silently changed"
+    },
+    {
+      "entry": "broken-both",
+      "state": "graphic-only",
+      "hidden": true,
+      "header": "花愿镇区域采集索引 · 装饰背景，非地图底图",
+      "badge": "主题回退 · 非地图底图",
+      "session_availability": "8/9; original build denominator not silently changed"
+    }
+  ],
+  "regions_checked": 36,
+  "primary_files": 9,
+  "official_files": 8,
+  "placeholder_files": 0,
+  "user_screenshot_files": 1,
+  "local_catalog_checks": [
+    {
+      "entry": "file",
+      "count": 114,
+      "passed": 114
+    },
+    {
+      "entry": "file",
+      "count": 114,
+      "passed": 114
+    },
+    {
+      "entry": "http",
+      "count": 114,
+      "passed": 114
+    },
+    {
+      "entry": "http",
+      "count": 114,
+      "passed": 114
+    }
+  ],
+  "runtime_exceptions": 0,
+  "failure_modes": [
+    "primary_to_svg",
+    "primary_and_svg_to_gradient_icon"
+  ],
+  "remote_images": "blocked deliberately; remote availability audited separately, not declared universally available",
+  "warning_count": 740
+}

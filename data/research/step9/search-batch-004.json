@@ -1,0 +1,400 @@
+[
+  {
+    "object_id": "o1008502",
+    "checked_at": "2026-10-11T15:36:18.483Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"流金的根芽·烬痕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Golden Buds: Ashes\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"流金的根芽·烬痕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Golden Buds: Ashes\" evolution materials OR \"流金的根芽·烬痕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1009202",
+    "checked_at": "2026-10-11T15:36:21.509Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"爵士夜甜心·圆舞\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sweet Jazz Nights: Waltz\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"爵士夜甜心·圆舞\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sweet Jazz Nights: Waltz\" evolution materials OR \"爵士夜甜心·圆舞\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1009302",
+    "checked_at": "2026-10-11T15:36:23.210Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"群星绽放时·坠梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoming Stars: Dreamfall\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"群星绽放时·坠梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blossoming Stars: Dreamfall\" evolution materials OR \"群星绽放时·坠梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blossoming Stars: Dreamfall | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Dreamfall",
+        "evolution": "1 Heartshine\n\n1 Blossoming Stars: Dreamfall",
+        "crafting": null
+      },
+      {
+        "title": "Blossoming Stars: Starlight | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Starlight",
+        "evolution": "1 Heartshine\n\n1 Blossoming Stars: Starlight",
+        "crafting": null
+      },
+      {
+        "title": "Blossoming Stars: Radiance | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Radiance",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komuniti Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=malay",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunità di Steam :: Guida :: 《星空》深度鉴赏与解读：何以成为终极太空RPG",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3437469620&l=italian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Workshop di Steam::自用合集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3155321074&l=italian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::11111",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3430943562&l=swedish",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1009303",
+    "checked_at": "2026-10-11T15:36:25.395Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"群星绽放时·星影\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoming Stars: Starlight\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"群星绽放时·星影\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blossoming Stars: Starlight\" evolution materials OR \"群星绽放时·星影\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blossoming Stars: Starlight | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Starlight",
+        "evolution": "1 Heartshine\n\n1 Blossoming Stars: Starlight",
+        "crafting": null
+      },
+      {
+        "title": "Blossoming Stars: Dreamfall | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Dreamfall",
+        "evolution": "1 Heartshine\n\n1 Blossoming Stars: Dreamfall",
+        "crafting": null
+      },
+      {
+        "title": "Blossoming Stars: Radiance | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Radiance",
+        "evolution": "2 Blossoming Stars\n\n1 Blossoming Stars: Radiance",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1009304",
+    "checked_at": "2026-10-11T15:36:26.936Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"群星绽放时·璀璨\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoming Stars: Radiance\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"群星绽放时·璀璨\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blossoming Stars: Radiance\" evolution materials OR \"群星绽放时·璀璨\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blossoming Stars: Radiance | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Radiance",
+        "evolution": "2 Blossoming Stars\n\n1 Blossoming Stars: Radiance",
+        "crafting": null
+      },
+      {
+        "title": "Blossoming Stars: Starlight | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Starlight",
+        "evolution": "1 Heartshine\n\n1 Blossoming Stars: Starlight",
+        "crafting": null
+      },
+      {
+        "title": "Blossoming Stars: Dreamfall | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Dreamfall",
+        "evolution": "1 Heartshine\n\n1 Blossoming Stars: Dreamfall",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1009402",
+    "checked_at": "2026-10-11T15:36:29.027Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"辉月诺言·幽林\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moonlight Oath: Woods\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"辉月诺言·幽林\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Moonlight Oath: Woods\" evolution materials OR \"辉月诺言·幽林\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "张枣诗选：镜中（72首）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405080111744680118",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1009502",
+    "checked_at": "2026-10-11T15:36:31.040Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心湖涟漪·初虹\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Heartlake Ripples: Rainbow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心湖涟漪·初虹\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Heartlake Ripples: Rainbow\" evolution materials OR \"心湖涟漪·初虹\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Heartlake Ripples: Rainbow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartlake_Ripples%3A_Rainbow",
+        "evolution": "1 Starry Thoughts\n\n2 Heartlake Ripples\n\n100 Thread of Purity\n\n30k Bling\n\n1 Heartlake Ripples: Rainbow",
+        "crafting": null
+      },
+      {
+        "title": "Starry Thoughts | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Starry_Thoughts",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "2025新场一览：总量少、质量高，港资项目集中呈现（下）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405135336656470023",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1009602",
+    "checked_at": "2026-10-11T15:36:34.043Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"仲夜守望·启程\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Midnight Vigil: Embark\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"仲夜守望·启程\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Midnight Vigil: Embark\" evolution materials OR \"仲夜守望·启程\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Midnight Vigil: Embark | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Midnight_Vigil%3A_Embark",
+        "evolution": "2 Midnight Vigil\n\n1 Midnight Vigil: Embark",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1009702",
+    "checked_at": "2026-10-11T15:36:36.058Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"恒久羁绊·回忆\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enduring Bond: Memories\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"恒久羁绊·回忆\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Enduring Bond: Memories\" evolution materials OR \"恒久羁绊·回忆\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Enduring Bond: Memories | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enduring_Bond%3A_Memories",
+        "evolution": "2 Enduring Bond\n\n1 Enduring Bond: Memories",
+        "crafting": null
+      },
+      {
+        "title": "Komunitas Steam :: Panduan :: 最后的神迹（遗迹）详细攻略 针对电子书进行补充扩展 整理收集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3006469651&l=indonesian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Cộng đồng Steam :: Hướng dẫn :: 最后的神迹（遗迹）详细攻略 针对电子书进行补充扩展 整理收集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3006469651&l=vietnamese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam közösség :: 幾星霜Distantsora :: Játékok",
+        "url": "https://steamcommunity.com/id/DistantSora/recommended?l=hungarian&p=2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunità di Steam :: Jade :: Giochi",
+        "url": "https://steamcommunity.com/profiles/76561198443202598/recommended?l=italian&p=1",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1010502",
+    "checked_at": "2026-10-11T15:36:38.384Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"愿笔生花·星舞\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enchanted Writing: Starlight\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"愿笔生花·星舞\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Enchanted Writing: Starlight\" evolution materials OR \"愿笔生花·星舞\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

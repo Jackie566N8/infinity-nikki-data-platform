@@ -1,0 +1,142 @@
+[
+  {
+    "material_id": "minv_1110100042",
+    "source_id": "inv_1110100042",
+    "names": {
+      "zh-CN": "心辉·眠于花畔",
+      "en": "Heartshine: Slumber by Blossoms",
+      "ja": "心輝・花畔の眠り",
+      "ko": "마음빛·꽃언덕에 잠들다",
+      "zh-TW": "心輝·眠於花畔"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100042",
+    "checked_at": "2026-10-11T16:00:50.721Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100036",
+    "source_id": "inv_1110100036",
+    "names": {
+      "zh-CN": "心辉·她是不驯火",
+      "en": "Heartshine: She Is Wildfire",
+      "ja": "心輝・彼女は不縛の炎",
+      "ko": "마음빛·그녀, 길들지 않는 불꽃",
+      "zh-TW": "心輝·她是不馴火"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100036",
+    "checked_at": "2026-10-11T16:00:52.048Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100041",
+    "source_id": "inv_1110100041",
+    "names": {
+      "zh-CN": "心辉·栖骨生花",
+      "en": "Heartshine: Floral Rebirth",
+      "ja": "心輝・枯骨に咲く花",
+      "ko": "마음빛·뼈에 피어난 꽃",
+      "zh-TW": "心輝·棲骨生花"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100041",
+    "checked_at": "2026-10-11T16:00:52.346Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100046",
+    "source_id": "inv_1110100046",
+    "names": {
+      "zh-CN": "心辉·黎明无声",
+      "en": "Heartshine: Soundless Dawn",
+      "ja": "心輝・無音の黎明",
+      "ko": "마음빛·소리 없는 여명",
+      "zh-TW": "心輝·黎明無聲"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100046",
+    "checked_at": "2026-10-11T16:00:52.980Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100028",
+    "source_id": "inv_1110100028",
+    "names": {
+      "zh-CN": "心辉·万相渡浮生",
+      "en": "Heartshine: Where Wanxiang Weaves Life",
+      "ja": "心輝・浮生を渡る万相",
+      "ko": "마음빛·속세를 살린 만상",
+      "zh-TW": "心輝·萬相渡浮生"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100028",
+    "checked_at": "2026-10-11T16:00:53.126Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100029",
+    "source_id": "inv_1110100029",
+    "names": {
+      "zh-CN": "心辉·九色亦尘心",
+      "en": "Heartshine: Chroma's Mortal Heart",
+      "ja": "心輝・人心を有す九色",
+      "ko": "마음빛·구색도 인간의 마음",
+      "zh-TW": "心輝·九色亦塵心"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100029",
+    "checked_at": "2026-10-11T16:00:53.531Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100040",
+    "source_id": "inv_1110100040",
+    "names": {
+      "zh-CN": "心辉·渡者无归",
+      "en": "Heartshine: Guide of No Return",
+      "ja": "心輝・無帰の渡り手",
+      "ko": "마음빛·돌아오지 않는 자",
+      "zh-TW": "心輝·渡者無歸"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100040",
+    "checked_at": "2026-10-11T16:00:53.686Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110101009",
+    "source_id": "inv_1110101009",
+    "names": {
+      "zh-CN": "明彻思绪",
+      "en": "Clear Thoughts",
+      "ja": "メイセキマインド",
+      "ko": "투철한 생각",
+      "zh-TW": "明徹思緒"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110101009",
+    "checked_at": "2026-10-11T16:00:53.850Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110120007",
+    "source_id": "inv_1110120007",
+    "names": {
+      "zh-CN": "炽曜金砂",
+      "en": "Sunblaze Goldsand",
+      "ja": "灼光の金砂",
+      "ko": "빛나는 금빛 모래",
+      "zh-TW": "熾曜金砂"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110120007",
+    "checked_at": "2026-10-11T16:14:53.513Z",
+    "confidence": "medium"
+  },
+  {
+    "material_id": "minv_1110100056",
+    "source_id": "inv_1110100056",
+    "names": {
+      "zh-CN": "心辉·咏赞黄昏",
+      "en": "Heartshine: Hymn to Dusk",
+      "ja": "心輝・黄昏の賛歌",
+      "ko": "마음빛·황혼의 찬가",
+      "zh-TW": "心輝·詠讚黃昏"
+    },
+    "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100056",
+    "checked_at": "2026-10-11T16:14:54.391Z",
+    "confidence": "medium"
+  }
+]

@@ -1,0 +1,346 @@
+[
+  {
+    "object_id": "o1022702",
+    "checked_at": "2026-10-11T15:39:56.521Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心享芳语·蜜意\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispers of Bliss: Sweetness\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心享芳语·蜜意\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Whispers of Bliss: Sweetness\" evolution materials OR \"心享芳语·蜜意\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Whispers of Bliss: Sweetness | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Bliss%3A_Sweetness",
+        "evolution": "2 Whispers of Bliss\n\n1 Whispers of Bliss: Sweetness",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022802",
+    "checked_at": "2026-10-11T15:39:58.361Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绿野轻歌·惜别\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Melodies: Farewell\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绿野轻歌·惜别\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Verdant Melodies: Farewell\" evolution materials OR \"绿野轻歌·惜别\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Verdant Melodies: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Verdant_Melodies%3A_Farewell",
+        "evolution": "2 Verdant Melodies\n\n1 Verdant Melodies: Farewell",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023102",
+    "checked_at": "2026-10-11T15:40:00.869Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"落入泪之潮·挽歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tide of Tears: Lament\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"落入泪之潮·挽歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Tide of Tears: Lament\" evolution materials OR \"落入泪之潮·挽歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Tide of Tears: Lament | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Lament",
+        "evolution": "1 Heartshine: Tide of Tears\n\n1 Tide of Tears: Lament",
+        "crafting": null
+      },
+      {
+        "title": "Tide of Tears: Scales | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Scales",
+        "evolution": "1 Heartshine: Tide of Tears\n\n1 Tide of Tears: Scales",
+        "crafting": null
+      },
+      {
+        "title": "Tide of Tears: Snow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Snow",
+        "evolution": "2 Tide of Tears\n\n1 Tide of Tears: Snow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023103",
+    "checked_at": "2026-10-11T15:40:02.930Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"落入泪之潮·落鳞\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tide of Tears: Scales\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"落入泪之潮·落鳞\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Tide of Tears: Scales\" evolution materials OR \"落入泪之潮·落鳞\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Tide of Tears: Scales | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Scales",
+        "evolution": "1 Heartshine: Tide of Tears\n\n1 Tide of Tears: Scales",
+        "crafting": null
+      },
+      {
+        "title": "Tide of Tears: Lament | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Lament",
+        "evolution": "1 Heartshine: Tide of Tears\n\n1 Tide of Tears: Lament",
+        "crafting": null
+      },
+      {
+        "title": "Tide of Tears: Snow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Snow",
+        "evolution": "2 Tide of Tears\n\n1 Tide of Tears: Snow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023104",
+    "checked_at": "2026-10-11T15:40:05.619Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"落入泪之潮·冰雪\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tide of Tears: Snow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"落入泪之潮·冰雪\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Tide of Tears: Snow\" evolution materials OR \"落入泪之潮·冰雪\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Tide of Tears: Snow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Snow",
+        "evolution": "2 Tide of Tears\n\n1 Tide of Tears: Snow",
+        "crafting": null
+      },
+      {
+        "title": "Tide of Tears: Scales | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Scales",
+        "evolution": "1 Heartshine: Tide of Tears\n\n1 Tide of Tears: Scales",
+        "crafting": null
+      },
+      {
+        "title": "Tide of Tears: Lament | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Lament",
+        "evolution": "1 Heartshine: Tide of Tears\n\n1 Tide of Tears: Lament",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023202",
+    "checked_at": "2026-10-11T15:40:07.630Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"漫夜灯语·微光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Nightlight Whispers: Shimmer\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"漫夜灯语·微光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Nightlight Whispers: Shimmer\" evolution materials OR \"漫夜灯语·微光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Nightlight Whispers: Shimmer | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nightlight_Whispers%3A_Shimmer",
+        "evolution": "2 Nightlight Whispers\n\n1 Nightlight Whispers: Shimmer",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023402",
+    "checked_at": "2026-10-11T15:40:09.528Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"林深栖羽·遗烬\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Woodland Nesting: Ashes\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"林深栖羽·遗烬\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Woodland Nesting: Ashes\" evolution materials OR \"林深栖羽·遗烬\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Woodland Nesting: Ashes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Woodland_Nesting%3A_Ashes",
+        "evolution": "2 Woodland Nesting\n\n1 Woodland Nesting: Ashes",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023502",
+    "checked_at": "2026-10-11T15:40:11.221Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"王国的女儿·长明\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Daughter of the Kingdom: Eternal Light\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"王国的女儿·长明\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Daughter of the Kingdom: Eternal Light\" evolution materials OR \"王国的女儿·长明\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1023802",
+    "checked_at": "2026-10-11T15:40:12.731Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"气球漫游记·甜圈派\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Balloon Trip: Donut\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"气球漫游记·甜圈派\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Balloon Trip: Donut\" evolution materials OR \"气球漫游记·甜圈派\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1023902",
+    "checked_at": "2026-10-11T15:40:14.324Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏叙的旧梦·未来声\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Echoed Dreams: Future Tone\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏叙的旧梦·未来声\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Echoed Dreams: Future Tone\" evolution materials OR \"咏叙的旧梦·未来声\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Echoed Dreams: Future Tone | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Future_Tone",
+        "evolution": "1 Heartshine: Echoed Dreams\n\n1 Echoed Dreams: Future Tone",
+        "crafting": null
+      },
+      {
+        "title": "Echoed Dreams: Threaded Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Threaded_Melody",
+        "evolution": "1 Heartshine: Echoed Dreams\n\n1 Echoed Dreams: Threaded Melody",
+        "crafting": null
+      }
+    ]
+  }
+]

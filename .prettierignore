@@ -1,0 +1,11 @@
+data/
+src/*-data.js
+src/data.js
+src/locales.js
+src/smart-vendor-*.js
+src/*-model.js
+scripts/platform/search/*-model.cjs
+scripts/platform/search-improved/improved-model.cjs
+scripts/platform/search-improved/vendor/
+outputs/
+review/

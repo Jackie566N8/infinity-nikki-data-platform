@@ -1,0 +1,430 @@
+[
+  {
+    "object_id": "o1014302",
+    "checked_at": "2026-10-11T15:37:31.323Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"逐水聆音·浪歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Water's Echo: Wave Song\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"逐水聆音·浪歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Water's Echo: Wave Song\" evolution materials OR \"逐水聆音·浪歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1014502",
+    "checked_at": "2026-10-11T15:37:33.555Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"谕浪希声·脉语\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispers of Waves: Echoes\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"谕浪希声·脉语\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Whispers of Waves: Echoes\" evolution materials OR \"谕浪希声·脉语\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Whispers of Waves: Echoes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Echoes",
+        "evolution": "1 Heartshine\n\n1 Whispers of Waves: Echoes",
+        "crafting": null
+      },
+      {
+        "title": "Whispers of Waves: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Forest",
+        "evolution": "1 Heartshine\n\n1 Whispers of Waves: Forest",
+        "crafting": null
+      },
+      {
+        "title": "Whispers of Waves: Phantom | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Phantom",
+        "evolution": "2 Whispers of Waves\n\n1 Whispers of Waves: Phantom",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1014503",
+    "checked_at": "2026-10-11T15:37:35.462Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"谕浪希声·森迹\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispers of Waves: Forest\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"谕浪希声·森迹\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Whispers of Waves: Forest\" evolution materials OR \"谕浪希声·森迹\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Whispers of Waves: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Forest",
+        "evolution": "1 Heartshine\n\n1 Whispers of Waves: Forest",
+        "crafting": null
+      },
+      {
+        "title": "Whispers of Waves: Echoes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Echoes",
+        "evolution": "1 Heartshine\n\n1 Whispers of Waves: Echoes",
+        "crafting": null
+      },
+      {
+        "title": "Whispers of Waves: Phantom | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Phantom",
+        "evolution": "2 Whispers of Waves\n\n1 Whispers of Waves: Phantom",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1014504",
+    "checked_at": "2026-10-11T15:37:37.669Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"谕浪希声·幽厄\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispers of Waves: Phantom\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"谕浪希声·幽厄\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Whispers of Waves: Phantom\" evolution materials OR \"谕浪希声·幽厄\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Whispers of Waves: Phantom | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Phantom",
+        "evolution": "2 Whispers of Waves\n\n1 Whispers of Waves: Phantom",
+        "crafting": null
+      },
+      {
+        "title": "Whispers of Waves: Echoes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Echoes",
+        "evolution": "1 Heartshine\n\n1 Whispers of Waves: Echoes",
+        "crafting": null
+      },
+      {
+        "title": "Whispers of Waves: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Forest",
+        "evolution": "1 Heartshine\n\n1 Whispers of Waves: Forest",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1014602",
+    "checked_at": "2026-10-11T15:37:40.197Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"女王的游戏·争锋\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"The Queen's Move: Endgame\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"女王的游戏·争锋\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"The Queen's Move: Endgame\" evolution materials OR \"女王的游戏·争锋\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "The Queen's Move: Endgame | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/The_Queen%27s_Move%3A_Endgame",
+        "evolution": "2 The Queen's Move\n\n1 The Queen's Move: Endgame",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 漫威争锋",
+        "url": "https://steamcommunity.com/app/2767030/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 커뮤니티 :: YANER :: 게임",
+        "url": "https://steamcommunity.com/profiles/76561198165387177/reviews/?l=koreana&p=3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: 倉立刀 :: Games",
+        "url": "https://steamcommunity.com/profiles/76561198088554959/recommended/",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-fællesskab :: Guide :: 〖我的2025 游戏日记本 - My 2025 Gaming Journal & Facts〗",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3634772808&l=danish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Сообщество Steam :: YANER :: Игры",
+        "url": "https://steamcommunity.com/profiles/76561198165387177/reviews/?l=russian&p=3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖更长篇〗虫心所有人物分析（除利维坦NPC）及虫心原企划探究〖星际历史吧〗_百度贴吧",
+        "url": "https://tieba.baidu.com/p/2443037499?pid=35116535903&see_lz=1",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1015302",
+    "checked_at": "2026-10-11T15:37:42.912Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蛙蛙风尚·守夜者\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Froggy Fashion: Night\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蛙蛙风尚·守夜者\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Froggy Fashion: Night\" evolution materials OR \"蛙蛙风尚·守夜者\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1015402",
+    "checked_at": "2026-10-11T15:37:44.651Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"仙踪绮遇·雪旅\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enchanted Encounter: Snowcrest\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"仙踪绮遇·雪旅\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Enchanted Encounter: Snowcrest\" evolution materials OR \"仙踪绮遇·雪旅\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Enchanted Encounter: Snowcrest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Snowcrest",
+        "evolution": "1 Heartshine: Enchanted Encounter\n\n1 Enchanted Encounter: Snowcrest",
+        "crafting": null
+      },
+      {
+        "title": "Enchanted Encounter: Gleam | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Gleam",
+        "evolution": "1 Heartshine: Enchanted Encounter\n\n1 Enchanted Encounter: Gleam",
+        "crafting": null
+      },
+      {
+        "title": "Enchanted Encounter: Dreamtrail | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Dreamtrail",
+        "evolution": "2 Enchanted Encounter\n\n1 Enchanted Encounter: Dreamtrail",
+        "crafting": null
+      },
+      {
+        "title": "全国重点文物保护单位目录（更新篇）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404940122146865464",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1015403",
+    "checked_at": "2026-10-11T15:37:47.060Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"仙踪绮遇·明光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enchanted Encounter: Gleam\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"仙踪绮遇·明光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Enchanted Encounter: Gleam\" evolution materials OR \"仙踪绮遇·明光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Enchanted Encounter: Gleam | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Gleam",
+        "evolution": "1 Heartshine: Enchanted Encounter\n\n1 Enchanted Encounter: Gleam",
+        "crafting": null
+      },
+      {
+        "title": "Enchanted Encounter: Dreamtrail | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Dreamtrail",
+        "evolution": "2 Enchanted Encounter\n\n1 Enchanted Encounter: Dreamtrail",
+        "crafting": null
+      },
+      {
+        "title": "Enchanted Encounter: Snowcrest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Snowcrest",
+        "evolution": "1 Heartshine: Enchanted Encounter\n\n1 Enchanted Encounter: Snowcrest",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1015404",
+    "checked_at": "2026-10-11T15:37:49.878Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"仙踪绮遇·心迹\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enchanted Encounter: Dreamtrail\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"仙踪绮遇·心迹\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Enchanted Encounter: Dreamtrail\" evolution materials OR \"仙踪绮遇·心迹\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Enchanted Encounter: Dreamtrail | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Dreamtrail",
+        "evolution": "2 Enchanted Encounter\n\n1 Enchanted Encounter: Dreamtrail",
+        "crafting": null
+      },
+      {
+        "title": "Enchanted Encounter: Gleam | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Gleam",
+        "evolution": "1 Heartshine: Enchanted Encounter\n\n1 Enchanted Encounter: Gleam",
+        "crafting": null
+      },
+      {
+        "title": "Enchanted Encounter: Snowcrest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Snowcrest",
+        "evolution": "1 Heartshine: Enchanted Encounter\n\n1 Enchanted Encounter: Snowcrest",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016002",
+    "checked_at": "2026-10-11T15:37:51.747Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"淑雅格调·林影\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Graceful Elegance: Forest Silhouettes\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"淑雅格调·林影\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Graceful Elegance: Forest Silhouettes\" evolution materials OR \"淑雅格调·林影\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Graceful Elegance: Forest Silhouettes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Graceful_Elegance%3A_Forest_Silhouettes",
+        "evolution": "2 Graceful Elegance\n\n1 Graceful Elegance: Forest Silhouettes",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖泡泡季# #无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Ppc3J84dJ",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

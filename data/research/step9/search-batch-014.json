@@ -1,0 +1,382 @@
+[
+  {
+    "object_id": "o1023903",
+    "checked_at": "2026-10-11T15:40:19.673Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏叙的旧梦·偶人歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Echoed Dreams: Threaded Melody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏叙的旧梦·偶人歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Echoed Dreams: Threaded Melody\" evolution materials OR \"咏叙的旧梦·偶人歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Echoed Dreams: Threaded Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Threaded_Melody",
+        "evolution": "1 Heartshine: Echoed Dreams\n\n1 Echoed Dreams: Threaded Melody",
+        "crafting": null
+      },
+      {
+        "title": "Echoed Dreams: Future Tone | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Future_Tone",
+        "evolution": "1 Heartshine: Echoed Dreams\n\n1 Echoed Dreams: Future Tone",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1023904",
+    "checked_at": "2026-10-11T15:40:21.559Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏叙的旧梦·终之瑰\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Echoed Dreams: Rose Finale\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏叙的旧梦·终之瑰\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Echoed Dreams: Rose Finale\" evolution materials OR \"咏叙的旧梦·终之瑰\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Echoed Dreams: Threaded Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Threaded_Melody",
+        "evolution": "1 Heartshine: Echoed Dreams\n\n1 Echoed Dreams: Threaded Melody",
+        "crafting": null
+      },
+      {
+        "title": "Echoed Dreams: Future Tone | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Future_Tone",
+        "evolution": "1 Heartshine: Echoed Dreams\n\n1 Echoed Dreams: Future Tone",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1024102",
+    "checked_at": "2026-10-11T15:40:23.262Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"白日溯梦·荒言\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rewound Daydream: Absurdity\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"白日溯梦·荒言\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rewound Daydream: Absurdity\" evolution materials OR \"白日溯梦·荒言\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Rewound Daydream: Absurdity | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rewound_Daydream%3A_Absurdity",
+        "evolution": "2 Rewound Daydream\n\n1 Rewound Daydream: Absurdity",
+        "crafting": null
+      },
+      {
+        "title": "Steam Műhely::明日方舟 -ARKNIGHTS-",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=1783617625&l=hungarian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1024302",
+    "checked_at": "2026-10-11T15:40:25.172Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心枰渡前尘·瑶光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Heartboard Crossing: Jadeglow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心枰渡前尘·瑶光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Heartboard Crossing: Jadeglow\" evolution materials OR \"心枰渡前尘·瑶光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1024402",
+    "checked_at": "2026-10-11T15:40:26.669Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"三生因缘·彼岸\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lifetime Yin Yuan: Other Shore\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"三生因缘·彼岸\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Lifetime Yin Yuan: Other Shore\" evolution materials OR \"三生因缘·彼岸\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "心灵DNA——神圣几何、生命之花、梅尔卡巴、周易太极八卦和麦田圈",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309634602135764664403",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖转载〗短篇《梦浮桥》(稚生中心)〖龙族吧〗_百度贴吧",
+        "url": "https://tieba.baidu.com/p/2910690682?fr=good",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "佛经经典名句356句，句句经典，值得反复读诵",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309404652307618070825",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "当代近一百位法师、大德对净空法师的评价",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309404796160731906077",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1024502",
+    "checked_at": "2026-10-11T15:40:28.545Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花明千焰·燃梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Thousand Flames: Kindled\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花明千焰·燃梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Thousand Flames: Kindled\" evolution materials OR \"花明千焰·燃梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1024902",
+    "checked_at": "2026-10-11T15:40:30.043Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"真意无形 ·铭心\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Formless Truth: Heartbound\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"真意无形 ·铭心\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Formless Truth: Heartbound\" evolution materials OR \"真意无形 ·铭心\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Formless Truth: Heartbound | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Formless_Truth%3A_Heartbound",
+        "evolution": "2 Formless Truth\n\n1 Formless Truth: Heartbound",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1025002",
+    "checked_at": "2026-10-11T15:40:31.907Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如雨坠，如花开·告别\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rainfall & Blossoms: Farewell\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如雨坠，如花开·告别\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rainfall & Blossoms: Farewell\" evolution materials OR \"如雨坠，如花开·告别\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Rainfall & Blossoms: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Farewell",
+        "evolution": "2 Heartshine: Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Farewell",
+        "crafting": null
+      },
+      {
+        "title": "Heartshine: Rainfall & Blossoms | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartshine%3A_Rainfall_%26_Blossoms",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Rainfall & Blossoms: Anticipation | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Anticipation",
+        "evolution": "2 Heartshine: Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Anticipation",
+        "crafting": null
+      },
+      {
+        "title": "Rainfall & Blossoms: Flourish | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Flourish",
+        "evolution": "2 Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Flourish",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1025003",
+    "checked_at": "2026-10-11T15:40:33.830Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如雨坠，如花开·等候\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rainfall & Blossoms: Anticipation\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如雨坠，如花开·等候\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rainfall & Blossoms: Anticipation\" evolution materials OR \"如雨坠，如花开·等候\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Rainfall & Blossoms: Anticipation | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Anticipation",
+        "evolution": "2 Heartshine: Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Anticipation",
+        "crafting": null
+      },
+      {
+        "title": "Rainfall & Blossoms: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Farewell",
+        "evolution": "2 Heartshine: Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Farewell",
+        "crafting": null
+      },
+      {
+        "title": "Heartshine: Rainfall & Blossoms | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartshine%3A_Rainfall_%26_Blossoms",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Rainfall & Blossoms: Flourish | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Flourish",
+        "evolution": "2 Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Flourish",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1025004",
+    "checked_at": "2026-10-11T15:40:35.389Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如雨坠，如花开· 怒放\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rainfall & Blossoms: Flourish\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如雨坠，如花开· 怒放\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rainfall & Blossoms: Flourish\" evolution materials OR \"如雨坠，如花开· 怒放\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Rainfall & Blossoms: Flourish | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Flourish",
+        "evolution": "2 Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Flourish",
+        "crafting": null
+      },
+      {
+        "title": "Rainfall & Blossoms: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Farewell",
+        "evolution": "2 Heartshine: Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Farewell",
+        "crafting": null
+      },
+      {
+        "title": "Rainfall & Blossoms: Anticipation | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Anticipation",
+        "evolution": "2 Heartshine: Rainfall & Blossoms\n\n1 Rainfall & Blossoms: Anticipation",
+        "crafting": null
+      }
+    ]
+  }
+]

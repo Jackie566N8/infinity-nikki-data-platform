@@ -1,0 +1,47 @@
+{
+  "created_at": "2026-10-10T05:46:01.350Z",
+  "source_corpus_sha256": "642237fcdb3a5818475a1638a9e64c60d63e18b96f5d16e101d0545d2d68496f",
+  "feature_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8",
+  "document_count": 8734,
+  "with_colors": 346,
+  "with_verified_elements": 1,
+  "with_description_mentions": 1,
+  "unmapped_color_names": [
+    "Momo's Cloak: Thousand Stars",
+    "Night Serenity",
+    "Floral Souls",
+    "Floral Watering Can",
+    "Departed Witness",
+    "Basked in Light",
+    "Beyond Mountains",
+    "Chroma's Spring",
+    "Fading Night",
+    "Mark of Fate",
+    "Momo's Cloak: Against the Tide",
+    "Crimson Oracle",
+    "Light Me Up",
+    "Momo's Cloak: Sugary Dreams",
+    "New Saplings"
+  ],
+  "provenance": "Build reads corpus, catalog and source facts; never dev/test queries or relevance labels. No name-based visual inference, no part-to-outfit color inheritance.",
+  "dependencies": [
+    {
+      "name": "pinyin-pro",
+      "version": "3.29.5",
+      "license": "MIT",
+      "url": "https://cdn.jsdelivr.net/npm/pinyin-pro@3.29.5/dist/index.js",
+      "main": "dist/index.js",
+      "sha256": "a488173470768ace074c3c4fffbb880e83523b3aa9598a8147c930e7f2d5c7dc",
+      "retrieved_at": "2026-10-10T05:43:02.604Z"
+    },
+    {
+      "name": "opencc-js",
+      "version": "1.4.2",
+      "license": "MIT AND Apache-2.0",
+      "url": "https://cdn.jsdelivr.net/npm/opencc-js@1.4.2/dist/umd/full.js",
+      "main": "dist/umd/full.js",
+      "sha256": "95b04abf136d9c28263773bb7d357eac80b7954d101efd23c4d09c737d3d379e",
+      "retrieved_at": "2026-10-10T05:43:02.947Z"
+    }
+  ]
+}

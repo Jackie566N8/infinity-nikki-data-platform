@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48"><title>Momo — starry eyes and raised paws</title><g stroke-linecap="round" stroke-linejoin="round"><path d="M3 2 5 16 8.6 12.8 11.5 18 14.3 16.4 11.3 11.3 16 10.5Z" fill="#ad7d43" stroke="#fff" stroke-width="1.5"/><path d="M10 11Q16 10 23 15Q29 12 34 15L44 12Q46 19 44 27Q47 34 43 39Q28 46 13 39Q8 36 10 27Q8 19 10 11Z" fill="#ffde88" stroke="#a37a50" stroke-width="1.1"/>
+<path d="M10 12 12 24 15 18Zm33 2-1 12-3-7ZM11 32Q12 40 23 41L16 35m21 1 8-6-2 8-10 4" fill="#efba6a" opacity=".8"/>
+<path d="M16 31C17 23 22 18 28 18C36 17 41 25 42 32C44 42 15 44 16 31Z" fill="#fffefd" stroke="#b49c87" stroke-width=".85"/>
+<path d="M28 20Q33 14 28 7L24 3Q32 8 33 13Q33 17 28 20Z" fill="#ed9b68" stroke="#b27a53" stroke-width=".9"/>
+<ellipse cx="20" cy="34" rx="2.7" ry="1.6" fill="#f3c5c3" opacity=".75"/><ellipse cx="38" cy="34" rx="2.7" ry="1.6" fill="#f3c5c3" opacity=".75"/><circle cx="22.8" cy="28.8" r="3" fill="#85573c"/><circle cx="35.6" cy="28.8" r="3" fill="#85573c"/>
+<path d="m21 27 1.8 1 1.8-1-1 1.8 1 1.8-1.8-1-1.8 1 1-1.8Zm12.8 0 1.8 1 1.8-1-1 1.8 1 1.8-1.8-1-1.8 1 1-1.8Z" fill="#fffdf0"/>
+<path d="M27 34q2-1.5 4 0l-.5 4q-1.5 1.4-3 0Z" fill="#edb7b4" stroke="#9d7360" stroke-width=".8"/><path d="m18 31-7-.6m7 3-6 1.2m28-3 6 .4m-6 2.7 5 1.1" stroke="#9b8069" stroke-width=".75"/>
+<path d="m27 42-5 3 .4-3.7 5-.5 4 .5 3 3.5-5-2.7" fill="#cb7680" stroke="#a66c66" stroke-width=".7"/><circle cx="28" cy="42" r="1.1" fill="#a76266"/><path d="M16 42q-3-1 0-6q2-3 4-2q2 2-.5 5.5Q18 43 16 42Zm25 0q3-1 0-6q-2-3-4-2q-2 2 .5 5.5Q39 43 41 42Z" fill="#fffefd" stroke="#ae9380" stroke-width=".9"/>
+<path d="m17 35 .5 1m1-1.5 .5 1m20-1 .5 1m-2-1.3 .5 1" stroke="#bca490" stroke-width=".65"/></g></svg>

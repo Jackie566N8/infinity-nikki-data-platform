@@ -1,0 +1,528 @@
+[
+  {
+    "object_id": "o20053",
+    "checked_at": "2026-10-11T15:35:30.451Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"海风的召唤\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Call of the Sea\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"海风的召唤\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Call of the Sea\" crafting materials OR \"海风的召唤\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Where the Stars Keep Watch | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_the_Stars_Keep_Watch",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Terra's Call | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Version/2.0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam コミュニティ :: ガイド :: 暗喻幻想：ReFantazio 全成就白金攻略🏆",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3350019943&l=japanese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::自用mod",
+        "url": "https://steamcommunity.com/workshop/filedetails/?id=3524306500",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komunitas Steam :: 幾星霜Distantsora :: Game",
+        "url": "https://steamcommunity.com/id/DistantSora/recommended?l=indonesian&p=5",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::303联机自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3677787932",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 永劫无间",
+        "url": "https://steamcommunity.com/app/1203220/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komunitas Steam :: 生死狙击2",
+        "url": "https://steamcommunity.com/app/1969870/allnews/?l=indonesian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖伊赞之土##无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Qf9Pcw12y?type=repost",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Сообщество Steam :: 生死狙击2",
+        "url": "https://steamcommunity.com/app/1969870/announcements/?l=russian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 커뮤니티 :: 生死狙击2",
+        "url": "https://steamcommunity.com/app/1969870/announcements/?l=koreana",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3672746008",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1000102",
+    "checked_at": "2026-10-11T15:35:32.293Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绽响黎明前·小夜灯\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dance Till Dawn: Nightlight\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绽响黎明前·小夜灯\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dance Till Dawn: Nightlight\" evolution materials OR \"绽响黎明前·小夜灯\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Dance Till Dawn: Nightlight | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Nightlight",
+        "evolution": "1 Heartshine: Dance Till Dawn\n\n1 Dance Till Dawn: Nightlight",
+        "crafting": null
+      },
+      {
+        "title": "Dance Till Dawn: Boat | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Boat",
+        "evolution": "1 Heartshine: Dance Till Dawn\n\n1 Dance Till Dawn: Boat",
+        "crafting": null
+      },
+      {
+        "title": "Dance Till Dawn: Fireworks | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Fireworks",
+        "evolution": "2 Dance Till Dawn\n\n1 Dance Till Dawn: Fireworks",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1000103",
+    "checked_at": "2026-10-11T15:35:34.420Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绽响黎明前·小石船\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dance Till Dawn: Boat\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绽响黎明前·小石船\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dance Till Dawn: Boat\" evolution materials OR \"绽响黎明前·小石船\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Dance Till Dawn: Boat | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Boat",
+        "evolution": "1 Heartshine: Dance Till Dawn\n\n1 Dance Till Dawn: Boat",
+        "crafting": null
+      },
+      {
+        "title": "Dance Till Dawn: Nightlight | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Nightlight",
+        "evolution": "1 Heartshine: Dance Till Dawn\n\n1 Dance Till Dawn: Nightlight",
+        "crafting": null
+      },
+      {
+        "title": "Dance Till Dawn: Fireworks | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Fireworks",
+        "evolution": "2 Dance Till Dawn\n\n1 Dance Till Dawn: Fireworks",
+        "crafting": null
+      },
+      {
+        "title": "张枣诗选：镜中（72首）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405080111744680118",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1000104",
+    "checked_at": "2026-10-11T15:35:36.353Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绽响黎明前·小礼花\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dance Till Dawn: Fireworks\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绽响黎明前·小礼花\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dance Till Dawn: Fireworks\" evolution materials OR \"绽响黎明前·小礼花\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Dance Till Dawn: Fireworks | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Fireworks",
+        "evolution": "2 Dance Till Dawn\n\n1 Dance Till Dawn: Fireworks",
+        "crafting": null
+      },
+      {
+        "title": "Dance Till Dawn: Boat | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Boat",
+        "evolution": "1 Heartshine: Dance Till Dawn\n\n1 Dance Till Dawn: Boat",
+        "crafting": null
+      },
+      {
+        "title": "Dance Till Dawn: Nightlight | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Nightlight",
+        "evolution": "1 Heartshine: Dance Till Dawn\n\n1 Dance Till Dawn: Nightlight",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1001102",
+    "checked_at": "2026-10-11T15:35:38.081Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"深林遥梦·暮歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Deepwood Dream: Twilight Song\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"深林遥梦·暮歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Deepwood Dream: Twilight Song\" evolution materials OR \"深林遥梦·暮歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Deepwood Dream: Twilight Song | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Deepwood_Dream%3A_Twilight_Song",
+        "evolution": "7 Ethereal Thoughts\n\n2 Deepwood Dream\n\n100 Thread of Purity\n\n30k Bling\n\n1 Deepwood Dream: Twilight Song",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖伊赞之土##无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Qf9Pcw12y?type=repost",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1003302",
+    "checked_at": "2026-10-11T15:35:40.269Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"天鹅童话·入梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fairytale Swan: Dream\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"天鹅童话·入梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Fairytale Swan: Dream\" evolution materials OR \"天鹅童话·入梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Fairytale Swan: Dream | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Dream",
+        "evolution": "1 Heartshine\n\n1 Fairytale Swan: Dream",
+        "crafting": null
+      },
+      {
+        "title": "Fairytale Swan: Mystfire | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Mystfire",
+        "evolution": "1 Heartshine\n\n1 Fairytale Swan: Mystfire",
+        "crafting": null
+      },
+      {
+        "title": "Fairytale Swan: Truth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Truth",
+        "evolution": "2 Fairytale Swan\n\n1 Fairytale Swan: Truth",
+        "crafting": null
+      },
+      {
+        "title": "S42〖神佑建木〗新赛季正式开启！萌趣联动、福利活动等你参与~",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309405252569663668507",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "张枣诗选：镜中（72首）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405080111744680118",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1003303",
+    "checked_at": "2026-10-11T15:35:42.873Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"天鹅童话·谜焰\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fairytale Swan: Mystfire\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"天鹅童话·谜焰\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Fairytale Swan: Mystfire\" evolution materials OR \"天鹅童话·谜焰\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Fairytale Swan: Mystfire | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Mystfire",
+        "evolution": "1 Heartshine\n\n1 Fairytale Swan: Mystfire",
+        "crafting": null
+      },
+      {
+        "title": "Fairytale Swan: Truth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Truth",
+        "evolution": "2 Fairytale Swan\n\n1 Fairytale Swan: Truth",
+        "crafting": null
+      },
+      {
+        "title": "Fairytale Swan: Dream | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Dream",
+        "evolution": "1 Heartshine\n\n1 Fairytale Swan: Dream",
+        "crafting": null
+      },
+      {
+        "title": "Comunidad de Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=latam",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunitatea Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=romanian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=portuguese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komuniti Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=malay",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Műhely::001",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3047522282&l=hungarian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1003304",
+    "checked_at": "2026-10-11T15:35:45.105Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"天鹅童话·真谛\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fairytale Swan: Truth\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"天鹅童话·真谛\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Fairytale Swan: Truth\" evolution materials OR \"天鹅童话·真谛\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Fairytale Swan: Truth | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Truth",
+        "evolution": "2 Fairytale Swan\n\n1 Fairytale Swan: Truth",
+        "crafting": null
+      },
+      {
+        "title": "Fairytale Swan: Mystfire | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Mystfire",
+        "evolution": "1 Heartshine\n\n1 Fairytale Swan: Mystfire",
+        "crafting": null
+      },
+      {
+        "title": "Fairytale Swan: Dream | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Dream",
+        "evolution": "1 Heartshine\n\n1 Fairytale Swan: Dream",
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: 草谷道长 :: Games",
+        "url": "https://steamcommunity.com/id/caogudaozhangmxj/recommended?l=english&p=2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "张枣诗选：镜中（72首）",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405080111744680118",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "天使妈妈邻友小家 | 微博 | 微公益-以微博之力让世界更美",
+        "url": "https://gongyi.weibo.com/r/241843?lfid=1005051619101101&luicode=10000011",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1004902",
+    "checked_at": "2026-10-11T15:35:46.652Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"森息浮光·暮颂\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Glimmering Forest: Twilight Hymn\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"森息浮光·暮颂\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Glimmering Forest: Twilight Hymn\" evolution materials OR \"森息浮光·暮颂\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Glimmering Forest: Twilight Hymn | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Glimmering_Forest%3A_Twilight_Hymn",
+        "evolution": "2 Glimmering Forest\n\n1 Glimmering Forest: Twilight Hymn",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1005102",
+    "checked_at": "2026-10-11T15:35:50.371Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"吟谣故梦·归途\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Timeless Echo: Way Home\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"吟谣故梦·归途\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Timeless Echo: Way Home\" evolution materials OR \"吟谣故梦·归途\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

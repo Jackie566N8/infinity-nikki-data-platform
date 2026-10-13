@@ -1,0 +1,1967 @@
+{
+  "created_at": "2026-10-12T14:28:48.643Z",
+  "scope": "F_v2_post_review_regression",
+  "revision": "F-v2-single-character-homophone",
+  "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+  "method": "F",
+  "document_count": 11469,
+  "configuration": {
+    "name_min": 0.78,
+    "weights": {
+      "name": 0.75,
+      "alias": 0.6,
+      "semantic": 0.6,
+      "prior": 0.04
+    },
+    "threshold": 0.4,
+    "disable": {}
+  },
+  "selection": "10 per type; 35 development / 15 test; original family splits retained; excludes partial; fixed explicit IDs, not selected by model success",
+  "hashes": {
+    "src/data.js": "3b1f00adea570ebb867cd89d46962183f959678c38be7992ca2534272afe5ae9",
+    "src/locales.js": "d1fc452d50bf7983133edec8b9e0b3e317ca7e19b28f5e66e04a36ab0b48cbe1",
+    "src/analytics-data.js": "d8a88e421c4383ee5f60d6262794359738786bf05fbe4965a0949c8e707c8caf",
+    "src/smart-search-data.js": "c63957c2ba1a90bdb7d9add2277aeab2e9cd97e41fbdf62de8b983ee450b9bd8",
+    "src/smart-search-model.js": "feb0a2f0e481ab46b7497410d8fe580a75e387df43a50df26604b24a47406c53",
+    "src/smart-search.js": "224d58bd2c3e26013608b1e9a26706cda6b35a18389d6c9bc8128b03e6de26d8",
+    "src/smart-vendor-opencc.js": "95b04abf136d9c28263773bb7d357eac80b7954d101efd23c4d09c737d3d379e",
+    "src/smart-vendor-pinyin.js": "a488173470768ace074c3c4fffbb880e83523b3aa9598a8147c930e7f2d5c7dc",
+    "data/dataset/search/queries.candidates.json": "74c3aeadc3a308efc75815b0d28d3ac77c030510c544835d34b26e02bb64d808"
+  },
+  "semantic_input_sha256": "481e15a24989ab224a45cd6e68ee65ab631883e26f3da3a0deb02721d065a045",
+  "rows": [
+    {
+      "query_id": "q001",
+      "query": "生于无瑕",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10349",
+      "ranked": [
+        {
+          "id": "o10349",
+          "name_zh": "生于无瑕",
+          "name_en": "Born Flawless",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "生于无瑕",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：生于无瑕"
+        }
+      ]
+    },
+    {
+      "query_id": "q019",
+      "query": "花漾梦萦",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10161",
+      "ranked": [
+        {
+          "id": "o10161",
+          "name_zh": "花漾梦萦",
+          "name_en": "Blooming Dreams",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "花漾梦萦",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：花漾梦萦"
+        }
+      ]
+    },
+    {
+      "query_id": "q055",
+      "query": "无名亦无我",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10289",
+      "ranked": [
+        {
+          "id": "o10289",
+          "name_zh": "无名亦无我",
+          "name_en": "Nameless, Selfless",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "无名亦无我",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：无名亦无我"
+        }
+      ]
+    },
+    {
+      "query_id": "q007",
+      "query": "万相渡浮生",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10352",
+      "ranked": [
+        {
+          "id": "o10352",
+          "name_zh": "万相渡浮生",
+          "name_en": "Where Wanxiang Weaves Life",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "万相渡浮生",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：万相渡浮生"
+        }
+      ]
+    },
+    {
+      "query_id": "q025",
+      "query": "天鹅童话",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10033",
+      "ranked": [
+        {
+          "id": "o10033",
+          "name_zh": "天鹅童话",
+          "name_en": "Fairytale Swan",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "天鹅童话",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：天鹅童话"
+        }
+      ]
+    },
+    {
+      "query_id": "q031",
+      "query": "翠金花藤",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10062",
+      "ranked": [
+        {
+          "id": "c1020100062",
+          "name_zh": "翠金花藤",
+          "name_en": "Vibrant Goldvines",
+          "score": 0.77,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "翠金花藤",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：翠金花藤"
+        }
+      ]
+    },
+    {
+      "query_id": "q037",
+      "query": "满电行动",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10036",
+      "ranked": [
+        {
+          "id": "o10036",
+          "name_zh": "满电行动",
+          "name_en": "Fully Charged",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "满电行动",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：满电行动"
+        }
+      ]
+    },
+    {
+      "query_id": "q043",
+      "query": "蝶屿风袭",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10126",
+      "ranked": [
+        {
+          "id": "o10126",
+          "name_zh": "蝶屿风袭",
+          "name_en": "Flutter Storm",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "蝶屿风袭",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：蝶屿风袭"
+        }
+      ]
+    },
+    {
+      "query_id": "q049",
+      "query": "墨鳞吟",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10330",
+      "ranked": [
+        {
+          "id": "c1020100330",
+          "name_zh": "墨鳞吟",
+          "name_en": "Loong's Chant",
+          "score": 0.77,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "墨鳞吟",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：墨鳞吟"
+        }
+      ]
+    },
+    {
+      "query_id": "q091",
+      "query": "精灵颂歌",
+      "type": "formal",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "negative:missing-name",
+      "ranked": []
+    },
+    {
+      "query_id": "q002",
+      "query": "神女套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10349",
+      "ranked": [
+        {
+          "id": "o10349",
+          "name_zh": "生于无瑕",
+          "name_en": "Born Flawless",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "神女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：神女套"
+        },
+        {
+          "id": "o1034901",
+          "name_zh": "生于无瑕·笼中梦",
+          "name_en": "Born Flawless: Caged Dream",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "神女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：神女套"
+        },
+        {
+          "id": "o1034902",
+          "name_zh": "生于无瑕·林中歌",
+          "name_en": "Born Flawless: Forest Song",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "神女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：神女套"
+        },
+        {
+          "id": "o1034903",
+          "name_zh": "生于无瑕·烬中火",
+          "name_en": "Born Flawless: Glowing Embers",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "神女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：神女套"
+        },
+        {
+          "id": "o1034904",
+          "name_zh": "生于无瑕·镜中我",
+          "name_en": "Born Flawless: Mirrored Self",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "神女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：神女套"
+        }
+      ]
+    },
+    {
+      "query_id": "q020",
+      "query": "精灵套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10161",
+      "ranked": [
+        {
+          "id": "o10161",
+          "name_zh": "花漾梦萦",
+          "name_en": "Blooming Dreams",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "精灵套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：精灵套"
+        },
+        {
+          "id": "o1016101",
+          "name_zh": "花漾梦萦·青雾",
+          "name_en": "Blooming Dreams: Blue Mist",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "精灵套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：精灵套"
+        },
+        {
+          "id": "o1016102",
+          "name_zh": "花漾梦萦·暗潮",
+          "name_en": "Blooming Dreams: Tides",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "精灵套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：精灵套"
+        },
+        {
+          "id": "o1016103",
+          "name_zh": "花漾梦萦·萤光",
+          "name_en": "Blooming Dreams: Glow",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "精灵套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：精灵套"
+        },
+        {
+          "id": "o1016104",
+          "name_zh": "花漾梦萦·浴火",
+          "name_en": "Blooming Dreams: Phoenix",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "精灵套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：精灵套"
+        }
+      ]
+    },
+    {
+      "query_id": "q095",
+      "query": "量子星河机甲套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "negative:fiction-material",
+      "ranked": []
+    },
+    {
+      "query_id": "q008",
+      "query": "镜子套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10352",
+      "ranked": [
+        {
+          "id": "o10352",
+          "name_zh": "万相渡浮生",
+          "name_en": "Where Wanxiang Weaves Life",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "镜子套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：镜子套"
+        },
+        {
+          "id": "o1035201",
+          "name_zh": "万相渡浮生·诚本真",
+          "name_en": "Where Wanxiang Weaves Life: Integrity",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "镜子套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：镜子套"
+        },
+        {
+          "id": "o1035202",
+          "name_zh": "万相渡浮生·妙丹心",
+          "name_en": "Where Wanxiang Weaves Life: Benevolence",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "镜子套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：镜子套"
+        },
+        {
+          "id": "o1035203",
+          "name_zh": "万相渡浮生·悲欢戏",
+          "name_en": "Where Wanxiang Weaves Life: Empathy",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "镜子套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：镜子套"
+        },
+        {
+          "id": "o1035204",
+          "name_zh": "万相渡浮生·人世间",
+          "name_en": "Where Wanxiang Weaves Life: Lived World",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "镜子套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：镜子套"
+        }
+      ]
+    },
+    {
+      "query_id": "q014",
+      "query": "圣女套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10350",
+      "ranked": [
+        {
+          "id": "o10350",
+          "name_zh": "隐于祷音",
+          "name_en": "Behind Prayers",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "圣女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：圣女套"
+        },
+        {
+          "id": "o1035001",
+          "name_zh": "隐于祷音·森翠",
+          "name_en": "Behind Prayers: Green Woods",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "圣女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：圣女套"
+        },
+        {
+          "id": "o1035002",
+          "name_zh": "隐于祷音·月皎",
+          "name_en": "Behind Prayers: Bright Moon",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "圣女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：圣女套"
+        },
+        {
+          "id": "o1035003",
+          "name_zh": "隐于祷音·郁冥",
+          "name_en": "Behind Prayers: Somber Nights",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "圣女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：圣女套"
+        },
+        {
+          "id": "o1035004",
+          "name_zh": "隐于祷音·寂烬",
+          "name_en": "Behind Prayers: Silent Ashes",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "圣女套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：圣女套"
+        }
+      ]
+    },
+    {
+      "query_id": "q026",
+      "query": "天鹅套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10033",
+      "ranked": [
+        {
+          "id": "o10033",
+          "name_zh": "天鹅童话",
+          "name_en": "Fairytale Swan",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "天鹅套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：天鹅套"
+        },
+        {
+          "id": "o1003301",
+          "name_zh": "天鹅童话·诺言",
+          "name_en": "Fairytale Swan: Vow",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "天鹅套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：天鹅套"
+        },
+        {
+          "id": "o1003302",
+          "name_zh": "天鹅童话·入梦",
+          "name_en": "Fairytale Swan: Dream",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "天鹅套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：天鹅套"
+        },
+        {
+          "id": "o1003303",
+          "name_zh": "天鹅童话·谜焰",
+          "name_en": "Fairytale Swan: Mystfire",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "天鹅套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：天鹅套"
+        },
+        {
+          "id": "o1003304",
+          "name_zh": "天鹅童话·真谛",
+          "name_en": "Fairytale Swan: Truth",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "天鹅套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：天鹅套"
+        }
+      ]
+    },
+    {
+      "query_id": "q032",
+      "query": "金蔷薇",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10062",
+      "ranked": [
+        {
+          "id": "o10062",
+          "name_zh": "心愿金蔷薇",
+          "name_en": "Wishful Aurosa",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "金蔷薇",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：金蔷薇"
+        },
+        {
+          "id": "o1006201",
+          "name_zh": "心愿金蔷薇·雾梦",
+          "name_en": "Wishful Aurosa: Misty Dream",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "金蔷薇",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：金蔷薇"
+        },
+        {
+          "id": "o1006202",
+          "name_zh": "心愿金蔷薇·绽放",
+          "name_en": "Wishful Aurosa: Blooming",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "金蔷薇",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：金蔷薇"
+        },
+        {
+          "id": "o1006203",
+          "name_zh": "心愿金蔷薇·迟明",
+          "name_en": "Wishful Aurosa: Daybreak",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "金蔷薇",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：金蔷薇"
+        },
+        {
+          "id": "o1006204",
+          "name_zh": "心愿金蔷薇·暗蚀",
+          "name_en": "Wishful Aurosa: Shadow",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "金蔷薇",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：金蔷薇"
+        }
+      ]
+    },
+    {
+      "query_id": "q038",
+      "query": "电工套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10036",
+      "ranked": [
+        {
+          "id": "o10036",
+          "name_zh": "满电行动",
+          "name_en": "Fully Charged",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "电工套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：电工套"
+        },
+        {
+          "id": "o1003601",
+          "name_zh": "满电行动·新芒",
+          "name_en": "Fully Charged: New Light",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "电工套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：电工套"
+        },
+        {
+          "id": "o1003602",
+          "name_zh": "满电行动·靓影",
+          "name_en": "Fully Charged: Refreshing",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "电工套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：电工套"
+        }
+      ]
+    },
+    {
+      "query_id": "q044",
+      "query": "蝴蝶套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10126",
+      "ranked": [
+        {
+          "id": "o10126",
+          "name_zh": "蝶屿风袭",
+          "name_en": "Flutter Storm",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "蝴蝶套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：蝴蝶套"
+        },
+        {
+          "id": "o1012601",
+          "name_zh": "蝶屿风袭·枯谢咏",
+          "name_en": "Flutter Storm: Withered Song",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "蝴蝶套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：蝴蝶套"
+        },
+        {
+          "id": "o1012602",
+          "name_zh": "蝶屿风袭·焰之歌",
+          "name_en": "Flutter Storm: Fire Song",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "蝴蝶套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：蝴蝶套"
+        },
+        {
+          "id": "o1012603",
+          "name_zh": "蝶屿风袭·森海声",
+          "name_en": "Flutter Storm: Forest Song",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "蝴蝶套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：蝴蝶套"
+        },
+        {
+          "id": "o1012604",
+          "name_zh": "蝶屿风袭·梦中谣",
+          "name_en": "Flutter Storm: Dream Chant",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "蝴蝶套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：蝴蝶套"
+        }
+      ]
+    },
+    {
+      "query_id": "q050",
+      "query": "白龙套",
+      "type": "nickname",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10330",
+      "ranked": [
+        {
+          "id": "o10330",
+          "name_zh": "龙隐云墨间",
+          "name_en": "Clouded Loong",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "白龙套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：白龙套"
+        },
+        {
+          "id": "o1033001",
+          "name_zh": "龙隐云墨间·春涧",
+          "name_en": "Clouded Loong: Spring Stream",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "白龙套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：白龙套"
+        },
+        {
+          "id": "o1033002",
+          "name_zh": "龙隐云墨间·缥碧",
+          "name_en": "Clouded Loong: Misty Celadon",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "白龙套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：白龙套"
+        },
+        {
+          "id": "o1033003",
+          "name_zh": "龙隐云墨间·点睛",
+          "name_en": "Clouded Loong: Eye-Dotting",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "白龙套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：白龙套"
+        },
+        {
+          "id": "o1033004",
+          "name_zh": "龙隐云墨间·红绫",
+          "name_en": "Clouded Loong: Red Ribbons",
+          "score": 0.62,
+          "reasons": [
+            {
+              "field": "alias",
+              "kind": "alias",
+              "value": "白龙套",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配昵称：白龙套"
+        }
+      ]
+    },
+    {
+      "query_id": "q003",
+      "query": "生于无暇",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10349",
+      "ranked": [
+        {
+          "id": "o10349",
+          "name_zh": "生于无瑕",
+          "name_en": "Born Flawless",
+          "score": 0.76,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "生于无瑕",
+              "score": 0.96
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：生于无瑕"
+        }
+      ]
+    },
+    {
+      "query_id": "q021",
+      "query": "huayangmengying",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10161",
+      "ranked": [
+        {
+          "id": "o10161",
+          "name_zh": "花漾梦萦",
+          "name_en": "Blooming Dreams",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "花漾梦萦",
+              "score": 1
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：花漾梦萦"
+        }
+      ]
+    },
+    {
+      "query_id": "q057",
+      "query": "wumingyiwuwo",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10289",
+      "ranked": [
+        {
+          "id": "o10289",
+          "name_zh": "无名亦无我",
+          "name_en": "Nameless, Selfless",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "无名亦无我",
+              "score": 1
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：无名亦无我"
+        }
+      ]
+    },
+    {
+      "query_id": "q009",
+      "query": "wanxiangdufusheng",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10352",
+      "ranked": [
+        {
+          "id": "o10352",
+          "name_zh": "万相渡浮生",
+          "name_en": "Where Wanxiang Weaves Life",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "万相渡浮生",
+              "score": 1
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：万相渡浮生"
+        }
+      ]
+    },
+    {
+      "query_id": "q015",
+      "query": "隐于祷因",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10350",
+      "ranked": [
+        {
+          "id": "o10350",
+          "name_zh": "隐于祷音",
+          "name_en": "Behind Prayers",
+          "score": 0.76,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "隐于祷音",
+              "score": 0.96
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：隐于祷音"
+        }
+      ]
+    },
+    {
+      "query_id": "q027",
+      "query": "天鹅童花",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10033",
+      "ranked": [
+        {
+          "id": "o10033",
+          "name_zh": "天鹅童话",
+          "name_en": "Fairytale Swan",
+          "score": 0.76,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "天鹅童话",
+              "score": 0.96
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：天鹅童话"
+        }
+      ]
+    },
+    {
+      "query_id": "q039",
+      "query": "满电行冬",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10036",
+      "ranked": [
+        {
+          "id": "o10036",
+          "name_zh": "满电行动",
+          "name_en": "Fully Charged",
+          "score": 0.76,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "满电行动",
+              "score": 0.96
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：满电行动"
+        }
+      ]
+    },
+    {
+      "query_id": "q045",
+      "query": "dieyufengxi",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10126",
+      "ranked": [
+        {
+          "id": "o10126",
+          "name_zh": "蝶屿风袭",
+          "name_en": "Flutter Storm",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "pinyin",
+              "value": "蝶屿风袭",
+              "score": 1
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：蝶屿风袭"
+        }
+      ]
+    },
+    {
+      "query_id": "q063",
+      "query": "古典乐张",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10183",
+      "ranked": [
+        {
+          "id": "o10183",
+          "name_zh": "古典乐章",
+          "name_en": "Timeless Melody",
+          "score": 0.76,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "homophone",
+              "value": "古典乐章",
+              "from": "古典乐张",
+              "to": "古典乐章",
+              "changed_from": "张",
+              "changed_to": "章",
+              "score": 0.96,
+              "source": "catalog_name_one_character_same_sound"
+            }
+          ],
+          "explanation": "拼音 / 同音匹配：古典乐章"
+        }
+      ]
+    },
+    {
+      "query_id": "q092",
+      "query": "jinglingsongge",
+      "type": "typo_pinyin",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "negative:missing-name",
+      "ranked": []
+    },
+    {
+      "query_id": "q005",
+      "query": "找5星帅气风格的原色能力套装，标签有唯美和幻想，收录在祷声起诸大地，获取方式是限定共鸣",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10349",
+      "ranked": [
+        {
+          "id": "o10349",
+          "name_zh": "生于无瑕",
+          "name_en": "Born Flawless",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "祷声起诸大地",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "能力套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "限定共鸣",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "唯美",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "帅气",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "幻想",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：祷声起诸大地 · 能力套装 · 限定共鸣 · 唯美 · 帅气 · 幻想"
+        }
+      ]
+    },
+    {
+      "query_id": "q023",
+      "query": "找5星甜美风格的原色能力套装，标签有精灵和幻想，收录在探索季，获取方式是限定共鸣",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "family:o10161",
+      "ranked": [
+        {
+          "id": "o10161",
+          "name_zh": "花漾梦萦",
+          "name_en": "Blooming Dreams",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "能力套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "限定共鸣",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "探索季",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "甜美",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "精灵",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "幻想",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：能力套装 · 限定共鸣 · 探索季 · 甜美 · 精灵 · 幻想"
+        }
+      ]
+    },
+    {
+      "query_id": "q097",
+      "query": "1星生于无瑕原色套装",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "test",
+      "group_id": "negative:impossible-condition",
+      "ranked": []
+    },
+    {
+      "query_id": "q011",
+      "query": "找5星性感风格的原色能力套装，标签有大地和唯美，收录在九色万相生，获取方式是限定共鸣",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10352",
+      "ranked": [
+        {
+          "id": "o10352",
+          "name_zh": "万相渡浮生",
+          "name_en": "Where Wanxiang Weaves Life",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "九色万相生",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "能力套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "限定共鸣",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "唯美",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "性感",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "大地",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：九色万相生 · 能力套装 · 限定共鸣 · 唯美 · 性感 · 大地"
+        }
+      ]
+    },
+    {
+      "query_id": "q017",
+      "query": "找5星甜美风格的原色能力套装，标签有神谕和宫廷，收录在祷声起诸大地，获取方式是限定共鸣",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10350",
+      "ranked": [
+        {
+          "id": "o10350",
+          "name_zh": "隐于祷音",
+          "name_en": "Behind Prayers",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "祷声起诸大地",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "能力套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "限定共鸣",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "甜美",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "神谕",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "宫廷",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：祷声起诸大地 · 能力套装 · 限定共鸣 · 甜美 · 神谕 · 宫廷"
+        }
+      ]
+    },
+    {
+      "query_id": "q029",
+      "query": "找5星典雅风格的原色风格套装，标签有礼服和舞会，收录在探索季，获取方式是遥远之海",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10033",
+      "ranked": [
+        {
+          "id": "o10033",
+          "name_zh": "天鹅童话",
+          "name_en": "Fairytale Swan",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "风格套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "遥远之海",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "探索季",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "典雅",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "礼服",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "舞会",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：风格套装 · 遥远之海 · 探索季 · 典雅 · 礼服 · 舞会"
+        }
+      ]
+    },
+    {
+      "query_id": "q035",
+      "query": "找5星典雅风格的原色奇迹套装，标签有礼服和复古，收录在探索季，获取方式是奇迹套装的辉光",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10062",
+      "ranked": [
+        {
+          "id": "o10062",
+          "name_zh": "心愿金蔷薇",
+          "name_en": "Wishful Aurosa",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "奇迹套装的辉光",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "奇迹套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "探索季",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "典雅",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "复古",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "礼服",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：奇迹套装的辉光 · 奇迹套装 · 探索季 · 典雅 · 复古 · 礼服"
+        }
+      ]
+    },
+    {
+      "query_id": "q041",
+      "query": "找4星帅气风格的原色能力套装，标签有制服，收录在探索季，获取方式是无限之心的感悟",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10036",
+      "ranked": [
+        {
+          "id": "o10036",
+          "name_zh": "满电行动",
+          "name_en": "Fully Charged",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "无限之心的感悟",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "能力套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "探索季",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "帅气",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "制服",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：无限之心的感悟 · 能力套装 · 探索季 · 帅气 · 制服"
+        }
+      ]
+    },
+    {
+      "query_id": "q047",
+      "query": "找5星性感风格的原色风格套装，标签有浪漫和舞会，收录在探索季，获取方式是限定共鸣",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10126",
+      "ranked": [
+        {
+          "id": "o10126",
+          "name_zh": "蝶屿风袭",
+          "name_en": "Flutter Storm",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "限定共鸣",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "风格套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "探索季",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "性感",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "舞会",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "浪漫",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：限定共鸣 · 风格套装 · 探索季 · 性感 · 舞会 · 浪漫"
+        }
+      ]
+    },
+    {
+      "query_id": "q053",
+      "query": "找5星帅气风格的原色能力套装，标签有琳琅和宫廷，收录在丹青季，获取方式是限定共鸣",
+      "type": "description",
+      "language": "zh-CN",
+      "split": "dev",
+      "group_id": "family:o10330",
+      "ranked": [
+        {
+          "id": "o10330",
+          "name_zh": "龙隐云墨间",
+          "name_en": "Clouded Loong",
+          "score": 0.64,
+          "reasons": [
+            {
+              "field": "semantic",
+              "kind": "type",
+              "value": "能力套装",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "obtain",
+              "value": "限定共鸣",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "season",
+              "value": "丹青季",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "琳琅",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "style",
+              "value": "帅气",
+              "source": "source_metadata"
+            },
+            {
+              "field": "semantic",
+              "kind": "tags",
+              "value": "宫廷",
+              "source": "source_metadata"
+            }
+          ],
+          "explanation": "属性匹配：能力套装 · 限定共鸣 · 丹青季 · 琳琅 · 帅气 · 宫廷"
+        }
+      ]
+    },
+    {
+      "query_id": "q006",
+      "query": "Born Flawless",
+      "type": "multilingual",
+      "language": "en",
+      "split": "test",
+      "group_id": "family:o10349",
+      "ranked": [
+        {
+          "id": "o10349",
+          "name_zh": "生于无瑕",
+          "name_en": "Born Flawless",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "Born Flawless",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：生于无瑕"
+        }
+      ]
+    },
+    {
+      "query_id": "q024",
+      "query": "花漾夢縈",
+      "type": "multilingual",
+      "language": "zh-TW",
+      "split": "test",
+      "group_id": "family:o10161",
+      "ranked": [
+        {
+          "id": "o10161",
+          "name_zh": "花漾梦萦",
+          "name_en": "Blooming Dreams",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "花漾梦萦",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：花漾梦萦"
+        }
+      ]
+    },
+    {
+      "query_id": "q094",
+      "query": "Moonwalk Momo Astronaut",
+      "type": "multilingual",
+      "language": "en",
+      "split": "test",
+      "group_id": "negative:fiction-title",
+      "ranked": []
+    },
+    {
+      "query_id": "q012",
+      "query": "浮生を渡る万相",
+      "type": "multilingual",
+      "language": "ja",
+      "split": "dev",
+      "group_id": "family:o10352",
+      "ranked": [
+        {
+          "id": "o10352",
+          "name_zh": "万相渡浮生",
+          "name_en": "Where Wanxiang Weaves Life",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "浮生を渡る万相",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：万相渡浮生"
+        }
+      ]
+    },
+    {
+      "query_id": "q018",
+      "query": "기도에 숨어",
+      "type": "multilingual",
+      "language": "ko",
+      "split": "dev",
+      "group_id": "family:o10350",
+      "ranked": [
+        {
+          "id": "o10350",
+          "name_zh": "隐于祷音",
+          "name_en": "Behind Prayers",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "기도에 숨어",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：隐于祷音"
+        }
+      ]
+    },
+    {
+      "query_id": "q030",
+      "query": "Fairytale Swan",
+      "type": "multilingual",
+      "language": "en",
+      "split": "dev",
+      "group_id": "family:o10033",
+      "ranked": [
+        {
+          "id": "o10033",
+          "name_zh": "天鹅童话",
+          "name_en": "Fairytale Swan",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "Fairytale Swan",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：天鹅童话"
+        }
+      ]
+    },
+    {
+      "query_id": "q036",
+      "query": "願いの金薔薇",
+      "type": "multilingual",
+      "language": "ja",
+      "split": "dev",
+      "group_id": "family:o10062",
+      "ranked": [
+        {
+          "id": "o10062",
+          "name_zh": "心愿金蔷薇",
+          "name_en": "Wishful Aurosa",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "願いの金薔薇",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：心愿金蔷薇"
+        }
+      ]
+    },
+    {
+      "query_id": "q042",
+      "query": "충전 작전",
+      "type": "multilingual",
+      "language": "ko",
+      "split": "dev",
+      "group_id": "family:o10036",
+      "ranked": [
+        {
+          "id": "o10036",
+          "name_zh": "满电行动",
+          "name_en": "Fully Charged",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "충전 작전",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：满电行动"
+        }
+      ]
+    },
+    {
+      "query_id": "q066",
+      "query": "고전 악장",
+      "type": "multilingual",
+      "language": "ko",
+      "split": "dev",
+      "group_id": "family:o10183",
+      "ranked": [
+        {
+          "id": "o10183",
+          "name_zh": "古典乐章",
+          "name_en": "Timeless Melody",
+          "score": 0.79,
+          "reasons": [
+            {
+              "field": "name",
+              "kind": "name",
+              "value": "고전 악장",
+              "score": 1
+            }
+          ],
+          "explanation": "匹配名称：古典乐章"
+        }
+      ]
+    },
+    {
+      "query_id": "q099",
+      "query": "幻の宇宙ねこ機甲セット",
+      "type": "multilingual",
+      "language": "ja",
+      "split": "dev",
+      "group_id": "negative:foreign-fiction",
+      "ranked": []
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <meta name="theme-color" content="#72619a" />
+    <title>奇迹旅册 · 无限暖暖资料站</title>
+    <meta
+      name="description"
+      content="查找无限暖暖套装、服装部件、材料、祝福闪光与地图采集资料。支持中文搜索、风格筛选、套装关联与本地收藏。"
+    />
+    <link
+      rel="icon"
+      type="image/svg+xml"
+      href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 64 64'%3E%3Crect width='64' height='64' rx='18' fill='%2372619a'/%3E%3Cpath d='M32 8 38 25 56 32 38 39 32 56 26 39 8 32 26 25Z' fill='%23fff1cf'/%3E%3C/svg%3E"
+    />
+    <script src="boot.js"></script>
+    <script src="cursor.js"></script>
+    <link rel="stylesheet" href="style.css" />
+    <link rel="stylesheet" href="region-banners.css" />
+    <script src="data.js" defer></script>
+    <script src="locales.js" defer></script>
+    <script src="i18n.js" defer></script>
+    <script src="region-banners-data.js" defer></script>
+    <script src="region-banners.js" defer></script>
+    <link rel="stylesheet" href="quality.css" />
+    <script src="quality-data.js" defer></script>
+    <script src="quality.js" defer></script>
+    <link rel="stylesheet" href="analytics.css" />
+    <script src="analytics-data.js" defer></script>
+    <script src="analytics-model.js" defer></script>
+    <script src="analytics.js" defer></script>
+    <link rel="stylesheet" href="wardrobe.css" />
+    <script src="preferences-data.js" defer></script>
+    <script src="preferences-schema.js" defer></script>
+    <script src="wardrobe-model.js" defer></script>
+    <script src="wardrobe.js" defer></script>
+    <link rel="stylesheet" href="planning.css" />
+    <script src="planning-data.js" defer></script>
+    <script src="planning-model.js" defer></script>
+    <script src="planning.js" defer></script>
+    <link rel="stylesheet" href="search-eval.css" />
+    <script src="smart-vendor-opencc.js" defer></script>
+    <script src="smart-vendor-pinyin.js" defer></script>
+    <script src="smart-search-data.js" defer></script>
+    <script src="smart-search-model.js" defer></script>
+    <script src="smart-search-homophone-model.js" defer></script>
+    <script src="smart-search.js" defer></script>
+    <script src="human-search-data.js" defer></script>
+    <script src="human-search.js" defer></script>
+    <link rel="stylesheet" href="advanced.css" />
+    <script src="advanced-data.js" defer></script>
+    <script src="advanced-model.js" defer></script>
+    <script src="advanced.js" defer></script>
+    <script src="module-loader.js" defer></script>
+    <link rel="stylesheet" href="research.css" />
+    <script src="research-data.js" defer></script>
+    <script src="research.js" defer></script>
+    <script src="app.js" defer></script>
+    <link rel="stylesheet" href="companion.css" />
+    <script src="companion-art.js" defer></script>
+    <script src="companion-copy.js" defer></script>
+    <script src="companion-brain.js" defer></script>
+    <script src="companion.js" defer></script>
+  </head>
+  <body>
+    <a class="skip" href="#main">跳到图鉴</a>
+    <aside class="sidebar">
+      <a class="brand" href="#outfits"
+        ><span class="brand-star">✧</span
+        ><span>奇迹旅册<small>MIRALAND ARCHIVE</small></span></a
+      >
+      <div class="nav-label">搭配师的随身图鉴</div>
+      <nav aria-label="主导航" id="navigation"></nav>
+      <div class="sidebar-bottom">
+        <div class="small-star">✦</div>
+        <p>每一次相遇，<br />都值得好好收藏。</p>
+        <button class="text-button" data-nav="sources">
+          资料来源与收录说明 ↗</button
+        ><span class="version">社区资料 · 非官方网站</span>
+      </div>
+    </aside>
+    <div class="page">
+      <header class="topbar">
+        <button class="mobile-menu icon-button" aria-label="打开导航" id="menu">
+          ☰
+        </button>
+        <div class="breadcrumb">
+          奇迹大陆 <span>/</span> <b id="breadcrumb">套装图鉴</b>
+        </div>
+        <form class="global-search" role="search" id="global-form">
+          <span aria-hidden="true">⌕</span
+          ><input
+            id="global-query"
+            aria-label="全站搜索"
+            placeholder="搜索套装、昵称、材料…"
+            autocomplete="off"
+          /><kbd>/</kbd>
+        </form>
+        <button
+          type="button"
+          id="momo-cursor-toggle"
+          class="cursor-toggle"
+          data-no-translate
+          aria-label="大喵光标"
+          aria-pressed="true"
+          title="关闭大喵光标，使用系统光标"
+        >
+          <svg
+            class="cursor-toggle-icon"
+            viewBox="0 0 24 24"
+            aria-hidden="true"
+          >
+            <ellipse cx="6" cy="7" rx="2.4" ry="3" />
+            <ellipse cx="12" cy="4.5" rx="2.4" ry="3" />
+            <ellipse cx="18" cy="7" rx="2.4" ry="3" />
+            <path d="M5 16c0-3 4-7 7-7s7 4 7 7c0 5-4 3-7 3s-7 2-7-3Z" /></svg
+          ><span class="cursor-toggle-label">大喵光标</span
+          ><span class="cursor-toggle-track" aria-hidden="true"></span></button
+        ><button
+          class="top-collection"
+          data-nav="favorites"
+          aria-label="打开我的收藏"
+        >
+          ♡ <span>我的收藏</span><b id="saved-count">0</b>
+        </button>
+      </header>
+      <main id="main" tabindex="-1">
+        <div id="view" aria-busy="true">
+          <div class="module-loading" role="status">
+            <span class="loading-star">✧</span>
+            <p>图鉴资料载入中…</p>
+          </div>
+        </div>
+      </main>
+      <footer>
+        <span>✧ 奇迹旅册</span>
+        <p>与暖暖、大喵一起，记下奇迹大陆的每一份美好。</p>
+        <button class="text-button" data-nav="sources">资料与版权说明</button>
+      </footer>
+    </div>
+    <dialog id="detail" aria-labelledby="detail-title">
+      <button id="close-detail" class="close-button" aria-label="关闭详情">
+        ×
+      </button>
+      <div id="detail-content"></div>
+    </dialog>
+    <div id="toast" role="status" aria-live="polite"></div>
+    <noscript>请开启 JavaScript，以搜索和浏览本地图鉴。</noscript>
+  </body>
+</html>

@@ -1,0 +1,3317 @@
+{
+  "scope": "sum_verified_clothing_recipes_for_exact_base_form; exclude unlock/evolution/glowup",
+  "facts": [
+    {
+      "outfit_id": "o10083",
+      "name": "祈愿新生",
+      "part_ids": [
+        "c1020100083",
+        "c1020200083",
+        "c1020500083",
+        "c1020600083",
+        "c1020710083",
+        "c1020720083",
+        "c1020730083",
+        "c1020900083"
+      ],
+      "pieces": [
+        {
+          "target_id": "c1020730083",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730083",
+          "checked_at": "2026-10-10T15:06:04.362Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2500,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 37,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mdaisy",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110010080",
+              "english_name": "Daisy"
+            },
+            {
+              "material_id": "mbuttoncone",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110010072",
+              "english_name": "Buttoncone"
+            }
+          ],
+          "source_sha256": "8e6d929d2dc04fa56dab6f414aa537aeb4a16a9e3ebf12e029bbb63caf9de1b9"
+        },
+        {
+          "target_id": "c1020720083",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720083",
+          "checked_at": "2026-10-10T15:06:04.483Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 4000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 62,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mbow-fish",
+              "quantity": 30,
+              "unit": "count",
+              "source_material_id": "inv_1110010104",
+              "english_name": "Bow Fish"
+            },
+            {
+              "material_id": "mbrushie",
+              "quantity": 50,
+              "unit": "count",
+              "source_material_id": "inv_1110010103",
+              "english_name": "Brushie"
+            },
+            {
+              "material_id": "mbedrock-crystal-tumble",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050002",
+              "english_name": "Bedrock Crystal: Tumble"
+            }
+          ],
+          "source_sha256": "761d20e70e1fed6cd608a42769e4315457786bd2429609550842695bf9dd3eff"
+        },
+        {
+          "target_id": "c1020710083",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020710083",
+          "checked_at": "2026-10-10T15:06:04.611Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 4000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 62,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mbunny-fluff-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030095",
+              "english_name": "Bunny Fluff Essence"
+            },
+            {
+              "material_id": "mhare-powder-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030116",
+              "english_name": "Hare Powder Essence"
+            },
+            {
+              "material_id": "mbedrock-crystal-tumble",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050002",
+              "english_name": "Bedrock Crystal: Tumble"
+            }
+          ],
+          "source_sha256": "e0da25349b09aabc368e66206f8fb180d0f726bafbe78aca66789e45b2367a2d"
+        },
+        {
+          "target_id": "c1020600083",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600083",
+          "checked_at": "2026-10-10T15:06:04.937Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 10000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 125,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mflorapom-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030078",
+              "english_name": "Florapom Essence"
+            },
+            {
+              "material_id": "mblossom-beetle",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010089",
+              "english_name": "Blossom Beetle"
+            },
+            {
+              "material_id": "maromalily-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030070",
+              "english_name": "Aromalily Essence"
+            },
+            {
+              "material_id": "mbedrock-crystal-tumble",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050002",
+              "english_name": "Bedrock Crystal: Tumble"
+            }
+          ],
+          "source_sha256": "2d19390b074b55b7886b9fcff87542ae960f5577cb27e32103156158d125d410"
+        },
+        {
+          "target_id": "c1020200083",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200083",
+          "checked_at": "2026-10-10T15:06:05.188Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 6250,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 78,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mgrasspom-essence",
+              "quantity": 12,
+              "unit": "count",
+              "source_material_id": "inv_1110030073",
+              "english_name": "Grasspom Essence"
+            },
+            {
+              "material_id": "mlongstocking-wool",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010099",
+              "english_name": "Longstocking Wool"
+            },
+            {
+              "material_id": "mbedrock-crystal-tumble",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050002",
+              "english_name": "Bedrock Crystal: Tumble"
+            }
+          ],
+          "source_sha256": "52a795f6a1b0779ad0a80d4027d71af6676950b5ac61c6b7c43905520e328e47"
+        },
+        {
+          "target_id": "c1020900083",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900083",
+          "checked_at": "2026-10-10T15:06:05.338Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 120,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mfloof-yarn",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110010092",
+              "english_name": "Floof Yarn"
+            },
+            {
+              "material_id": "mfoodie-bee",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110010082",
+              "english_name": "Foodie Bee"
+            }
+          ],
+          "source_sha256": "402b2c16c8e38016f8f15feeb6b5df2b6efabe628c6c726abda1ef14b71a8128"
+        },
+        {
+          "target_id": "c1020100083",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100083",
+          "checked_at": "2026-10-10T15:06:05.511Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 12500,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 156,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mwhisker-fish-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030105",
+              "english_name": "Whisker Fish Essence"
+            },
+            {
+              "material_id": "mquillfin-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030136",
+              "english_name": "Quillfin Essence"
+            },
+            {
+              "material_id": "mchimecada-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030086",
+              "english_name": "Chimecada Essence"
+            },
+            {
+              "material_id": "mbedrock-crystal-tumble",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050002",
+              "english_name": "Bedrock Crystal: Tumble"
+            }
+          ],
+          "source_sha256": "4e26a828969696536e7e55521ba7a215d3f8dccaaea96d84b4faf725e6257d05"
+        },
+        {
+          "target_id": "c1020500083",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500083",
+          "checked_at": "2026-10-10T15:06:05.811Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 4800,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 75,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mballetfly",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010085",
+              "english_name": "Balletfly"
+            },
+            {
+              "material_id": "mpin-hopper",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010087",
+              "english_name": "Pin Hopper"
+            },
+            {
+              "material_id": "mbedrock-crystal-tumble",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050002",
+              "english_name": "Bedrock Crystal: Tumble"
+            }
+          ],
+          "source_sha256": "1921f53d58c0f4726f69d6c28d6934860ce5d741df6ecc5ff56b27089b8008d9"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "unit": "count",
+          "quantity": 52050
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "unit": "count",
+          "quantity": 715
+        },
+        {
+          "material_id": "mdaisy",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mbuttoncone",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mbow-fish",
+          "unit": "count",
+          "quantity": 30
+        },
+        {
+          "material_id": "mbrushie",
+          "unit": "count",
+          "quantity": 50
+        },
+        {
+          "material_id": "mbedrock-crystal-tumble",
+          "unit": "count",
+          "quantity": 40
+        },
+        {
+          "material_id": "mbunny-fluff-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mhare-powder-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mflorapom-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mblossom-beetle",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "maromalily-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mgrasspom-essence",
+          "unit": "count",
+          "quantity": 12
+        },
+        {
+          "material_id": "mlongstocking-wool",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mfloof-yarn",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mfoodie-bee",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mwhisker-fish-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mquillfin-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mchimecada-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mballetfly",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mpin-hopper",
+          "unit": "count",
+          "quantity": 3
+        }
+      ],
+      "source_url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10083",
+      "checked_at": "2026-10-10T15:06:05.811Z"
+    },
+    {
+      "outfit_id": "o10244",
+      "name": "三生因缘",
+      "part_ids": [
+        "c1020100244",
+        "c1020300244",
+        "c1020410244",
+        "c1020600244",
+        "c1020710244",
+        "c1020730244",
+        "c1020780244",
+        "c1020930244"
+      ],
+      "pieces": [
+        {
+          "target_id": "c1020100244",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100244",
+          "checked_at": "2026-10-10T15:06:06.506Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 12800,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 60,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mrouge-lotus",
+              "quantity": 12,
+              "unit": "count",
+              "source_material_id": "inv_1110010162",
+              "english_name": "Rouge Lotus"
+            },
+            {
+              "material_id": "mpouch-grass",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010164",
+              "english_name": "Pouch Grass"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "97545fbd7f50ed03a0e574e3ee82975d9f32c843c15f8f02a418e6a82dd4e24c"
+        },
+        {
+          "target_id": "c1020300244",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020300244",
+          "checked_at": "2026-10-10T15:06:06.663Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 40,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcloudtail-koi",
+              "quantity": 30,
+              "unit": "count",
+              "source_material_id": "inv_1110010158",
+              "english_name": "Cloudtail Koi"
+            },
+            {
+              "material_id": "mpouch-grass",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010164",
+              "english_name": "Pouch Grass"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "e324096c70a7b66c884fb1387650a244af1e665fe16cd56322ea01ffff95ad8e"
+        },
+        {
+          "target_id": "c1020410244",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020410244",
+          "checked_at": "2026-10-10T15:06:06.787Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 40,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcloudtail-koi",
+              "quantity": 30,
+              "unit": "count",
+              "source_material_id": "inv_1110010158",
+              "english_name": "Cloudtail Koi"
+            },
+            {
+              "material_id": "mpouch-grass",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010164",
+              "english_name": "Pouch Grass"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "8bbaf119003d354cb4702661e8cf4641f2427a90dc3130547a0cac7310d63775"
+        },
+        {
+          "target_id": "c1020600244",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600244",
+          "checked_at": "2026-10-10T15:06:07.224Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 6000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 30,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mbrowcat-fluff",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010160",
+              "english_name": "Browcat Fluff"
+            },
+            {
+              "material_id": "mjade-hopper",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010159",
+              "english_name": "Jade Hopper"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "51fceac9e3b6d722c87e2924bd2f096bad23abc221262152180c2a3fddcfaea3"
+        },
+        {
+          "target_id": "c1020710244",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020710244",
+          "checked_at": "2026-10-10T15:06:07.381Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 25,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mjade-fluff",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010163",
+              "english_name": "Jade Fluff"
+            },
+            {
+              "material_id": "mjade-hopper",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010159",
+              "english_name": "Jade Hopper"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "1ca61f5a39ec00ce8aaa81d322ce9a498c1df4b214e8f03ea1a3e26383bb7e55"
+        },
+        {
+          "target_id": "c1020730244",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730244",
+          "checked_at": "2026-10-10T15:06:07.567Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 25,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mrouge-lotus",
+              "quantity": 12,
+              "unit": "count",
+              "source_material_id": "inv_1110010162",
+              "english_name": "Rouge Lotus"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "c11e53a69d6cfc6fea6530530fac57248df810fad3ccfd9fcc93615d74e9e60f"
+        },
+        {
+          "target_id": "c1020780244",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020780244",
+          "checked_at": "2026-10-10T15:06:07.801Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 40,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mfan-feather",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010161",
+              "english_name": "Fan Feather"
+            },
+            {
+              "material_id": "mjade-hopper",
+              "quantity": 8,
+              "unit": "count",
+              "source_material_id": "inv_1110010159",
+              "english_name": "Jade Hopper"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "edc8eb43e03c9302165be4556b227a4702722f65b06059015a917040ed9ea30e"
+        },
+        {
+          "target_id": "c1020930244",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020930244",
+          "checked_at": "2026-10-10T15:06:08.092Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 25,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "msilken-fish",
+              "quantity": 30,
+              "unit": "count",
+              "source_material_id": "inv_1110010157",
+              "english_name": "Silken Fish"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110050001",
+              "english_name": "Bedrock Crystal: Command"
+            }
+          ],
+          "source_sha256": "a2e91b00a8307e71fd18a49d05aca0e76d2e23fb814c79a84a715cae4dc3370a"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "unit": "count",
+          "quantity": 57800
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "unit": "count",
+          "quantity": 285
+        },
+        {
+          "material_id": "mrouge-lotus",
+          "unit": "count",
+          "quantity": 24
+        },
+        {
+          "material_id": "mpouch-grass",
+          "unit": "count",
+          "quantity": 24
+        },
+        {
+          "material_id": "mbedrock-crystal-command",
+          "unit": "count",
+          "quantity": 24
+        },
+        {
+          "material_id": "mcloudtail-koi",
+          "unit": "count",
+          "quantity": 60
+        },
+        {
+          "material_id": "mbrowcat-fluff",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mjade-hopper",
+          "unit": "count",
+          "quantity": 24
+        },
+        {
+          "material_id": "mjade-fluff",
+          "unit": "count",
+          "quantity": 8
+        },
+        {
+          "material_id": "mfan-feather",
+          "unit": "count",
+          "quantity": 8
+        },
+        {
+          "material_id": "msilken-fish",
+          "unit": "count",
+          "quantity": 30
+        }
+      ],
+      "source_url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10244",
+      "checked_at": "2026-10-10T15:06:08.093Z"
+    },
+    {
+      "outfit_id": "o10315",
+      "name": "辰星晚宴",
+      "part_ids": [
+        "c1020100315",
+        "c1020200315",
+        "c1020500315",
+        "c1020600315",
+        "c1020710315",
+        "c1020730315",
+        "c1020770315",
+        "c1020900315"
+      ],
+      "pieces": [
+        {
+          "target_id": "c1020100315",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100315",
+          "checked_at": "2026-10-10T15:06:08.923Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 11300,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 138,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcrystal-ballfly-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030245",
+              "english_name": "Crystal Ballfly Essence"
+            },
+            {
+              "material_id": "mgilded-axiswing",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010246",
+              "english_name": "Gilded Axiswing"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "19c819bd86c2e24148bb97f549a48eee1e57e9c5528dd027cae671c5c2d23600"
+        },
+        {
+          "target_id": "c1020730315",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730315",
+          "checked_at": "2026-10-10T15:06:09.043Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcrystal-ballfly-essence",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110030245",
+              "english_name": "Crystal Ballfly Essence"
+            },
+            {
+              "material_id": "mgilded-axiswing",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010246",
+              "english_name": "Gilded Axiswing"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "2f81bd67194a931c10c88ff20a52d5854c765e4df887b4c4026685b9765f228a"
+        },
+        {
+          "target_id": "c1020200315",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200315",
+          "checked_at": "2026-10-10T15:06:09.219Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mgilded-axiswing-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030246",
+              "english_name": "Gilded Axiswing Essence"
+            },
+            {
+              "material_id": "mcloak-fluff",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010238",
+              "english_name": "Cloak Fluff"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "c4ed78893914d9f4df9478518e8cdfd958f5f8d2bd00ac5e73ff64f6a6cbca3b"
+        },
+        {
+          "target_id": "c1020900315",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900315",
+          "checked_at": "2026-10-10T15:06:09.401Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 18000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 220,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcore-fruit-essence",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110030241",
+              "english_name": "Core Fruit Essence"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "4bbea497a233b9017aceb0de88dc12b744574ad0d14f7f2ad0ac7c69852c2bd9"
+        },
+        {
+          "target_id": "c1020770315",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770315",
+          "checked_at": "2026-10-10T15:06:09.535Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcloak-fluff-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030238",
+              "english_name": "Cloak Fluff Essence"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "474b8207e7712fd1a87875bae650ad9d19cfa8a7f3c1610028142b4d0a02a229"
+        },
+        {
+          "target_id": "c1020600315",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600315",
+          "checked_at": "2026-10-10T15:06:09.743Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 9000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 110,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mlaurel-feather-essence",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110030240",
+              "english_name": "Laurel Feather Essence"
+            },
+            {
+              "material_id": "mcrownwisp-fruit",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010242",
+              "english_name": "Crownwisp Fruit"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "0d232f390842dc1326ec78f9846604493ebab1ca13d711220e598e0725947597"
+        },
+        {
+          "target_id": "c1020500315",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500315",
+          "checked_at": "2026-10-10T15:06:09.856Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 6800,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 83,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcrystal-ballfly-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030245",
+              "english_name": "Crystal Ballfly Essence"
+            },
+            {
+              "material_id": "mcrystal-ballfly",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010245",
+              "english_name": "Crystal Ballfly"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "5479442a4e8b93d62577c7f1cf49b39bf6320eba8c046e7e28916a4b0dd5d4ea"
+        },
+        {
+          "target_id": "c1020710315",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020710315",
+          "checked_at": "2026-10-10T15:06:09.977Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mrockshell-fish",
+              "quantity": 100,
+              "unit": "count",
+              "source_material_id": "inv_1110010237",
+              "english_name": "Rockshell Fish"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "5d81af5168dc09b3326576c7245dd9cc5a4df65099a8a6f33d5711823036beea"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "unit": "count",
+          "quantity": 67500
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "unit": "count",
+          "quantity": 827
+        },
+        {
+          "material_id": "mcrystal-ballfly-essence",
+          "unit": "count",
+          "quantity": 8
+        },
+        {
+          "material_id": "mgilded-axiswing",
+          "unit": "count",
+          "quantity": 12
+        },
+        {
+          "material_id": "mterra-gem-elegant",
+          "unit": "count",
+          "quantity": 60
+        },
+        {
+          "material_id": "mgilded-axiswing-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mcloak-fluff",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mcore-fruit-essence",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mpearl-drop-beetle",
+          "unit": "count",
+          "quantity": 17
+        },
+        {
+          "material_id": "mcloak-fluff-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mlaurel-feather-essence",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mcrownwisp-fruit",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mcrystal-ballfly",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mrockshell-fish",
+          "unit": "count",
+          "quantity": 100
+        }
+      ],
+      "source_url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10315",
+      "checked_at": "2026-10-10T15:06:09.978Z"
+    },
+    {
+      "outfit_id": "o10339",
+      "name": "迷梦幻颂",
+      "part_ids": [
+        "c1020100339",
+        "c1020300339",
+        "c1020410339",
+        "c1020600339",
+        "c1020720339",
+        "c1020730339",
+        "c1020770339",
+        "c1020980339"
+      ],
+      "pieces": [
+        {
+          "target_id": "c1020730339",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730339",
+          "checked_at": "2026-10-10T15:06:10.610Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcore-fruit-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030241",
+              "english_name": "Core Fruit Essence"
+            },
+            {
+              "material_id": "mmech-sparrow-feather",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010239",
+              "english_name": "Mech-Sparrow Feather"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "88af15b2cc46096774433f149ddb97355bee272c1b2759c322511d39cda60e66"
+        },
+        {
+          "target_id": "c1020720339",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720339",
+          "checked_at": "2026-10-10T15:06:11.042Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mpearl-drop-beetle-essence",
+              "quantity": 2,
+              "unit": "count",
+              "source_material_id": "inv_1110030243",
+              "english_name": "Pearl Drop Beetle Essence"
+            },
+            {
+              "material_id": "mcrystal-ballfly",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010245",
+              "english_name": "Crystal Ballfly"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "95452e7c1c2b7a5be828406e69dd566cd188e69fd9769c00c3c813542067d802"
+        },
+        {
+          "target_id": "c1020980339",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020980339",
+          "checked_at": "2026-10-10T15:06:11.161Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mmech-sparrow-feather-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030239",
+              "english_name": "Mech-Sparrow Feather Essence"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "e53c7c6b627575afcb7295978c1b3e4aae6e6ab492d39df77e9a90477ce35ccb"
+        },
+        {
+          "target_id": "c1020600339",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600339",
+          "checked_at": "2026-10-10T15:06:11.358Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 9000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 110,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mmech-sparrow-feather-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030239",
+              "english_name": "Mech-Sparrow Feather Essence"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "21b563f1b07fc7b0c3171a340d49fa39ec2feacfdae216b776131bc1c82dbcfc"
+        },
+        {
+          "target_id": "c1020770339",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770339",
+          "checked_at": "2026-10-10T15:06:11.488Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 5600,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 69,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mbladefin",
+              "quantity": 100,
+              "unit": "count",
+              "source_material_id": "inv_1110010236",
+              "english_name": "Bladefin"
+            },
+            {
+              "material_id": "mmech-sparrow-feather",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010239",
+              "english_name": "Mech-Sparrow Feather"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "f9ab58446ac56045f851f5a5ff8876ce433dd25d2d693a56b59539b36c0bf7d5"
+        },
+        {
+          "target_id": "c1020100339",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100339",
+          "checked_at": "2026-10-10T15:06:11.647Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 11300,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 138,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcore-fruit-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030241",
+              "english_name": "Core Fruit Essence"
+            },
+            {
+              "material_id": "mgilded-axiswing",
+              "quantity": 7,
+              "unit": "count",
+              "source_material_id": "inv_1110010246",
+              "english_name": "Gilded Axiswing"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "ab3f5fe943d38f76df165fb0f507cebd04d6164127d36ad5019d5de4ef593072"
+        },
+        {
+          "target_id": "c1020410339",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020410339",
+          "checked_at": "2026-10-10T15:06:11.773Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 9000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 110,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mgilded-axiswing-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030246",
+              "english_name": "Gilded Axiswing Essence"
+            },
+            {
+              "material_id": "mlaurel-feather",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010240",
+              "english_name": "Laurel Feather"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "d167f468c5c9912ad7a59d6cdb1921be140b2183b57b14387bbc05fa5c5239a1"
+        },
+        {
+          "target_id": "c1020300339",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020300339",
+          "checked_at": "2026-10-10T15:06:11.889Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 9000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 110,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mgilded-axiswing-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030246",
+              "english_name": "Gilded Axiswing Essence"
+            },
+            {
+              "material_id": "mcore-fruit",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010241",
+              "english_name": "Core Fruit"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "fbc382308dd581315862999123f905d418ee1425b08cabbd2d0d525e50a61d6d"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "unit": "count",
+          "quantity": 60700
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "unit": "count",
+          "quantity": 744
+        },
+        {
+          "material_id": "mcore-fruit-essence",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mmech-sparrow-feather",
+          "unit": "count",
+          "quantity": 12
+        },
+        {
+          "material_id": "mterra-gem-sweet",
+          "unit": "count",
+          "quantity": 60
+        },
+        {
+          "material_id": "mpearl-drop-beetle-essence",
+          "unit": "count",
+          "quantity": 2
+        },
+        {
+          "material_id": "mcrystal-ballfly",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mmech-sparrow-feather-essence",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mpearl-drop-beetle",
+          "unit": "count",
+          "quantity": 12
+        },
+        {
+          "material_id": "mbladefin",
+          "unit": "count",
+          "quantity": 100
+        },
+        {
+          "material_id": "mgilded-axiswing",
+          "unit": "count",
+          "quantity": 7
+        },
+        {
+          "material_id": "mgilded-axiswing-essence",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mlaurel-feather",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mcore-fruit",
+          "unit": "count",
+          "quantity": 5
+        }
+      ],
+      "source_url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10339",
+      "checked_at": "2026-10-10T15:06:11.890Z"
+    },
+    {
+      "outfit_id": "o10348",
+      "name": "暖歌花纪",
+      "part_ids": [
+        "c1020100348",
+        "c1020500348",
+        "c1020600348",
+        "c1020720348",
+        "c1020730348",
+        "c1020760348",
+        "c1020770348",
+        "c1020780348",
+        "c1020900348"
+      ],
+      "pieces": [
+        {
+          "target_id": "c1020720348",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720348",
+          "checked_at": "2026-10-10T15:06:12.971Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mpearly-shell",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010077",
+              "english_name": "Pearly Shell"
+            },
+            {
+              "material_id": "mclip-beetle",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010165",
+              "english_name": "Clip Beetle"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "b8a8bd30c9c1908cd7acddb7d142887070ec8db4ad4aa63bf8b5a5ba1f9f8abc"
+        },
+        {
+          "target_id": "c1020100348",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100348",
+          "checked_at": "2026-10-10T15:06:13.155Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 4000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 30,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mpearl-wings",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010120",
+              "english_name": "Pearl Wings"
+            },
+            {
+              "material_id": "mtailor-beetle",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010168",
+              "english_name": "Tailor Beetle"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "6886502b3f0735898306d5813d67b20def1bf88685e6a7bf9f41bec39852100d"
+        },
+        {
+          "target_id": "c1020730348",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730348",
+          "checked_at": "2026-10-10T15:06:13.573Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mweavespider",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010084",
+              "english_name": "Weavespider"
+            },
+            {
+              "material_id": "mnight-heron-feather",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010174",
+              "english_name": "Night Heron Feather"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "485a2e745e0f695cb1364cc17f91370d089a465d7537f0df9d1a00f3c5e75f07"
+        },
+        {
+          "target_id": "c1020900348",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900348",
+          "checked_at": "2026-10-10T15:06:13.737Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 6400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 48,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mbuttoncone",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010072",
+              "english_name": "Buttoncone"
+            },
+            {
+              "material_id": "mskirt-tail-fluff",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010175",
+              "english_name": "Skirt Tail Fluff"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "3c834015b588ee3eab0d5fde03f3c05ddb442b970153a2a8222eba40474924b8"
+        },
+        {
+          "target_id": "c1020770348",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770348",
+          "checked_at": "2026-10-10T15:06:13.925Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mwoolfruit",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010068",
+              "english_name": "Woolfruit"
+            },
+            {
+              "material_id": "mknotted-fern",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010182",
+              "english_name": "Knotted Fern"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "c3acecdd80842c3749a0566ffa80658fcdbb9ba2646d05fc2827b697bdc1722f"
+        },
+        {
+          "target_id": "c1020600348",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600348",
+          "checked_at": "2026-10-10T15:06:14.089Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 3200,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 24,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mglimmerdrop",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010122",
+              "english_name": "Glimmerdrop"
+            },
+            {
+              "material_id": "mpendulum-fruit",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010183",
+              "english_name": "Pendulum Fruit"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "b1ea649ba6cf42b54fd0a1fde85f301b10a23590624b72b73316c0b100e0d798"
+        },
+        {
+          "target_id": "c1020780348",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020780348",
+          "checked_at": "2026-10-10T15:06:14.294Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mlampchili",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010069",
+              "english_name": "Lampchili"
+            },
+            {
+              "material_id": "mlooptail-furball",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010173",
+              "english_name": "Looptail Furball"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "0bc8640fcec45d0affdef8d2a95992eb4ab8774ed5bd43e7dbe40571cc5ec4a9"
+        },
+        {
+          "target_id": "c1020760348",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020760348",
+          "checked_at": "2026-10-10T15:06:14.415Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2000,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mambird-feather",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010121",
+              "english_name": "Ambird Feather"
+            },
+            {
+              "material_id": "mscholar-feather",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110010179",
+              "english_name": "Scholar Feather"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "8628b80f6412dbe6ead74bfb37405ac90d0b82ac658ee28909c1dc22efd5f188"
+        },
+        {
+          "target_id": "c1020500348",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500348",
+          "checked_at": "2026-10-10T15:06:14.534Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 2400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 18,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mlampbloom",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010131",
+              "english_name": "Lampbloom"
+            },
+            {
+              "material_id": "mcarver-fish",
+              "quantity": 20,
+              "unit": "count",
+              "source_material_id": "inv_1110010191",
+              "english_name": "Carver Fish"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050020",
+              "english_name": "Terra Gem: Sweet"
+            }
+          ],
+          "source_sha256": "27cb21336f749817fc62fbab67ea8fe338952b26777e841723e9acf3fed7d51f"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "unit": "count",
+          "quantity": 26000
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "unit": "count",
+          "quantity": 195
+        },
+        {
+          "material_id": "mpearly-shell",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mclip-beetle",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mterra-gem-sweet",
+          "unit": "count",
+          "quantity": 65
+        },
+        {
+          "material_id": "mpearl-wings",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mtailor-beetle",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mweavespider",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mnight-heron-feather",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mbuttoncone",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mskirt-tail-fluff",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mwoolfruit",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mknotted-fern",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mglimmerdrop",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mpendulum-fruit",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mlampchili",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mlooptail-furball",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mambird-feather",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mscholar-feather",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mlampbloom",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mcarver-fish",
+          "unit": "count",
+          "quantity": 20
+        }
+      ],
+      "source_url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10348",
+      "checked_at": "2026-10-10T15:06:14.534Z"
+    },
+    {
+      "outfit_id": "o10373",
+      "name": "存续悖论",
+      "part_ids": [
+        "c1020100373",
+        "c1020500373",
+        "c1020600373",
+        "c1020720373",
+        "c1020730373",
+        "c1020770373",
+        "c1020900373",
+        "c1020920373"
+      ],
+      "pieces": [
+        {
+          "target_id": "c1020100373",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100373",
+          "checked_at": "2026-10-10T15:06:14.791Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 16800,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 240,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mrockshell-fish",
+              "quantity": 50,
+              "unit": "count",
+              "source_material_id": "inv_1110010237",
+              "english_name": "Rockshell Fish"
+            },
+            {
+              "material_id": "mmech-sparrow-feather",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010239",
+              "english_name": "Mech-Sparrow Feather"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "d17083b805aa1a5873abfd916247c9ae55dd1617482cf2e0a293f6cc68a14ad6"
+        },
+        {
+          "target_id": "c1020720373",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720373",
+          "checked_at": "2026-10-10T15:06:14.911Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 120,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mrockshell-fish",
+              "quantity": 100,
+              "unit": "count",
+              "source_material_id": "inv_1110010237",
+              "english_name": "Rockshell Fish"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "b0e1c29155164215795723acfe43f6dc0fee0a0c7bf8699ad9e794a21973ec9e"
+        },
+        {
+          "target_id": "c1020920373",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020920373",
+          "checked_at": "2026-10-10T15:06:15.031Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 120,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mcrystal-ballfly-essence",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110030245",
+              "english_name": "Crystal Ballfly Essence"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "fb7562f6cfc6aebc1b64702a49329e7556fa345ec46bbe13a4e1b229b595d90b"
+        },
+        {
+          "target_id": "c1020900373",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900373",
+          "checked_at": "2026-10-10T15:06:15.182Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 26900,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 384,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mbladefin",
+              "quantity": 100,
+              "unit": "count",
+              "source_material_id": "inv_1110010236",
+              "english_name": "Bladefin"
+            },
+            {
+              "material_id": "mmech-sparrow-feather",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010239",
+              "english_name": "Mech-Sparrow Feather"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 15,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "c76cdb205264febf821ad3aab4d47c301add6aca3e9eceacb4660c8a7ca3d641"
+        },
+        {
+          "target_id": "c1020770373",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770373",
+          "checked_at": "2026-10-10T15:06:15.414Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 120,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mskyward-shark-cloth",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110040064",
+              "english_name": "Skyward Shark Cloth"
+            },
+            {
+              "material_id": "mcore-fruit",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010241",
+              "english_name": "Core Fruit"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "ee93351ec291ac7125067f9e7df89c795469d6cde6a13783d02b73ffa1dafc7b"
+        },
+        {
+          "target_id": "c1020500373",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500373",
+          "checked_at": "2026-10-10T15:06:15.571Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 10100,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 144,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mpearl-drop-beetle-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030243",
+              "english_name": "Pearl Drop Beetle Essence"
+            },
+            {
+              "material_id": "mpearl-drop-beetle",
+              "quantity": 5,
+              "unit": "count",
+              "source_material_id": "inv_1110010243",
+              "english_name": "Pearl Drop Beetle"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "a999fc00d44e7f1e9e5f14adc24f0e5df9cc585b402b858f3f5d5e9761190790"
+        },
+        {
+          "target_id": "c1020600373",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600373",
+          "checked_at": "2026-10-10T15:06:15.810Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 13400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 192,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mgilded-axiswing-essence",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110030246",
+              "english_name": "Gilded Axiswing Essence"
+            },
+            {
+              "material_id": "mmech-sparrow-feather",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010239",
+              "english_name": "Mech-Sparrow Feather"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "94fe6207e66200dd5bd5e78f5781852b81bbd8743c834a9fbe82248adcb8b309"
+        },
+        {
+          "target_id": "c1020730373",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730373",
+          "checked_at": "2026-10-10T15:06:15.936Z",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "quantity": 8400,
+              "unit": "count",
+              "source_material_id": "inv_2",
+              "english_name": "Bling"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "quantity": 120,
+              "unit": "count",
+              "source_material_id": "inv_1110010065",
+              "english_name": "Thread of Purity"
+            },
+            {
+              "material_id": "mraging-knot",
+              "quantity": 3,
+              "unit": "count",
+              "source_material_id": "inv_1110040061",
+              "english_name": "Raging Knot"
+            },
+            {
+              "material_id": "mmech-sparrow-feather",
+              "quantity": 6,
+              "unit": "count",
+              "source_material_id": "inv_1110010239",
+              "english_name": "Mech-Sparrow Feather"
+            },
+            {
+              "material_id": "mterra-gem-elegant",
+              "quantity": 10,
+              "unit": "count",
+              "source_material_id": "inv_1110050017",
+              "english_name": "Terra Gem: Elegant"
+            }
+          ],
+          "source_sha256": "4031562d80c6b7ce45096f8c4e9cd9d2c6c7830535fa2230a08856c57de1498a"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "unit": "count",
+          "quantity": 100800
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "unit": "count",
+          "quantity": 1440
+        },
+        {
+          "material_id": "mrockshell-fish",
+          "unit": "count",
+          "quantity": 150
+        },
+        {
+          "material_id": "mmech-sparrow-feather",
+          "unit": "count",
+          "quantity": 23
+        },
+        {
+          "material_id": "mterra-gem-elegant",
+          "unit": "count",
+          "quantity": 70
+        },
+        {
+          "material_id": "mpearl-drop-beetle",
+          "unit": "count",
+          "quantity": 17
+        },
+        {
+          "material_id": "mcrystal-ballfly-essence",
+          "unit": "count",
+          "quantity": 5
+        },
+        {
+          "material_id": "mbladefin",
+          "unit": "count",
+          "quantity": 100
+        },
+        {
+          "material_id": "mskyward-shark-cloth",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mcore-fruit",
+          "unit": "count",
+          "quantity": 6
+        },
+        {
+          "material_id": "mpearl-drop-beetle-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mgilded-axiswing-essence",
+          "unit": "count",
+          "quantity": 3
+        },
+        {
+          "material_id": "mraging-knot",
+          "unit": "count",
+          "quantity": 3
+        }
+      ],
+      "source_url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10373",
+      "checked_at": "2026-10-10T15:06:15.937Z"
+    }
+  ],
+  "failures": [
+    {
+      "outfit_id": "o10054",
+      "name": "甜酷交锋",
+      "reason": "Unparsed quantified material Rockshell Fish Essence",
+      "checked_at": "2026-10-10T15:06:02.965Z"
+    },
+    {
+      "outfit_id": "o10067",
+      "name": "绿韵心弦",
+      "reason": "Unparsed quantified material Candleglow Cluster Essence",
+      "checked_at": "2026-10-10T15:06:03.616Z"
+    },
+    {
+      "outfit_id": "o10082",
+      "name": "云隙的针脚",
+      "reason": "Unparsed quantified material Gilded Axiswing Essence",
+      "checked_at": "2026-10-10T15:06:04.101Z"
+    },
+    {
+      "outfit_id": "o10214",
+      "name": "启源造律",
+      "reason": "Unparsed quantified material Gilded Axiswing",
+      "checked_at": "2026-10-10T15:06:06.204Z"
+    },
+    {
+      "outfit_id": "o10265",
+      "name": "眠于花畔",
+      "reason": "Unparsed quantified material Dreambloom of Yore",
+      "checked_at": "2026-10-10T15:06:08.393Z"
+    },
+    {
+      "outfit_id": "o10304",
+      "name": "咏赞黄昏",
+      "reason": "Unparsed quantified material Sunblaze Goldsand",
+      "checked_at": "2026-10-10T15:06:08.635Z"
+    },
+    {
+      "outfit_id": "o10342",
+      "name": "星跳记忆",
+      "reason": "Unparsed quantified material Thread of Purity",
+      "checked_at": "2026-10-10T15:06:12.268Z"
+    },
+    {
+      "outfit_id": "o10389",
+      "name": "梦隙灵语",
+      "reason": "Unparsed quantified material Plumeveil Feather Essence",
+      "checked_at": "2026-10-10T15:06:16.471Z"
+    },
+    {
+      "outfit_id": "o10393",
+      "name": "霓光游星",
+      "reason": "Unparsed quantified material Leafantler Fur Essence",
+      "checked_at": "2026-10-10T15:06:16.779Z"
+    },
+    {
+      "outfit_id": "o20048",
+      "name": "无拘绿野",
+      "reason": "Unparsed quantified material Leatherbag Beetle Essence",
+      "checked_at": "2026-10-10T15:06:17.088Z"
+    },
+    {
+      "outfit_id": "o20052",
+      "name": "美好的一天",
+      "reason": "Unparsed quantified material Pony Curls",
+      "checked_at": "2026-10-10T15:06:18.455Z"
+    },
+    {
+      "outfit_id": "o20053",
+      "name": "海风的召唤",
+      "reason": "Unparsed quantified material Nightglow Fur Essence",
+      "checked_at": "2026-10-10T15:06:18.760Z"
+    }
+  ],
+  "checks": [
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:01.548Z",
+      "sha256": "f3fea44f61cb3070d207db38562a0234bd2fae6e2b3cde88a8a927c1d525d895"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:01.577Z",
+      "sha256": "f7c25e50cb7a447dae241696c18bd6ced6381f815ef07c23af06a5c8f0663e56"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020760054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:02.017Z",
+      "sha256": "4a3611cc39172b5fc506c1e66da9bd1364be23eb6580ad41d4a27efd858a9714"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:02.218Z",
+      "sha256": "28ee954bc51cc2a223ffcc6c0c85abb1838534ed6cb47bd5eb83d3df2480f6e5"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020770054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:02.352Z",
+      "sha256": "533c1ea38d3d738ec9d4fdf225ff62b0511af5f528dc1c0619d19c096f018219"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:02.549Z",
+      "sha256": "572b80039790861109677096b6c0b46a4a76efd20c8f2a5657b428e6967babf4"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020410054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:02.779Z",
+      "sha256": "4987e528707f10cf2a78c537c8410b7cf84e9145ed1d96ac18b297d2d3f160a4"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020300054",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:02.965Z",
+      "sha256": "d3c2d67e15fdab737a1d7f6e05a99017fe57fa2db9cdd9786c22f8712e850e1e"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10067",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:03.105Z",
+      "sha256": "34d0361922a2ea3e19a6c29207e76540c1ee9c2b2ad787732a33c7fae93920da"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720067",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:03.616Z",
+      "sha256": "d25a2a95687d9c6cdca2bdce5e2cbbd7635cd04f551f7cb27dc4f2864196ac07"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10082",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:03.643Z",
+      "sha256": "2ffac22a115031fe12d01352fbcdbc28f1d8bd518f08f4c3eb91ca77fed66198"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020950082",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:03.790Z",
+      "sha256": "2a066c6f8ceb497ff30bcf71e6ec6013afdc7c922ba53c755ab41f1d64e6de94"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720082",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:03.926Z",
+      "sha256": "46ce517da76472f3ee667dc081057576129ecf55980430f388a36f7b1f8c701b"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020980082",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:04.101Z",
+      "sha256": "71cef140ee35914d66e663a2e9c7aa0cfa8c1b1199cbe5f1353122f926ab5967"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:04.230Z",
+      "sha256": "7d82713f7aa9369faecc5cd17cae50bb378d2d2fdadc2f6a2f3d6ca0131625ec"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:04.362Z",
+      "sha256": "8e6d929d2dc04fa56dab6f414aa537aeb4a16a9e3ebf12e029bbb63caf9de1b9"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:04.482Z",
+      "sha256": "761d20e70e1fed6cd608a42769e4315457786bd2429609550842695bf9dd3eff"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020710083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:04.611Z",
+      "sha256": "e0da25349b09aabc368e66206f8fb180d0f726bafbe78aca66789e45b2367a2d"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:04.936Z",
+      "sha256": "2d19390b074b55b7886b9fcff87542ae960f5577cb27e32103156158d125d410"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020200083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:05.187Z",
+      "sha256": "52a795f6a1b0779ad0a80d4027d71af6676950b5ac61c6b7c43905520e328e47"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020900083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:05.338Z",
+      "sha256": "402b2c16c8e38016f8f15feeb6b5df2b6efabe628c6c726abda1ef14b71a8128"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:05.510Z",
+      "sha256": "4e26a828969696536e7e55521ba7a215d3f8dccaaea96d84b4faf725e6257d05"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020500083",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:05.810Z",
+      "sha256": "1921f53d58c0f4726f69d6c28d6934860ce5d741df6ecc5ff56b27089b8008d9"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10214",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:05.979Z",
+      "sha256": "5cc3d44b91be9a17d94a69c004f3af659bf3b11dbcece32b3fc688d17736dfc2"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100214",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:06.203Z",
+      "sha256": "05f828a6eb4fa0e0325e4aa8fc93b835c804c10fd3de0beee5bf38300d456385"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:06.341Z",
+      "sha256": "d6cf7c105c038ae8dc0de89f60903f54296ef9bc8c1669411666e1bc6160a0a3"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:06.505Z",
+      "sha256": "97545fbd7f50ed03a0e574e3ee82975d9f32c843c15f8f02a418e6a82dd4e24c"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020300244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:06.662Z",
+      "sha256": "e324096c70a7b66c884fb1387650a244af1e665fe16cd56322ea01ffff95ad8e"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020410244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:06.787Z",
+      "sha256": "8bbaf119003d354cb4702661e8cf4641f2427a90dc3130547a0cac7310d63775"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:07.223Z",
+      "sha256": "51fceac9e3b6d722c87e2924bd2f096bad23abc221262152180c2a3fddcfaea3"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020710244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:07.380Z",
+      "sha256": "1ca61f5a39ec00ce8aaa81d322ce9a498c1df4b214e8f03ea1a3e26383bb7e55"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:07.567Z",
+      "sha256": "c11e53a69d6cfc6fea6530530fac57248df810fad3ccfd9fcc93615d74e9e60f"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020780244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:07.800Z",
+      "sha256": "edc8eb43e03c9302165be4556b227a4702722f65b06059015a917040ed9ea30e"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020930244",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.092Z",
+      "sha256": "a2e91b00a8307e71fd18a49d05aca0e76d2e23fb814c79a84a715cae4dc3370a"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10265",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.223Z",
+      "sha256": "90648ac89c472abc78b53c2b027c5affbe082d65a2bd42dbe9199c3a6171209a"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720265",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.392Z",
+      "sha256": "cf975b67e48682df6fcecae3bc32d8939531164f2e977598654d541fa4469b7f"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10304",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.509Z",
+      "sha256": "a7f7cad93dc2b9a92ccce1e4ad249b8b5b50b6d210d8d270938921a3c59c8025"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020950304",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.635Z",
+      "sha256": "e0e024e408948d07fcc0c785aba830a5417dfa7863dd3311492b6cc414ab54a0"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.761Z",
+      "sha256": "fa8cfedc3b7501aac96db80902c3321811e41e575e32e1186d6462d2a351ad4f"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:08.922Z",
+      "sha256": "19c819bd86c2e24148bb97f549a48eee1e57e9c5528dd027cae671c5c2d23600"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.042Z",
+      "sha256": "2f81bd67194a931c10c88ff20a52d5854c765e4df887b4c4026685b9765f228a"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020200315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.218Z",
+      "sha256": "c4ed78893914d9f4df9478518e8cdfd958f5f8d2bd00ac5e73ff64f6a6cbca3b"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020900315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.400Z",
+      "sha256": "4bbea497a233b9017aceb0de88dc12b744574ad0d14f7f2ad0ac7c69852c2bd9"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020770315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.535Z",
+      "sha256": "474b8207e7712fd1a87875bae650ad9d19cfa8a7f3c1610028142b4d0a02a229"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.742Z",
+      "sha256": "0d232f390842dc1326ec78f9846604493ebab1ca13d711220e598e0725947597"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020500315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.856Z",
+      "sha256": "5479442a4e8b93d62577c7f1cf49b39bf6320eba8c046e7e28916a4b0dd5d4ea"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020710315",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:09.976Z",
+      "sha256": "5d81af5168dc09b3326576c7245dd9cc5a4df65099a8a6f33d5711823036beea"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:10.317Z",
+      "sha256": "1f40c81f19408ff55f4ceb3b57b0ab579fe6d9e45bda893b3360232e9fca9cdd"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:10.609Z",
+      "sha256": "88af15b2cc46096774433f149ddb97355bee272c1b2759c322511d39cda60e66"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.042Z",
+      "sha256": "95452e7c1c2b7a5be828406e69dd566cd188e69fd9769c00c3c813542067d802"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020980339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.161Z",
+      "sha256": "e53c7c6b627575afcb7295978c1b3e4aae6e6ab492d39df77e9a90477ce35ccb"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.358Z",
+      "sha256": "21b563f1b07fc7b0c3171a340d49fa39ec2feacfdae216b776131bc1c82dbcfc"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020770339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.488Z",
+      "sha256": "f9ab58446ac56045f851f5a5ff8876ce433dd25d2d693a56b59539b36c0bf7d5"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.646Z",
+      "sha256": "ab3f5fe943d38f76df165fb0f507cebd04d6164127d36ad5019d5de4ef593072"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020410339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.772Z",
+      "sha256": "d167f468c5c9912ad7a59d6cdb1921be140b2183b57b14387bbc05fa5c5239a1"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020300339",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:11.889Z",
+      "sha256": "fbc382308dd581315862999123f905d418ee1425b08cabbd2d0d525e50a61d6d"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10342",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:12.106Z",
+      "sha256": "f5728be411360256f3212e3a94ab34dad52b709bc7bc9265e9691d383e0325c3"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730342",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:12.268Z",
+      "sha256": "d433bbc3a75612b6535123d399ce5c6d230bfd904fd4079441f74823085af5cb"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:12.482Z",
+      "sha256": "ae427438c71655ec8bae47cd05b60e353d0f83ba7d42f49b4e5bff09ec70a50a"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:12.970Z",
+      "sha256": "b8a8bd30c9c1908cd7acddb7d142887070ec8db4ad4aa63bf8b5a5ba1f9f8abc"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:13.154Z",
+      "sha256": "6886502b3f0735898306d5813d67b20def1bf88685e6a7bf9f41bec39852100d"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:13.572Z",
+      "sha256": "485a2e745e0f695cb1364cc17f91370d089a465d7537f0df9d1a00f3c5e75f07"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020900348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:13.737Z",
+      "sha256": "3c834015b588ee3eab0d5fde03f3c05ddb442b970153a2a8222eba40474924b8"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020770348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:13.925Z",
+      "sha256": "c3acecdd80842c3749a0566ffa80658fcdbb9ba2646d05fc2827b697bdc1722f"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.088Z",
+      "sha256": "b1ea649ba6cf42b54fd0a1fde85f301b10a23590624b72b73316c0b100e0d798"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020780348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.293Z",
+      "sha256": "0bc8640fcec45d0affdef8d2a95992eb4ab8774ed5bd43e7dbe40571cc5ec4a9"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020760348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.415Z",
+      "sha256": "8628b80f6412dbe6ead74bfb37405ac90d0b82ac658ee28909c1dc22efd5f188"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020500348",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.533Z",
+      "sha256": "27cb21336f749817fc62fbab67ea8fe338952b26777e841723e9acf3fed7d51f"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.662Z",
+      "sha256": "41fcae6b6879b368455ebdcf9cf3b39a65a78d9e694cd32a14257dc875220ef9"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.790Z",
+      "sha256": "d17083b805aa1a5873abfd916247c9ae55dd1617482cf2e0a293f6cc68a14ad6"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:14.910Z",
+      "sha256": "b0e1c29155164215795723acfe43f6dc0fee0a0c7bf8699ad9e794a21973ec9e"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020920373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:15.031Z",
+      "sha256": "fb7562f6cfc6aebc1b64702a49329e7556fa345ec46bbe13a4e1b229b595d90b"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020900373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:15.181Z",
+      "sha256": "c76cdb205264febf821ad3aab4d47c301add6aca3e9eceacb4660c8a7ca3d641"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020770373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:15.413Z",
+      "sha256": "ee93351ec291ac7125067f9e7df89c795469d6cde6a13783d02b73ffa1dafc7b"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020500373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:15.570Z",
+      "sha256": "a999fc00d44e7f1e9e5f14adc24f0e5df9cc585b402b858f3f5d5e9761190790"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020600373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:15.810Z",
+      "sha256": "94fe6207e66200dd5bd5e78f5781852b81bbd8743c834a9fbe82248adcb8b309"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020730373",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:15.936Z",
+      "sha256": "4031562d80c6b7ce45096f8c4e9cd9d2c6c7830535fa2230a08856c57de1498a"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10389",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:16.087Z",
+      "sha256": "64c04c060fb5d59eaa966009dd1307c5a9c85b63489efb9fc66e51e3e8290dd5"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:16.358Z",
+      "sha256": "104b0739350dac1d86e07c7590d61ba8f6712dadbb4a06a985b2e7b81dbc3c38"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:16.471Z",
+      "sha256": "2e15bccccd6eabd5c5f3bcc89fa4b15730a4a51699598ceb2317fc8c5127efe3"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_10393",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:16.626Z",
+      "sha256": "d85bd2a0d8f030cfe3fedc2fc139b0803ec0c9c771c8ecd7021940c0b48d55fd"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:16.778Z",
+      "sha256": "26bd6ac375a348e14d6701f77526ccbbedb45cfb035a7950606cc29139fe0a72"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_20048",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:16.925Z",
+      "sha256": "8fdf6416717972b3d887282482db2d9b6bb795e06f8dac40ebebee4252158760"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:17.087Z",
+      "sha256": "34a4580345ce8a2253878c8888e923c508cd5497898bad42f1ca27769c74b9cc"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_20052",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:17.122Z",
+      "sha256": "d9f61eb9e1ed5abee1c5e8182b7faabfa76f382d287d9d3d3b853e152eef0e50"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1029710052",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:17.158Z",
+      "sha256": "01526a026c78d6e55749191cc75096282b9a416cab154ffc8e477535739ac825"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1029600052",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:17.828Z",
+      "sha256": "30c88ec9bd63df50f81d38c9d6fa890cf09e06429c2c520bc454a6756a8e667d"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1029410052",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:18.033Z",
+      "sha256": "ab60591307208f1c0bcaf9073dc0fcda8df296cab40fb95f3232865d4f12803a"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1029500052",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:18.301Z",
+      "sha256": "1148440c23966fa2a1ce4f053af2a2555c47c91d95ecc5891dcbce42754a8ea3"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/clothing/cl_1029300052",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:18.454Z",
+      "sha256": "db1e6f17b5b4b04504577dad9676280c517b4600990fd6a3e14a12bba4d50a05"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/outfit-sets/suit_20053",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:18.631Z",
+      "sha256": "8812fedd336ab72641b1ffc351128e9865b60539d72b04adc128e7f799a6434d"
+    },
+    {
+      "url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053",
+      "status": 200,
+      "checked_at": "2026-10-10T15:06:18.759Z",
+      "sha256": "c9e3e5925a2dd401dc621c095070209461ecad824c72c31719ef16fede29a999"
+    }
+  ]
+}

@@ -1,0 +1,1498 @@
+[
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020100054",
+    "name": "飒心掠影",
+    "en": "Galeheart Glimpse",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Galeheart Glimpse\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"飒心掠影\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020300054",
+    "name": "胜负一念",
+    "en": "Win or Lose",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Win or Lose\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"胜负一念\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020410054",
+    "name": "澎湃心绪",
+    "en": "Surging Thoughts",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Surging Thoughts\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"澎湃心绪\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020600054",
+    "name": "炽烈远行",
+    "en": "Fervent Journey",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fervent Journey\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"炽烈远行\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020730054",
+    "name": "掣电定格",
+    "en": "Frozen Flash",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Frozen Flash\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"掣电定格\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020760054",
+    "name": "锋芒交界",
+    "en": "Clash of Edges",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Clash of Edges\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"锋芒交界\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020770054",
+    "name": "热忱托寄",
+    "en": "Heartfelt Entrustment",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Heartfelt Entrustment\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"热忱托寄\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020100067",
+    "name": "年轮记忆",
+    "en": "Rings of Memory",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rings of Memory\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"年轮记忆\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020300067",
+    "name": "根脉共息",
+    "en": "Intertwined Roots",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Intertwined Roots\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"根脉共息\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020410067",
+    "name": "缤纷心事",
+    "en": "Kaleidoscope Mind",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Kaleidoscope Mind\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"缤纷心事\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020500067",
+    "name": "苔痕浅印",
+    "en": "Verdant Imprint",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Imprint\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"苔痕浅印\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020600067",
+    "name": "绿野行歌",
+    "en": "Verdant Melody",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绿野行歌\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020720067",
+    "name": "沐风聆歌",
+    "en": "Breeze's Melody",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Breeze's Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"沐风聆歌\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020760067",
+    "name": "草木轻语",
+    "en": "Whispering Grove",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispering Grove\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"草木轻语\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020940067",
+    "name": "萌芽初绽",
+    "en": "Awakening Buds",
+    "type": "挂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Awakening Buds\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"萌芽初绽\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020100082",
+    "name": "缱绻云丝",
+    "en": "Lingering Cloud",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lingering Cloud\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"缱绻云丝\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020200082",
+    "name": "绵绵归讯",
+    "en": "Messages of Return",
+    "type": "外套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Messages of Return\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绵绵归讯\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020300082",
+    "name": "寞寞晴袍",
+    "en": "Lonely Sunlight",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lonely Sunlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"寞寞晴袍\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020410082",
+    "name": "青丛细语",
+    "en": "Verdant Whispers",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Whispers\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"青丛细语\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020600082",
+    "name": "行向溪野",
+    "en": "Toward the Creekside",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Toward the Creekside\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"行向溪野\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020720082",
+    "name": "绒绒方寸",
+    "en": "Puffy Corner",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Puffy Corner\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绒绒方寸\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020770082",
+    "name": "松针引线",
+    "en": "Pine Needle Thread",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pine Needle Thread\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"松针引线\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020950082",
+    "name": "软尺远征",
+    "en": "Tape Measure's Trek",
+    "type": "背饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tape Measure's Trek\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"软尺远征\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020980082",
+    "name": "剪剪绿野",
+    "en": "Trimming Fields",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Trimming Fields\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"剪剪绿野\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020100214",
+    "name": "风启纪元",
+    "en": "Windborne Era",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Windborne Era\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"风启纪元\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020600214",
+    "name": "通行之契",
+    "en": "Pact of Passage",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pact of Passage\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"通行之契\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020710214",
+    "name": "恒思深流",
+    "en": "Enduring Thoughts",
+    "type": "发饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enduring Thoughts\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"恒思深流\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020720214",
+    "name": "至理悬光",
+    "en": "Light of Truth",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Light of Truth\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"至理悬光\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020760214",
+    "name": "永动心枢",
+    "en": "Everturning Heart",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Everturning Heart\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"永动心枢\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020770214",
+    "name": "心源共振",
+    "en": "Pulsing Resonance",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pulsing Resonance\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"心源共振\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020790214",
+    "name": "流光序列",
+    "en": "Flowing Sequence",
+    "type": "肤绘",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flowing Sequence\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"流光序列\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020900214",
+    "name": "不落晨辉",
+    "en": "Lasting Dawn",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lasting Dawn\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"不落晨辉\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020970214",
+    "name": "启源法则",
+    "en": "Law of Origins",
+    "type": "臂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Law of Origins\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"启源法则\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020100304",
+    "name": "不落黎光",
+    "en": "Unfading Sunlight",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unfading Sunlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"不落黎光\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020600304",
+    "name": "新火已生",
+    "en": "Flame Renewed",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flame Renewed\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"新火已生\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020720304",
+    "name": "尘与火",
+    "en": "Dust and Fire",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dust and Fire\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"尘与火\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020730304",
+    "name": "承辉之坠",
+    "en": "Lightbearer's Fall",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lightbearer's Fall\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"承辉之坠\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020740304",
+    "name": "神顾心辉",
+    "en": "Divine Glimpse",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Divine Glimpse\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"神顾心辉\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020760304",
+    "name": "引炬为誓",
+    "en": "Fire Oath",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fire Oath\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"引炬为誓\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020770304",
+    "name": "期然向晓",
+    "en": "Dawnward Hope",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawnward Hope\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"期然向晓\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020900304",
+    "name": "此身长照",
+    "en": "Everlit Form",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Everlit Form\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"此身长照\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020950304",
+    "name": "命运洪流",
+    "en": "Torrent of Fate",
+    "type": "背饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Torrent of Fate\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"命运洪流\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020970304",
+    "name": "灼火犹燃",
+    "en": "Lingering Flame",
+    "type": "臂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lingering Flame\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"灼火犹燃\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020100342",
+    "name": "璨如流星",
+    "en": "Meteor Glow",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Meteor Glow\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"璨如流星\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020300342",
+    "name": "荧荧如初",
+    "en": "Soft Glow",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Soft Glow\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"荧荧如初\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020410342",
+    "name": "漫漫星事",
+    "en": "Starlit Drift",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlit Drift\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"漫漫星事\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020600342",
+    "name": "寻光随尘",
+    "en": "Dustlight Traces",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dustlight Traces\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"寻光随尘\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020730342",
+    "name": "星色蕴声",
+    "en": "Star's Echo",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Star's Echo\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"星色蕴声\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020740342",
+    "name": "邂逅星圃",
+    "en": "Starlit Encounter",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlit Encounter\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"邂逅星圃\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020760342",
+    "name": "星野觅光",
+    "en": "Starlit Search",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlit Search\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"星野觅光\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020770342",
+    "name": "揽星之时",
+    "en": "Starlight Moments",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlight Moments\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"揽星之时\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020920342",
+    "name": "尘光视野",
+    "en": "Dustlit View",
+    "type": "面饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dustlit View\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"尘光视野\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020100389",
+    "name": "晨风拾歌",
+    "en": "Dawn Melody",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawn Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"晨风拾歌\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020500389",
+    "name": "芳枝苒苒",
+    "en": "Lush Branches",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lush Branches\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"芳枝苒苒\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020600389",
+    "name": "昼夜行路",
+    "en": "Dawn to Dusk",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawn to Dusk\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"昼夜行路\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020720389",
+    "name": "羽叶珊珊",
+    "en": "Feathers and Leaves",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Feathers and Leaves\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"羽叶珊珊\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020730389",
+    "name": "林溪乐音",
+    "en": "Woodland Melody",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Woodland Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"林溪乐音\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020740389",
+    "name": "生命启示",
+    "en": "Life's Insight",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Life's Insight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"生命启示\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020770389",
+    "name": "杳梦渺渺",
+    "en": "Distant Dreams",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Distant Dreams\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"杳梦渺渺\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020900389",
+    "name": "月华轻纱",
+    "en": "Veil of Moonlight",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Veil of Moonlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"月华轻纱\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020100393",
+    "name": "绚丽弧光",
+    "en": "Dazzling Arc",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dazzling Arc\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绚丽弧光\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020200393",
+    "name": "霓彩星辰",
+    "en": "Neon Stars",
+    "type": "外套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Neon Stars\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"霓彩星辰\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020500393",
+    "name": "律动节拍",
+    "en": "Rhythmic Beat",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rhythmic Beat\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"律动节拍\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020600393",
+    "name": "雳光踪迹",
+    "en": "Thunderbolt Trace",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Thunderbolt Trace\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"雳光踪迹\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020720393",
+    "name": "光感猫耳",
+    "en": "Luminous Cat Ears",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Luminous Cat Ears\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"光感猫耳\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020730393",
+    "name": "超频信号",
+    "en": "Overclocked Signal",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Overclocked Signal\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"超频信号\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020900393",
+    "name": "寻星掠影",
+    "en": "Chasing Starlight",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Chasing Starlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"寻星掠影\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020100395",
+    "name": "墨写流年",
+    "en": "Ink-Written Years",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Ink-Written Years\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"墨写流年\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020300395",
+    "name": "风洇竹影",
+    "en": "Wind-Blurred Bamboo",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wind-Blurred Bamboo\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"风洇竹影\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020410395",
+    "name": "烟雨渡青",
+    "en": "Crossing Through Mist",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crossing Through Mist\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"烟雨渡青\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020500395",
+    "name": "宣上泊月",
+    "en": "Moon on Paper",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moon on Paper\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"宣上泊月\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020600395",
+    "name": "径上花明",
+    "en": "Blossoming Path",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoming Path\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"径上花明\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020710395",
+    "name": "落香邀客",
+    "en": "Scented Invitation",
+    "type": "发饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Scented Invitation\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"落香邀客\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020750395",
+    "name": "脉间听雨",
+    "en": "Pulsing Rain",
+    "type": "腕饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pulsing Rain\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"脉间听雨\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029100048",
+    "name": "旷野煦风",
+    "en": "Wilderness Zephyr",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wilderness Zephyr\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"旷野煦风\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029500048",
+    "name": "迥途待书",
+    "en": "Unwritten Path",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unwritten Path\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"迥途待书\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029600048",
+    "name": "从容稳步",
+    "en": "Composed Strides",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Composed Strides\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"从容稳步\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029720048",
+    "name": "仰望芳菲",
+    "en": "Blossoms Above",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoms Above\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"仰望芳菲\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029730048",
+    "name": "耀目盛阳",
+    "en": "Resplendent Sun",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Resplendent Sun\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"耀目盛阳\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029900048",
+    "name": "优雅新意",
+    "en": "New Elegance",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"New Elegance\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"优雅新意\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029940048",
+    "name": "自由向往",
+    "en": "Longing for Freedom",
+    "type": "挂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Longing for Freedom\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"自由向往\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029100053",
+    "name": "沙滩启示",
+    "en": "Beachside Revelation",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Beachside Revelation\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"沙滩启示\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029300053",
+    "name": "拥抱海风",
+    "en": "Sea-Scented Embrace",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sea-Scented Embrace\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"拥抱海风\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029410053",
+    "name": "飞跃金沙",
+    "en": "Across Golden Sand",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Across Golden Sand\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"飞跃金沙\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029600053",
+    "name": "未知足迹",
+    "en": "Unknown Footprints",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unknown Footprints\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"未知足迹\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029730053",
+    "name": "与鱼同游",
+    "en": "Reverie at Sea",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Reverie at Sea\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"与鱼同游\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029740053",
+    "name": "月下珍珠",
+    "en": "Moonlit Pearls",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moonlit Pearls\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"月下珍珠\" 制作 材料 数量"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029920053",
+    "name": "深海视野",
+    "en": "Deepsea Vision",
+    "type": "面饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Deepsea Vision\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"深海视野\" 制作 材料 数量"
+      }
+    ]
+  }
+]

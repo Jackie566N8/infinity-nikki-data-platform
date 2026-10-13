@@ -1,0 +1,395 @@
+[
+  {
+    "object_id": "o1030004",
+    "checked_at": "2026-10-11T15:42:16.693Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心光破晓时·重明\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawning Heartlight: Renewed Gleam\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心光破晓时·重明\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dawning Heartlight: Renewed Gleam\" evolution materials OR \"心光破晓时·重明\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖黄金尘# #无限... 来自无限暖暖 - 微博",
+        "url": "https://weibo.com/7801655101/R8k5Ai9a9",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030102",
+    "checked_at": "2026-10-11T15:42:18.377Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"黎明无声·织光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Soundless Dawn: Woven Light\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"黎明无声·织光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Soundless Dawn: Woven Light\" evolution materials OR \"黎明无声·织光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Soundless Dawn: Woven Light | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Woven_Light",
+        "evolution": "Heartshine: Soundless Dawn1 Heartshine: Soundless Dawn\n\n1 Soundless Dawn: Woven Light",
+        "crafting": null
+      },
+      {
+        "title": "Soundless Dawn: Floral Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Floral_Melody",
+        "evolution": "2 Soundless Dawn\n\n1 Soundless Dawn: Floral Melody",
+        "crafting": null
+      },
+      {
+        "title": "Soundless Dawn: Forest Echoes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Forest_Echoes",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunità di Steam :: Guida :: 《星空》深度鉴赏与解读：何以成为终极太空RPG",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3437469620&l=italian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Cộng đồng Steam :: 歌仙兼定 :: Trò chơi",
+        "url": "https://steamcommunity.com/id/Rynii/recommended/?l=vietnamese&p=2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 歌仙兼定 :: 游戏",
+        "url": "https://steamcommunity.com/id/Rynii/recommended/?l=schinese&p=2",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030103",
+    "checked_at": "2026-10-11T15:42:20.233Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"黎明无声·森籁\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Soundless Dawn: Forest Echoes\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"黎明无声·森籁\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Soundless Dawn: Forest Echoes\" evolution materials OR \"黎明无声·森籁\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Soundless Dawn: Forest Echoes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Forest_Echoes",
+        "evolution": "Heartshine: Soundless Dawn1 Heartshine: Soundless Dawn\n\n1 Soundless Dawn: Forest Echoes",
+        "crafting": null
+      },
+      {
+        "title": "Soundless Dawn: Woven Light | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Woven_Light",
+        "evolution": "Heartshine: Soundless Dawn1 Heartshine: Soundless Dawn\n\n1 Soundless Dawn: Woven Light",
+        "crafting": null
+      },
+      {
+        "title": "Soundless Dawn: Floral Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Floral_Melody",
+        "evolution": "2 Soundless Dawn\n\n1 Soundless Dawn: Floral Melody",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030104",
+    "checked_at": "2026-10-11T15:42:22.356Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"黎明无声·花音\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Soundless Dawn: Floral Melody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"黎明无声·花音\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Soundless Dawn: Floral Melody\" evolution materials OR \"黎明无声·花音\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Soundless Dawn: Floral Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Floral_Melody",
+        "evolution": "2 Soundless Dawn\n\n1 Soundless Dawn: Floral Melody",
+        "crafting": null
+      },
+      {
+        "title": "Soundless Dawn: Forest Echoes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Forest_Echoes",
+        "evolution": "Heartshine: Soundless Dawn1 Heartshine: Soundless Dawn\n\n1 Soundless Dawn: Forest Echoes",
+        "crafting": null
+      },
+      {
+        "title": "Soundless Dawn: Woven Light | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Woven_Light",
+        "evolution": "Heartshine: Soundless Dawn1 Heartshine: Soundless Dawn\n\n1 Soundless Dawn: Woven Light",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030202",
+    "checked_at": "2026-10-11T15:42:24.135Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"青枝缀诗·炽跃\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Verse: Flare\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"青枝缀诗·炽跃\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Verdant Verse: Flare\" evolution materials OR \"青枝缀诗·炽跃\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1030402",
+    "checked_at": "2026-10-11T15:42:26.222Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏赞黄昏·金穹\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Hymn to Dusk: Aurum\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏赞黄昏·金穹\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Hymn to Dusk: Aurum\" evolution materials OR \"咏赞黄昏·金穹\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::11111",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3430943562&l=swedish",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030403",
+    "checked_at": "2026-10-11T15:42:28.320Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏赞黄昏·神逝\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Hymn to Dusk: Godfall\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏赞黄昏·神逝\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Hymn to Dusk: Godfall\" evolution materials OR \"咏赞黄昏·神逝\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::个人收集（：",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2983502617",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-værksted::个人收集（：",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2983502617&l=danish",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030404",
+    "checked_at": "2026-10-11T15:42:30.523Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏赞黄昏·归尘\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Hymn to Dusk: Dusted\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏赞黄昏·归尘\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Hymn to Dusk: Dusted\" evolution materials OR \"咏赞黄昏·归尘\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::个人收集（：",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2983502617",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::666",
+        "url": "https://steamcommunity.com/workshop/filedetails/?id=3411771237&l=swedish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::wallpaper",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3494056667&l=finnish",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030702",
+    "checked_at": "2026-10-11T15:42:31.991Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"遇上喵喵雨・星彩\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Momo Rain: Starry Colors\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"遇上喵喵雨・星彩\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Momo Rain: Starry Colors\" evolution materials OR \"遇上喵喵雨・星彩\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Momo Rain: Starry Colors | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Momo_Rain%3A_Starry_Colors",
+        "evolution": "2 Momo Rain\n\n1 Momo Rain: Starry Colors",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1031302",
+    "checked_at": "2026-10-11T15:42:34.503Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"逆流协奏·破界\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Counterflow Concerto: Break\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"逆流协奏·破界\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Counterflow Concerto: Break\" evolution materials OR \"逆流协奏·破界\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Counterflow Concerto: Break | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Counterflow_Concerto%3A_Break",
+        "evolution": "2 Counterflow Concerto\n\n1 Counterflow Concerto: Break",
+        "crafting": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,9 @@
+event_id,object_id,obtain_condition,source_id
+"event:1ac30bf4810d0b3b9a514b12","o10395","Complete event tasks for Misty Scrolls, then exchange the required number for Veil of Misty Rain; exact exchange amount not specified in this notice.","src:e273df972f2a6a5da163a2cf"
+"event:3a0aa25586710ebf18b5d389","o10344","Eligible purchases grant Petal Note; milestones unlock Gleam of Grain. Exact purchase threshold is not specified in the retained facts.","src:e273df972f2a6a5da163a2cf"
+"event:5e554139f711cd40313ead7c","o10399","Limited-time Resonance; draws grant the listed base outfits. The notice is a historical schedule, not a live availability check.","src:e273df972f2a6a5da163a2cf"
+"event:5e554139f711cd40313ead7c","o10430","Limited-time Resonance; draws grant the listed base outfits. The notice is a historical schedule, not a live availability check.","src:e273df972f2a6a5da163a2cf"
+"event:963fbb0dbe4824488470011f","o10310","Available in Store > Clothing during the stated window. Price and whether a discount applies are not recorded.","src:e273df972f2a6a5da163a2cf"
+"event:963fbb0dbe4824488470011f","o10357","Available in Store > Clothing during the stated window. Price and whether a discount applies are not recorded.","src:e273df972f2a6a5da163a2cf"
+"event:d57d2916e67a2d080eb9fbaf","o10343","Limited-time collaboration Resonance; rewards obtainable via draws during the stated event window. Evolution/glow-up forms require separate conditions.","src:e273df972f2a6a5da163a2cf"
+"event:d57d2916e67a2d080eb9fbaf","o10347","Limited-time collaboration Resonance; rewards obtainable via draws during the stated event window. Evolution/glow-up forms require separate conditions.","src:e273df972f2a6a5da163a2cf"

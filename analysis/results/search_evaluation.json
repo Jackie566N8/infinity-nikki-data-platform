@@ -1,0 +1,1579 @@
+{
+  "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+  "sample": {
+    "total": 50,
+    "positive": 44,
+    "negative": 6,
+    "dev": 35,
+    "test": 15,
+    "positive_test": 12,
+    "negative_test": 3,
+    "query_types": 5
+  },
+  "reviewer": "human_reviewer_A",
+  "reviewed_on": "2026-10-12",
+  "review_independence": "Model predictions visible; single reviewer; supporting evidence not independently inspected by this agent",
+  "retrieval_replayed": true,
+  "methods": {
+    "A": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.38636363636363635,
+          "hit_at_5": 0.38636363636363635,
+          "mrr": 0.38636363636363635,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.0006703999999974712
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0008200000000033469
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0007169999999916854
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0005460000000005039
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.000778999999994312
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0004899999999975079
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.375,
+          "hit_at_5": 0.375,
+          "mrr": 0.375,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.000688428571426292
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0008535714285747937
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0006935714285629859
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0005478571428576678
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0008535714285650491
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0004935714285709635
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 0.4166666666666667,
+          "hit_at_5": 0.4166666666666667,
+          "mrr": 0.4166666666666667,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.0006283333333302228
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0007416666666699712
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.000771666666658651
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0005416666666671215
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0006049999999959255
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.00048166666665944526
+          }
+        }
+      }
+    },
+    "B": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.20454545454545456,
+          "hit_at_5": 0.20454545454545456,
+          "mrr": 0.20454545454545456,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.0008219000000005963
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.000887000000001308
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0005154999999990651
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.000495499999999538
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0017450000000053477
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00046649999999772264
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.21875,
+          "hit_at_5": 0.21875,
+          "mrr": 0.21875,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.0008528571428610121
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0009035714285817318
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.000511428571426872
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0005028571428608433
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0018785714285822256
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00046785714285338794
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 0.16666666666666666,
+          "hit_at_5": 0.16666666666666666,
+          "mrr": 0.16666666666666666,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.000749666666659626
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0008483333333136519
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0005250000000008489
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0004783333333231591
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0014333333333259666
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0004633333333345036
+          }
+        }
+      }
+    },
+    "C": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.5909090909090909,
+          "hit_at_5": 0.5909090909090909,
+          "mrr": 0.5909090909090909,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.000648399999998901
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.000867500000002792
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0006729999999947722
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00042500000000131875
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0009204999999974461
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0003559999999981756
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.59375,
+          "hit_at_5": 0.59375,
+          "mrr": 0.59375,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.0006807142857116691
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0009757142857162243
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0006678571428519067
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00043571428571372706
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0009671428571388268
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00035714285713766
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 0.5833333333333334,
+          "hit_at_5": 0.5833333333333334,
+          "mrr": 0.5833333333333334,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.0005730000000024423
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0006150000000047839
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0006849999999947917
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00040000000000569945
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0008116666666675579
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.00035333333333937845
+          }
+        }
+      }
+    },
+    "D": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.7727272727272727,
+          "hit_at_5": 0.7727272727272727,
+          "mrr": 0.7727272727272727,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3254711999999991
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.037774000000003985
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.007044499999999516
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.47743249999999426
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00806899999999814
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.8888888888888888,
+            "hit_at_5": 0.8888888888888888,
+            "mrr": 0.8888888888888888,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.0970359999999995
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.75,
+          "hit_at_5": 0.75,
+          "mrr": 0.75,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.32370514285714275
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.033118571428578235
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00844499999999958
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.010212142857134105
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0040878571428558125
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.8333333333333334,
+            "hit_at_5": 0.8333333333333334,
+            "mrr": 0.8333333333333334,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5626621428571459
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 0.8333333333333334,
+          "hit_at_5": 0.8333333333333334,
+          "mrr": 0.8333333333333334,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3295919999999971
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.048636666666664045
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0037766666666660363
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5676133333333346
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.01735833333333024
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.010574999999990571
+          }
+        }
+      }
+    },
+    "E": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.7954545454545454,
+          "hit_at_5": 0.7954545454545454,
+          "mrr": 0.7954545454545454,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3164586000000063
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.030320999999999005
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00451200000000199
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.47269100000001457
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0061510000000055244
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.0686180000000105
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.8125,
+          "hit_at_5": 0.8125,
+          "mrr": 0.8125,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3142595714285787
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.028944285714283067
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.005399285714286504
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.010010000000017628
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0033000000000031706
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5236442857143029
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 0.75,
+          "hit_at_5": 0.75,
+          "mrr": 0.75,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3215896666666708
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.033533333333336184
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0024416666666714566
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5522800000000074
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.012803333333344352
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.006889999999994719
+          }
+        }
+      }
+    },
+    "F": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.9772727272727273,
+          "hit_at_5": 0.9772727272727273,
+          "mrr": 0.9772727272727273,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3135805999999975
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.030822500000015223
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00476649999998699
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.4700990000000047
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.00544700000000148
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.8888888888888888,
+            "hit_at_5": 0.8888888888888888,
+            "mrr": 0.8888888888888888,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.056767999999979
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.96875,
+          "hit_at_5": 0.96875,
+          "mrr": 0.96875,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.31094757142856905
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.029222142857150045
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.005663571428548104
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.01005785714287088
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0031657142857186822
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 0.8333333333333334,
+            "hit_at_5": 0.8333333333333334,
+            "mrr": 0.8333333333333334,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5066285714285574
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 1.0,
+          "hit_at_5": 1.0,
+          "mrr": 1.0,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.31972433333333056
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.034556666666700646
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0026733333333443924
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.543528333333317
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.010769999999994678
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.00709333333329596
+          }
+        }
+      }
+    },
+    "D_v2": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 0.7954545454545454,
+          "hit_at_5": 0.7954545454545454,
+          "mrr": 0.7954545454545454,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3177066000000023
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.034030500000014854
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.005851000000002386
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.4773974999999882
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.006603500000001076
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.0646505000000048
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 0.78125,
+          "hit_at_5": 0.78125,
+          "mrr": 0.78125,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.31451128571429177
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.03321785714287801
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.006889285714292522
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.011225714285693095
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0040928571428626775
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5171307142857327
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 0.8333333333333334,
+          "hit_at_5": 0.8333333333333334,
+          "mrr": 0.8333333333333334,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.32516233333332667
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 0.0,
+            "hit_at_5": 0.0,
+            "mrr": 0.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.03592666666666749
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0034283333333254024
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5651316666666768
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.012461666666657342
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.008863333333306399
+          }
+        }
+      }
+    },
+    "F_v2": {
+      "all": {
+        "overall": {
+          "reviewed": 50,
+          "answerable": 44,
+          "no_answer": 6,
+          "hit_at_1": 1.0,
+          "hit_at_5": 1.0,
+          "mrr": 1.0,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.3201062999999995
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.033382000000005976
+          },
+          "formal": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.010821000000007644
+          },
+          "multilingual": {
+            "reviewed": 10,
+            "answerable": 8,
+            "no_answer": 2,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.4806489999999871
+          },
+          "nickname": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.0062414999999964495
+          },
+          "typo_pinyin": {
+            "reviewed": 10,
+            "answerable": 9,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.0694380000000003
+          }
+        }
+      },
+      "dev": {
+        "overall": {
+          "reviewed": 35,
+          "answerable": 32,
+          "no_answer": 3,
+          "hit_at_1": 1.0,
+          "hit_at_5": 1.0,
+          "mrr": 1.0,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.31728828571428563
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.032629285714285416
+          },
+          "formal": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.014092142857154094
+          },
+          "multilingual": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.01121499999999287
+          },
+          "nickname": {
+            "reviewed": 7,
+            "answerable": 7,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.003909999999996217
+          },
+          "typo_pinyin": {
+            "reviewed": 7,
+            "answerable": 6,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5245949999999995
+          }
+        }
+      },
+      "test": {
+        "overall": {
+          "reviewed": 15,
+          "answerable": 12,
+          "no_answer": 3,
+          "hit_at_1": 1.0,
+          "hit_at_5": 1.0,
+          "mrr": 1.0,
+          "no_answer_identification": 1.0,
+          "mean_response_ms": 0.32668166666666515
+        },
+        "by_type": {
+          "description": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.035138333333353935
+          },
+          "formal": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0031883333333325935
+          },
+          "multilingual": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 1.5759949999999738
+          },
+          "nickname": {
+            "reviewed": 3,
+            "answerable": 2,
+            "no_answer": 1,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": 1.0,
+            "mean_response_ms": 0.01168166666666366
+          },
+          "typo_pinyin": {
+            "reviewed": 3,
+            "answerable": 3,
+            "no_answer": 0,
+            "hit_at_1": 1.0,
+            "hit_at_5": 1.0,
+            "mrr": 1.0,
+            "no_answer_identification": null,
+            "mean_response_ms": 0.0074050000000018676
+          }
+        }
+      }
+    }
+  },
+  "timing_scope": "Retained first-run warm model latency; current Node replay validates rankings, not identical wall-clock times",
+  "limitations": [
+    "Single reviewer with predictions visible; not a blind independent multi-reviewer Gold",
+    "Subset and structured templates do not represent natural query frequency; no partial queries",
+    "F-v2 repair was selected after viewing development fail; same reviewed test is a regression check, not new generalization evidence",
+    "Old candidate comparison uses 8734 objects and different sample; no causal accuracy delta from old scores",
+    "Only 3 test negative cases; perfect rejection is not population certainty"
+  ]
+}

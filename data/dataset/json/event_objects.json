@@ -1,0 +1,50 @@
+[
+  {
+    "event_id": "event:1ac30bf4810d0b3b9a514b12",
+    "object_id": "o10395",
+    "obtain_condition": "Complete event tasks for Misty Scrolls, then exchange the required number for Veil of Misty Rain; exact exchange amount not specified in this notice.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:3a0aa25586710ebf18b5d389",
+    "object_id": "o10344",
+    "obtain_condition": "Eligible purchases grant Petal Note; milestones unlock Gleam of Grain. Exact purchase threshold is not specified in the retained facts.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:5e554139f711cd40313ead7c",
+    "object_id": "o10399",
+    "obtain_condition": "Limited-time Resonance; draws grant the listed base outfits. The notice is a historical schedule, not a live availability check.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:5e554139f711cd40313ead7c",
+    "object_id": "o10430",
+    "obtain_condition": "Limited-time Resonance; draws grant the listed base outfits. The notice is a historical schedule, not a live availability check.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:963fbb0dbe4824488470011f",
+    "object_id": "o10310",
+    "obtain_condition": "Available in Store > Clothing during the stated window. Price and whether a discount applies are not recorded.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:963fbb0dbe4824488470011f",
+    "object_id": "o10357",
+    "obtain_condition": "Available in Store > Clothing during the stated window. Price and whether a discount applies are not recorded.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:d57d2916e67a2d080eb9fbaf",
+    "object_id": "o10343",
+    "obtain_condition": "Limited-time collaboration Resonance; rewards obtainable via draws during the stated event window. Evolution/glow-up forms require separate conditions.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  },
+  {
+    "event_id": "event:d57d2916e67a2d080eb9fbaf",
+    "object_id": "o10347",
+    "obtain_condition": "Limited-time collaboration Resonance; rewards obtainable via draws during the stated event window. Evolution/glow-up forms require separate conditions.",
+    "source_id": "src:e273df972f2a6a5da163a2cf"
+  }
+]

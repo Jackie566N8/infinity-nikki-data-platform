@@ -1,0 +1,422 @@
+[
+  {
+    "object_id": "o1005202",
+    "checked_at": "2026-10-11T15:35:55.637Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"新岁曈曈·春茶\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"New Year's Dawn: Spring Tea\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"新岁曈曈·春茶\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"New Year's Dawn: Spring Tea\" evolution materials OR \"新岁曈曈·春茶\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1005602",
+    "checked_at": "2026-10-11T15:35:57.498Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"潮汐鲨影·甜夏\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Shark Mirage: Summer\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"潮汐鲨影·甜夏\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Shark Mirage: Summer\" evolution materials OR \"潮汐鲨影·甜夏\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 永劫无间",
+        "url": "https://steamcommunity.com/app/1203220/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::饥荒人物mod",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2897891076&l=portuguese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1005802",
+    "checked_at": "2026-10-11T15:35:59.358Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"林间戏蝶·星彩\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forest's Fluttering: Starry\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"林间戏蝶·星彩\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forest's Fluttering: Starry\" evolution materials OR \"林间戏蝶·星彩\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1005902",
+    "checked_at": "2026-10-11T15:36:01.499Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"幽鳞渡梦生·寒渊\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Scaly Dream: Icy Depths\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"幽鳞渡梦生·寒渊\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Scaly Dream: Icy Depths\" evolution materials OR \"幽鳞渡梦生·寒渊\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Scaly Dream: Icy Depths | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Scaly_Dream%3A_Icy_Depths",
+        "evolution": "2 Scaly Dream\n\n1 Scaly Dream: Icy Depths",
+        "crafting": null
+      },
+      {
+        "title": "全职法师总纲",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404759581728572301",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1006202",
+    "checked_at": "2026-10-11T15:36:03.076Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心愿金蔷薇·绽放\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wishful Aurosa: Blooming\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心愿金蔷薇·绽放\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Wishful Aurosa: Blooming\" evolution materials OR \"心愿金蔷薇·绽放\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Wishful Aurosa: Blooming | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Blooming",
+        "evolution": "1 Heartshine: Wishful Aurosa\n\n7 Heartfelt Thoughts\n\n1 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Blooming",
+        "crafting": null
+      },
+      {
+        "title": "Category:Evolution Materials | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Category%3AEvolution_Materials",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Daybreak | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Daybreak",
+        "evolution": "1 Heartshine: Wishful Aurosa\n\n7 Heartfelt Thoughts\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Daybreak",
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Shadow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Shadow",
+        "evolution": "7 Heartfelt Thoughts\n\n2 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Shadow",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidad de Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=latam",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: echo :: Games",
+        "url": "https://steamcommunity.com/profiles/76561199188643983/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=portuguese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: xlxszs :: Games",
+        "url": "https://steamcommunity.com/profiles/76561198816605010/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komuniti Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=malay",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1006203",
+    "checked_at": "2026-10-11T15:36:05.868Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心愿金蔷薇·迟明\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wishful Aurosa: Daybreak\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心愿金蔷薇·迟明\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Wishful Aurosa: Daybreak\" evolution materials OR \"心愿金蔷薇·迟明\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Wishful Aurosa: Daybreak | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Daybreak",
+        "evolution": "1 Heartshine: Wishful Aurosa\n\n7 Heartfelt Thoughts\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Daybreak",
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Blooming | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Blooming",
+        "evolution": "1 Heartshine: Wishful Aurosa\n\n7 Heartfelt Thoughts\n\n1 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Blooming",
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Shadow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Shadow",
+        "evolution": "7 Heartfelt Thoughts\n\n2 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Shadow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1006204",
+    "checked_at": "2026-10-11T15:36:07.538Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心愿金蔷薇·暗蚀\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wishful Aurosa: Shadow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心愿金蔷薇·暗蚀\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Wishful Aurosa: Shadow\" evolution materials OR \"心愿金蔷薇·暗蚀\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Wishful Aurosa: Shadow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Shadow",
+        "evolution": "7 Heartfelt Thoughts\n\n2 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Shadow",
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Daybreak | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Daybreak",
+        "evolution": "1 Heartshine: Wishful Aurosa\n\n7 Heartfelt Thoughts\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Daybreak",
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Blooming | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Blooming",
+        "evolution": "1 Heartshine: Wishful Aurosa\n\n7 Heartfelt Thoughts\n\n1 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Blooming",
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 悠久之树",
+        "url": "https://steamcommunity.com/app/3222960/announcements/?l=portuguese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: echo :: Games",
+        "url": "https://steamcommunity.com/profiles/76561199188643983/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komuniti Steam :: 悠久之树",
+        "url": "https://steamcommunity.com/app/3222960/allnews/?l=malay",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=portuguese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunitatea Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=romanian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1006702",
+    "checked_at": "2026-10-11T15:36:09.436Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绿韵心弦·织音\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Chord: Woven Melody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绿韵心弦·织音\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Verdant Chord: Woven Melody\" evolution materials OR \"绿韵心弦·织音\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Verdant Chord: Woven Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Verdant_Chord%3A_Woven_Melody",
+        "evolution": "Verdant Chord2 Verdant Chord\n\nVerdant Chord: Woven Melody1 Verdant Chord: Woven Melody",
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::角色",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3114559195",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 工作坊::My Love mod collection",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3576257391&l=tchinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1008202",
+    "checked_at": "2026-10-11T15:36:11.166Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"云隙的针脚·织野\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Cloudbreak Stitches: Landwoven\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"云隙的针脚·织野\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Cloudbreak Stitches: Landwoven\" evolution materials OR \"云隙的针脚·织野\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1008402",
+    "checked_at": "2026-10-11T15:36:12.775Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"清爽茶会时·午憩\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Breezy Tea Time: Siesta\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"清爽茶会时·午憩\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Breezy Tea Time: Siesta\" evolution materials OR \"清爽茶会时·午憩\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  }
+]

@@ -1,0 +1,316 @@
+[
+  {
+    "object_id": "o1029304",
+    "checked_at": "2026-10-11T15:41:55.759Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"森之涟·幽荧\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forest Ripple: Glimmer\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"森之涟·幽荧\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forest Ripple: Glimmer\" evolution materials OR \"森之涟·幽荧\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forest Ripple: Roaming | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forest_Ripple%3A_Roaming",
+        "evolution": "2 Heartshine: Forest Ripple\n\n1 Forest Ripple: Roaming",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029402",
+    "checked_at": "2026-10-11T15:41:57.664Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花影心期·炽心\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Florabound Promise: Blazing Heart\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花影心期·炽心\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Florabound Promise: Blazing Heart\" evolution materials OR \"花影心期·炽心\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1029403",
+    "checked_at": "2026-10-11T15:41:59.165Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花影心期·澄辉\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Florabound Promise: Pure Radiance\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花影心期·澄辉\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Florabound Promise: Pure Radiance\" evolution materials OR \"花影心期·澄辉\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1029404",
+    "checked_at": "2026-10-11T15:42:00.695Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花影心期·斓梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Florabound Promise: Prismatic Dream\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花影心期·斓梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Florabound Promise: Prismatic Dream\" evolution materials OR \"花影心期·斓梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖新五星套装如何获取？",
+        "url": "https://weibo.com/2/detail/comos%3Anisisqh7748070",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029502",
+    "checked_at": "2026-10-11T15:42:02.903Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"一叶晴日·晚安\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Leafshade Haven: Goodnight\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"一叶晴日·晚安\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Leafshade Haven: Goodnight\" evolution materials OR \"一叶晴日·晚安\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101?tabtype=newVideo",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Phigros收藏品及曲绘整理〖phigros吧〗_百度贴吧",
+        "url": "https://tieba.baidu.com/p/9109582815?fr=good",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029601",
+    "checked_at": "2026-10-11T15:42:05.278Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"森林的遗歌·新芽\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forgotten Songs: New Bud\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"森林的遗歌·新芽\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forgotten Songs: New Bud\" evolution materials OR \"森林的遗歌·新芽\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forgotten Songs: Cold Frost | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forgotten_Songs%3A_Cold_Frost",
+        "evolution": "2 Forgotten Songs\n\n1 Forgotten Songs: Cold Frost",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029802",
+    "checked_at": "2026-10-11T15:42:06.968Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"时之契·寓言\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Covenant of Time: Fable\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"时之契·寓言\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Covenant of Time: Fable\" evolution materials OR \"时之契·寓言\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Covenant of Time: Fable | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Covenant_of_Time%3A_Fable",
+        "evolution": "2 Covenant of Time\n\n1 Covenant of Time: Fable",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029901",
+    "checked_at": "2026-10-11T15:42:08.567Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"孤翎之影·断痕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Solitary Silhouette: Scar\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"孤翎之影·断痕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Solitary Silhouette: Scar\" evolution materials OR \"孤翎之影·断痕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "「曙梦向明」9.0版本更新公告",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405323797120549387",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030002",
+    "checked_at": "2026-10-11T15:42:10.150Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心光破晓时·空茧\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawning Heartlight: Empty Cocoon\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心光破晓时·空茧\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dawning Heartlight: Empty Cocoon\" evolution materials OR \"心光破晓时·空茧\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖黄金尘# #无限... 来自无限暖暖 - 微博",
+        "url": "https://weibo.com/7801655101/R8k5Ai9a9",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1030003",
+    "checked_at": "2026-10-11T15:42:12.258Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心光破晓时·坠火\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawning Heartlight: Falling Flame\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心光破晓时·坠火\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dawning Heartlight: Falling Flame\" evolution materials OR \"心光破晓时·坠火\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖黄金尘# #无限... 来自无限暖暖 - 微博",
+        "url": "https://weibo.com/7801655101/R8k5Ai9a9",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

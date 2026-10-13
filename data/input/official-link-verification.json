@@ -1,0 +1,18 @@
+[
+  {
+    "title": "September 23: Version 2.10 Update Notice",
+    "feed_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1844115010503800",
+    "resolved_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355",
+    "incorrect_guessed_url": "https://steamcommunity.com/games/3164330/announcements/detail/1844115010503800",
+    "status": 200,
+    "checked_at": "2026-10-10T16:39:34.617Z"
+  },
+  {
+    "title": "August 27: Version 2.9 Update Notice",
+    "feed_url": "https://steamstore-a.akamaihd.net/news/externalpost/steam_community_announcements/1842212951296642",
+    "resolved_url": "https://steamcommunity.com/games/3164330/announcements/detail/714536853984772185",
+    "incorrect_guessed_url": "https://steamcommunity.com/games/3164330/announcements/detail/1842212951296642",
+    "status": 200,
+    "checked_at": "2026-10-10T16:39:35.838Z"
+  }
+]

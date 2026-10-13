@@ -1,0 +1,14 @@
+{
+  "checked_at": "2026-10-11T07:39:04.293Z",
+  "snapshot_id": "snapshot:8b40ec876db4824a25c4dac8",
+  "from_clean_github_archive": true,
+  "steps": [
+    "build",
+    "Python/DuckDB analysis",
+    "syntax and snapshot checks",
+    "600 frozen predictions reproduced"
+  ],
+  "structural_errors": 0,
+  "scope": "core pipeline verified before final documentation/template refresh",
+  "deployment": "not_performed"
+}

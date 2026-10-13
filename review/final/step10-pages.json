@@ -1,0 +1,713 @@
+{
+  "checked_at": "2026-10-12T13:40:05.815Z",
+  "deployment": "not_deployed",
+  "visits": [
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "outfits"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "clothing"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "materials"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "map"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "eurekas"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "makeups"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "analytics"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "preferences"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "planning"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "advanced"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "research"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "quality"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-CN",
+      "section": "favorites"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "outfits"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "clothing"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "materials"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "map"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "eurekas"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "makeups"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "analytics"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "preferences"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "planning"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "advanced"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "research"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "quality"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "en",
+      "section": "favorites"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "outfits"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "clothing"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "materials"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "map"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "eurekas"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "makeups"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "analytics"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "preferences"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "planning"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "advanced"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "research"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "quality"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ja",
+      "section": "favorites"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "outfits"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "clothing"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "materials"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "map"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "eurekas"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "makeups"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "analytics"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "preferences"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "planning"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "advanced"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "research"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "quality"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "ko",
+      "section": "favorites"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "outfits"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "clothing"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "materials"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "map"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "eurekas"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "makeups"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "analytics"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "preferences"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "planning"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "advanced"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "research"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "quality"
+    },
+    {
+      "entry": "pages_subpath",
+      "locale": "zh-TW",
+      "section": "favorites"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "outfits"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "clothing"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "materials"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "map"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "eurekas"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "makeups"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "analytics"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "preferences"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "planning"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "advanced"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "research"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "quality"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-CN",
+      "section": "favorites"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "outfits"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "clothing"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "materials"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "map"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "eurekas"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "makeups"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "analytics"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "preferences"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "planning"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "advanced"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "research"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "quality"
+    },
+    {
+      "entry": "file",
+      "locale": "en",
+      "section": "favorites"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "outfits"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "clothing"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "materials"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "map"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "eurekas"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "makeups"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "analytics"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "preferences"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "planning"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "advanced"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "research"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "quality"
+    },
+    {
+      "entry": "file",
+      "locale": "ja",
+      "section": "favorites"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "outfits"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "clothing"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "materials"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "map"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "eurekas"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "makeups"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "analytics"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "preferences"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "planning"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "advanced"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "research"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "quality"
+    },
+    {
+      "entry": "file",
+      "locale": "ko",
+      "section": "favorites"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "outfits"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "clothing"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "materials"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "map"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "eurekas"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "makeups"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "analytics"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "wardrobe"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "preferences"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "planning"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "advanced"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "research"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "quality"
+    },
+    {
+      "entry": "file",
+      "locale": "zh-TW",
+      "section": "favorites"
+    }
+  ],
+  "case_count": 140,
+  "lazy_modules": "passed_both_entries",
+  "runtime_exceptions": 0,
+  "local_http_errors": 0,
+  "document_count": 11469,
+  "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+  "remote_art_and_fonts": "blocked_for_test"
+}

@@ -1,0 +1,225 @@
+{
+  "checked_at": "2026-10-13T05:42:05.805Z",
+  "relative_assets": 54,
+  "checked": [
+    {
+      "file": "index.html",
+      "reference": "./src/index.html"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "boot.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "cursor.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "style.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "region-banners.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "locales.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "i18n.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "region-banners-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "region-banners.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "quality.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "quality-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "quality.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "analytics.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "analytics-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "analytics-model.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "analytics.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "wardrobe.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "preferences-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "preferences-schema.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "wardrobe-model.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "wardrobe.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "planning.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "planning-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "planning-model.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "planning.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "search-eval.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "smart-vendor-opencc.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "smart-vendor-pinyin.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "smart-search-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "smart-search-model.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "smart-search-homophone-model.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "smart-search.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "human-search-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "human-search.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "advanced.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "advanced-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "advanced-model.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "advanced.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "module-loader.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "research.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "research-data.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "research.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "app.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "companion.css"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "companion-art.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "companion-copy.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "companion-brain.js"
+    },
+    {
+      "file": "src/index.html",
+      "reference": "companion.js"
+    },
+    {
+      "file": "src/style.css",
+      "reference": "assets/cursors/momo.svg"
+    },
+    {
+      "file": "src/style.css",
+      "reference": "assets/cursors/momo-pointer.svg"
+    },
+    {
+      "file": "src/module-loader.js",
+      "reference": "search-eval-data.js"
+    },
+    {
+      "file": "src/module-loader.js",
+      "reference": "search-model.js"
+    },
+    {
+      "file": "src/module-loader.js",
+      "reference": "search-eval.js"
+    }
+  ],
+  "absolute_local_resources": 0,
+  "entry": "index.html → ./src/index.html",
+  "data_loading": "Core data are prebuilt relative JS; JSON/CSV are inspectable exports, not startup fetch dependencies."
+}

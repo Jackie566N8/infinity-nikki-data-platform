@@ -1,0 +1,419 @@
+/* Nikki companion: self-contained, no full-screen hit area. */
+#nikki-companion {
+  font-family: var(--font-sans, system-ui), sans-serif;
+  color: #65516d;
+  font-size: 13px;
+  line-height: 1.6;
+}
+#nikki-companion [hidden] {
+  display: none !important;
+}
+#nikki-companion button,
+#nikki-companion textarea {
+  font: inherit;
+}
+#nikki-companion button {
+  touch-action: manipulation;
+}
+#nikki-companion button:focus-visible,
+#nikki-companion a:focus-visible,
+#nikki-question:focus-visible {
+  outline: 3px solid #9479b0;
+  outline-offset: 3px;
+}
+.nikki-obscured {
+  visibility: hidden;
+}
+.nikki-walker {
+  position: fixed;
+  right: 20px;
+  bottom: 14px;
+  z-index: 65;
+  width: 124px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  mix-blend-mode: multiply;
+}
+.nikki-sprite {
+  position: relative;
+  border: 0;
+  background: none;
+  padding: 0;
+  width: 110px;
+  height: 135px;
+  transform-origin: bottom center;
+}
+.nikki-sprite svg {
+  width: 100%;
+  height: 100%;
+  display: block;
+  overflow: visible;
+  pointer-events: none;
+}
+.nikki-sprite.is-happy {
+  animation: nikki-hop 0.65s ease-in-out 2;
+}
+.nikki-sprite.is-happy::before,
+.nikki-sprite.is-happy::after {
+  content: "♥";
+  position: absolute;
+  color: #e392b2;
+  font-size: 19px;
+  pointer-events: none;
+  animation: nikki-heart 1.2s ease-out infinite;
+}
+.nikki-sprite.is-happy::before {
+  left: 0;
+  top: 42%;
+  transform: rotate(-20deg);
+}
+.nikki-sprite.is-happy::after {
+  right: 0;
+  top: 27%;
+  animation-delay: 0.2s;
+}
+.nikki-tools {
+  display: flex;
+  gap: 2px;
+  background: #fffafded;
+  border: 1px solid #ebdce8;
+  border-radius: 20px;
+  box-shadow: 0 3px 12px #8f6c8b15;
+  padding: 2px 5px;
+  backdrop-filter: blur(8px);
+}
+.nikki-tools button {
+  border: 0;
+  background: transparent;
+  width: 32px;
+  height: 30px;
+  border-radius: 50%;
+  color: #8d6c99;
+  font-size: 18px !important;
+  line-height: 1;
+}
+.nikki-tools button:hover {
+  background: #f4e4ef;
+}
+.nikki-hint {
+  display: block;
+  background: #fffafdf2;
+  border-radius: 10px;
+  margin-top: 5px;
+  padding: 2px 6px;
+  font-size: 10px;
+  text-align: center;
+  color: #92738c;
+  max-width: 150px;
+  line-height: 1.4;
+  pointer-events: none;
+}
+.nikki-bubble {
+  position: absolute;
+  bottom: 100%;
+  right: 0;
+  width: 190px;
+  max-width: calc(100vw - 28px);
+  padding: 12px 15px;
+  border: 1px solid #ecd2df;
+  border-radius: 18px 18px 18px 4px;
+  background: #fffafc;
+  box-shadow: 0 5px 25px #8e608f14;
+  color: #966b87;
+  text-align: center;
+  font-size: 12px;
+}
+.nikki-restore {
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+  z-index: 65;
+  padding: 9px 16px;
+  border: 1px solid #e6d3e3;
+  border-radius: 30px;
+  color: #87688f;
+  background: #fff9fc;
+  box-shadow: 0 4px 20px #8e608f20;
+}
+.nikki-chat {
+  position: fixed;
+  right: 160px;
+  bottom: 24px;
+  z-index: 70;
+  display: flex;
+  flex-direction: column;
+  width: 374px;
+  max-width: calc(100vw - 24px);
+  height: 560px;
+  max-height: calc(100dvh - 32px);
+  background: #fffcfe;
+  border: 1px solid #e9d9e7;
+  border-radius: 24px;
+  box-shadow: 0 16px 65px #73557730;
+  overflow: hidden;
+  text-align: left;
+}
+.nikki-chat header {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 18px 18px 15px;
+  background: linear-gradient(115deg, #fbe5ed, #eee8f8);
+  border-bottom: 1px solid #eedfe9;
+  flex-shrink: 0;
+}
+.nikki-chat-portrait {
+  width: 38px;
+  height: 45px;
+  object-fit: contain;
+  flex-shrink: 0;
+  mix-blend-mode: multiply;
+}
+#nikki-chat-title {
+  margin: 0;
+  font-size: 16px;
+  font-weight: 600;
+  letter-spacing: 0.03em;
+  color: #6e526d;
+}
+.nikki-subtitle {
+  margin: 2px 0 0;
+  font-size: 11px;
+  color: #9c7e9b;
+}
+.nikki-chat header button {
+  margin-left: auto;
+  background: #ffffff85;
+  border: 1px solid #efdae7;
+  border-radius: 50%;
+  width: 32px;
+  height: 32px;
+  font-size: 22px !important;
+  line-height: 1;
+  color: #98738f;
+  flex-shrink: 0;
+}
+.nikki-messages {
+  flex: 1;
+  min-height: 80px;
+  overflow: auto;
+  padding: 18px 16px;
+  overscroll-behavior: contain;
+  scrollbar-width: thin;
+  scrollbar-color: #e5ccdf transparent;
+}
+.nikki-message {
+  padding: 11px 13px;
+  margin-bottom: 12px;
+  border-radius: 16px;
+  max-width: 95%;
+  overflow-wrap: anywhere;
+  font-size: 13px;
+  line-height: 1.85;
+}
+.nikki-message p {
+  margin: 0 0 8px;
+}
+.nikki-message p:last-child {
+  margin-bottom: 0;
+}
+.nikki-answer {
+  background: #f4eff7;
+  border: 1px solid #ebe1ef;
+  border-bottom-left-radius: 4px;
+}
+.nikki-user {
+  margin-left: auto;
+  white-space: pre-wrap;
+  width: fit-content;
+  background: #f9e4ed;
+  color: #8b5d77;
+  border-bottom-right-radius: 4px;
+}
+.nikki-record-name {
+  display: block;
+  font-size: 16px;
+  line-height: 1.5;
+  margin: 5px 0;
+  color: #76597e;
+}
+.nikki-record-meta {
+  color: #a18199;
+  font-size: 11px;
+  margin: 7px 0;
+}
+.nikki-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin: 10px 0;
+}
+.nikki-links button,
+.nikki-links a {
+  border: 1px solid #e3d2e4;
+  border-radius: 9px;
+  padding: 5px 9px;
+  color: #89628d;
+  background: #fffafc;
+  text-decoration: none;
+  font-size: 11px !important;
+  line-height: 1.5;
+  text-align: left;
+}
+.nikki-links button:hover,
+.nikki-links a:hover {
+  background: #ebdeef;
+}
+.nikki-note {
+  color: #99829c;
+  font-size: 10px;
+  line-height: 1.7;
+  display: block;
+}
+.nikki-suggestions {
+  padding: 9px 13px 0;
+  display: flex;
+  gap: 6px;
+  flex-wrap: wrap;
+  border-top: 1px solid #f1e7ef;
+  flex-shrink: 0;
+}
+.nikki-suggestions button {
+  padding: 4px 8px;
+  border: 1px solid #ecdeeb;
+  border-radius: 12px;
+  background: #fff;
+  color: #9a7ca0;
+  font-size: 10px !important;
+  text-align: left;
+}
+.nikki-form {
+  display: flex;
+  gap: 8px;
+  margin: 10px 13px 0;
+  padding: 8px 8px 8px 12px;
+  background: #f8f3f8;
+  border: 1px solid #e8dce9;
+  border-radius: 15px;
+  flex-shrink: 0;
+}
+#nikki-question {
+  border: 0;
+  background: transparent;
+  resize: none;
+  width: 100%;
+  min-width: 0;
+  color: #725875;
+  line-height: 1.6;
+  font-size: 12px;
+  min-height: 40px;
+  max-height: 90px;
+  padding: 2px;
+}
+#nikki-question::placeholder {
+  color: #b39bae;
+}
+.nikki-send {
+  border: 0;
+  border-radius: 11px;
+  padding: 8px 12px;
+  background: #a081ad;
+  color: #fff;
+  align-self: center;
+  white-space: nowrap;
+  font-size: 12px !important;
+}
+.nikki-send:hover {
+  background: #8a699b;
+}
+.nikki-boundary {
+  margin: 8px 16px 12px;
+  font-size: 9px;
+  color: #ae98aa;
+  line-height: 1.5;
+  flex-shrink: 0;
+}
+.nikki-sr {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+@keyframes nikki-hop {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  45% {
+    transform: translateY(-12px) rotate(-4deg);
+  }
+  75% {
+    transform: translateY(-3px) rotate(3deg);
+  }
+}
+@keyframes nikki-heart {
+  to {
+    translate: 0 -16px;
+    opacity: 0;
+  }
+}
+@media (max-width: 600px) {
+  .nikki-walker {
+    width: 108px;
+    right: 12px;
+    bottom: 10px;
+  }
+  .nikki-sprite {
+    width: 86px;
+    height: 102px;
+  }
+  .nikki-hint {
+    font-size: 9px;
+  }
+  .nikki-chat {
+    bottom: 180px;
+    right: 12px;
+    height: 530px;
+    max-height: calc(100dvh - 192px);
+    border-radius: 20px;
+  }
+  .nikki-bubble {
+    width: 155px;
+    font-size: 11px;
+  }
+  .nikki-tools button {
+    width: 30px;
+    height: 30px;
+  }
+  .nikki-chat header {
+    padding: 14px;
+  }
+  .nikki-restore {
+    bottom: 12px;
+    right: 12px;
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .nikki-sprite,
+  .nikki-sprite svg,
+  .nikki-sprite.is-happy,
+  .nikki-sprite::before,
+  .nikki-sprite::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
+
+@media (max-height: 500px) {
+  .nikki-chat {
+    bottom: 12px;
+    max-height: calc(100dvh - 24px);
+  }
+}

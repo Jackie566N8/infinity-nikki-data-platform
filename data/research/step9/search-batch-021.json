@@ -1,0 +1,526 @@
+[
+  {
+    "object_id": "o1033102",
+    "checked_at": "2026-10-11T15:43:08.968Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"缘缘长相念·草木间\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forever Bond: Among Flora\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"缘缘长相念·草木间\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forever Bond: Among Flora\" evolution materials OR \"缘缘长相念·草木间\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forever Bond: Among Flora | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Among_Flora",
+        "evolution": "1 Heartshine: Forever Bond\n\n1 Forever Bond: Among Flora",
+        "crafting": null
+      },
+      {
+        "title": "Forever Bond: Mortal Affairs | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Mortal_Affairs",
+        "evolution": "1 Heartshine: Forever Bond\n\n1 Forever Bond: Mortal Affairs",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1033103",
+    "checked_at": "2026-10-11T15:43:11.076Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"缘缘长相念·人间事\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forever Bond: Mortal Affairs\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"缘缘长相念·人间事\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forever Bond: Mortal Affairs\" evolution materials OR \"缘缘长相念·人间事\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forever Bond: Mortal Affairs | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Mortal_Affairs",
+        "evolution": "1 Heartshine: Forever Bond\n\n1 Forever Bond: Mortal Affairs",
+        "crafting": null
+      },
+      {
+        "title": "Forever Bond: Among Flora | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Among_Flora",
+        "evolution": "1 Heartshine: Forever Bond\n\n1 Forever Bond: Among Flora",
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: xlxszs :: Games",
+        "url": "https://steamcommunity.com/profiles/76561198816605010/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam コミュニティ :: ota :: ゲーム",
+        "url": "https://steamcommunity.com/profiles/76561198930550102/recommended?l=japanese&p=1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::鬼谷",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2867412654&l=spanish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam コミュニティ :: ガイド :: 《海猫鸣泣之时·散》解（伪）",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2886225664&l=japanese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ชุมชน Steam :: STEINSGATE :: เกม",
+        "url": "https://steamcommunity.com/profiles/76561198972455693/recommended/?l=thai&p=3",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1033104",
+    "checked_at": "2026-10-11T15:43:12.792Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"缘缘长相念·别离序\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forever Bond: Farewell Prelude\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"缘缘长相念·别离序\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forever Bond: Farewell Prelude\" evolution materials OR \"缘缘长相念·别离序\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forever Bond: Mortal Affairs | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Mortal_Affairs",
+        "evolution": "1 Heartshine: Forever Bond\n\n1 Forever Bond: Mortal Affairs",
+        "crafting": null
+      },
+      {
+        "title": "Forever Bond: Among Flora | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Among_Flora",
+        "evolution": "1 Heartshine: Forever Bond\n\n1 Forever Bond: Among Flora",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1033202",
+    "checked_at": "2026-10-11T15:43:14.913Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"星屑小梦曲·初日\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starry Nocturne: Sunrise\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"星屑小梦曲·初日\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Starry Nocturne: Sunrise\" evolution materials OR \"星屑小梦曲·初日\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1033302",
+    "checked_at": "2026-10-11T15:43:16.888Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绮语月仙·夜明\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Gossamer Moonfairy: Night Light\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绮语月仙·夜明\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Gossamer Moonfairy: Night Light\" evolution materials OR \"绮语月仙·夜明\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1034302",
+    "checked_at": "2026-10-11T15:43:18.735Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"小王子·礼物\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"The Little Prince: Gift\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"小王子·礼物\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"The Little Prince: Gift\" evolution materials OR \"小王子·礼物\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖小王子联动套装如何免费获得",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483130",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "零氪玩家能拿到无限暖暖联动套装吗？",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2488197",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: Amazing-X-Brain. :: Games",
+        "url": "https://steamcommunity.com/profiles/76561198386638156/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 闪闪要努力鲤鱼翻身 :: 游戏",
+        "url": "https://steamcommunity.com/id/caelensar/recommended?l=schinese&p=6",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "小王子联动套装是否会后续复刻？",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwwe7646336",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::鬼谷自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930745741&l=german",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: 闪闪要努力鲤鱼翻身 :: Games",
+        "url": "https://steamcommunity.com/id/caelensar/recommended/?l=english&p=1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "模寿这波闹麻了-百度贴吧",
+        "url": "https://tieba.baidu.com/p/10441260080",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "微博正文",
+        "url": "https://weibo.com/2/detail/5334088245316688",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "百度贴吧",
+        "url": "https://tieba.baidu.com/home/main?fr=home&id=tb.1.ca6a6728.s2UOyPSQCk2_z_tmAf91KA",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: Guide :: CK3全成就攻略 V1.20",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2842227989",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034602",
+    "checked_at": "2026-10-11T15:43:20.778Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"冰霜中倾舞·圆梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dancing in Frost: Dream Fulfilled\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"冰霜中倾舞·圆梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dancing in Frost: Dream Fulfilled\" evolution materials OR \"冰霜中倾舞·圆梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Dancing in Frost: Dream Fulfilled | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dancing_in_Frost%3A_Dream_Fulfilled",
+        "evolution": "2 Dancing in Frost\n\n1 Dancing in Frost: Dream Fulfilled",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖丰收季##无限暖... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Q6kI6APls",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komunitas Steam :: Panduan :: 最后的神迹（遗迹）详细攻略 针对电子书进行补充扩展 整理收集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3006469651&l=indonesian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Cộng đồng Steam :: Hướng dẫn :: 最后的神迹（遗迹）详细攻略 针对电子书进行补充扩展 整理收集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3006469651&l=vietnamese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::自宅保护员",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3032540902&l=vietnamese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034702",
+    "checked_at": "2026-10-11T15:43:22.574Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如果爱上一朵花·思念\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"If Some One Loves a Flower: Yearning\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如果爱上一朵花·思念\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"If Some One Loves a Flower: Yearning\" evolution materials OR \"如果爱上一朵花·思念\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/?curator_clanid=4777282&l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/?curator_clanid=7048508&l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖小王子联动套装如何免费获得",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483130",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "联动限定五星套装效果如何获取？",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483110",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "五星套装如果爱上一朵花在哪些关卡不能用",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwwe7646317",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034703",
+    "checked_at": "2026-10-11T15:43:25.487Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如果爱上一朵花·驯化\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"If Some One Loves a Flower: Taming\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如果爱上一朵花·驯化\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"If Some One Loves a Flower: Taming\" evolution materials OR \"如果爱上一朵花·驯化\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "无限暖暖小王子联动套装如何免费获得",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483130",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "五星套装如果爱上一朵花在哪些关卡不能用",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwwe7646317",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "联动限定五星套装效果如何获取？",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483110",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034704",
+    "checked_at": "2026-10-11T15:43:27.097Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如果爱上一朵花·唯一\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"If Some One Loves a Flower: One of a Kind\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如果爱上一朵花·唯一\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"If Some One Loves a Flower: One of a Kind\" evolution materials OR \"如果爱上一朵花·唯一\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖小王子联动套装如何免费获得",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483130",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: Gids :: 游戏解析:暗黑地牢一一与旧同存活",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3140646114&l=dutch",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Спільнота Steam :: Посібник :: （100% Story Retrospective）真相不在世界的尽头，而在你的眼前。杀出重围人类分裂剧情完全解析。",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3568602877&l=ukrainian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "五星套装如果爱上一朵花在哪些关卡不能用",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwwe7646317",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "联动限定五星套装效果如何获取？",
+        "url": "https://weibo.com/2/detail/comos%3Anisiwvx2483110",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

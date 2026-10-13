@@ -1,0 +1,75 @@
+{
+  "checked_at": "2026-10-10T15:20:23.499Z",
+  "initial_snapshot": "snapshot:7367f5521bd18b85eb3fac66",
+  "updates": [
+    {
+      "recipe_id": "outfit-craft:o10083",
+      "material_id": "mbow-fish",
+      "quantity": 30,
+      "imported_unit": "count",
+      "canonical_unit": "kg",
+      "unit_basis": "verified pre-existing material unit; source badge gives a bare numeric quantity",
+      "unit_source_urls": [
+        "https://infinity-nikki.fandom.com/wiki/Starlit_Celebration"
+      ]
+    },
+    {
+      "recipe_id": "outfit-craft:o10083",
+      "material_id": "mbrushie",
+      "quantity": 50,
+      "imported_unit": "count",
+      "canonical_unit": "kg",
+      "unit_basis": "verified pre-existing material unit; source badge gives a bare numeric quantity",
+      "unit_source_urls": [
+        "https://infinity-nikki.fandom.com/wiki/Hometown_Breeze"
+      ]
+    },
+    {
+      "recipe_id": "piece-craft:c1020720083",
+      "material_id": "mbow-fish",
+      "quantity": 30,
+      "imported_unit": "count",
+      "canonical_unit": "kg",
+      "unit_basis": "verified pre-existing material unit; source badge gives a bare numeric quantity",
+      "unit_source_urls": [
+        "https://infinity-nikki.fandom.com/wiki/Starlit_Celebration"
+      ]
+    },
+    {
+      "recipe_id": "piece-craft:c1020720083",
+      "material_id": "mbrushie",
+      "quantity": 50,
+      "imported_unit": "count",
+      "canonical_unit": "kg",
+      "unit_basis": "verified pre-existing material unit; source badge gives a bare numeric quantity",
+      "unit_source_urls": [
+        "https://infinity-nikki.fandom.com/wiki/Hometown_Breeze"
+      ]
+    },
+    {
+      "recipe_id": "outfit-craft:o10348",
+      "material_id": "mcarver-fish",
+      "quantity": 20,
+      "imported_unit": "count",
+      "canonical_unit": "kg",
+      "unit_basis": "verified pre-existing material unit; source badge gives a bare numeric quantity",
+      "unit_source_urls": [
+        "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial",
+        "https://infinity-nikki.fandom.com/wiki/Mark_of_Time"
+      ]
+    },
+    {
+      "recipe_id": "piece-craft:c1020500348",
+      "material_id": "mcarver-fish",
+      "quantity": 20,
+      "imported_unit": "count",
+      "canonical_unit": "kg",
+      "unit_basis": "verified pre-existing material unit; source badge gives a bare numeric quantity",
+      "unit_source_urls": [
+        "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial",
+        "https://infinity-nikki.fandom.com/wiki/Mark_of_Time"
+      ]
+    }
+  ],
+  "policy": "no quantity scaling; stable material IDs; unknown/conflicting units remain pending"
+}

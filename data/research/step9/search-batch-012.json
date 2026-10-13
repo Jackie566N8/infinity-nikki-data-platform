@@ -1,0 +1,396 @@
+[
+  {
+    "object_id": "o1021602",
+    "checked_at": "2026-10-11T15:39:31.328Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"雾晓之誓·炽光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Twilight Oath: Blaze\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"雾晓之誓·炽光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Twilight Oath: Blaze\" evolution materials OR \"雾晓之誓·炽光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Komuniti Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=malay",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::鬼谷自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930745741&l=german",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1021702",
+    "checked_at": "2026-10-11T15:39:34.850Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"深林之心·新月\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Heart of the Deep Forest: Crescent Moon\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"深林之心·新月\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Heart of the Deep Forest: Crescent Moon\" evolution materials OR \"深林之心·新月\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Heart of the Deep Forest: Crescent Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heart_of_the_Deep_Forest%3A_Crescent_Moon",
+        "evolution": "2 Heart of the Deep Forest\n\n1 Heart of the Deep Forest: Crescent Moon",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1021802",
+    "checked_at": "2026-10-11T15:39:36.412Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"折枝花锦·旧闻\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blooming Brocade: Old Tales\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"折枝花锦·旧闻\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blooming Brocade: Old Tales\" evolution materials OR \"折枝花锦·旧闻\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blooming Brocade: Old Tales | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Brocade%3A_Old_Tales",
+        "evolution": "2 Blooming Brocade\n\n1 Blooming Brocade: Old Tales",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1021902",
+    "checked_at": "2026-10-11T15:39:38.623Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"只影片梦·蜜绘\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dream in Glimpses: Sweetness\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"只影片梦·蜜绘\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dream in Glimpses: Sweetness\" evolution materials OR \"只影片梦·蜜绘\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "诺亚方舟留住家园 | 微博 | 微公益-以微博之力让世界更美",
+        "url": "https://gongyi.weibo.com/r/229069",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022202",
+    "checked_at": "2026-10-11T15:39:40.757Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"向阳花纪·盛堇\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sunflower Chronicle: Full Bloom\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"向阳花纪·盛堇\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sunflower Chronicle: Full Bloom\" evolution materials OR \"向阳花纪·盛堇\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "重庆市第七届大学生艺术展演活动优秀组织单位和先进个人获奖情况公示",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405012206956970241",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022302",
+    "checked_at": "2026-10-11T15:39:42.347Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绯夜狂想录·妄念\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crimson Rhapsody: Delusion\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绯夜狂想录·妄念\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crimson Rhapsody: Delusion\" evolution materials OR \"绯夜狂想录·妄念\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Rhapsody: Delusion | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Delusion",
+        "evolution": "1 Heartshine: Crimson Rhapsody\n\n1 Crimson Rhapsody: Delusion",
+        "crafting": null
+      },
+      {
+        "title": "Heartshine: Crimson Rhapsody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartshine%3A_Crimson_Rhapsody",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Crimson Rhapsody: Leafy | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Leafy",
+        "evolution": "1 Heartshine: Crimson Rhapsody\n\n1 Crimson Rhapsody: Leafy",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Rhapsody: Past Dreams | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Past_Dreams",
+        "evolution": "2 Crimson Rhapsody\n\n1 Crimson Rhapsody: Past Dreams",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022303",
+    "checked_at": "2026-10-11T15:39:44.295Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绯夜狂想录·叶札\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crimson Rhapsody: Leafy\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绯夜狂想录·叶札\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crimson Rhapsody: Leafy\" evolution materials OR \"绯夜狂想录·叶札\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Rhapsody: Leafy | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Leafy",
+        "evolution": "1 Heartshine: Crimson Rhapsody\n\n1 Crimson Rhapsody: Leafy",
+        "crafting": null
+      },
+      {
+        "title": "Heartshine: Crimson Rhapsody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartshine%3A_Crimson_Rhapsody",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Crimson Rhapsody: Delusion | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Delusion",
+        "evolution": "1 Heartshine: Crimson Rhapsody\n\n1 Crimson Rhapsody: Delusion",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Rhapsody: Past Dreams | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Past_Dreams",
+        "evolution": "2 Crimson Rhapsody\n\n1 Crimson Rhapsody: Past Dreams",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022304",
+    "checked_at": "2026-10-11T15:39:45.999Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绯夜狂想录·昔梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crimson Rhapsody: Past Dreams\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绯夜狂想录·昔梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crimson Rhapsody: Past Dreams\" evolution materials OR \"绯夜狂想录·昔梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Rhapsody: Past Dreams | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Past_Dreams",
+        "evolution": "2 Crimson Rhapsody\n\n1 Crimson Rhapsody: Past Dreams",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Rhapsody: Leafy | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Leafy",
+        "evolution": "1 Heartshine: Crimson Rhapsody\n\n1 Crimson Rhapsody: Leafy",
+        "crafting": null
+      },
+      {
+        "title": "Crimson Rhapsody: Delusion | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Delusion",
+        "evolution": "1 Heartshine: Crimson Rhapsody\n\n1 Crimson Rhapsody: Delusion",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022402",
+    "checked_at": "2026-10-11T15:39:48.129Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"机械论证·归真\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Mechanical Demonstration: Renewal\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"机械论证·归真\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Mechanical Demonstration: Renewal\" evolution materials OR \"机械论证·归真\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "手把手教你写好高考作文“传统文化”，​附： ​2021最有可能的作文题，...",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309634639640530583727",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "儒释道的三重奏：差异中的和谐与共生",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405148394414014664",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "龙虎门吧的精品贴_龙虎门吧_百度贴吧",
+        "url": "https://c.tieba.baidu.com/f/good?cid=1&ie=utf-8&kw=%E9%BE%99%E8%99%8E%E9%97%A8",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1022602",
+    "checked_at": "2026-10-11T15:39:50.082Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"剪裁艺术·赤剪\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Art of Tailoring: Scarlet\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"剪裁艺术·赤剪\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Art of Tailoring: Scarlet\" evolution materials OR \"剪裁艺术·赤剪\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Art of Tailoring: Scarlet | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Art_of_Tailoring%3A_Scarlet",
+        "evolution": "2 Art of Tailoring\n\n1 Art of Tailoring: Scarlet",
+        "crafting": null
+      },
+      {
+        "title": "塔尔寺介绍",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404919218004164734",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

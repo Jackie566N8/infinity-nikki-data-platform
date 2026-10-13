@@ -1,0 +1,7 @@
+{
+  "note": "这些视觉描述模板不属于已评测的100条样本，尚无可靠颜色和元素标注，禁止补造答案或计入指标。",
+  "cases": [
+    {"query":"粉色、甜美、有蝴蝶元素的裙子","type":"description","expected_ids":null,"status":"needs_visual_annotation","required_fields":["部件类别","真实风格","颜色来源","蝴蝶元素证据"],"reviewer":null},
+    {"query":"黑色、哥特风、有羽毛装饰的连衣裙","type":"description","expected_ids":null,"status":"needs_visual_annotation","required_fields":["部件类别","真实标签","颜色来源","羽毛元素证据"],"reviewer":null}
+  ]
+}

@@ -1,0 +1,621 @@
+{
+  "facts": [
+    {
+      "material_id": "mcrownwisp-fruit-essence",
+      "sourceId": "inv_1110030242",
+      "names": {
+        "zh-CN": "浮冠果精粹",
+        "en": "Crownwisp Fruit Essence",
+        "ja": "フロートフルーツ(エキス)",
+        "ko": "부관 열매 정수",
+        "zh-TW": "浮冠果精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030242",
+      "checked_at": "2026-10-11T16:34:22.617Z",
+      "text": "采集浮冠果时溢出的奇想力凝结成的精粹，其中蕴含着浮冠果的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mrockshell-fish-essence",
+      "sourceId": "inv_1110030237",
+      "names": {
+        "zh-CN": "岩壳鱼精粹",
+        "en": "Rockshell Fish Essence",
+        "ja": "ロックシェルフィッシュ(エキス)",
+        "ko": "록셸 피쉬 정수",
+        "zh-TW": "岩殼魚精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030237",
+      "checked_at": "2026-10-11T16:34:23.737Z",
+      "text": "垂钓岩壳鱼时溢出的奇想力凝结成的精粹，其中蕴含着岩壳鱼的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mumbrella-fish",
+      "sourceId": "inv_1110010224",
+      "names": {
+        "zh-CN": "卷尾伞鱼",
+        "en": "Umbrella Fish",
+        "ja": "パラソルテイルフィッシュ",
+        "ko": "꼬리 우산 물고기",
+        "zh-TW": "捲尾傘魚"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010224",
+      "checked_at": "2026-10-11T16:34:24.246Z",
+      "text": "栖息于埋骨地水域的中型鱼，鳍叶经过特殊处理后能制成轻盈飘逸的布料，质感柔滑灵动。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mleatherbag-beetle-essence",
+      "sourceId": "inv_1110030232",
+      "names": {
+        "zh-CN": "革袋甲精粹",
+        "en": "Leatherbag Beetle Essence",
+        "ja": "レザーバッグカブト(エキス)",
+        "ko": "가죽 주머니 딱정벌레 정수",
+        "zh-TW": "革袋甲精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030232",
+      "checked_at": "2026-10-11T16:34:24.568Z",
+      "text": "捕捉革袋甲时溢出的奇想力凝结成的精粹，其中蕴含着革袋甲的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mgleamshell-essence",
+      "sourceId": "inv_1110030222",
+      "names": {
+        "zh-CN": "汐荧蟹精粹",
+        "en": "Gleamshell Essence",
+        "ja": "ルミナスヤドカリ(エキス)",
+        "ko": "조석 형광 게 정수",
+        "zh-TW": "汐熒蟹精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030222",
+      "checked_at": "2026-10-11T16:34:24.867Z",
+      "text": "捕捉汐荧蟹时溢出的奇想力凝结成的精粹，其中蕴含着汐荧蟹的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mcandlemelt-cluster-essence",
+      "sourceId": "inv_1110030225",
+      "names": {
+        "zh-CN": "烛融花精粹",
+        "en": "Candlemelt Cluster Essence",
+        "ja": "メルトキャンドルフラワー(エキス)",
+        "ko": "촉용화 정수",
+        "zh-TW": "燭融花精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030225",
+      "checked_at": "2026-10-11T16:34:25.038Z",
+      "text": "采集烛融花时溢出的奇想力凝结成的精粹，其中蕴含着烛融花的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mumbrellabloom",
+      "sourceId": "inv_1110010228",
+      "names": {
+        "zh-CN": "晴雨伞",
+        "en": "Umbrellabloom",
+        "ja": "晴雨のパラソルフラワー",
+        "ko": "해와 비의 우산",
+        "zh-TW": "晴雨傘"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010228",
+      "checked_at": "2026-10-11T16:34:25.174Z",
+      "text": "生长在埋骨地水边的花朵，被用于制作轻盈的布料，深受搭配师们的喜爱。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mocarina-beetle-essence",
+      "sourceId": "inv_1110030235",
+      "names": {
+        "zh-CN": "埙音甲精粹",
+        "en": "Ocarina Beetle Essence",
+        "ja": "オカリナカブト(エキス)",
+        "ko": "훈음 딱정벌레 정수",
+        "zh-TW": "塤音甲精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030235",
+      "checked_at": "2026-10-11T16:34:25.380Z",
+      "text": "捕捉埙音甲时溢出的奇想力凝结成的精粹，其中蕴含着埙音甲的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mbanner-fish-essence",
+      "sourceId": "inv_1110030223",
+      "names": {
+        "zh-CN": "澜旗鱼精粹",
+        "en": "Banner Fish Essence",
+        "ja": "ウェイブセイルフィッシュ(エキス)",
+        "ko": "물결 돛새치 정수",
+        "zh-TW": "瀾旗魚精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030223",
+      "checked_at": "2026-10-11T16:34:25.586Z",
+      "text": "垂钓澜旗鱼时溢出的奇想力凝结成的精粹，其中蕴含着澜旗鱼的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mruthless-fabric",
+      "sourceId": "inv_1110040050",
+      "names": {
+        "zh-CN": "狠厉布块",
+        "en": "Ruthless Fabric",
+        "ja": "苛烈な布切れ",
+        "ko": "사나운 천조각",
+        "zh-TW": "狠厲布塊"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110040050",
+      "checked_at": "2026-10-11T16:34:25.936Z",
+      "text": "净化狠厉飞叶袋后得到的狠厉布块。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mresentful-knot",
+      "sourceId": "inv_1110040051",
+      "names": {
+        "zh-CN": "怨恨绳结",
+        "en": "Resentful Knot",
+        "ja": "怨みの結び目",
+        "ko": "원한의 매듭",
+        "zh-TW": "怨恨繩結"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110040051",
+      "checked_at": "2026-10-11T16:34:26.164Z",
+      "text": "净化怨恨水母袋后得到的怨恨绳结。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mbladefin-essence",
+      "sourceId": "inv_1110030236",
+      "names": {
+        "zh-CN": "铁剑鱼精粹",
+        "en": "Bladefin Essence",
+        "ja": "アイアンソードフィッシュ(エキス)",
+        "ko": "무쇠검 물고기 정수",
+        "zh-TW": "鐵劍魚精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030236",
+      "checked_at": "2026-10-11T16:34:26.401Z",
+      "text": "垂钓铁剑鱼时溢出的奇想力凝结成的精粹，其中蕴含着铁剑鱼的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mreforged-cloth-piece",
+      "sourceId": "inv_1110040062",
+      "names": {
+        "zh-CN": "重铸布块",
+        "en": "Reforged Cloth Piece",
+        "ja": "再築の布切れ",
+        "ko": "재주조 천 조각",
+        "zh-TW": "重鑄布塊"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110040062",
+      "checked_at": "2026-10-11T16:34:26.544Z",
+      "text": "净化重铸飞叶袋后得到的重铸布块。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mdefiant-mechartisan-component",
+      "sourceId": "inv_1110040069",
+      "names": {
+        "zh-CN": "悖逆构件",
+        "en": "Defiant Mechartisan Component",
+        "ja": "パラドクスエレメント",
+        "ko": "반역의 부품",
+        "zh-TW": "悖逆構件"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110040069",
+      "checked_at": "2026-10-11T16:34:26.734Z",
+      "text": "净化悖逆匠偶后得到的悖逆构件。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mobstinate-floral-cloth",
+      "sourceId": "inv_1110040063",
+      "names": {
+        "zh-CN": "执拗花布",
+        "en": "Obstinate Floral Cloth",
+        "ja": "シュウネン花布",
+        "ko": "고집쟁이 꽃무늬 천",
+        "zh-TW": "執拗花布"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110040063",
+      "checked_at": "2026-10-11T16:34:26.892Z",
+      "text": "净化执拗章鱼袋后得到的执拗花布。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-dance-till-dawn",
+      "sourceId": "inv_1110100010",
+      "names": {
+        "zh-CN": "心辉·绽响黎明前",
+        "en": "Heartshine: Dance Till Dawn",
+        "ja": "心輝・夜明け前の躍動",
+        "ko": "마음빛·여명의 불꽃",
+        "zh-TW": "心輝·綻響黎明前"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100010",
+      "checked_at": "2026-10-11T16:34:27.066Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "methereal-thoughts",
+      "sourceId": "inv_1110101007",
+      "names": {
+        "zh-CN": "轻盈思绪",
+        "en": "Ethereal Thoughts",
+        "ja": "ライトマインド",
+        "ko": "가뿐한 생각",
+        "zh-TW": "輕盈思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110101007",
+      "checked_at": "2026-10-11T16:34:27.216Z",
+      "text": "纯净的情感能量在瓶中缓缓流动，宛如澄空流云。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine",
+      "sourceId": "inv_1110100004",
+      "names": {
+        "zh-CN": "心辉",
+        "en": "Heartshine",
+        "ja": "心輝",
+        "ko": "마음빛",
+        "zh-TW": "心輝"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100004",
+      "checked_at": "2026-10-11T16:34:27.402Z",
+      "text": "于共鸣·深海回响中获得的心辉，夺目的光华蕴藏着激发服装潜能的无限力量。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-wishful-aurosa",
+      "sourceId": "inv_1110100007",
+      "names": {
+        "zh-CN": "心辉·心愿金蔷薇",
+        "en": "Heartshine: Wishful Aurosa",
+        "ja": "心輝・願いの金薔薇",
+        "ko": "마음빛·소원 황금 장미",
+        "zh-TW": "心輝·心願金薔薇"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100007",
+      "checked_at": "2026-10-11T16:34:27.554Z",
+      "text": "于搭配师课题中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartfelt-thoughts",
+      "sourceId": "inv_1110100002",
+      "names": {
+        "zh-CN": "怦然思绪",
+        "en": "Heartfelt Thoughts",
+        "ja": "サージマインド",
+        "ko": "설레는 생각",
+        "zh-TW": "怦然思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100002",
+      "checked_at": "2026-10-11T16:34:27.709Z",
+      "text": "浓烈如潮水的情感能量在瓶中跌宕起伏着，掀起小小的波澜。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mstarry-thoughts",
+      "sourceId": "inv_1110101005",
+      "names": {
+        "zh-CN": "繁星思绪",
+        "en": "Starry Thoughts",
+        "ja": "星屑の思い",
+        "ko": "뭇별의 생각",
+        "zh-TW": "繁星思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110101005",
+      "checked_at": "2026-10-11T16:34:27.906Z",
+      "text": "通过解锁无限之心节点获得。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-stardust-flare",
+      "sourceId": "inv_1110100011",
+      "names": {
+        "zh-CN": "心辉·缀夜希光",
+        "en": "Heartshine: Stardust Flare",
+        "ja": "心輝・夜を彩る光",
+        "ko": "마음빛·반짝이는 별가루",
+        "zh-TW": "心輝·綴夜希光"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100011",
+      "checked_at": "2026-10-11T16:34:28.044Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-silvergale-s-aria",
+      "sourceId": "inv_1110100008",
+      "names": {
+        "zh-CN": "心辉·咏叹银夜莺",
+        "en": "Heartshine: Silvergale's Aria",
+        "ja": "心輝・詠嘆の銀小夜啼",
+        "ko": "마음빛·은빛 나이팅게일 아리아",
+        "zh-TW": "心輝·詠嘆銀夜鶯"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100008",
+      "checked_at": "2026-10-11T16:34:28.207Z",
+      "text": "于搭配师课题中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-wings-of-wishes",
+      "sourceId": "inv_1110100009",
+      "names": {
+        "zh-CN": "心辉·翩翩愿飞去",
+        "en": "Heartshine: Wings of Wishes",
+        "ja": "心輝・羽ばたく願い事",
+        "ko": "마음빛·날고 싶은 소망",
+        "zh-TW": "心輝·翩翩願飛去"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100009",
+      "checked_at": "2026-10-11T16:34:28.357Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-enchanted-encounter",
+      "sourceId": "inv_1110100017",
+      "names": {
+        "zh-CN": "心辉·仙踪绮遇",
+        "en": "Heartshine: Enchanted Encounter",
+        "ja": "心輝・フェアリーノート",
+        "ko": "마음빛·우연한 만남",
+        "zh-TW": "心輝·仙蹤綺遇"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100017",
+      "checked_at": "2026-10-11T16:34:28.505Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-blooming-dreams",
+      "sourceId": "inv_1110100006",
+      "names": {
+        "zh-CN": "心辉·花漾梦萦",
+        "en": "Heartshine: Blooming Dreams",
+        "ja": "心輝・夢咲く花の幻",
+        "ko": "마음빛·꿈의 물결",
+        "zh-TW": "心輝·花漾夢縈"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100006",
+      "checked_at": "2026-10-11T16:34:28.650Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-snowy-ballad",
+      "sourceId": "inv_1110100014",
+      "names": {
+        "zh-CN": "心辉·雪境长歌",
+        "en": "Heartshine: Snowy Ballad",
+        "ja": "心輝・雪原の叙事詩",
+        "ko": "마음빛·설경의 노래",
+        "zh-TW": "心輝·雪境長歌"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100014",
+      "checked_at": "2026-10-11T16:34:28.791Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-crimson-feather",
+      "sourceId": "inv_1110100015",
+      "names": {
+        "zh-CN": "心辉·炽羽不渝",
+        "en": "Heartshine: Crimson Feather",
+        "ja": "心輝・一途な炎翼",
+        "ko": "마음빛·불굴의 날개",
+        "zh-TW": "心輝·熾羽不渝"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100015",
+      "checked_at": "2026-10-11T16:34:28.939Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-timeless-melody",
+      "sourceId": "inv_1110100012",
+      "names": {
+        "zh-CN": "心辉·古典乐章",
+        "en": "Heartshine: Timeless Melody",
+        "ja": "心輝・クラシックの楽章",
+        "ko": "마음빛·고전 악장",
+        "zh-TW": "心輝·古典樂章"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100012",
+      "checked_at": "2026-10-11T16:34:29.094Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mglowing-thoughts",
+      "sourceId": "inv_1110100003",
+      "names": {
+        "zh-CN": "熠熠思绪",
+        "en": "Glowing Thoughts",
+        "ja": "シャインマインド",
+        "ko": "반짝이는 생각",
+        "zh-TW": "熠熠思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100003",
+      "checked_at": "2026-10-11T16:34:29.268Z",
+      "text": "满足与喜悦凝结成熠熠辉光，灿烂的焰星折射出缤纷色彩。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-crimson-rhapsody",
+      "sourceId": "inv_1110100013",
+      "names": {
+        "zh-CN": "心辉·绯夜狂想录",
+        "en": "Heartshine: Crimson Rhapsody",
+        "ja": "心輝・緋い夜の狂想",
+        "ko": "마음빛·붉은 밤의 광상곡",
+        "zh-TW": "心輝·緋夜狂想錄"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100013",
+      "checked_at": "2026-10-11T16:34:29.417Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-tide-of-tears",
+      "sourceId": "inv_1110100018",
+      "names": {
+        "zh-CN": "心辉·落入泪之潮",
+        "en": "Heartshine: Tide of Tears",
+        "ja": "心輝・涙影は潮に落ちて",
+        "ko": "마음빛·눈물의 파도",
+        "zh-TW": "心輝·落入淚之潮"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100018",
+      "checked_at": "2026-10-11T16:34:29.573Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-echoed-dreams",
+      "sourceId": "inv_1110100021",
+      "names": {
+        "zh-CN": "心辉·咏叙的旧梦",
+        "en": "Heartshine: Echoed Dreams",
+        "ja": "心輝・アリオーソの旧夢",
+        "ko": "마음빛·옛꿈의 서창",
+        "zh-TW": "心輝·詠敘的舊夢"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100021",
+      "checked_at": "2026-10-11T16:34:29.725Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-rainfall-and-blossoms",
+      "sourceId": "inv_1110100022",
+      "names": {
+        "zh-CN": "心辉·如雨坠，如花开",
+        "en": "Heartshine: Rainfall & Blossoms",
+        "ja": "心輝・雨落ちて、花ひらく",
+        "ko": "마음빛·비가 오듯, 꽃이 피듯",
+        "zh-TW": "心輝·如雨墜，如花開"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100022",
+      "checked_at": "2026-10-11T16:34:29.957Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-providence-immemorial",
+      "sourceId": "inv_1110100024",
+      "names": {
+        "zh-CN": "心辉·谒灵",
+        "en": "Heartshine: Providence Immemorial",
+        "ja": "心輝・謁霊",
+        "ko": "마음빛·진혼",
+        "zh-TW": "心輝·謁靈"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100024",
+      "checked_at": "2026-10-11T16:34:30.115Z",
+      "text": "于搭配师课题中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mtranquil-thoughts",
+      "sourceId": "inv_1110101008",
+      "names": {
+        "zh-CN": "泠然思绪",
+        "en": "Tranquil Thoughts",
+        "ja": "クリアマインド",
+        "ko": "졸졸 흐르는 생각",
+        "zh-TW": "泠然思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110101008",
+      "checked_at": "2026-10-11T16:34:30.254Z",
+      "text": "旷远孤独的情感能量静置瓶中，清澈地倒影出无边星夜。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "miridescent-thoughts",
+      "sourceId": "inv_1110101004",
+      "names": {
+        "zh-CN": "澄净思绪",
+        "en": "Iridescent Thoughts",
+        "ja": "清澄なる想い",
+        "ko": "청정한 사색",
+        "zh-TW": "澄淨思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110101004",
+      "checked_at": "2026-10-11T16:34:30.407Z",
+      "text": "如虹的清泉飞溅为露滴，倒映着明澈的思绪，不掺杂一丝忧愁的杂质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-nameless-selfless",
+      "sourceId": "inv_1110100023",
+      "names": {
+        "zh-CN": "心辉·无名亦无我",
+        "en": "Heartshine: Nameless, Selfless",
+        "ja": "心輝・無名無我",
+        "ko": "마음빛·사라진 나, 그리고 이름",
+        "zh-TW": "心輝·無名亦無我"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100023",
+      "checked_at": "2026-10-11T16:34:30.574Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-forest-ripple",
+      "sourceId": "inv_1110100027",
+      "names": {
+        "zh-CN": "心辉·森之涟",
+        "en": "Heartshine: Forest Ripple",
+        "ja": "心輝・森のさざめき",
+        "ko": "마음빛·숲의 물결",
+        "zh-TW": "心輝·森之漣"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100027",
+      "checked_at": "2026-10-11T16:34:30.728Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-shard-sea-of-stars",
+      "sourceId": "inv_1110100016",
+      "names": {
+        "zh-CN": "心辉碎片·星之海",
+        "en": "Heartshine Shard: Sea of Stars",
+        "ja": "心輝の欠片・星の海",
+        "ko": "마음빛 조각·별빛바다",
+        "zh-TW": "心輝碎片·星之海"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100016",
+      "checked_at": "2026-10-11T16:34:30.883Z",
+      "text": "于无限之心中获得的珍贵心辉碎片。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-clouded-loong",
+      "sourceId": "inv_1110100019",
+      "names": {
+        "zh-CN": "心辉·龙隐云墨间",
+        "en": "Heartshine: Clouded Loong",
+        "ja": "心輝・龍は雲墨に帰す",
+        "ko": "마음빛·구름 속 용",
+        "zh-TW": "心輝·龍隱雲墨間"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100019",
+      "checked_at": "2026-10-11T16:34:31.106Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-forever-bond",
+      "sourceId": "inv_1110100020",
+      "names": {
+        "zh-CN": "心辉·缘缘长相念",
+        "en": "Heartshine: Forever Bond",
+        "ja": "心輝・共縁は夢魂に巡る",
+        "ko": "마음빛·오랜 그리움",
+        "zh-TW": "心輝·緣緣長相念"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100020",
+      "checked_at": "2026-10-11T16:34:31.253Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-born-flawless",
+      "sourceId": "inv_1110100026",
+      "names": {
+        "zh-CN": "心辉·生于无瑕",
+        "en": "Heartshine: Born Flawless",
+        "ja": "心輝・無垢より誕生",
+        "ko": "마음빛·무결한 탄생",
+        "zh-TW": "心輝·生於無瑕"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100026",
+      "checked_at": "2026-10-11T16:34:31.407Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mheartshine-behind-prayers",
+      "sourceId": "inv_1110100025",
+      "names": {
+        "zh-CN": "心辉·隐于祷音",
+        "en": "Heartshine: Behind Prayers",
+        "ja": "心輝・秘せし祈りの調べ",
+        "ko": "마음빛·기도에 숨어",
+        "zh-TW": "心輝·隱於禱音"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100025",
+      "checked_at": "2026-10-11T16:34:31.578Z",
+      "text": "于共鸣·深海回响中获得的珍贵心辉。具体条件请核对来源与游戏内追踪。"
+    }
+  ],
+  "failures": []
+}

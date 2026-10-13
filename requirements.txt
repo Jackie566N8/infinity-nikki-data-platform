@@ -1,0 +1,4 @@
+# Python 3.12+; offline analyses, no user telemetry or network requests.
+numpy==2.3.5
+pandas==3.0.1
+duckdb==1.5.6

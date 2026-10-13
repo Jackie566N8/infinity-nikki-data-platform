@@ -1,0 +1,266 @@
+[
+  {
+    "object_id": "o1039802",
+    "checked_at": "2026-10-11T15:45:31.700Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"帷光秘映·终映\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Veiled Projections: Screening\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"帷光秘映·终映\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Veiled Projections: Screening\" evolution materials OR \"帷光秘映·终映\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1039902",
+    "checked_at": "2026-10-11T15:45:33.696Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蒙尘之罪·银律\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dust-Shrouded Crime: Silver Law\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蒙尘之罪·银律\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dust-Shrouded Crime: Silver Law\" evolution materials OR \"蒙尘之罪·银律\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1039903",
+    "checked_at": "2026-10-11T15:45:35.702Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蒙尘之罪·荣律\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dust-Shrouded Crime: Honor Law\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蒙尘之罪·荣律\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dust-Shrouded Crime: Honor Law\" evolution materials OR \"蒙尘之罪·荣律\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1039904",
+    "checked_at": "2026-10-11T15:45:38.067Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蒙尘之罪·断律\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dust-Shrouded Crime: Broken Law\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蒙尘之罪·断律\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dust-Shrouded Crime: Broken Law\" evolution materials OR \"蒙尘之罪·断律\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1040102",
+    "checked_at": "2026-10-11T15:45:40.227Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"寻味烟火间·蜜酿\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tasting the World: Honey Brew\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"寻味烟火间·蜜酿\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Tasting the World: Honey Brew\" evolution materials OR \"寻味烟火间·蜜酿\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Tasting the World: Honey Brew | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Tasting_the_World%3A_Honey_Brew",
+        "evolution": "7 Ethereal Thoughts\n\n2 Tasting the World\n\n100 Thread of Purity\n\n30K Bling\n\n1 Tasting the World: Honey Brew",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1040402",
+    "checked_at": "2026-10-11T15:45:41.891Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蝶梦不知年·破晓\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Timeless Dreamwings: Dawn\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蝶梦不知年·破晓\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Timeless Dreamwings: Dawn\" evolution materials OR \"蝶梦不知年·破晓\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖黄金尘# #无限... 来自无限暖暖 - 微博",
+        "url": "https://weibo.com/7801655101/R8tA8E6kH",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101?index=65&tabtype=album&uid=7801655101",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101?lpage=profileRecom",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101?index=166&tabtype=album&uid=7801655101",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "7月29日更新后，游戏内新增活动如下。",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405192651703451652",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1041702",
+    "checked_at": "2026-10-11T15:45:43.488Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"万华缭乱·彩彻\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Kaleidoscopic Splendor: Chromatic\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"万华缭乱·彩彻\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Kaleidoscopic Splendor: Chromatic\" evolution materials OR \"万华缭乱·彩彻\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1043002",
+    "checked_at": "2026-10-11T15:45:45.549Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"不落的黄金梦·墟夜\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Eternal Golden Dream: Night Ruins\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"不落的黄金梦·墟夜\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Eternal Golden Dream: Night Ruins\" evolution materials OR \"不落的黄金梦·墟夜\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  }
+]

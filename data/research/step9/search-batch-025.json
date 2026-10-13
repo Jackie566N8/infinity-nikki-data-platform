@@ -1,0 +1,325 @@
+[
+  {
+    "object_id": "o1037102",
+    "checked_at": "2026-10-11T15:44:44.614Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"筑梦绘心·晴空\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Visionary Dreamer: Clear Sky\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"筑梦绘心·晴空\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Visionary Dreamer: Clear Sky\" evolution materials OR \"筑梦绘心·晴空\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Visionary Dreamer: Clear Sky | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Visionary_Dreamer%3A_Clear_Sky",
+        "evolution": "2 Visionary Dreamer\n\n1 Visionary Dreamer: Clear Sky",
+        "crafting": null
+      },
+      {
+        "title": "天使妈妈邻友小家 | 微博 | 微公益-以微博之力让世界更美",
+        "url": "https://gongyi.weibo.com/r/241843",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "流动儿童的宝藏小屋 | 微博 | 微公益-以微博之力让世界更美",
+        "url": "https://gongyi.weibo.com/r/242027?cu=2089358175&u=2089358175",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "流动儿童的宝藏小屋 | 微博 | 微公益-以微博之力让世界更美",
+        "url": "https://gongyi.weibo.com/r/242027?cu=1819733143&u=1832740650",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1037302",
+    "checked_at": "2026-10-11T15:44:46.055Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"存续悖论·启明\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Existence Paradox: Morning Star\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"存续悖论·启明\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Existence Paradox: Morning Star\" evolution materials OR \"存续悖论·启明\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1037402",
+    "checked_at": "2026-10-11T15:44:48.652Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"心向绚烂·虹彩\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Heartward Hues: Rainbow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"心向绚烂·虹彩\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Heartward Hues: Rainbow\" evolution materials OR \"心向绚烂·虹彩\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1037702",
+    "checked_at": "2026-10-11T15:44:50.915Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"皎夜流辉·轻歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Luminous Nightflow: Soft Melody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"皎夜流辉·轻歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Luminous Nightflow: Soft Melody\" evolution materials OR \"皎夜流辉·轻歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Feather: Ember | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Ember",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Ember",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Mirrored Self | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Mirrored_Self",
+        "evolution": "2 Born Flawless\n\n1 Born Flawless: Mirrored Self",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1037802",
+    "checked_at": "2026-10-11T15:44:53.559Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花帷终幕·破茧\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Petalfall Finale: Cocoon\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花帷终幕·破茧\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Petalfall Finale: Cocoon\" evolution materials OR \"花帷终幕·破茧\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crimson Feather: Ember | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Ember",
+        "evolution": "1 Heartshine: Crimson Feather\n\n1 Crimson Feather: Ember",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Mirrored Self | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Mirrored_Self",
+        "evolution": "2 Born Flawless\n\n1 Born Flawless: Mirrored Self",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1037902",
+    "checked_at": "2026-10-11T15:44:55.109Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咚咚鼓奇遇·巡游\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Drumbeat Wonders: Touring\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咚咚鼓奇遇·巡游\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Drumbeat Wonders: Touring\" evolution materials OR \"咚咚鼓奇遇·巡游\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101?tabtype=newVideo",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1038102",
+    "checked_at": "2026-10-11T15:44:58.059Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"风过遗音·悲声\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Echoes Upon the Gale: Plaint\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"风过遗音·悲声\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Echoes Upon the Gale: Plaint\" evolution materials OR \"风过遗音·悲声\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Echoes Upon the Gale: Plaint | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Echoes_Upon_the_Gale%3A_Plaint",
+        "evolution": "2 Echoes Upon the Gale\n\n1 Echoes Upon the Gale: Plaint",
+        "crafting": null
+      },
+      {
+        "title": "Wishful Aurosa: Shadow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Shadow",
+        "evolution": "7 Heartfelt Thoughts\n\n2 Wishful Aurosa\n\n300 Thread of Purity\n\n100k Bling\n\n1 Wishful Aurosa: Shadow",
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: 喵语精通者 :: Games",
+        "url": "https://steamcommunity.com/id/ouuououo/recommended/?p=2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 喵语精通者 :: Jogos",
+        "url": "https://steamcommunity.com/id/ouuououo/recommended/?l=portuguese&p=2",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1038202",
+    "checked_at": "2026-10-11T15:44:59.562Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"梦是心之涟·合奏\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rippling Reverie: Ensemble\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"梦是心之涟·合奏\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rippling Reverie: Ensemble\" evolution materials OR \"梦是心之涟·合奏\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1038203",
+    "checked_at": "2026-10-11T15:45:01.055Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"梦是心之涟·夜曲\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rippling Reverie: Notturno\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"梦是心之涟·夜曲\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rippling Reverie: Notturno\" evolution materials OR \"梦是心之涟·夜曲\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1038204",
+    "checked_at": "2026-10-11T15:45:03.601Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"梦是心之涟·圆舞\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rippling Reverie: Waltz\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"梦是心之涟·圆舞\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rippling Reverie: Waltz\" evolution materials OR \"梦是心之涟·圆舞\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  }
+]

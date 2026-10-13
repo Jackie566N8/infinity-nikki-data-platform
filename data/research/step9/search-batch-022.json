@@ -1,0 +1,426 @@
+[
+  {
+    "object_id": "o1034802",
+    "checked_at": "2026-10-11T15:43:32.954Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"暖歌花纪·溯光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Melody Bloom: Chasing Light\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"暖歌花纪·溯光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Melody Bloom: Chasing Light\" evolution materials OR \"暖歌花纪·溯光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Melody Bloom: Chasing Light | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Melody_Bloom%3A_Chasing_Light",
+        "evolution": "7 Ethereal Thoughts\n\n2 Melody Bloom\n\n100 Thread of Purity\n\n30k Bling\n\n1 Melody Bloom: Chasing Light",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034902",
+    "checked_at": "2026-10-11T15:43:35.250Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"生于无瑕·林中歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Born Flawless: Forest Song\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"生于无瑕·林中歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Born Flawless: Forest Song\" evolution materials OR \"生于无瑕·林中歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Born Flawless: Forest Song | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Forest_Song",
+        "evolution": "1 Heartshine: Born Flawless\n\n1 Born Flawless: Forest Song",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Glowing Embers | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Glowing_Embers",
+        "evolution": "1 Heartshine: Born Flawless\n\n1 Born Flawless: Glowing Embers",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Mirrored Self | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Mirrored_Self",
+        "evolution": "2 Born Flawless\n\n1 Born Flawless: Mirrored Self",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖伊赞之土##无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Qf0mGoT4i",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034903",
+    "checked_at": "2026-10-11T15:43:37.096Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"生于无瑕·烬中火\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Born Flawless: Glowing Embers\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"生于无瑕·烬中火\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Born Flawless: Glowing Embers\" evolution materials OR \"生于无瑕·烬中火\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Born Flawless: Glowing Embers | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Glowing_Embers",
+        "evolution": "1 Heartshine: Born Flawless\n\n1 Born Flawless: Glowing Embers",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Forest Song | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Forest_Song",
+        "evolution": "1 Heartshine: Born Flawless\n\n1 Born Flawless: Forest Song",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Mirrored Self | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Mirrored_Self",
+        "evolution": "2 Born Flawless\n\n1 Born Flawless: Mirrored Self",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖伊赞之土##无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Qf0mGoT4i",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1034904",
+    "checked_at": "2026-10-11T15:43:39.280Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"生于无瑕·镜中我\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Born Flawless: Mirrored Self\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"生于无瑕·镜中我\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Born Flawless: Mirrored Self\" evolution materials OR \"生于无瑕·镜中我\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Born Flawless: Mirrored Self | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Mirrored_Self",
+        "evolution": "2 Born Flawless\n\n1 Born Flawless: Mirrored Self",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Glowing Embers | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Glowing_Embers",
+        "evolution": "1 Heartshine: Born Flawless\n\n1 Born Flawless: Glowing Embers",
+        "crafting": null
+      },
+      {
+        "title": "Born Flawless: Forest Song | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Forest_Song",
+        "evolution": "1 Heartshine: Born Flawless\n\n1 Born Flawless: Forest Song",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖伊赞之土##无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Qf0mGoT4i",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035002",
+    "checked_at": "2026-10-11T15:43:41.220Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"隐于祷音·月皎\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Behind Prayers: Bright Moon\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"隐于祷音·月皎\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Behind Prayers: Bright Moon\" evolution materials OR \"隐于祷音·月皎\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Behind Prayers: Bright Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Bright_Moon",
+        "evolution": "1 Heartshine: Behind Prayers\n\n1 Behind Prayers: Bright Moon",
+        "crafting": null
+      },
+      {
+        "title": "Behind Prayers: Somber Nights | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Somber_Nights",
+        "evolution": "1 Heartshine: Behind Prayers\n\n1 Behind Prayers: Somber Nights",
+        "crafting": null
+      },
+      {
+        "title": "Behind Prayers: Silent Ashes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Silent_Ashes",
+        "evolution": "2 Behind Prayers\n\n1 Behind Prayers: Silent Ashes",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035003",
+    "checked_at": "2026-10-11T15:43:43.455Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"隐于祷音·郁冥\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Behind Prayers: Somber Nights\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"隐于祷音·郁冥\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Behind Prayers: Somber Nights\" evolution materials OR \"隐于祷音·郁冥\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Behind Prayers: Somber Nights | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Somber_Nights",
+        "evolution": "1 Heartshine: Behind Prayers\n\n1 Behind Prayers: Somber Nights",
+        "crafting": null
+      },
+      {
+        "title": "Behind Prayers: Bright Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Bright_Moon",
+        "evolution": "1 Heartshine: Behind Prayers\n\n1 Behind Prayers: Bright Moon",
+        "crafting": null
+      },
+      {
+        "title": "Behind Prayers: Silent Ashes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Silent_Ashes",
+        "evolution": "2 Behind Prayers\n\n1 Behind Prayers: Silent Ashes",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035004",
+    "checked_at": "2026-10-11T15:43:45.226Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"隐于祷音·寂烬\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Behind Prayers: Silent Ashes\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"隐于祷音·寂烬\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Behind Prayers: Silent Ashes\" evolution materials OR \"隐于祷音·寂烬\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Behind Prayers: Silent Ashes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Silent_Ashes",
+        "evolution": "2 Behind Prayers\n\n1 Behind Prayers: Silent Ashes",
+        "crafting": null
+      },
+      {
+        "title": "Behind Prayers: Somber Nights | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Somber_Nights",
+        "evolution": "1 Heartshine: Behind Prayers\n\n1 Behind Prayers: Somber Nights",
+        "crafting": null
+      },
+      {
+        "title": "Behind Prayers: Bright Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Bright_Moon",
+        "evolution": "1 Heartshine: Behind Prayers\n\n1 Behind Prayers: Bright Moon",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035102",
+    "checked_at": "2026-10-11T15:43:48.747Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"翎羽之音·和鸣\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Feathery Song: Harmony\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"翎羽之音·和鸣\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Feathery Song: Harmony\" evolution materials OR \"翎羽之音·和鸣\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]##无限暖暖伊赞之土##无限... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/Qf9Pcw12y?type=repost",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Майстерня Steam::自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3676979195&l=ukrainian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035202",
+    "checked_at": "2026-10-11T15:43:50.754Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"万相渡浮生·妙丹心\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Where Wanxiang Weaves Life: Benevolence\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"万相渡浮生·妙丹心\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Where Wanxiang Weaves Life: Benevolence\" evolution materials OR \"万相渡浮生·妙丹心\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Where Wanxiang Weaves Life: Benevolence | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Benevolence",
+        "evolution": "Heartshine: Where Wanxiang Weaves Life1 Heartshine: Where Wanxiang Weaves Life\n\n1 Where Wanxiang Weaves Life: Benevolence",
+        "crafting": null
+      },
+      {
+        "title": "Where Wanxiang Weaves Life: Lived World | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Lived_World",
+        "evolution": "2 Where Wanxiang Weaves Life\n\n1 Where Wanxiang Weaves Life: Lived World",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1035203",
+    "checked_at": "2026-10-11T15:43:52.596Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"万相渡浮生·悲欢戏\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Where Wanxiang Weaves Life: Empathy\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"万相渡浮生·悲欢戏\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Where Wanxiang Weaves Life: Empathy\" evolution materials OR \"万相渡浮生·悲欢戏\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Where Wanxiang Weaves Life: Lived World | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Lived_World",
+        "evolution": "2 Where Wanxiang Weaves Life\n\n1 Where Wanxiang Weaves Life: Lived World",
+        "crafting": null
+      },
+      {
+        "title": "Where Wanxiang Weaves Life: Benevolence | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Benevolence",
+        "evolution": "Heartshine: Where Wanxiang Weaves Life1 Heartshine: Where Wanxiang Weaves Life\n\n1 Where Wanxiang Weaves Life: Benevolence",
+        "crafting": null
+      }
+    ]
+  }
+]

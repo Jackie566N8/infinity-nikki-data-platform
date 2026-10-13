@@ -1,0 +1,309 @@
+[
+  {
+    "object_id": "o1012604",
+    "checked_at": "2026-10-11T15:37:08.153Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蝶屿风袭·梦中谣\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flutter Storm: Dream Chant\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蝶屿风袭·梦中谣\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Flutter Storm: Dream Chant\" evolution materials OR \"蝶屿风袭·梦中谣\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012802",
+    "checked_at": "2026-10-11T15:37:09.936Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏叹银夜莺·化歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Silvergale's Aria: Melody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏叹银夜莺·化歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Silvergale's Aria: Melody\" evolution materials OR \"咏叹银夜莺·化歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Silvergale's Aria: Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Silvergale%27s_Aria%3A_Melody",
+        "evolution": "1 Heartshine: Silvergale's Aria\n\n7 Heartfelt Thoughts\n\n1 Silvergale's Aria\n\n300 Thread of Purity\n\n100k Bling\n\n1 Silvergale's Aria: Melody",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012803",
+    "checked_at": "2026-10-11T15:37:11.900Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏叹银夜莺·泪痕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Silvergale's Aria: Tears\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏叹银夜莺·泪痕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Silvergale's Aria: Tears\" evolution materials OR \"咏叹银夜莺·泪痕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Silvergale's Aria: Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Silvergale%27s_Aria%3A_Melody",
+        "evolution": "1 Heartshine: Silvergale's Aria\n\n7 Heartfelt Thoughts\n\n1 Silvergale's Aria\n\n300 Thread of Purity\n\n100k Bling\n\n1 Silvergale's Aria: Melody",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012804",
+    "checked_at": "2026-10-11T15:37:14.141Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏叹银夜莺·临别\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Silvergale's Aria: Farewell\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏叹银夜莺·临别\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Silvergale's Aria: Farewell\" evolution materials OR \"咏叹银夜莺·临别\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Silvergale's Aria: Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Silvergale%27s_Aria%3A_Melody",
+        "evolution": "1 Heartshine: Silvergale's Aria\n\n7 Heartfelt Thoughts\n\n1 Silvergale's Aria\n\n300 Thread of Purity\n\n100k Bling\n\n1 Silvergale's Aria: Melody",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012902",
+    "checked_at": "2026-10-11T15:37:15.622Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"翩翩愿飞去·晴空\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wings of Wishes: Sunny\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"翩翩愿飞去·晴空\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Wings of Wishes: Sunny\" evolution materials OR \"翩翩愿飞去·晴空\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Heartshine: Wings of Wishes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartshine%3A_Wings_of_Wishes",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Wings of Wishes: Past | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wings_of_Wishes%3A_Past",
+        "evolution": "1 Heartshine: Wings of Wishes\n\n1 Wings of Wishes: Past",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖流星季# #无限... 来自无限暖暖 - 微博",
+        "url": "https://weibo.com/7801655101/5116171496196247",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012903",
+    "checked_at": "2026-10-11T15:37:18.001Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"翩翩愿飞去·昔影\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wings of Wishes: Past\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"翩翩愿飞去·昔影\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Wings of Wishes: Past\" evolution materials OR \"翩翩愿飞去·昔影\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Wings of Wishes: Past | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wings_of_Wishes%3A_Past",
+        "evolution": "1 Heartshine: Wings of Wishes\n\n1 Wings of Wishes: Past",
+        "crafting": null
+      },
+      {
+        "title": "Heartshine: Wings of Wishes | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Heartshine%3A_Wings_of_Wishes",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012904",
+    "checked_at": "2026-10-11T15:37:19.988Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"翩翩愿飞去·月宵\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wings of Wishes: Moonlit\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"翩翩愿飞去·月宵\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Wings of Wishes: Moonlit\" evolution materials OR \"翩翩愿飞去·月宵\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Wings of Wishes: Past | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Wings_of_Wishes%3A_Past",
+        "evolution": "1 Heartshine: Wings of Wishes\n\n1 Wings of Wishes: Past",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1013202",
+    "checked_at": "2026-10-11T15:37:22.032Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"骑趣领航·幻梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Adventure Ride: Fantasy\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"骑趣领航·幻梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Adventure Ride: Fantasy\" evolution materials OR \"骑趣领航·幻梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1013702",
+    "checked_at": "2026-10-11T15:37:24.544Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"第五味觉·归真\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"The Fifth Flavor: Renewal\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"第五味觉·归真\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"The Fifth Flavor: Renewal\" evolution materials OR \"第五味觉·归真\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1014202",
+    "checked_at": "2026-10-11T15:37:26.317Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"熠熠舞曲·落幕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Gleaming Dance: Finale\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"熠熠舞曲·落幕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Gleaming Dance: Finale\" evolution materials OR \"熠熠舞曲·落幕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  }
+]

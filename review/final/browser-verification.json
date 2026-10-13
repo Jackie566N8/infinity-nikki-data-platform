@@ -1,0 +1,1506 @@
+{
+  "checked_at": "2026-10-13T05:48:48.075Z",
+  "cases": [
+    {
+      "file": "src/index.html",
+      "dom_content_loaded_ms": 283.6999999284744,
+      "heap_after_start": 148000000,
+      "navigation": [
+        {
+          "route": "outfits",
+          "ms": 3.3000000715255737
+        },
+        {
+          "route": "clothing",
+          "ms": 4.600000023841858
+        },
+        {
+          "route": "materials",
+          "ms": 4.600000023841858
+        },
+        {
+          "route": "map",
+          "ms": 2.299999952316284
+        },
+        {
+          "route": "eurekas",
+          "ms": 2.8000000715255737
+        },
+        {
+          "route": "makeups",
+          "ms": 2.600000023841858
+        },
+        {
+          "route": "analytics",
+          "ms": 10.699999928474426
+        },
+        {
+          "route": "wardrobe",
+          "ms": 7.600000023841858
+        },
+        {
+          "route": "preferences",
+          "ms": 9.900000095367432
+        },
+        {
+          "route": "planning",
+          "ms": 4.799999952316284
+        },
+        {
+          "route": "advanced",
+          "ms": 3.9000000953674316
+        },
+        {
+          "route": "research",
+          "ms": 2.700000047683716
+        },
+        {
+          "route": "quality",
+          "ms": 3.1999999284744263
+        },
+        {
+          "route": "favorites",
+          "ms": 2.100000023841858
+        }
+      ],
+      "fresh_storage_cases": [
+        {
+          "locale": "zh-CN",
+          "section": "outfits",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "clothing",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "materials",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "map",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "eurekas",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "makeups",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "analytics",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "wardrobe",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "preferences",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "planning",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "advanced",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "research",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "quality",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-CN",
+          "section": "favorites",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "outfits",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "clothing",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "materials",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "map",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "eurekas",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "makeups",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "analytics",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "wardrobe",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "preferences",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "planning",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "advanced",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "research",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "quality",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "en",
+          "section": "favorites",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "outfits",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "clothing",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "materials",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "map",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "eurekas",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "makeups",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "analytics",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "wardrobe",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "preferences",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "planning",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "advanced",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "research",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "quality",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ja",
+          "section": "favorites",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "outfits",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "clothing",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "materials",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "map",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "eurekas",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "makeups",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "analytics",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "wardrobe",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "preferences",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "planning",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "advanced",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "research",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "quality",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "ko",
+          "section": "favorites",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "outfits",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "clothing",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "materials",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "map",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "eurekas",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "makeups",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "analytics",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "wardrobe",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "preferences",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "planning",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "advanced",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "research",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "quality",
+          "local_data": "cleared_at_boot"
+        },
+        {
+          "locale": "zh-TW",
+          "section": "favorites",
+          "local_data": "cleared_at_boot"
+        }
+      ],
+      "responsive": [
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-CN",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "en",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ja",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "ko",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 320,
+          "lang": "zh-TW",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-CN",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "en",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ja",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "ko",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 390,
+          "lang": "zh-TW",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-CN",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "en",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ja",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "ko",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 768,
+          "lang": "zh-TW",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-CN",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "en",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ja",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "ko",
+          "route": "map",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "analytics",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "wardrobe",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "preferences",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "planning",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "advanced",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "research",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "quality",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "search_eval",
+          "overflow": false
+        },
+        {
+          "width": 1440,
+          "lang": "zh-TW",
+          "route": "map",
+          "overflow": false
+        }
+      ]
+    }
+  ],
+  "javascript_exceptions": 0,
+  "upload_requests": 0,
+  "download_verification": "export Blob contents only; OS save not exercised",
+  "network": "offline; external remote images separately HTTP/signature sampled"
+}

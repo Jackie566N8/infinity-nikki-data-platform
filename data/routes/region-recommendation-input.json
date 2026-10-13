@@ -1,0 +1,3557 @@
+{
+  "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+  "mode": "region_only",
+  "regions": [
+    {
+      "area_record_id": "area:009d95e7f31e49b27f869967",
+      "material_id": "mhare-powder",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4bfa885a14a5edbfbe435377",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:00a5abb6e032a5b619296c32",
+      "material_id": "mhooded-feather",
+      "region": "祈愿树林",
+      "condition_text": "Hooded Owl",
+      "source_id": "src:69705043fa10a9025e0dc812",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Hooded_Feather"
+    },
+    {
+      "area_record_id": "area:00a8030026a50e31235d2634",
+      "material_id": "mfrostbough-fluff",
+      "region": "Elderwood Forest",
+      "condition_text": "Fluff collected while grooming Frostbough Behemoths in Elderwood Forest. This delicate fluff carries the Behemoth's lingering hope at life's end, and clothing woven from them blends softness with remarkable resilience.",
+      "source_id": "src:8e7a8a19731ad0675487b9b0",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010207"
+    },
+    {
+      "area_record_id": "area:00bdc9d015b8b8c5d4d7d4f1",
+      "material_id": "mbrushie",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:24524a335974a14d6b400789",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:01b34774a7d12ca8a8cf2e9a",
+      "material_id": "mpearly-shell",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:fc35046f007bf3f06c9347e7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E8%8A%B1%E8%B4%9D%E5%A3%B3"
+    },
+    {
+      "area_record_id": "area:0283f9bb8a57ffdf24a1e1a7",
+      "material_id": "mscarf-worm-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b4078a9f93d3a733c93e2331",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%9B%B4%E5%B7%BE%E8%9A%AF%E8%9A%93%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:0311df0005ef8c8b7b5fbc04",
+      "material_id": "mgrasspom",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:58814f8e8bc2973b186ffd66",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_9.shtml"
+    },
+    {
+      "area_record_id": "area:0331155af64fc9727cdfb56b",
+      "material_id": "mwisteriasol",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ec08cdee39a145b28a6cc28d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E4%BC%9E%E8%97%A4%E8%90%9D"
+    },
+    {
+      "area_record_id": "area:033a2d0a823a541e0c79528c",
+      "material_id": "mseed-pearl-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bf52963449b04f5c4a3cd373",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:03fd9b02ffa99f27081fe71b",
+      "material_id": "mpin-hopper",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:43b6f487cd5dff7da1b209b8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8F%91%E5%8D%A1%E8%9A%B1%E8%9C%A2"
+    },
+    {
+      "area_record_id": "area:04292a4743c2086674006aa3",
+      "material_id": "mballetfly",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:978d881a6bb66552d63c21e3",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%AD%E8%95%BE%E8%B1%86%E5%A8%98"
+    },
+    {
+      "area_record_id": "area:047993257aa0beb775af15f3",
+      "material_id": "mflight-fruit",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:f04cdbaeb29bca581ef97fde",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_11.shtml"
+    },
+    {
+      "area_record_id": "area:04c4253ffab0f0f5a9b39557",
+      "material_id": "mseed-pearl",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6e0882c5a8de44a953580081",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0"
+    },
+    {
+      "area_record_id": "area:04ff9faf5ac02bcd856f3f71",
+      "material_id": "mgogglebug",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb7355732cc69ea6cfd10e38",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%B3%B3%E9%95%9C%E8%9D%BD"
+    },
+    {
+      "area_record_id": "area:057c5679dd19111d380b3f1b",
+      "material_id": "mstarlit-plum",
+      "region": "花愿镇",
+      "condition_text": "在花愿镇采集满满果；此处仅收录已核对区域。",
+      "source_id": "src:22c9c8c3bdd975bb869ca142",
+      "source_published_date": null,
+      "source_url": "https://game8.co/games/Infinity-Nikki/archives/489427"
+    },
+    {
+      "area_record_id": "area:07001650a9fd4261b0ff39b7",
+      "material_id": "maromalily",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0132698f5b8bf41f208d0537",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2"
+    },
+    {
+      "area_record_id": "area:079ac8242fb8e31a2e355997",
+      "material_id": "msocko",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4d12d8ff9f1f2ecd8ef5677",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E8%A2%9C%E8%99%AB"
+    },
+    {
+      "area_record_id": "area:08b0a2876719539c5d276c89",
+      "material_id": "mhare-powder",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4bfa885a14a5edbfbe435377",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:08b209bc9f9a1e89d8c6aad2",
+      "material_id": "mglimmerdrop",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:cfcecf5ce70df9ce6fdd96f0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%80%B3%E5%9D%A0%E8%90%A4"
+    },
+    {
+      "area_record_id": "area:09f9ad8a3acf674d6b35d58d",
+      "material_id": "mwoolfruit",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b27c98c56a9b42a91bbef4ac",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:0a3dd87127f3618e6edf20c8",
+      "material_id": "mhare-powder",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4bfa885a14a5edbfbe435377",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:0b7446bf6322d796843f0c6e",
+      "material_id": "mstarlight-scallop",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2b00f53748c7e0a603e4f646",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E6%98%9F%E6%89%87%E8%B4%9D"
+    },
+    {
+      "area_record_id": "area:0b94cb7b63d129d45a163d7e",
+      "material_id": "mstarlight-scallop",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:a90ea93bdb0a8cbadbd2aa12",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_2.shtml"
+    },
+    {
+      "area_record_id": "area:0d022cee5c70dd314a7136a2",
+      "material_id": "msocko",
+      "region": "花愿镇",
+      "condition_text": "使用捕虫能力，缓慢靠近。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:0d8c31eb9f0a1af46daa8462",
+      "material_id": "madventurer-bee",
+      "region": "伊赞之土",
+      "condition_text": "Adventurer Bee (Bug)",
+      "source_id": "src:8e97b7f2de089c9fda96214e",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Adventurer_Bee"
+    },
+    {
+      "area_record_id": "area:0d9c13a7a65e3c22dc65f2aa",
+      "material_id": "mscarf-worm",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:ff00b1227407465f0d89b7fa",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%9B%B4%E5%B7%BE%E8%9A%AF%E8%9A%93"
+    },
+    {
+      "area_record_id": "area:0efc21eea1a12ed955f3f9f0",
+      "material_id": "mhare-powder",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4bfa885a14a5edbfbe435377",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:0f961158f442c20235ec0f11",
+      "material_id": "mbunny-fluff-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2d959329a15c87add4ba75e2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:107d50dcc0f4ca873df0b527",
+      "material_id": "mhare-powder",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:636308efd25085e3d711304d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_12.shtml"
+    },
+    {
+      "area_record_id": "area:107d8824c36baccd4956fb2b",
+      "material_id": "mcelebcrow-feather",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ceb22a75cecbca0a64e2b18e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%90%8D%E6%B5%81%E9%B8%A6%E7%BE%BD"
+    },
+    {
+      "area_record_id": "area:108ae78dc038d1b12b2fe643",
+      "material_id": "mflight-fruit",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:f04cdbaeb29bca581ef97fde",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_11.shtml"
+    },
+    {
+      "area_record_id": "area:116eb35b33139459c9dc3c7a",
+      "material_id": "msunny-orchid",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:4db40d17283ea5100f5b223d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_16.shtml"
+    },
+    {
+      "area_record_id": "area:1233f2545eb5dd05096355d2",
+      "material_id": "mcrown-fluff",
+      "region": "祈愿树林",
+      "condition_text": "Crowndeer",
+      "source_id": "src:7d4e1770ef63bc97d0dc856f",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Crown_Fluff"
+    },
+    {
+      "area_record_id": "area:15328d6454c021c93c52fa62",
+      "material_id": "mballetfly",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:978d881a6bb66552d63c21e3",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%AD%E8%95%BE%E8%B1%86%E5%A8%98"
+    },
+    {
+      "area_record_id": "area:1533375b112945ca660a10d3",
+      "material_id": "mlampbloom",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:c757259c4e7d50b59fb9390d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_3.shtml"
+    },
+    {
+      "area_record_id": "area:153ecc188a94c7a68f036961",
+      "material_id": "mtoque-fish-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:8c887d91f674a442542a8aef",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8E%A8%E5%B8%88%E5%B8%BD%E9%B1%BC%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:16bd2b496e16ddc032d775e5",
+      "material_id": "mdaisy",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b9c7e5629e8dc480612e5910",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E7%BB%B5%E8%8F%8A"
+    },
+    {
+      "area_record_id": "area:16e93974671bfd1c4f017a3b",
+      "material_id": "mwindspin-flower",
+      "region": "万灵的归途",
+      "condition_text": "A flower that grows in the Boneyard and Heaven's Reach, with a windmill-like shape. It is often crafted into delicate hat ornaments or corsages, making it ideal for outfit accents.",
+      "source_id": "src:5bdf1b5c94fe70703fba2441",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010229"
+    },
+    {
+      "area_record_id": "area:182e9f9c2c16e13b8b488352",
+      "material_id": "msunny-orchid",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:4db40d17283ea5100f5b223d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_16.shtml"
+    },
+    {
+      "area_record_id": "area:18aa340c883d638a68979e08",
+      "material_id": "mpearl-wings",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb6be56942b3cbd66dab66a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E9%93%BE%E8%9D%B6"
+    },
+    {
+      "area_record_id": "area:18ee798b1c429283233bcf99",
+      "material_id": "mlongstocking-wool",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:653b5503886fadc281426076",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%95%BF%E8%A2%9C%E7%BE%8A%E6%AF%9B"
+    },
+    {
+      "area_record_id": "area:1a83bc1a1bf6d52d8ac4e7cf",
+      "material_id": "mdaisy",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b9c7e5629e8dc480612e5910",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E7%BB%B5%E8%8F%8A"
+    },
+    {
+      "area_record_id": "area:1ac9c5036a189baaab695b45",
+      "material_id": "mbrusher",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:3cb73599e2539feae898c15a",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%A7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:1b41466dbb44d3be41b5546e",
+      "material_id": "mlampchili",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:1aecdc63dc3c3768c9b5dc77",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A3%81%E7%81%AF%E7%BA%A2%E6%A4%92"
+    },
+    {
+      "area_record_id": "area:1b647c591c6c4d092715fa54",
+      "material_id": "mlongstocking-wool",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:653b5503886fadc281426076",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%95%BF%E8%A2%9C%E7%BE%8A%E6%AF%9B"
+    },
+    {
+      "area_record_id": "area:1b89c75bddf3c044aa9a77f1",
+      "material_id": "mlaurel-feather",
+      "region": "Heaven's Reach",
+      "condition_text": "A feather collected when grooming Laurel Parrots commonly found in Heaven's Reach. The gradient of brilliant gold and crimson woven into the feather allows garments to radiate a uniquely magnificent glow. Can be used to craft clothes or items",
+      "source_id": "src:5b575bf08b70ab648b815281",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010240"
+    },
+    {
+      "area_record_id": "area:1bc2e96c5f71b53060a8856e",
+      "material_id": "mtailor-beetle",
+      "region": "Elderwood Forest",
+      "condition_text": "A beetle that dwells in Elderwood Forest. Its hard shell is prized for trimming fabric and preserving silhouettes.",
+      "source_id": "src:0a04e6546ec38adaa1936c01",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010168"
+    },
+    {
+      "area_record_id": "area:1c6210b760140da22cc14a0f",
+      "material_id": "mgrasspom",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:58814f8e8bc2973b186ffd66",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_9.shtml"
+    },
+    {
+      "area_record_id": "area:1c841760cfae3cfeb96f0b0c",
+      "material_id": "mmech-sparrow-feather",
+      "region": "Heaven's Reach",
+      "condition_text": "A feather collected when grooming Mech-Sparrows commonly found in Heaven's Reach. It is an excellent material that perfectly balances a metallic texture with fabric softness. Can be used to craft clothes or items",
+      "source_id": "src:4a674e9b159bb536cae3eee6",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010239"
+    },
+    {
+      "area_record_id": "area:1d4b11d2365b66fd03765d74",
+      "material_id": "mpearly-shell",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:5c2fe575b383616dd650c491",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245.shtml"
+    },
+    {
+      "area_record_id": "area:1d7ae5d4a218fd210d4119c0",
+      "material_id": "msuspenders-fluff",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:a6684d40392f099d76c47870",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%83%8C%E5%B8%A6%E6%AF%9B%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:1e16bc69e092ef2c307692d8",
+      "material_id": "mpin-hopper",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:43b6f487cd5dff7da1b209b8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8F%91%E5%8D%A1%E8%9A%B1%E8%9C%A2"
+    },
+    {
+      "area_record_id": "area:214b1416c902005c4d09b9cf",
+      "material_id": "mpearly-shell",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:fc35046f007bf3f06c9347e7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E8%8A%B1%E8%B4%9D%E5%A3%B3"
+    },
+    {
+      "area_record_id": "area:218425bea7a6619c9649e159",
+      "material_id": "mberetsant-feather",
+      "region": "石树田区域",
+      "condition_text": "A feather collected from grooming Beretsants in Stonewoods. Clothes made from these feathers possess a unique artistic flair.",
+      "source_id": "src:0b713fa0fa92b3eb41e379b9",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010142"
+    },
+    {
+      "area_record_id": "area:21a3e360e79f1c8a5a272a5d",
+      "material_id": "mtulletail",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:903490f8410a2563af228015",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%B1%E8%A3%99%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:223731b74663747121ab7c5d",
+      "material_id": "mbrusher",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:3cb73599e2539feae898c15a",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%A7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:22bb0230b3caad8c66166b6b",
+      "material_id": "mtoque-fish",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:710456b45e5d613aefc08092",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8E%A8%E5%B8%88%E5%B8%BD%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:22d7d418f8805bc18bd30562",
+      "material_id": "mcombelly",
+      "region": "祈愿树林",
+      "condition_text": "Combelly (Fish)",
+      "source_id": "src:807bbbb1d98f19f3857646d8",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Combelly"
+    },
+    {
+      "area_record_id": "area:2390f56ea7e3d40e3ae4ea19",
+      "material_id": "mpin-hopper",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:43b6f487cd5dff7da1b209b8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8F%91%E5%8D%A1%E8%9A%B1%E8%9C%A2"
+    },
+    {
+      "area_record_id": "area:23c18bcdd541b006b492a89b",
+      "material_id": "mhoneybunny-fluff",
+      "region": "伊赞之土",
+      "condition_text": "Fluff collected from Honeybunnies found throughout Itzaland. Its classic honey-colored sheen makes it ideal for creating timeless clothing.",
+      "source_id": "src:2f0de1230da196f33e211c10",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010208"
+    },
+    {
+      "area_record_id": "area:25f05296f9110b3951cda617",
+      "material_id": "mdawn-fluff",
+      "region": "祈愿树林",
+      "condition_text": "寻找曦光狐，缓慢接近并清洁。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:261427951051baffa938176f",
+      "material_id": "mstarlight-scallop",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2b00f53748c7e0a603e4f646",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E6%98%9F%E6%89%87%E8%B4%9D"
+    },
+    {
+      "area_record_id": "area:2b24dd00f2e5d67e0cb2161e",
+      "material_id": "mgilded-axiswing",
+      "region": "Heaven's Reach",
+      "condition_text": "An insect active near the waters of Heaven's Reach. Its metallic wings embody a distinctly mechanical beauty and are often used to craft vintage accessories. Can be used to craft clothes or items",
+      "source_id": "src:b4a647e6e1fe93d0fd93875b",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010246"
+    },
+    {
+      "area_record_id": "area:2b7ae8c8306710233783d51a",
+      "material_id": "mhare-powder",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:636308efd25085e3d711304d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_12.shtml"
+    },
+    {
+      "area_record_id": "area:2d3417018c99662e8eb36303",
+      "material_id": "mwoolfruit",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4fdf54d546cc7313075d51e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_8.shtml"
+    },
+    {
+      "area_record_id": "area:2db16830a7832ab73b138708",
+      "material_id": "mwoolfruit",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b27c98c56a9b42a91bbef4ac",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:2eb6b650d597976210c6b74c",
+      "material_id": "mnight-velvet",
+      "region": "微风绿野",
+      "condition_text": "等待天鹅上岸后使用动物清洁能力。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:2f0c2268e273db86fda0ae8d",
+      "material_id": "mweavespider",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:aeccbd94a6a714479dbc4c22",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BB%87%E8%A1%A3%E8%9B%9B"
+    },
+    {
+      "area_record_id": "area:315a2c1002cc9cbefad2b18b",
+      "material_id": "mhare-powder-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4da6143243bb619c42e01db",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:317d83c8a7d597cfe8ef44c3",
+      "material_id": "mwoolfruit",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b27c98c56a9b42a91bbef4ac",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:31c82b55875405ab6bcd571b",
+      "material_id": "mdaisy",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4d73d29f20f080fea27212c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_6.shtml"
+    },
+    {
+      "area_record_id": "area:322b243d4ee07bb7e512d83e",
+      "material_id": "mdawn-fluff-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4ee7118786cdc7d3d431ae84",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%9B%A6%E5%85%89%E6%AF%9B%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:32d385b196f07781dea47880",
+      "material_id": "mbunny-fluff-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2d959329a15c87add4ba75e2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:33046840ece704f491739345",
+      "material_id": "mlampchili",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:1aecdc63dc3c3768c9b5dc77",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A3%81%E7%81%AF%E7%BA%A2%E6%A4%92"
+    },
+    {
+      "area_record_id": "area:3308ce9a21a4983aac13d32c",
+      "material_id": "maromalily-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:75d4460d599772ea67896b58",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:337203a7865b5481dbbd4b2f",
+      "material_id": "mbuttoncone",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:58ebda0ee4b8fee1a769b656",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%BD%E6%89%A3%E6%9D%BE%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:351b651464866b3123eef3c4",
+      "material_id": "mseed-pearl",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6e0882c5a8de44a953580081",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0"
+    },
+    {
+      "area_record_id": "area:35358f808be641dba2de2af1",
+      "material_id": "mquillfin",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f947b201baaf4dab3594f6e9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:3599236471ddc781330c6f6a",
+      "material_id": "mlongstocking-wool-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:74fa2679c970cdd2b39029da",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%95%BF%E8%A2%9C%E7%BE%8A%E6%AF%9B%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:3603f8e67e712668aa06b220",
+      "material_id": "mastral-feather",
+      "region": "Stellar Fishing Ground",
+      "condition_text": "A feather collected while grooming the legendary creature Astral Swan in Stonewoods. The dreamlike blue of the waters at the Stellar Fishing Ground makes the garments as enchanting as a starry dream.",
+      "source_id": "src:3928a4106b4fe0d1e1f0293a",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010130"
+    },
+    {
+      "area_record_id": "area:371d5639228af3a4fa69cbf8",
+      "material_id": "mfloof-yarn",
+      "region": "微风绿野",
+      "condition_text": "需先解锁清洁动物能力，再清洁毛线汪汪。",
+      "source_id": "src:9fbc36b6b63a1b36e6f69ca0",
+      "source_published_date": null,
+      "source_url": "https://game8.co/games/Infinity-Nikki/archives/487823"
+    },
+    {
+      "area_record_id": "area:37b92186974268c44051b40f",
+      "material_id": "mseed-pearl",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:71577dc022be82ae33135c78",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_13.shtml"
+    },
+    {
+      "area_record_id": "area:38a54da0b5e96e258b0e5b78",
+      "material_id": "mbow-fish",
+      "region": "纪念山地",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f59f2873dbcf96a7f46132c5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%9D%B4%E8%9D%B6%E7%BB%93%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:39e9ddd85a287e3cfe3377bc",
+      "material_id": "mflight-fruit",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f244e5f88f45e64bb3d3ac14",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A3%9E%E7%90%83%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:3ab1e9460f2ece1c8c4f7f31",
+      "material_id": "mrainy-orchid-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:2a9c58f854733f349080812e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9B%A8%E6%BB%B4%E8%9D%B6%E5%85%B0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:3c049078ae95b6ec10438070",
+      "material_id": "mrainy-orchid",
+      "region": "纪念山地",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:03eb3318dafaf75d4f74c6f6",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9B%A8%E6%BB%B4%E8%9D%B6%E5%85%B0"
+    },
+    {
+      "area_record_id": "area:3c271536e359abca5b911510",
+      "material_id": "mtulletail",
+      "region": "石树田区域",
+      "condition_text": "A large fish unique to the Stellar Fishing Ground in Stonewoods. Transparent as water, it's essential for creating the dreamy vibe of gauze skirts and dresses.",
+      "source_id": "src:e666f6eb45ae22e811288398",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010111"
+    },
+    {
+      "area_record_id": "area:3e2f11b995551fe87df39c41",
+      "material_id": "mwisteriasol",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ec08cdee39a145b28a6cc28d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E4%BC%9E%E8%97%A4%E8%90%9D"
+    },
+    {
+      "area_record_id": "area:3f1d5621d59fb183189fff59",
+      "material_id": "mscarf-worm-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b4078a9f93d3a733c93e2331",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%9B%B4%E5%B7%BE%E8%9A%AF%E8%9A%93%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:3f6b1a5af20a5887563230d2",
+      "material_id": "mfloral-fleece",
+      "region": "石树田区域",
+      "condition_text": "Fluff collected from grooming the Florasheep, an animal that is unique to Stonewoods. Fabric made from the fluff hides the sincere heart of a heart stealer, radiating both vibrancy and warmth.",
+      "source_id": "src:5adf1f29ca515bb5b52fceee",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010126"
+    },
+    {
+      "area_record_id": "area:4011cce34ec36aab81be5961",
+      "material_id": "mpin-hopper",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:43b6f487cd5dff7da1b209b8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8F%91%E5%8D%A1%E8%9A%B1%E8%9C%A2"
+    },
+    {
+      "area_record_id": "area:409fb19a103b9e554fd78c88",
+      "material_id": "mbuttoncone",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:74619497c937d26f7cebf95e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_5.shtml"
+    },
+    {
+      "area_record_id": "area:41b97e8e9016b79e18679bb1",
+      "material_id": "mbullquet-felt",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a9444b192e4184389cef6de5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%9B%9B%E5%AE%B4%E6%AF%9B%E6%AF%A1"
+    },
+    {
+      "area_record_id": "area:41ec536b86c68faf430a6445",
+      "material_id": "mlampbloom",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:63c6d2a540b888730f1ba3b1",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%B7%AF%E7%81%AF%E8%8A%B1"
+    },
+    {
+      "area_record_id": "area:41f4fa212701cc29d7efdc73",
+      "material_id": "mquillfin-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:6da312725f71f557700212d0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:447673faf28cd60b83e40132",
+      "material_id": "mbuttoncone",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:58ebda0ee4b8fee1a769b656",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%BD%E6%89%A3%E6%9D%BE%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:44b4ee8d33738274506d50c4",
+      "material_id": "mglimmerdrop",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:cfcecf5ce70df9ce6fdd96f0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%80%B3%E5%9D%A0%E8%90%A4"
+    },
+    {
+      "area_record_id": "area:44b6bc210e325936e6cdd95f",
+      "material_id": "mwoolfruit",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4fdf54d546cc7313075d51e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_8.shtml"
+    },
+    {
+      "area_record_id": "area:45abcd3cdf88d1d3aefafa0d",
+      "material_id": "mcelebcrow-feather",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ceb22a75cecbca0a64e2b18e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%90%8D%E6%B5%81%E9%B8%A6%E7%BE%BD"
+    },
+    {
+      "area_record_id": "area:45d9a24b43cb3683948bf742",
+      "material_id": "msizzpollen",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:042df1118547b3fd79ce9625",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_10.shtml"
+    },
+    {
+      "area_record_id": "area:464dfdb1149fcca14e808316",
+      "material_id": "maromalily",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0132698f5b8bf41f208d0537",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2"
+    },
+    {
+      "area_record_id": "area:4765d9269df008f12cb34868",
+      "material_id": "mseed-pearl-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bf52963449b04f5c4a3cd373",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:478d6afa8a8ca23243a040c6",
+      "material_id": "mwoolfruit",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4fdf54d546cc7313075d51e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_8.shtml"
+    },
+    {
+      "area_record_id": "area:48bae35fd3668772fd47ab15",
+      "material_id": "msuspenders-fluff",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:a6684d40392f099d76c47870",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%83%8C%E5%B8%A6%E6%AF%9B%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:4939ccd7312c9594aad04fa3",
+      "material_id": "mastral-feather-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:707bb5f09b45ef17b8cbfc39",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%A9%E6%98%9F%E4%B9%8B%E7%BE%BD%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:49931185d0b59d599eeb0481",
+      "material_id": "mbunny-fluff-essence",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2d959329a15c87add4ba75e2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:49b09ff503c8c94aaa9a7f2a",
+      "material_id": "maromalily",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:ab1bd4cd367f0adf3a5d61b2",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_19.shtml"
+    },
+    {
+      "area_record_id": "area:4aa1820d145e7062ebd19a5b",
+      "material_id": "mpearly-shell",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:fc35046f007bf3f06c9347e7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E8%8A%B1%E8%B4%9D%E5%A3%B3"
+    },
+    {
+      "area_record_id": "area:4af239febeb0933f2692b580",
+      "material_id": "mhare-powder",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4bfa885a14a5edbfbe435377",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:4e517f1dc3ecfd84a7ac043f",
+      "material_id": "mshawl-fluff",
+      "region": "Elderwood Forest",
+      "condition_text": "Fluff collected from the Shawl Deer found in Elderwood Forest. Garments made from this fluff are warm to the touch and shimmer subtly, resembling the forest's gentle breathing.",
+      "source_id": "src:5a60f928ac2174357bb94ff4",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010176"
+    },
+    {
+      "area_record_id": "area:4f1322353ce5753c2e59001c",
+      "material_id": "mgrasspom",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:d565f510d390283e934c43cd",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8D%89%E7%BB%92%E7%90%83"
+    },
+    {
+      "area_record_id": "area:4fd316d9d3d0b290d8aa62c9",
+      "material_id": "mbladefin",
+      "region": "Heaven's Reach",
+      "condition_text": "A fish inhabiting the waters of Heaven's Reach. Its sharp, glossy scales are an excellent material for making metallic accessories. Can be used to craft clothes or items",
+      "source_id": "src:6beb55cec8ed22cdf21d304f",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010236"
+    },
+    {
+      "area_record_id": "area:505a3b5f32c034d2c4e24511",
+      "material_id": "mlongstocking-wool-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:74fa2679c970cdd2b39029da",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%95%BF%E8%A2%9C%E7%BE%8A%E6%AF%9B%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:50736560ae3dcd52c782548b",
+      "material_id": "mseed-pearl",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:71577dc022be82ae33135c78",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_13.shtml"
+    },
+    {
+      "area_record_id": "area:50db365c32155be512da1738",
+      "material_id": "mquillfin-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:6da312725f71f557700212d0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:5133b541338b9bed5a160c34",
+      "material_id": "mbibcoon-furball-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:7aa976fe722745cf4421833f",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%9B%B4%E5%85%9C%E6%AF%9B%E7%90%83%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:51e7e1471b2d8fbb86a3058c",
+      "material_id": "mlampchili",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:1aecdc63dc3c3768c9b5dc77",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A3%81%E7%81%AF%E7%BA%A2%E6%A4%92"
+    },
+    {
+      "area_record_id": "area:520f19bc2f1cb6ed1da338a0",
+      "material_id": "msunny-orchid",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:0940e7295c72a0c3cc6cd22d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%99%B4%E6%97%A5%E8%9D%B6%E5%85%B0"
+    },
+    {
+      "area_record_id": "area:5405574009ed75e6bceb4a5b",
+      "material_id": "mkerchief-fish",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:36057493bf6032c628ca521e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%B4%E5%B7%BE%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:542a182d3dc4c233ddc42728",
+      "material_id": "mglimmerdrop",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:cfcecf5ce70df9ce6fdd96f0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%80%B3%E5%9D%A0%E8%90%A4"
+    },
+    {
+      "area_record_id": "area:552b11c9ec57e7196abfa71a",
+      "material_id": "mfoodie-bee",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:61cf303da544b118242048b7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%8E%E9%A3%9F%E5%AE%B6%E8%9C%9C%E8%9C%82"
+    },
+    {
+      "area_record_id": "area:55305354f12ab7de97d938cb",
+      "material_id": "mbuttoncone",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:58ebda0ee4b8fee1a769b656",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%BD%E6%89%A3%E6%9D%BE%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:554fc2fc55aa3e64fdd1754e",
+      "material_id": "mflorascent-wool",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:e5c17b815b777e26532eac49",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E9%A6%99%E7%BE%8A%E6%AF%9B"
+    },
+    {
+      "area_record_id": "area:5617c25f9ef7029b1439d75d",
+      "material_id": "mwindbloom",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ced8d5dbfd6d7a597d34cdd2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A3%8E%E7%B5%AE%E8%8D%89"
+    },
+    {
+      "area_record_id": "area:56a4b5ba86713fc1e2497499",
+      "material_id": "msizzpollen",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6b968c5aca3c34cdce37f17d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:57977a60efe92d08f6f48cef",
+      "material_id": "mdaisy",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4d73d29f20f080fea27212c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_6.shtml"
+    },
+    {
+      "area_record_id": "area:58340528424567517e24e1c0",
+      "material_id": "mpearl-wings",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb6be56942b3cbd66dab66a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E9%93%BE%E8%9D%B6"
+    },
+    {
+      "area_record_id": "area:58ba317e59d2929dcdcf9bf6",
+      "material_id": "mflorapom-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:afe4d9efb87d3080f78b7d32",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%9A%E6%BB%9A%E8%8A%B1%E7%90%83%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:5914f3b133596dcbd069d40c",
+      "material_id": "mdaisy",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4d73d29f20f080fea27212c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_6.shtml"
+    },
+    {
+      "area_record_id": "area:59c8ec39ae6c5d3b59a48687",
+      "material_id": "mhelmet-fish",
+      "region": "Elderwood Forest",
+      "condition_text": "A small fish found in the waters of Elderwood Forest. Its red, black, and white scales can dye clothes in the most iconic color schemes.",
+      "source_id": "src:c43c64b9d77ff78f1617b047",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010192"
+    },
+    {
+      "area_record_id": "area:5a909d917e33c3a3832b7fb4",
+      "material_id": "mcarryfin",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:8063aa2d3cc6a428d509f1a1",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%8F%90%E5%8C%85%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:5b3afa44682156b542cef828",
+      "material_id": "mwindbloom",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ced8d5dbfd6d7a597d34cdd2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A3%8E%E7%B5%AE%E8%8D%89"
+    },
+    {
+      "area_record_id": "area:5c89deed33de457fea90e00f",
+      "material_id": "mpearly-shell",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:5c2fe575b383616dd650c491",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245.shtml"
+    },
+    {
+      "area_record_id": "area:5e0c36fb84e6b8fcae7b5841",
+      "material_id": "mrainy-orchid-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:2a9c58f854733f349080812e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9B%A8%E6%BB%B4%E8%9D%B6%E5%85%B0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:5eaab189b579eb53284d37ee",
+      "material_id": "msizzpollen",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6b968c5aca3c34cdce37f17d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:5fb3a7fac256eae0dabfc569",
+      "material_id": "mballetfly",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:978d881a6bb66552d63c21e3",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%AD%E8%95%BE%E8%B1%86%E5%A8%98"
+    },
+    {
+      "area_record_id": "area:5fbe6963ca590f0cb727cf89",
+      "material_id": "mbow-fish",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f59f2873dbcf96a7f46132c5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%9D%B4%E8%9D%B6%E7%BB%93%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:620d91cc8b10df704ae9e7a8",
+      "material_id": "mlampbloom",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:c757259c4e7d50b59fb9390d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_3.shtml"
+    },
+    {
+      "area_record_id": "area:625ff5d601d0a9618fb41bd8",
+      "material_id": "mbunny-fluff-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2d959329a15c87add4ba75e2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:62d45fc1dd99285c5d1c8b6b",
+      "material_id": "mfloof-yarn",
+      "region": "小石树田村",
+      "condition_text": "需先解锁清洁动物能力，再清洁毛线汪汪。",
+      "source_id": "src:9fbc36b6b63a1b36e6f69ca0",
+      "source_published_date": null,
+      "source_url": "https://game8.co/games/Infinity-Nikki/archives/487823"
+    },
+    {
+      "area_record_id": "area:63ad12dfdcfbf1cdb966ef73",
+      "material_id": "mseed-pearl",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6e0882c5a8de44a953580081",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0"
+    },
+    {
+      "area_record_id": "area:63e1c71c05f848054ce59088",
+      "material_id": "mbuttoncone",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:74619497c937d26f7cebf95e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_5.shtml"
+    },
+    {
+      "area_record_id": "area:6518e1c2b159d7da9598965c",
+      "material_id": "mdawn-fluff",
+      "region": "祈愿树林",
+      "condition_text": "Dawn Fox",
+      "source_id": "src:17d92cff256b1282d23d02c5",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Dawn_Fluff"
+    },
+    {
+      "area_record_id": "area:65623d41ed7cb80934b3bbaf",
+      "material_id": "maromalily",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:ab1bd4cd367f0adf3a5d61b2",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_19.shtml"
+    },
+    {
+      "area_record_id": "area:6572c0d7232740d57cc1e6ff",
+      "material_id": "mpearl-wings",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb6be56942b3cbd66dab66a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E9%93%BE%E8%9D%B6"
+    },
+    {
+      "area_record_id": "area:65731654c9916b109a9d82e1",
+      "material_id": "mflorapom",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6186090424c006cbb7278749",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%9A%E6%BB%9A%E8%8A%B1%E7%90%83"
+    },
+    {
+      "area_record_id": "area:674030fffdf1d0f7aa69b7b9",
+      "material_id": "msizzpollen",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:042df1118547b3fd79ce9625",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_10.shtml"
+    },
+    {
+      "area_record_id": "area:674d90947e282b97d3c09ea6",
+      "material_id": "mweavespider",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:aeccbd94a6a714479dbc4c22",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BB%87%E8%A1%A3%E8%9B%9B"
+    },
+    {
+      "area_record_id": "area:677ba79497a5890c04610228",
+      "material_id": "mmaskwing",
+      "region": "祈愿树林",
+      "condition_text": "Maskwing (Bug) · Only found near Chronos Trees",
+      "source_id": "src:2cb722376d5146e098fbc398",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Maskwing"
+    },
+    {
+      "area_record_id": "area:67f51b09653dcb2f281c4847",
+      "material_id": "mpearl-drop-beetle",
+      "region": "Heaven's Reach",
+      "condition_text": "An insect active in the wilds of Heaven's Reach. Widely loved for the magnificent multicolor gradient of its shell, it is an excellent material for making accessories. Can be used to craft clothes or items",
+      "source_id": "src:15613331ffc35612d09a8145",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010243"
+    },
+    {
+      "area_record_id": "area:68352cf017163a3ff02c0452",
+      "material_id": "mseed-pearl",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:71577dc022be82ae33135c78",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_13.shtml"
+    },
+    {
+      "area_record_id": "area:6868ea5e7abe9152438f6bef",
+      "material_id": "mlampchili",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:92a5a303e9857a9afe262893",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_4.shtml"
+    },
+    {
+      "area_record_id": "area:686ecb5394b306fbe2155936",
+      "material_id": "mblastpollen",
+      "region": "花焰群岛",
+      "condition_text": "Blastbloom",
+      "source_id": "src:668a07173cb3c6bc4668d71d",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Blastpollen"
+    },
+    {
+      "area_record_id": "area:68c0126498e0ede0f4f8ca75",
+      "material_id": "mbow-fish",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f59f2873dbcf96a7f46132c5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%9D%B4%E8%9D%B6%E7%BB%93%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:68c9039ac115e01a07e8320f",
+      "material_id": "mflorapom",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:39995b1777fccb1975752992",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_18.shtml"
+    },
+    {
+      "area_record_id": "area:691cc4c033fa78957b0399cc",
+      "material_id": "mhare-powder-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4da6143243bb619c42e01db",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:6990e967994857ec3fdaa2b8",
+      "material_id": "mbrushie",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:24524a335974a14d6b400789",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:6a387a4750e706224c51a905",
+      "material_id": "mdaisy",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b9c7e5629e8dc480612e5910",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E7%BB%B5%E8%8F%8A"
+    },
+    {
+      "area_record_id": "area:6a6ab8dc06e1c39f43d6a2c0",
+      "material_id": "mquillfin-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:6da312725f71f557700212d0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:6ae77cf67b037c651f428dc7",
+      "material_id": "mhare-powder-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4da6143243bb619c42e01db",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:6b75a00b5d92adbd2f7fa85a",
+      "material_id": "msunny-orchid-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6d8ce5325d785ac54963849e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%99%B4%E6%97%A5%E8%9D%B6%E5%85%B0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:6bac4dc17d2f42fbf4701db0",
+      "material_id": "mdaisy",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b9c7e5629e8dc480612e5910",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E7%BB%B5%E8%8F%8A"
+    },
+    {
+      "area_record_id": "area:6bdf53a7fc03ec5401a26598",
+      "material_id": "mseed-pearl-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bf52963449b04f5c4a3cd373",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:6dac1ac8352e2a85afdacf24",
+      "material_id": "mstarlit-plum",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:88bbc81b9505ebed5368a08c",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:6de20448a92af0032836cec2",
+      "material_id": "mgogglebug",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb7355732cc69ea6cfd10e38",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%B3%B3%E9%95%9C%E8%9D%BD"
+    },
+    {
+      "area_record_id": "area:6fb8027993b14aa1dcc2e8bf",
+      "material_id": "mglimmergrass",
+      "region": "祈愿树林",
+      "condition_text": "Glimmergrass (Collect)",
+      "source_id": "src:209efa113cde2be6bae820a0",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Glimmergrass"
+    },
+    {
+      "area_record_id": "area:706b3a66aa9b2e1ef8c078ae",
+      "material_id": "mfloof-yarn",
+      "region": "石树田无人区",
+      "condition_text": "需先解锁清洁动物能力，再清洁毛线汪汪。",
+      "source_id": "src:9fbc36b6b63a1b36e6f69ca0",
+      "source_published_date": null,
+      "source_url": "https://game8.co/games/Infinity-Nikki/archives/487823"
+    },
+    {
+      "area_record_id": "area:70cd1d93ce495758dfb1e8e0",
+      "material_id": "msocko-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:582338d464f8238bc87994a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E8%A2%9C%E8%99%AB%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:70d709039ba28fba69b19435",
+      "material_id": "mstallion-locks",
+      "region": "微风绿野",
+      "condition_text": "Horsehair collected from grooming a Knight Stallion, a lively animal found in lush areas in Breezy Meadow. Wearing the thick fabric made from this material is like being protected by a trusty knight.",
+      "source_id": "src:0164e331f153d5a0fc58a8f6",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010100"
+    },
+    {
+      "area_record_id": "area:7117b203bdc41e6d5e078286",
+      "material_id": "maromalily",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:ab1bd4cd367f0adf3a5d61b2",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_19.shtml"
+    },
+    {
+      "area_record_id": "area:716cedf89cfbd2b1042b9562",
+      "material_id": "mquillfin",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f947b201baaf4dab3594f6e9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:71c250eb4dabcf000f481ab8",
+      "material_id": "mtulletail",
+      "region": "石树田无人区",
+      "condition_text": "星空钓场下方水域，使用钓鱼能力。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:7266747f690166f02b33477a",
+      "material_id": "mgrasspom-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:4027222eb96c7fc059694462",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8D%89%E7%BB%92%E7%90%83%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:7356d6981293f1b273b4cc73",
+      "material_id": "mgogglebug",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb7355732cc69ea6cfd10e38",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%B3%B3%E9%95%9C%E8%9D%BD"
+    },
+    {
+      "area_record_id": "area:73dc69190bdf38232378795a",
+      "material_id": "mquillfin",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f947b201baaf4dab3594f6e9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:759414db337a46869a375ac4",
+      "material_id": "msol-fruit",
+      "region": "祈愿树林",
+      "condition_text": "祈愿树林的时光树，游戏内白天采集。",
+      "source_id": "src:f22763356e9ed54d052f93ab",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_20.shtml"
+    },
+    {
+      "area_record_id": "area:75b2b170b78bd2a3eafd43c3",
+      "material_id": "mcloak-fluff",
+      "region": "Heaven's Reach",
+      "condition_text": "Soft fluff collected when grooming Cloakbats commonly found in Heaven's Reach. Fluffy and soft, it still carries the warmth of these little creatures curling up in the palm, making it a favored garment material. Can be used to craft clothes or items",
+      "source_id": "src:3d42716f3aea1ededf5b958b",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010238"
+    },
+    {
+      "area_record_id": "area:75e6e51a395497cd58d6b921",
+      "material_id": "mbunny-fluff",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6a3680f456b1cb2ac9715df7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:75ed2e5c6c6089a26e6e674e",
+      "material_id": "mfoodie-bee",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:61cf303da544b118242048b7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%8E%E9%A3%9F%E5%AE%B6%E8%9C%9C%E8%9C%82"
+    },
+    {
+      "area_record_id": "area:76c6834b893d30ff36addcb0",
+      "material_id": "mkerchief-fish",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:36057493bf6032c628ca521e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%B4%E5%B7%BE%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:771a08bbcfb55f1297237122",
+      "material_id": "mbowler-fluff-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:b9b70fe4260c78cc8e2869ad",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%A4%85%E7%A4%85%E6%AF%9B%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:77a1d2e998d2e7d9d3142d84",
+      "material_id": "mfoodie-bee",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:61cf303da544b118242048b7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%8E%E9%A3%9F%E5%AE%B6%E8%9C%9C%E8%9C%82"
+    },
+    {
+      "area_record_id": "area:788ea2398c0025eeda1aa5df",
+      "material_id": "msunny-orchid",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:0940e7295c72a0c3cc6cd22d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%99%B4%E6%97%A5%E8%9D%B6%E5%85%B0"
+    },
+    {
+      "area_record_id": "area:79140ce1d4a83fda7349f10f",
+      "material_id": "maromalily",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:ab1bd4cd367f0adf3a5d61b2",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_19.shtml"
+    },
+    {
+      "area_record_id": "area:79c8cdc435667e400927968b",
+      "material_id": "mcrystal-ballfly",
+      "region": "Heaven's Reach",
+      "condition_text": "An insect active in the shadows of Heaven's Reach. Fabric made from it is dotted with starlike fluorescence and possesses excellent elasticity, allowing it to contour perfectly to the body. Can be used to craft clothes or items",
+      "source_id": "src:7f882f59c50bc99646d2794d",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010245"
+    },
+    {
+      "area_record_id": "area:7a39147e4e496ebcf7c70a2a",
+      "material_id": "mpin-hopper-in-memorial",
+      "region": "花愿镇",
+      "condition_text": "World Quest\nChirpy Repaying The Debt",
+      "source_id": "src:a317ad14d5a7ed513a137438",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Pin%20Hopper%20in%20Memorial"
+    },
+    {
+      "area_record_id": "area:7a458c3ec5f2cb1a1108ce83",
+      "material_id": "mpearl-wings",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb6be56942b3cbd66dab66a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E9%93%BE%E8%9D%B6"
+    },
+    {
+      "area_record_id": "area:7ba77dd04738e5385dbffc93",
+      "material_id": "mgrasspom-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:4027222eb96c7fc059694462",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8D%89%E7%BB%92%E7%90%83%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:7c1255a57f0a393182e1f971",
+      "material_id": "mflight-fruit",
+      "region": "石树田区域",
+      "condition_text": "A kind of fruit that grows on the Flight Fruit Trees in Stonewoods. Plump and filled with wind energy, it can be made into light, breathable fabric.",
+      "source_id": "src:38afc66a16fd8727c23f40cd",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010071"
+    },
+    {
+      "area_record_id": "area:7f33f739283f9246d94b005b",
+      "material_id": "mlampchili",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:92a5a303e9857a9afe262893",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_4.shtml"
+    },
+    {
+      "area_record_id": "area:7f7f86abd31a8a7b8f62ad0a",
+      "material_id": "maromalily-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:75d4460d599772ea67896b58",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:7f9985c1b5a4c950c9fe3ce9",
+      "material_id": "mwoolfruit",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b27c98c56a9b42a91bbef4ac",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:7f9b639196707b92efe31128",
+      "material_id": "mpearly-shell",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:5c2fe575b383616dd650c491",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245.shtml"
+    },
+    {
+      "area_record_id": "area:8010cd932695a3257373b716",
+      "material_id": "mbunny-fluff-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2d959329a15c87add4ba75e2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:80c319437373f98a9eb7f424",
+      "material_id": "mquillfin",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f947b201baaf4dab3594f6e9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:816cdaa6101ab70efbb0097d",
+      "material_id": "mflorascent-wool",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:e5c17b815b777e26532eac49",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E9%A6%99%E7%BE%8A%E6%AF%9B"
+    },
+    {
+      "area_record_id": "area:8172cceb436809a0c60cdfdc",
+      "material_id": "msizzpollen-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6f772733ab79b4bbcfeaace0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:81c51ef31cdbbe5c95927e73",
+      "material_id": "mstarlight-scallop",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2b00f53748c7e0a603e4f646",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E6%98%9F%E6%89%87%E8%B4%9D"
+    },
+    {
+      "area_record_id": "area:82b7a59959cfd5ac70299596",
+      "material_id": "mseed-pearl",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6e0882c5a8de44a953580081",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0"
+    },
+    {
+      "area_record_id": "area:8358fec97c928caced8f9f07",
+      "material_id": "mflight-fruit",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:f04cdbaeb29bca581ef97fde",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_11.shtml"
+    },
+    {
+      "area_record_id": "area:85c78399c5cef060440a4005",
+      "material_id": "mlampbloom",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:c757259c4e7d50b59fb9390d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_3.shtml"
+    },
+    {
+      "area_record_id": "area:86abc24e753ccf7435de4509",
+      "material_id": "mstarlit-plum-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:9b2656738e786387ac867261",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:871f4b66006430c371376ec9",
+      "material_id": "mruffin",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:c5fa89f12f318f001ed32175",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%8B%89%E5%A4%AB%E9%A2%86%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:8729ec16c346636c878e1c25",
+      "material_id": "mpin-hopper",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:43b6f487cd5dff7da1b209b8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8F%91%E5%8D%A1%E8%9A%B1%E8%9C%A2"
+    },
+    {
+      "area_record_id": "area:890516e661169f01dd8342df",
+      "material_id": "maromalily-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:75d4460d599772ea67896b58",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:89577d1e9cdc39a953f5a1a2",
+      "material_id": "mastral-feather",
+      "region": "石树田无人区",
+      "condition_text": "前往星空钓场附近寻找天鹅，使用清洁能力。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:89844e3976ad113e114f3604",
+      "material_id": "mmaskwing-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:c6196bbaccfe302e0b7452d3",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9D%A2%E8%86%9C%E8%8D%89%E8%9B%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:89bd3c145bc94cceddd0b61f",
+      "material_id": "mbibcoon-furball",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2754bd42cd8f3fa712976686",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%9B%B4%E5%85%9C%E6%AF%9B%E7%90%83"
+    },
+    {
+      "area_record_id": "area:8a78be9f66458c5f68bd4d23",
+      "material_id": "mpearl-wings",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb6be56942b3cbd66dab66a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E9%93%BE%E8%9D%B6"
+    },
+    {
+      "area_record_id": "area:8ae93d36047faf171f664a75",
+      "material_id": "mdaisy",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4d73d29f20f080fea27212c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_6.shtml"
+    },
+    {
+      "area_record_id": "area:8af6afecb50dc592775e00d0",
+      "material_id": "mstarlit-plum-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:9b2656738e786387ac867261",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:8b28313d987991cfaf1dc4b6",
+      "material_id": "mstarlight-scallop",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:a90ea93bdb0a8cbadbd2aa12",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_2.shtml"
+    },
+    {
+      "area_record_id": "area:8baf8e12a7845239ac00c6ff",
+      "material_id": "msol-fruit",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b69cf5c1288f0e8bf7dd06fa",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%97%A5%E5%85%89%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:8c3daa3b57974a2c6c23146a",
+      "material_id": "mstarlight-scallop",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2b00f53748c7e0a603e4f646",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E6%98%9F%E6%89%87%E8%B4%9D"
+    },
+    {
+      "area_record_id": "area:8c947210e9b03a4bc191f5ae",
+      "material_id": "mstarlight-scallop",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:a90ea93bdb0a8cbadbd2aa12",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_2.shtml"
+    },
+    {
+      "area_record_id": "area:8cb3c326c6c7a3755fac65ce",
+      "material_id": "mhare-powder-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4da6143243bb619c42e01db",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:8dec5ea2fff58797ae4b995b",
+      "material_id": "mflorascent-wool",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:e5c17b815b777e26532eac49",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E9%A6%99%E7%BE%8A%E6%AF%9B"
+    },
+    {
+      "area_record_id": "area:8ed265f03bd6abb1fc582a2f",
+      "material_id": "mbuttoncone",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:74619497c937d26f7cebf95e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_5.shtml"
+    },
+    {
+      "area_record_id": "area:90de49bbe34c0542e93a9f23",
+      "material_id": "mgrasspom",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:d565f510d390283e934c43cd",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8D%89%E7%BB%92%E7%90%83"
+    },
+    {
+      "area_record_id": "area:9134698e5417415ee5563a71",
+      "material_id": "mfoodie-bee",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:61cf303da544b118242048b7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%8E%E9%A3%9F%E5%AE%B6%E8%9C%9C%E8%9C%82"
+    },
+    {
+      "area_record_id": "area:913bead5ac1c3687555ce286",
+      "material_id": "mglimmerdrop",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:cfcecf5ce70df9ce6fdd96f0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%80%B3%E5%9D%A0%E8%90%A4"
+    },
+    {
+      "area_record_id": "area:91ad7387a95af15bc7c1f20c",
+      "material_id": "mmasquerade-lynx-fluff",
+      "region": "伊赞之土",
+      "condition_text": "Fluff collected while grooming the Masquerade Lynx in Itzaland. This silver-gray down has a distinctive luster and a noble bearing. Fabrics woven from it are sleek and crisp, naturally exuding an elegant charm.",
+      "source_id": "src:4d9bdac6b609c8c34618f268",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010172"
+    },
+    {
+      "area_record_id": "area:91d73225c3dbc15d99cbdfbe",
+      "material_id": "mgrasspom-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:4027222eb96c7fc059694462",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8D%89%E7%BB%92%E7%90%83%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:92165ed5674db9fff0514a3c",
+      "material_id": "mnight-velvet-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:21082f9beb025a6f6eb7df2b",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%9C%E8%89%B2%E5%A4%A9%E9%B9%85%E7%BB%92%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:9217b5ea670de6ad39527b25",
+      "material_id": "mcelebcrow-feather",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ceb22a75cecbca0a64e2b18e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%90%8D%E6%B5%81%E9%B8%A6%E7%BE%BD"
+    },
+    {
+      "area_record_id": "area:92499987a1ba1d171ecb4301",
+      "material_id": "mdaisy",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b9c7e5629e8dc480612e5910",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E7%BB%B5%E8%8F%8A"
+    },
+    {
+      "area_record_id": "area:928808fcbfa776cb7970685b",
+      "material_id": "msizzpollen-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6f772733ab79b4bbcfeaace0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:93a5bbb01e19790a3555e1f1",
+      "material_id": "mdaisy",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b9c7e5629e8dc480612e5910",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E7%BB%B5%E8%8F%8A"
+    },
+    {
+      "area_record_id": "area:9527a9601a7e672c9931d101",
+      "material_id": "mrainy-orchid",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:03eb3318dafaf75d4f74c6f6",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9B%A8%E6%BB%B4%E8%9D%B6%E5%85%B0"
+    },
+    {
+      "area_record_id": "area:9568606929534434b1f43c15",
+      "material_id": "mlampchili",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:92a5a303e9857a9afe262893",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_4.shtml"
+    },
+    {
+      "area_record_id": "area:95c451fe6b55a32b563fcdc0",
+      "material_id": "mwisteriasol",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:42aacfcabbe93ac39271300c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_15.shtml"
+    },
+    {
+      "area_record_id": "area:960f26a2ef238c835feb3a11",
+      "material_id": "mstarlit-plum",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:88bbc81b9505ebed5368a08c",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:968da3cb4b1d8dd03a5db91a",
+      "material_id": "mbehemoth-paw-fur",
+      "region": "Elderwood Forest",
+      "condition_text": "Paw fur collected while grooming Behemoths in Elderwood Forest. Soft and delicate, it's a dependable material for crafting close-fitting clothing.",
+      "source_id": "src:8d32fdddad010a379c1f37d1",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010204"
+    },
+    {
+      "area_record_id": "area:96f8dc24691fac37896bcb0d",
+      "material_id": "mbuttoncone",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:74619497c937d26f7cebf95e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_5.shtml"
+    },
+    {
+      "area_record_id": "area:9729f6a604b7cf6bb6813280",
+      "material_id": "mglimmergrass",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:f6210ae2a7a89ecf66c88e36",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_14.shtml"
+    },
+    {
+      "area_record_id": "area:97fc706b9caf3774f7d81cf1",
+      "material_id": "mfloof-yarn",
+      "region": "花愿镇",
+      "condition_text": "需先解锁清洁动物能力，再清洁毛线汪汪。",
+      "source_id": "src:9fbc36b6b63a1b36e6f69ca0",
+      "source_published_date": null,
+      "source_url": "https://game8.co/games/Infinity-Nikki/archives/487823"
+    },
+    {
+      "area_record_id": "area:98e15580f0bf1b91de00dcba",
+      "material_id": "mflorascent-wool",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:e5c17b815b777e26532eac49",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E9%A6%99%E7%BE%8A%E6%AF%9B"
+    },
+    {
+      "area_record_id": "area:98e2394b1423b8029aac4424",
+      "material_id": "mlampbloom",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:63c6d2a540b888730f1ba3b1",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%B7%AF%E7%81%AF%E8%8A%B1"
+    },
+    {
+      "area_record_id": "area:994d56a255c7d9f4532627ef",
+      "material_id": "mhare-powder",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:636308efd25085e3d711304d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_12.shtml"
+    },
+    {
+      "area_record_id": "area:9a13b773a95e4a01a521d9de",
+      "material_id": "mquillfin-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:6da312725f71f557700212d0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%BD%E6%AF%9B%E7%AC%94%E9%B1%BC%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:9b068738ecb9f72d5f3f71af",
+      "material_id": "msizzpollen-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6f772733ab79b4bbcfeaace0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:9b0e4c7756f7714d19e25d69",
+      "material_id": "mrose-velvet",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6978d7ad672aad599419a9ef",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8E%AB%E8%89%B2%E5%A4%A9%E9%B9%85%E7%BB%92"
+    },
+    {
+      "area_record_id": "area:9b4d454f4077bb1989d23aeb",
+      "material_id": "mastral-feather",
+      "region": "石树田区域",
+      "condition_text": "A feather collected while grooming the legendary creature Astral Swan in Stonewoods. The dreamlike blue of the waters at the Stellar Fishing Ground makes the garments as enchanting as a starry dream.",
+      "source_id": "src:3928a4106b4fe0d1e1f0293a",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010130"
+    },
+    {
+      "area_record_id": "area:9bf7ff44fd675558fad17de2",
+      "material_id": "mrainy-orchid",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:03eb3318dafaf75d4f74c6f6",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9B%A8%E6%BB%B4%E8%9D%B6%E5%85%B0"
+    },
+    {
+      "area_record_id": "area:9cca2218146c072a56190ec8",
+      "material_id": "mhandkerfin",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:7192b374dc262abf38994995",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%89%8B%E7%BB%A2%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:9d73874ca59764ca1f9f8aee",
+      "material_id": "mcelebcrow-feather",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ceb22a75cecbca0a64e2b18e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%90%8D%E6%B5%81%E9%B8%A6%E7%BE%BD"
+    },
+    {
+      "area_record_id": "area:9d95f96b6ad5267433febc32",
+      "material_id": "mwindbloom-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0819423cb939f5ae34680d8c",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A3%8E%E7%B5%AE%E8%8D%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:9db64cadc0e9eba863b40cfa",
+      "material_id": "mbrushie",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:24524a335974a14d6b400789",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:9e15ac24428681149f955797",
+      "material_id": "mpearl-wings",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb6be56942b3cbd66dab66a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E9%93%BE%E8%9D%B6"
+    },
+    {
+      "area_record_id": "area:9e88c392c72c1ccdb347978e",
+      "material_id": "mnight-heron-feather",
+      "region": "伊赞之土",
+      "condition_text": "Night Heron Wanderer",
+      "source_id": "src:4f74a310d3a39bad2d759601",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Night_Heron_Feather"
+    },
+    {
+      "area_record_id": "area:9ea97db088018e00f42922f2",
+      "material_id": "mflight-fruit",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:f04cdbaeb29bca581ef97fde",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_11.shtml"
+    },
+    {
+      "area_record_id": "area:9f48a096dc6c01f8a872936c",
+      "material_id": "mlampchili",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:92a5a303e9857a9afe262893",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_4.shtml"
+    },
+    {
+      "area_record_id": "area:a13fbd843b58f2a2b2a4626e",
+      "material_id": "mhare-powder",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:636308efd25085e3d711304d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_12.shtml"
+    },
+    {
+      "area_record_id": "area:a1bb2b75a3a7d77bc069a414",
+      "material_id": "mcelebcrow-feather",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:ceb22a75cecbca0a64e2b18e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%90%8D%E6%B5%81%E9%B8%A6%E7%BE%BD"
+    },
+    {
+      "area_record_id": "area:a1d33d4aadff4dd306e23b31",
+      "material_id": "mbrusher",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:3cb73599e2539feae898c15a",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%A7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:a28a67cb28a9c97384cd41b5",
+      "material_id": "mknotted-fern",
+      "region": "Elderwood Forest",
+      "condition_text": "A plant that grows on the ground or stumps in Elderwood Forest. The intricate network of veins on its leaves adds a charming detail to garments.",
+      "source_id": "src:0f1af47933620a30da74ea5c",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010182"
+    },
+    {
+      "area_record_id": "area:a2e967c184452d3b4d2eead2",
+      "material_id": "mstellar-fruit-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:fd41342d9cf894e04014ce7f",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%98%9F%E5%85%89%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:a44a27ee3eb6dfa7425338ee",
+      "material_id": "mwindbloom-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0819423cb939f5ae34680d8c",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A3%8E%E7%B5%AE%E8%8D%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:a4547dca8b68d85d4bb4ec99",
+      "material_id": "melastic-gel",
+      "region": "祈愿树林",
+      "condition_text": "Main Quests\nMysterious Wishing Woods",
+      "source_id": "src:94e266044046001cd2901565",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Elastic_Gel"
+    },
+    {
+      "area_record_id": "area:a4fc0949f97eb4e9599b7dea",
+      "material_id": "msunny-orchid",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:0940e7295c72a0c3cc6cd22d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%99%B4%E6%97%A5%E8%9D%B6%E5%85%B0"
+    },
+    {
+      "area_record_id": "area:a54cca68bd54d4abfb125a8b",
+      "material_id": "maromalily-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:75d4460d599772ea67896b58",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:a5ba268be92eb709ede21d96",
+      "material_id": "mstarlit-plum-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:9b2656738e786387ac867261",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:a6b35ea8f79ce8c8518e3dc1",
+      "material_id": "mpearly-shell",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:fc35046f007bf3f06c9347e7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E8%8A%B1%E8%B4%9D%E5%A3%B3"
+    },
+    {
+      "area_record_id": "area:a6bbf7e38076080d2db88633",
+      "material_id": "mterra-gem-fresh",
+      "region": "伊赞之土",
+      "condition_text": "Realm of The Dark Phantom Trial: Esseling Pack (Updraft)",
+      "source_id": "src:32767941f83e3097ad299cb9",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Terra_Gem%3A_Fresh"
+    },
+    {
+      "area_record_id": "area:a6f1ecfc5a3d375a4c091eeb",
+      "material_id": "mbullquet-felt",
+      "region": "微风绿野",
+      "condition_text": "先捕捉宴席白牛周围的昆虫，再清洁白牛。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:a8719ca8510f954f6bc9af8c",
+      "material_id": "mpearly-shell",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:fc35046f007bf3f06c9347e7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8F%A0%E8%8A%B1%E8%B4%9D%E5%A3%B3"
+    },
+    {
+      "area_record_id": "area:aa1642e736a408264afaaba4",
+      "material_id": "mcarver-fish",
+      "region": "伊赞之土",
+      "condition_text": "A medium-sized fish found in the waters of Itzaland. Its dark green pattern is great for elevating traditional designs with its unique style.",
+      "source_id": "src:bc4c8ac4c7ca75ab2c1f8873",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010191"
+    },
+    {
+      "area_record_id": "area:aa4b59318c6067e2bb3cfb3a",
+      "material_id": "mblossom-beetle",
+      "region": "微风绿野",
+      "condition_text": "Blossom Beetle (Bug)",
+      "source_id": "src:9c33347906532c543ee2a96c",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Blossom_Beetle"
+    },
+    {
+      "area_record_id": "area:aa6c2ac214ae7211abc0252a",
+      "material_id": "mcore-fruit",
+      "region": "Heaven's Reach",
+      "condition_text": "A fruit harvested from the Mechanowood of Heaven's Reach. Shaped like an exquisite brass lantern with a soft, inner glow, it is the premier choice for crafting rustic accessories. Can be used to craft clothes or items",
+      "source_id": "src:1fd64eb2703ac92f6811aa76",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010241"
+    },
+    {
+      "area_record_id": "area:ab22074246a3a0ee22839b23",
+      "material_id": "mdaisy",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4d73d29f20f080fea27212c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_6.shtml"
+    },
+    {
+      "area_record_id": "area:ac0a54148e01ff591a99393a",
+      "material_id": "maromalily",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0132698f5b8bf41f208d0537",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2"
+    },
+    {
+      "area_record_id": "area:b1f8b642f0ac556f1bb456d0",
+      "material_id": "mscarf-worm",
+      "region": "石树田区域",
+      "condition_text": "An insect found in Stonewoods. Resembling a wool scarf, it's suitable for crafting warm, windproof wool fabric.",
+      "source_id": "src:0461f6a0bb0888b93b4902ee",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010119"
+    },
+    {
+      "area_record_id": "area:b308982534df065f7b4921e5",
+      "material_id": "mseed-pearl-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bf52963449b04f5c4a3cd373",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:b34bdc3d2ea1af9b74b96195",
+      "material_id": "mbunny-fluff",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6a3680f456b1cb2ac9715df7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:b34ee30055b9959b6efcba91",
+      "material_id": "msizzpollen",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:042df1118547b3fd79ce9625",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_10.shtml"
+    },
+    {
+      "area_record_id": "area:b4d294ffa04bab88af7492a0",
+      "material_id": "mseed-pearl",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6e0882c5a8de44a953580081",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0"
+    },
+    {
+      "area_record_id": "area:b547e460946491504e9ccc48",
+      "material_id": "mballetfly",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:978d881a6bb66552d63c21e3",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%AD%E8%95%BE%E8%B1%86%E5%A8%98"
+    },
+    {
+      "area_record_id": "area:b58fcbca750e05f120836a9d",
+      "material_id": "mbuttoncone",
+      "region": "纪念山地",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:74619497c937d26f7cebf95e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_5.shtml"
+    },
+    {
+      "area_record_id": "area:b5943dcf94883856a6501866",
+      "material_id": "mrose-velvet",
+      "region": "微风绿野",
+      "condition_text": "等待天鹅上岸后使用动物清洁能力。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:b59e0dfe9d5ff9ebcb5df8d0",
+      "material_id": "mweavespider",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:aeccbd94a6a714479dbc4c22",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BB%87%E8%A1%A3%E8%9B%9B"
+    },
+    {
+      "area_record_id": "area:b61c320aaeea640e7b3e0e64",
+      "material_id": "mbuttoncone",
+      "region": "纪念山地",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:58ebda0ee4b8fee1a769b656",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%BD%E6%89%A3%E6%9D%BE%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:b693ca104bb6414d3b295662",
+      "material_id": "mhare-powder",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:4bfa885a14a5edbfbe435377",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:b6a0b8820ed3778a0ab972c9",
+      "material_id": "mseed-pearl-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bf52963449b04f5c4a3cd373",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%93%9C%E5%AD%90%E7%8F%A0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:b71eaea98ef3d3206c853a45",
+      "material_id": "mruffin",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:c5fa89f12f318f001ed32175",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%8B%89%E5%A4%AB%E9%A2%86%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:b7d11fa701454fb6dc7ceffb",
+      "material_id": "mcrownwisp-fruit",
+      "region": "Heaven's Reach",
+      "condition_text": "A fruit harvested from Crownwisp Blooms in the waters of Heaven's Reach. Smooth and jade-warm to the touch, its vibrant, lustrous hue makes it perfect for adorning elegant crowns. Can be used to craft clothes or items",
+      "source_id": "src:107a78458139843c1968e233",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010242"
+    },
+    {
+      "area_record_id": "area:b851e40db86e9b0452f28846",
+      "material_id": "msunny-orchid-essence",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6d8ce5325d785ac54963849e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%99%B4%E6%97%A5%E8%9D%B6%E5%85%B0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:b8c76577c922527e441165de",
+      "material_id": "mhooded-feather-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6bc1f221ef39018269a24bbb",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%9C%E5%B8%BD%E7%BB%92%E7%BE%BD%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:b98158c3a4c84db5be18fe5b",
+      "material_id": "mweavespider",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:aeccbd94a6a714479dbc4c22",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BB%87%E8%A1%A3%E8%9B%9B"
+    },
+    {
+      "area_record_id": "area:b9cb6be2c8b2e0967c053cfb",
+      "material_id": "mbrushie",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:24524a335974a14d6b400789",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:ba4e640d84ef0e901d8e7244",
+      "material_id": "mlongstocking-wool",
+      "region": "微风绿野",
+      "condition_text": "Longstocking",
+      "source_id": "src:0c86c7de250d44912e5f0948",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Longstocking_Wool"
+    },
+    {
+      "area_record_id": "area:bb3b2b5fa9332765bfd3ce4b",
+      "material_id": "mgrasspom",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:58814f8e8bc2973b186ffd66",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_9.shtml"
+    },
+    {
+      "area_record_id": "area:bc59e39ba85069db3176cc78",
+      "material_id": "mstellar-fruit",
+      "region": "祈愿树林",
+      "condition_text": "祈愿树林的时光树，游戏内夜晚采集。",
+      "source_id": "src:841c2758cdac976183957506",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_21.shtml"
+    },
+    {
+      "area_record_id": "area:bd565552f71c4b808f8f4946",
+      "material_id": "msunny-orchid-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6d8ce5325d785ac54963849e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%99%B4%E6%97%A5%E8%9D%B6%E5%85%B0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:befcc505fd01805f544161f9",
+      "material_id": "mwoolfruit",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4fdf54d546cc7313075d51e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_8.shtml"
+    },
+    {
+      "area_record_id": "area:bf3b0d5ca5c554145109a5ec",
+      "material_id": "mbow-fish",
+      "region": "花愿镇",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f59f2873dbcf96a7f46132c5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%9D%B4%E8%9D%B6%E7%BB%93%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:c1dbe0192453133674bd90c8",
+      "material_id": "mlampchili",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:1aecdc63dc3c3768c9b5dc77",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A3%81%E7%81%AF%E7%BA%A2%E6%A4%92"
+    },
+    {
+      "area_record_id": "area:c20bdd965eae777a4cc60c00",
+      "material_id": "mflight-fruit-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:e5eb9606493f23afd8d3e583",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A3%9E%E7%90%83%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:c364486cb02c9441e0d5d616",
+      "material_id": "msizzpollen",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6b968c5aca3c34cdce37f17d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:c3a1b5001945b7b8655f4326",
+      "material_id": "msizzpollen",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:042df1118547b3fd79ce9625",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_10.shtml"
+    },
+    {
+      "area_record_id": "area:c50e13cac23b354ee320dab4",
+      "material_id": "mhare-powder",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:636308efd25085e3d711304d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_12.shtml"
+    },
+    {
+      "area_record_id": "area:c50f208141b99666a180b306",
+      "material_id": "mbunny-fluff",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6a3680f456b1cb2ac9715df7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:c51eeb51e3d259208bc27895",
+      "material_id": "mwisteriasol",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:42aacfcabbe93ac39271300c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_15.shtml"
+    },
+    {
+      "area_record_id": "area:c62e41b5b4d146fa12eb99d5",
+      "material_id": "mbow-fish",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f59f2873dbcf96a7f46132c5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%9D%B4%E8%9D%B6%E7%BB%93%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:c705e55f6d7ed15f91559fc1",
+      "material_id": "mlampchili",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:1aecdc63dc3c3768c9b5dc77",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A3%81%E7%81%AF%E7%BA%A2%E6%A4%92"
+    },
+    {
+      "area_record_id": "area:c8098a44968ee78ef86548a7",
+      "material_id": "maromalily-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:75d4460d599772ea67896b58",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:c9c5ca8a67a90fbee90c0cc4",
+      "material_id": "msizzpollen-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6f772733ab79b4bbcfeaace0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:ca636b64394547dc98a8e435",
+      "material_id": "mlampchili",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:1aecdc63dc3c3768c9b5dc77",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A3%81%E7%81%AF%E7%BA%A2%E6%A4%92"
+    },
+    {
+      "area_record_id": "area:ca9e29c075b7526da63fd84a",
+      "material_id": "mpalettetail",
+      "region": "祈愿树林",
+      "condition_text": "1",
+      "source_id": "src:ab57d3fd65d919b8d3bdabfc",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Palettetail"
+    },
+    {
+      "area_record_id": "area:cba91102e5fe9c26f93ccbcf",
+      "material_id": "msizzpollen-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6f772733ab79b4bbcfeaace0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:cf0782d5be958c8c68eecaf8",
+      "material_id": "mrustling-fluff",
+      "region": "伊赞之土",
+      "condition_text": "Fluff gathered while grooming a Terra Floof in Itzaland. Fabrics made from it are irresistibly soft, mirroring the touch of the Terra Floof itself.",
+      "source_id": "src:2ef7d124e270bc3419af700c",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010211"
+    },
+    {
+      "area_record_id": "area:cf4725d07a07af39de6d081e",
+      "material_id": "mhare-powder-essence",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4da6143243bb619c42e01db",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:cfc2784c1e212dd1f7c844a4",
+      "material_id": "mbullquet-felt-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:e8d262c61d6cd75ed3c43b82",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%9B%9B%E5%AE%B4%E6%AF%9B%E6%AF%A1%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:d1509629463f16a2f3141ddc",
+      "material_id": "mbow-fish",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:f59f2873dbcf96a7f46132c5",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%9D%B4%E8%9D%B6%E7%BB%93%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:d1a7a591e156c5e4efee2aff",
+      "material_id": "mpin-hopper",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:43b6f487cd5dff7da1b209b8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%8F%91%E5%8D%A1%E8%9A%B1%E8%9C%A2"
+    },
+    {
+      "area_record_id": "area:d1ef70ab5d1ccb3e97733de4",
+      "material_id": "msizzpollen",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6b968c5aca3c34cdce37f17d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:d2880af6933902bff45e2f23",
+      "material_id": "mwisteriasol-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:01f740442ba801c26c251b41",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E4%BC%9E%E8%97%A4%E8%90%9D%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:d2bbc8a93f1aaf5c4a00cd8f",
+      "material_id": "mwisteriasol-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:01f740442ba801c26c251b41",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%B1%E4%BC%9E%E8%97%A4%E8%90%9D%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:d38d1f3cbfa5242222a0fde5",
+      "material_id": "mhare-powder",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:636308efd25085e3d711304d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_12.shtml"
+    },
+    {
+      "area_record_id": "area:d45af17f91f6d815d812bad1",
+      "material_id": "mpearly-shell",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:5c2fe575b383616dd650c491",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245.shtml"
+    },
+    {
+      "area_record_id": "area:d4748574dd5d3ae10b64a99a",
+      "material_id": "mballetfly",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:978d881a6bb66552d63c21e3",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8A%AD%E8%95%BE%E8%B1%86%E5%A8%98"
+    },
+    {
+      "area_record_id": "area:d5af3a4c61fbdc6f666cf4e2",
+      "material_id": "mterra-gem-sexy",
+      "region": "伊赞之土",
+      "condition_text": "Realm of The Dark Phantom Trial: Esseling Pack (Charge)",
+      "source_id": "src:88497f48ff4fe4bfa6bfb648",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Terra_Gem%3A_Sexy"
+    },
+    {
+      "area_record_id": "area:d6a264903bbddac7e9b6855c",
+      "material_id": "mtulletail",
+      "region": "Stellar Fishing Ground",
+      "condition_text": "A large fish unique to the Stellar Fishing Ground in Stonewoods. Transparent as water, it's essential for creating the dreamy vibe of gauze skirts and dresses.",
+      "source_id": "src:e666f6eb45ae22e811288398",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010111"
+    },
+    {
+      "area_record_id": "area:d7fc9e461808892619af2da9",
+      "material_id": "mbunny-fluff-essence",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2d959329a15c87add4ba75e2",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:d81927cfaeaf0b01caa66dca",
+      "material_id": "mruffin",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:c5fa89f12f318f001ed32175",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%8B%89%E5%A4%AB%E9%A2%86%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:d888c3db019978de33a41ebd",
+      "material_id": "mrainy-orchid-essence",
+      "region": "纪念山地",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:2a9c58f854733f349080812e",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%9B%A8%E6%BB%B4%E8%9D%B6%E5%85%B0%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:d8c1fae9e2b816b9627dd619",
+      "material_id": "mpony-curls",
+      "region": "微风绿野",
+      "condition_text": "Noble Pony",
+      "source_id": "src:0d914c141ed2193a5695d3e1",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Pony_Curls"
+    },
+    {
+      "area_record_id": "area:d915bb11db151d6197010c39",
+      "material_id": "mrockshell-fish",
+      "region": "Heaven's Reach",
+      "condition_text": "A medium-sized fish inhabiting the waters of Heaven's Reach. Fabric made from its rock-hard scales is crisp and durable, making it a preferred material for artisans of old when crafting workwear. Can be used to craft clothes or items",
+      "source_id": "src:cc9a412757c2fdcaaaed40c7",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010237"
+    },
+    {
+      "area_record_id": "area:da2ded8969ad98ae148318c4",
+      "material_id": "mstarlit-plum-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:9b2656738e786387ac867261",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:da38c503b9fdd75cd798fe52",
+      "material_id": "msizzpollen",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:042df1118547b3fd79ce9625",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_10.shtml"
+    },
+    {
+      "area_record_id": "area:da56c795f43061c495dc1235",
+      "material_id": "mbunny-fluff",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6a3680f456b1cb2ac9715df7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:da74141fa5176bb41c9432d9",
+      "material_id": "mflight-fruit",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:f04cdbaeb29bca581ef97fde",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_11.shtml"
+    },
+    {
+      "area_record_id": "area:db177cbb04f2b3760f7bffd8",
+      "material_id": "mwish-bottle",
+      "region": "花愿镇",
+      "condition_text": "Main Quest\nLand of Wishes",
+      "source_id": "src:934c4a2bc0dd1b8ce1126d7f",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Wish_Bottle"
+    },
+    {
+      "area_record_id": "area:db316cf4b95f51ef3cf856cb",
+      "material_id": "mlampchili",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:92a5a303e9857a9afe262893",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_4.shtml"
+    },
+    {
+      "area_record_id": "area:dba8c869252f25ef80b7695b",
+      "material_id": "maromalily",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0132698f5b8bf41f208d0537",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2"
+    },
+    {
+      "area_record_id": "area:dc00192036f08fd8fdb3a7d5",
+      "material_id": "mglimmerdrop",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:cfcecf5ce70df9ce6fdd96f0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%80%B3%E5%9D%A0%E8%90%A4"
+    },
+    {
+      "area_record_id": "area:dc6b3b7e8db9b5d166d1e50d",
+      "material_id": "mstarlit-plum",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:88bbc81b9505ebed5368a08c",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:dda06fd3db450a44d89b5f0e",
+      "material_id": "mastral-feather",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bf2a44fac9ce4e5dceb566a7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%A9%E6%98%9F%E4%B9%8B%E7%BE%BD"
+    },
+    {
+      "area_record_id": "area:de1cf7a6985bfe3fdc8b104f",
+      "material_id": "mhandkerfin",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:7192b374dc262abf38994995",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%89%8B%E7%BB%A2%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:dea533fa88a60a1e3d44cd13",
+      "material_id": "mlampbloom",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:c757259c4e7d50b59fb9390d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_3.shtml"
+    },
+    {
+      "area_record_id": "area:defcd1da394c1d35fd186318",
+      "material_id": "mgogglebug",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb7355732cc69ea6cfd10e38",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%B3%B3%E9%95%9C%E8%9D%BD"
+    },
+    {
+      "area_record_id": "area:df55ac27bad563bb59bcad5f",
+      "material_id": "mwild-daisy",
+      "region": "伊赞之土",
+      "condition_text": "Wild Daisy (Collect)",
+      "source_id": "src:54bec6b1ed2590ed586406c6",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Wild_Daisy"
+    },
+    {
+      "area_record_id": "area:dfb1dca67e2c1d54743f9fd5",
+      "material_id": "mwhisker-fish",
+      "region": "微风绿野",
+      "condition_text": "A medium-sized fish unique to Breezy Meadow. Its long, silvery whiskers hold the secret to a fabric's enhanced flexibility.",
+      "source_id": "src:80e5fe21af4849cc6bf2948c",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010105"
+    },
+    {
+      "area_record_id": "area:e0b00006fa8769d560ab56c8",
+      "material_id": "mlampchili",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:92a5a303e9857a9afe262893",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_4.shtml"
+    },
+    {
+      "area_record_id": "area:e11f6e6593a3a4600d481a56",
+      "material_id": "mscholar-feather",
+      "region": "伊赞之土",
+      "condition_text": "A feather collected while grooming the Scholar Owl across Itzaland. Its distinctive markings are regarded as symbols of knowledge and wisdom. Stylists who use these feathers when crafting clothes often carry hopes of deeper understanding and quiet insight.",
+      "source_id": "src:3e60f7e3e8a199c4a07d6d13",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010179"
+    },
+    {
+      "area_record_id": "area:e1b4c61af806cde3a1badee2",
+      "material_id": "mwindbloom",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:9659263c095c6ed5d3122c07",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_7.shtml"
+    },
+    {
+      "area_record_id": "area:e1c208f95375a3c55557f7cb",
+      "material_id": "mlongstocking-wool-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:74fa2679c970cdd2b39029da",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%95%BF%E8%A2%9C%E7%BE%8A%E6%AF%9B%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:e1deadc9ce6cefb7972f82e0",
+      "material_id": "mtulletail-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:d2eb94fb43f61dd6a2d25c88",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%B1%E8%A3%99%E9%B1%BC%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:e2c553f41cfed34b8c24633d",
+      "material_id": "mweavespider",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:aeccbd94a6a714479dbc4c22",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BB%87%E8%A1%A3%E8%9B%9B"
+    },
+    {
+      "area_record_id": "area:e3abaeddc9172e18bf10839f",
+      "material_id": "mbuttoncone",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:58ebda0ee4b8fee1a769b656",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%BD%E6%89%A3%E6%9D%BE%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:e3d6bc2b5a9954098c85d085",
+      "material_id": "mnight-velvet",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:0ce7744306b11a02fca28c57",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%9C%E8%89%B2%E5%A4%A9%E9%B9%85%E7%BB%92"
+    },
+    {
+      "area_record_id": "area:e3eaeb68ed1c0e358c4c680d",
+      "material_id": "mstarlight-scallop",
+      "region": "祈愿树林",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:a90ea93bdb0a8cbadbd2aa12",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_2.shtml"
+    },
+    {
+      "area_record_id": "area:e42fbe07ab6e4b2de8f89782",
+      "material_id": "mhare-powder-essence",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4da6143243bb619c42e01db",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%85%94%E5%A6%86%E7%B2%89%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:e444c2cdc79954c17e82bf9d",
+      "material_id": "mscarf-worm",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:ff00b1227407465f0d89b7fa",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%9B%B4%E5%B7%BE%E8%9A%AF%E8%9A%93"
+    },
+    {
+      "area_record_id": "area:e54dc54d32a818c0297bf4a4",
+      "material_id": "mdaisy",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4d73d29f20f080fea27212c",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_6.shtml"
+    },
+    {
+      "area_record_id": "area:e66a5a280a3c213bf268159c",
+      "material_id": "mbunny-fluff",
+      "region": "纪念山地",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6a3680f456b1cb2ac9715df7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:e74241fe1ecc823ca9abd27e",
+      "material_id": "mlampbloom",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:63c6d2a540b888730f1ba3b1",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%B7%AF%E7%81%AF%E8%8A%B1"
+    },
+    {
+      "area_record_id": "area:e749d9219809d81386406010",
+      "material_id": "mlampbloom",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:c757259c4e7d50b59fb9390d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_3.shtml"
+    },
+    {
+      "area_record_id": "area:e76fa8dbed5cb7c375cd7450",
+      "material_id": "mwisteriasol",
+      "region": "石树田区域",
+      "condition_text": "A plant that grows on the cliffs of Stonewoods. Its petals rain down when the wind blows, dyeing fabrics with the colors of spring.",
+      "source_id": "src:53ad7a80bf3ddca7467cd1a9",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010133"
+    },
+    {
+      "area_record_id": "area:e8f10c8924e706ac8723233a",
+      "material_id": "mcrowned-feather",
+      "region": "祈愿树林",
+      "condition_text": "Crowned Parrot",
+      "source_id": "src:bdf87644cb71d7ea4cb8cfb1",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Crowned_Feather"
+    },
+    {
+      "area_record_id": "area:e93762e162d75ff04bedb9ef",
+      "material_id": "mpearly-shell",
+      "region": "小石树田村",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:5c2fe575b383616dd650c491",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245.shtml"
+    },
+    {
+      "area_record_id": "area:eabf8eaa2a9fab3c21823b40",
+      "material_id": "mwoolfruit",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:b27c98c56a9b42a91bbef4ac",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:eadc7574f4dbfa41295745b6",
+      "material_id": "mmani-beetle-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:e0610d609c99c77c73dc5567",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%8E%E7%94%B2%E9%87%91%E9%BE%9F%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:ebe8b861770a5a07dc090fd2",
+      "material_id": "msocko-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:582338d464f8238bc87994a9",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E8%A2%9C%E8%99%AB%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:ec07710fb61e2ec4a72901c9",
+      "material_id": "mbuttoncone",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:74619497c937d26f7cebf95e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_5.shtml"
+    },
+    {
+      "area_record_id": "area:ec7da24f34d146344cf6a52b",
+      "material_id": "mstarlit-plum-essence",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:9b2656738e786387ac867261",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:ec999d894dce506e700cab3e",
+      "material_id": "msizzpollen",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6b968c5aca3c34cdce37f17d",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%8B%E6%BB%8B%E8%8A%B1%E7%B2%89"
+    },
+    {
+      "area_record_id": "area:ece2ba79bbbd205e88facae5",
+      "material_id": "mstarlit-plum",
+      "region": "石树田无人区",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:88bbc81b9505ebed5368a08c",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%BB%A1%E6%BB%A1%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:ee2a5c62a2443dfb2fc4ac4b",
+      "material_id": "msunny-orchid",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:4db40d17283ea5100f5b223d",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_16.shtml"
+    },
+    {
+      "area_record_id": "area:efd7c1f89ec58990a36261af",
+      "material_id": "mfoodie-bee",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:61cf303da544b118242048b7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BE%8E%E9%A3%9F%E5%AE%B6%E8%9C%9C%E8%9C%82"
+    },
+    {
+      "area_record_id": "area:f07cb5d6082c38225c34b3eb",
+      "material_id": "mwindbloom",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:9659263c095c6ed5d3122c07",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_7.shtml"
+    },
+    {
+      "area_record_id": "area:f138a5f0eb06365afb9a4fb6",
+      "material_id": "msol-fruit-essence",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:65391b9050736311f8dabf9b",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%97%A5%E5%85%89%E6%9E%9C%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:f32be052d205980abc680890",
+      "material_id": "mgogglebug",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:bb7355732cc69ea6cfd10e38",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%B3%B3%E9%95%9C%E8%9D%BD"
+    },
+    {
+      "area_record_id": "area:f363e084e3d71e50d8af2fe1",
+      "material_id": "mwoolfruit",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:b4fdf54d546cc7313075d51e",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_8.shtml"
+    },
+    {
+      "area_record_id": "area:f3d3f54ac97f80b20d05a2c8",
+      "material_id": "mbibcoon-furball",
+      "region": "花愿镇",
+      "condition_text": "狸猫俱乐部附近，使用动物清洁能力。",
+      "source_id": "src:3927bee9454c75c314000305",
+      "source_published_date": "2024-12-12",
+      "source_url": "https://xin.18183.com/wiki/4453583.html"
+    },
+    {
+      "area_record_id": "area:f461d12f7c065b0f2a8c9fc3",
+      "material_id": "mbuttoncone",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:58ebda0ee4b8fee1a769b656",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%BA%BD%E6%89%A3%E6%9D%BE%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:f4db28a8bea3d76e4a43b0a9",
+      "material_id": "mbunny-fluff",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:6a3680f456b1cb2ac9715df7",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%85%94%E5%B0%BE%E7%BB%92%E5%9B%A2"
+    },
+    {
+      "area_record_id": "area:f5896381ee5b7e6707e4d373",
+      "material_id": "mwreath-fluff",
+      "region": "祈愿树林",
+      "condition_text": "Fluff collected from grooming the Wreathdoe, an animal unique to the Wishing Woods. One can sense the delicate thoughts of the Wreathdoe by touching the fabric made from its fluff.",
+      "source_id": "src:1a199cbc6c9f30c6357e605f",
+      "source_published_date": null,
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010127"
+    },
+    {
+      "area_record_id": "area:f5d483dedcfa17c0703f7a90",
+      "material_id": "mlampbloom",
+      "region": "小石树田村",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:63c6d2a540b888730f1ba3b1",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%B7%AF%E7%81%AF%E8%8A%B1"
+    },
+    {
+      "area_record_id": "area:f79221bc3accd8fd52c7215e",
+      "material_id": "mclip-beetle",
+      "region": "伊赞之土",
+      "condition_text": "Clip Beetle (Bug)",
+      "source_id": "src:1780aae58a30d92158efe378",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Clip_Beetle"
+    },
+    {
+      "area_record_id": "area:f816f39cd0608265771aee6d",
+      "material_id": "mrose-velvet-essence",
+      "region": "微风绿野",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:d1ad2830682e14e215b327d0",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E7%8E%AB%E8%89%B2%E5%A4%A9%E9%B9%85%E7%BB%92%E7%B2%BE%E7%B2%B9"
+    },
+    {
+      "area_record_id": "area:f823d9f9ba58b347df8d88e4",
+      "material_id": "mstarlight-scallop",
+      "region": "小石树田村",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:2b00f53748c7e0a603e4f646",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B0%8F%E6%98%9F%E6%89%87%E8%B4%9D"
+    },
+    {
+      "area_record_id": "area:f8a9a189890ecf4a732fea6c",
+      "material_id": "mlampbloom",
+      "region": "石树田无人区",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:63c6d2a540b888730f1ba3b1",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%B7%AF%E7%81%AF%E8%8A%B1"
+    },
+    {
+      "area_record_id": "area:f8b13044a5ec693eb290d709",
+      "material_id": "mseed-pearl",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:71577dc022be82ae33135c78",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_13.shtml"
+    },
+    {
+      "area_record_id": "area:f8bfd63b55aa78ed1f00fc64",
+      "material_id": "mgrasspom",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:d565f510d390283e934c43cd",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E8%8D%89%E7%BB%92%E7%90%83"
+    },
+    {
+      "area_record_id": "area:f9b33e16c2cace3c5a3da7c5",
+      "material_id": "mfloral-scarf-worm",
+      "region": "伊赞之土",
+      "condition_text": "Floral Scarf Worm (Bug)",
+      "source_id": "src:c5597b4159cbb786e140fb35",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Floral_Scarf_Worm"
+    },
+    {
+      "area_record_id": "area:f9b90358d2c2502ada20ec41",
+      "material_id": "maromalily",
+      "region": "微风绿野",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:0132698f5b8bf41f208d0537",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E9%A6%99%E8%96%B0%E7%9D%A1%E8%8E%B2"
+    },
+    {
+      "area_record_id": "area:fa4a5f9a802a7f4a7c2eccd7",
+      "material_id": "mmani-beetle",
+      "region": "祈愿树林",
+      "condition_text": "Mani Beetle (Bug) · Sneaking required",
+      "source_id": "src:ad3a5cefe2c3e5e29ca13625",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Mani_Beetle"
+    },
+    {
+      "area_record_id": "area:fbd44381034983671c4aa279",
+      "material_id": "mstarlight-scallop",
+      "region": "石树田无人区",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:a90ea93bdb0a8cbadbd2aa12",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_2.shtml"
+    },
+    {
+      "area_record_id": "area:fc4733037f9df6663ac6d562",
+      "material_id": "mlooptail-furball",
+      "region": "伊赞之土",
+      "condition_text": "Looptail Pika",
+      "source_id": "src:99d0c504b9d91d8faf387fc2",
+      "source_published_date": null,
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Looptail_Furball"
+    },
+    {
+      "area_record_id": "area:fd03442ebc220893b48ee0ed",
+      "material_id": "mstellar-fruit",
+      "region": "祈愿树林",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:8b35a3534cc7d69705c5dda8",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E6%98%9F%E5%85%89%E6%9E%9C"
+    },
+    {
+      "area_record_id": "area:fd15b9f8ef1bbcf448eb6f8d",
+      "material_id": "msocko",
+      "region": "花愿镇",
+      "condition_text": "区域级资料；详细位置与条件待补充",
+      "source_id": "src:a4d12d8ff9f1f2ecd8ef5677",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%B8%83%E5%B8%83%E8%A2%9C%E8%99%AB"
+    },
+    {
+      "area_record_id": "area:fdb8f74e76dfe9bd7e25757a",
+      "material_id": "mbrusher",
+      "region": "祈愿树林",
+      "condition_text": "区域级来源；详细位置和条件待补充",
+      "source_id": "src:3cb73599e2539feae898c15a",
+      "source_published_date": null,
+      "source_url": "https://wiki.biligame.com/wxnn/%E9%81%93%E5%85%B7%E5%A4%A7%E7%AC%94%E5%88%B7%E9%B1%BC"
+    },
+    {
+      "area_record_id": "area:fdcc0a6933aef1acabf3f129",
+      "material_id": "mseed-pearl",
+      "region": "花愿镇",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:71577dc022be82ae33135c78",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_13.shtml"
+    },
+    {
+      "area_record_id": "area:ff14562247a679bca2ae25da",
+      "material_id": "maromalily",
+      "region": "微风绿野",
+      "condition_text": "在对应区域探索采集；具体点位请查看地图。",
+      "source_id": "src:ab1bd4cd367f0adf3a5d61b2",
+      "source_published_date": "2024-12-05",
+      "source_url": "https://www.gamersky.com/handbook/202412/1855245_19.shtml"
+    }
+  ],
+  "points": [],
+  "path_edges": [],
+  "teleports": [],
+  "exact_route_available": false,
+  "limitations": "当前0坐标、0传送点、0通行路径。区域材料为备选地点，非区域产量分配。"
+}

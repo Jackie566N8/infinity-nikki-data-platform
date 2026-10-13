@@ -1,0 +1,114 @@
+[
+  {
+    "object_id": "c1020720083",
+    "name": "愿望摇篮",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%84%BF%E6%9C%9B%E6%91%87%E7%AF%AE&oldid=50478",
+    "checked_at": "2026-10-11T16:30:02.159Z",
+    "crafting_text": "制作花费：4000 所需材料 磐岩晶石·翻滚×5 笔刷鱼×5.0kg 蝴蝶结鱼×3.0kg 纯真丝线×62 ",
+    "fish_ids": [
+      "mbow-fish",
+      "mbrushie"
+    ]
+  },
+  {
+    "object_id": "c1020100083",
+    "name": "明日誓约",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%8E%E6%97%A5%E8%AA%93%E7%BA%A6&oldid=48444",
+    "checked_at": "2026-10-11T16:30:04.451Z",
+    "crafting_text": "制作花费：12500 所需材料 磐岩晶石·翻滚×10 风铃子精粹×3 胡子鲶鱼精粹×3 羽毛笔鱼精粹×3 纯真丝线×156 ",
+    "fish_ids": [
+      "mwhisker-fish-essence",
+      "mquillfin-essence"
+    ]
+  },
+  {
+    "object_id": "c1020300244",
+    "name": "武陵春",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A6%E9%99%B5%E6%98%A5&oldid=48363",
+    "checked_at": "2026-10-11T16:30:05.786Z",
+    "crafting_text": "制作花费：8000 所需材料 磐岩晶石·驭使×5 云尾锦鲤×3.0kg 荷包草×8 纯真丝线×40 ",
+    "fish_ids": [
+      "mcloudtail-koi"
+    ]
+  },
+  {
+    "object_id": "c1020410244",
+    "name": "桃源渡",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A1%83%E6%BA%90%E6%B8%A1&oldid=29306",
+    "checked_at": "2026-10-11T16:30:06.971Z",
+    "crafting_text": "制作花费：8000 所需材料 磐岩晶石·驭使×5 云尾锦鲤×3.0kg 荷包草×8 纯真丝线×40 ",
+    "fish_ids": [
+      "mcloudtail-koi"
+    ]
+  },
+  {
+    "object_id": "c1020930244",
+    "name": "半枕霞",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%8D%8A%E6%9E%95%E9%9C%9E&oldid=48364",
+    "checked_at": "2026-10-11T16:30:07.993Z",
+    "crafting_text": "制作花费：5000 所需材料 磐岩晶石·驭使×2 雾绡鱼×3.0kg 纯真丝线×25 ",
+    "fish_ids": [
+      "msilken-fish"
+    ]
+  },
+  {
+    "object_id": "c1020710315",
+    "name": "致星之笺",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%87%B4%E6%98%9F%E4%B9%8B%E7%AC%BA&oldid=68695",
+    "checked_at": "2026-10-11T16:30:09.204Z",
+    "crafting_text": "制作花费：5600 所需材料 纯真丝线×69 岩壳鱼×10.0kg 珠坠甲虫×5 大地晶珀·典雅×5 ",
+    "fish_ids": [
+      "mrockshell-fish"
+    ]
+  },
+  {
+    "object_id": "c1020770339",
+    "name": "挚真旋律",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8C%9A%E7%9C%9F%E6%97%8B%E5%BE%8B&oldid=68443",
+    "checked_at": "2026-10-11T16:30:10.494Z",
+    "crafting_text": "制作花费：5600 所需材料 纯真丝线×69 铁剑鱼×10.0kg 机雀羽×6 大地晶珀·甜美×5 ",
+    "fish_ids": [
+      "mbladefin"
+    ]
+  },
+  {
+    "object_id": "c1020500348",
+    "name": "微风絮语",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BE%AE%E9%A3%8E%E7%B5%AE%E8%AF%AD&oldid=50345",
+    "checked_at": "2026-10-11T16:30:11.776Z",
+    "crafting_text": "制作花费：2400 所需材料 大地晶珀·甜美×5 裁尺鱼×2.0kg 路灯花×5 纯真丝线×18 ",
+    "fish_ids": [
+      "mcarver-fish"
+    ]
+  },
+  {
+    "object_id": "c1020100373",
+    "name": "齿律校准",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%BD%BF%E5%BE%8B%E6%A0%A1%E5%87%86&oldid=68472",
+    "checked_at": "2026-10-11T16:30:13.567Z",
+    "crafting_text": "制作花费：16800 所需材料 纯真丝线×240 岩壳鱼×5.0kg 机雀羽×5 大地晶珀·典雅×10 ",
+    "fish_ids": [
+      "mrockshell-fish"
+    ]
+  },
+  {
+    "object_id": "c1020720373",
+    "name": "重列复构",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%87%8D%E5%88%97%E5%A4%8D%E6%9E%84&oldid=68473",
+    "checked_at": "2026-10-11T16:30:14.505Z",
+    "crafting_text": "制作花费：8400 所需材料 纯真丝线×120 岩壳鱼×10.0kg 珠坠甲虫×6 大地晶珀·典雅×5 ",
+    "fish_ids": [
+      "mrockshell-fish"
+    ]
+  },
+  {
+    "object_id": "c1020900373",
+    "name": "旧影轮替",
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%97%A7%E5%BD%B1%E8%BD%AE%E6%9B%BF&oldid=68475",
+    "checked_at": "2026-10-11T16:30:15.237Z",
+    "crafting_text": "制作花费：26900 所需材料 纯真丝线×384 铁剑鱼×10.0kg 机雀羽×6 大地晶珀·典雅×15 ",
+    "fish_ids": [
+      "mbladefin"
+    ]
+  }
+]

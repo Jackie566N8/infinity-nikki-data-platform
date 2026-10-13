@@ -1,0 +1,485 @@
+[
+  {
+    "object_id": "o1032002",
+    "checked_at": "2026-10-11T15:42:40.645Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"流梦香甜忆·启晨\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sweet Memories: First Light\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"流梦香甜忆·启晨\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sweet Memories: First Light\" evolution materials OR \"流梦香甜忆·启晨\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Sweet Memories: First Light | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sweet_Memories%3A_First_Light",
+        "evolution": "2 Sweet Memories\n\n1 Sweet Memories: First Light",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1032202",
+    "checked_at": "2026-10-11T15:42:42.720Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"造化丹青·枫火\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Danqing Craft: Maple\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"造化丹青·枫火\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Danqing Craft: Maple\" evolution materials OR \"造化丹青·枫火\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1032402",
+    "checked_at": "2026-10-11T15:42:44.975Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"甜野小圆舞·蜜珀\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sweet Waltz: Honeyed Amber\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"甜野小圆舞·蜜珀\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sweet Waltz: Honeyed Amber\" evolution materials OR \"甜野小圆舞·蜜珀\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Sweet Waltz: Honeyed Amber | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sweet_Waltz%3A_Honeyed_Amber",
+        "evolution": "2 Sweet Waltz\n\n1 Sweet Waltz: Honeyed Amber",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1032602",
+    "checked_at": "2026-10-11T15:42:46.969Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"星之海·梦谕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sea of Stars: Reverie\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"星之海·梦谕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sea of Stars: Reverie\" evolution materials OR \"星之海·梦谕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Sea of Stars: Reverie | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Reverie",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n1 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Reverie",
+        "crafting": null
+      },
+      {
+        "title": "Sea of Stars: Infinity | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Infinity",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n2 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Infinity",
+        "crafting": null
+      },
+      {
+        "title": "Sea of Stars: Aurora | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Aurora",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n1 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Aurora",
+        "crafting": null
+      },
+      {
+        "title": "祁祁可爱小鱼的微博_微博",
+        "url": "https://www.weibo.com/u/7906435233",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Workshop Steam::春短夜长一万一空白-Y中文",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3437677678&l=french",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Oficina Steam::春短夜长一万一空白-Y中文",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3437677678&l=brazilian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1032603",
+    "checked_at": "2026-10-11T15:42:51.925Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"星之海·极境\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sea of Stars: Aurora\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"星之海·极境\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sea of Stars: Aurora\" evolution materials OR \"星之海·极境\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Sea of Stars: Aurora | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Aurora",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n1 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Aurora",
+        "crafting": null
+      },
+      {
+        "title": "Sea of Stars: Infinity | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Infinity",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n2 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Infinity",
+        "crafting": null
+      },
+      {
+        "title": "Sea of Stars: Reverie | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Reverie",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n1 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Reverie",
+        "crafting": null
+      },
+      {
+        "title": "星之海全新三色效果展示PV | 8月2日更... 来自闪耀暖暖 - 微博",
+        "url": "https://weibo.com/6498105282/PDawQrH3T",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "全职法师总纲",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404759581728572301",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1032604",
+    "checked_at": "2026-10-11T15:42:54.126Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"星之海·无垠\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sea of Stars: Infinity\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"星之海·无垠\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sea of Stars: Infinity\" evolution materials OR \"星之海·无垠\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Sea of Stars: Infinity | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Infinity",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n2 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Infinity",
+        "crafting": null
+      },
+      {
+        "title": "Sea of Stars: Aurora | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Aurora",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n1 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Aurora",
+        "crafting": null
+      },
+      {
+        "title": "Sea of Stars: Reverie | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Reverie",
+        "evolution": "4 Heartshine Shard: Sea of Stars\n\n1 Sea of Stars\n\n300 Thread of Purity\n\n100k Bling\n\n1 Sea of Stars: Reverie",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 创意工坊::自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3409601438&l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::备份",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3682657032",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: 草莓十字架 :: Games",
+        "url": "https://steamcommunity.com/id/endorsi517/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3409601438&l=finnish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "星之海全新三色效果展示PV | 8月2日更... 来自闪耀暖暖 - 微博",
+        "url": "https://weibo.com/6498105282/PDawQrH3T",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1032701",
+    "checked_at": "2026-10-11T15:42:56.422Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"伊风祓舞·苍夜\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Purifying Wind: Dark Night\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"伊风祓舞·苍夜\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Purifying Wind: Dark Night\" evolution materials OR \"伊风祓舞·苍夜\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Purifying Wind: Deepening Dusk | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Purifying_Wind%3A_Deepening_Dusk",
+        "evolution": "7 Ethereal Thoughts\n\n2 Purifying Wind\n\n100 Thread of Purity\n\n30k Bling\n\n1 Purifying Wind: Deepening Dusk",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1033002",
+    "checked_at": "2026-10-11T15:42:58.639Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"龙隐云墨间·缥碧\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Clouded Loong: Misty Celadon\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"龙隐云墨间·缥碧\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Clouded Loong: Misty Celadon\" evolution materials OR \"龙隐云墨间·缥碧\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Clouded Loong: Misty Celadon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Misty_Celadon",
+        "evolution": "1 Heartshine: Clouded Loong\n\n1 Clouded Loong: Misty Celadon",
+        "crafting": null
+      },
+      {
+        "title": "Clouded Loong: Eye-Dotting | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Eye-Dotting",
+        "evolution": "1 Heartshine: Clouded Loong\n\n1 Clouded Loong: Eye-Dotting",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖丹青季##无限暖... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/PD169gBh4",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ชุมชน Steam :: คู่มือ :: 秦殇超详细新人攻略",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2738085543&l=thai",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::鬼谷自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930745741&l=german",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Komunitas Steam :: LucherChu :: Game",
+        "url": "https://steamcommunity.com/id/LucherChu/recommended/?l=indonesian&p=3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::QF的自用合集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2781912693&l=norwegian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::暗黑地牢1",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3691305273&l=portuguese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1033003",
+    "checked_at": "2026-10-11T15:43:00.334Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"龙隐云墨间·点睛\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Clouded Loong: Eye-Dotting\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"龙隐云墨间·点睛\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Clouded Loong: Eye-Dotting\" evolution materials OR \"龙隐云墨间·点睛\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Clouded Loong: Eye-Dotting | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Eye-Dotting",
+        "evolution": "1 Heartshine: Clouded Loong\n\n1 Clouded Loong: Eye-Dotting",
+        "crafting": null
+      },
+      {
+        "title": "Clouded Loong: Misty Celadon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Misty_Celadon",
+        "evolution": "1 Heartshine: Clouded Loong\n\n1 Clouded Loong: Misty Celadon",
+        "crafting": null
+      },
+      {
+        "title": "无限暖暖 2.0版本优化内容汇总 :: Infinity Nikki General Discussions",
+        "url": "https://steamcommunity.com/app/3164330/discussions/0/694245926190993792/",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖丹青季##无限暖... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/PD169gBh4",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: Alex :: Games",
+        "url": "https://steamcommunity.com/id/AlexMCR/recommended?p=2",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1033004",
+    "checked_at": "2026-10-11T15:43:02.976Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"龙隐云墨间·红绫\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Clouded Loong: Red Ribbons\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"龙隐云墨间·红绫\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Clouded Loong: Red Ribbons\" evolution materials OR \"龙隐云墨间·红绫\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Clouded Loong: Eye-Dotting | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Eye-Dotting",
+        "evolution": "1 Heartshine: Clouded Loong\n\n1 Clouded Loong: Eye-Dotting",
+        "crafting": null
+      },
+      {
+        "title": "Clouded Loong: Misty Celadon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Misty_Celadon",
+        "evolution": "1 Heartshine: Clouded Loong\n\n1 Clouded Loong: Misty Celadon",
+        "crafting": null
+      },
+      {
+        "title": "#无限暖暖[超话]##无限暖暖丹青季##无限暖... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/PD169gBh4",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

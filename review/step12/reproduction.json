@@ -1,0 +1,20 @@
+{
+  "verified_at": "2026-10-13T05:40:45.924Z",
+  "methods": [
+    "A",
+    "B",
+    "C",
+    "D",
+    "E",
+    "F",
+    "D_v2",
+    "F_v2"
+  ],
+  "identical_rankings": 400,
+  "timing_remeasured": {
+    "warmup_rounds": 3,
+    "repeats_per_query": 20,
+    "scope": "Warmed in-memory Node engine only; excludes input parsing, index construction, browser rendering and network; no caching of query results"
+  },
+  "original_report_preserved": true
+}

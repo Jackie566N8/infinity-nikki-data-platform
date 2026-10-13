@@ -1,0 +1,103 @@
+.research-page h1,
+.research-page h2 {
+  font-family: var(--serif);
+}
+.rs-k-bars > div {
+  display: grid;
+  grid-template-columns: 65px minmax(0, 1fr) 55px;
+  gap: 14px;
+  align-items: center;
+  margin: 14px 0;
+  font-size: 12px;
+}
+.rs-k-bars progress {
+  width: 100%;
+  height: 12px;
+  accent-color: #8f73ad;
+}
+.rs-k-bars b {
+  text-align: right;
+  font-weight: 400;
+}
+.rs-members {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 9px;
+  max-height: 260px;
+  overflow: auto;
+  background: #f7f3fa;
+  padding: 17px;
+  border-radius: 12px;
+  margin-bottom: 22px;
+  font-size: 12px;
+}
+.rs-members button {
+  padding: 5px 8px;
+  background: #fff;
+  border-radius: 7px;
+}
+.rs-event {
+  border-top: 1px solid #eee6f4;
+  padding: 16px 0;
+}
+.rs-event p {
+  font-size: 12px;
+}
+.rs-uncertainty .adv-status {
+  line-height: 1.8;
+}
+.module-loading {
+  padding: 65px 25px;
+  text-align: center;
+  color: #7b6392;
+}
+.module-loading .loading-star {
+  font-size: 32px;
+  display: block;
+  animation: loading-pulse 1.4s ease-in-out infinite;
+}
+@keyframes loading-pulse {
+  50% {
+    opacity: 0.35;
+    transform: scale(0.85);
+  }
+}
+@media (prefers-reduced-motion: reduce) {
+  .loading-star {
+    animation: none !important;
+  }
+}
+/* Improve contrast of analysis text while preserving the existing purple palette. */
+.ana-note,
+.adv-note,
+.ana-card-head p,
+.adv-evidence,
+.quality-caption {
+  color: #796386 !important;
+}
+.ana-lineage,
+.quality-caption code {
+  color: #806c8b !important;
+}
+.ana-card {
+  scroll-margin-top: 90px;
+}
+.research-page .ana-card > p {
+  line-height: 1.9;
+}
+.research-page code {
+  overflow-wrap: anywhere;
+}
+
+.adv-link:focus-visible,
+.rs-members button:focus-visible,
+.ana-export:focus-visible {
+  outline: 2px solid #765292;
+  outline-offset: 3px;
+}
+.source-chip {
+  white-space: normal;
+  line-height: 1.6;
+  text-align: right;
+  max-width: 260px;
+}

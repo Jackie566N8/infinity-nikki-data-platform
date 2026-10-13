@@ -1,0 +1,901 @@
+[
+  {
+    "query_id": "q001",
+    "group_id": "family:o10349",
+    "type": "formal",
+    "subtype": null,
+    "query": "生于无瑕",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10349"
+    ],
+    "answerable": true,
+    "label_rationale": "标准名称与对象 ID 来源字段一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10349"
+      ],
+      "object_ids": [
+        "o10349"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q002",
+    "group_id": "family:o10349",
+    "type": "nickname",
+    "subtype": null,
+    "query": "神女套",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10349"
+    ],
+    "answerable": true,
+    "label_rationale": "来源昵称库核对；默认期望原色，进化形态不替代原色答案",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10349",
+        "https://www.bilibili.com/video/BV1CTUaBmEWz/",
+        "https://www.taptap.cn/moment/743070780761309366"
+      ],
+      "object_ids": [
+        "o10349"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q003",
+    "group_id": "family:o10349",
+    "type": "typo_pinyin",
+    "subtype": "typo",
+    "query": "生于无暇",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10349"
+    ],
+    "answerable": true,
+    "label_rationale": "策划的单字错字改写；人工需确认读音或歧义",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10349"
+      ],
+      "object_ids": [
+        "o10349"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q004",
+    "group_id": "family:o10349",
+    "type": "partial",
+    "subtype": null,
+    "query": "生于",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10349"
+    ],
+    "answerable": true,
+    "label_rationale": "不完整名称表达该家族；若人审发现其他有效答案须追加",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10349"
+      ],
+      "object_ids": [
+        "o10349"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q005",
+    "group_id": "family:o10349",
+    "type": "description",
+    "subtype": null,
+    "query": "找5星帅气风格的原色能力套装，标签有唯美和幻想，收录在祷声起诸大地，获取方式是限定共鸣",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10349"
+    ],
+    "answerable": true,
+    "label_rationale": "所有条件来自目录字段；原色限定，所有满足条件的套装均计相关",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10349"
+      ],
+      "object_ids": [
+        "o10349"
+      ],
+      "fields": {
+        "rarity": 5,
+        "style": "帅气",
+        "tags": [
+          "唯美",
+          "幻想"
+        ],
+        "season": "祷声起诸大地",
+        "type": "能力套装",
+        "obtain": "限定共鸣"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q006",
+    "group_id": "family:o10349",
+    "type": "multilingual",
+    "subtype": null,
+    "query": "Born Flawless",
+    "language": "en",
+    "expected_ids": [
+      "o10349"
+    ],
+    "answerable": true,
+    "label_rationale": "对应语种来源名称；不要求查询语言与界面语言一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10349"
+      ],
+      "object_ids": [
+        "o10349"
+      ],
+      "fields": {
+        "locale": "en"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q019",
+    "group_id": "family:o10161",
+    "type": "formal",
+    "subtype": null,
+    "query": "花漾梦萦",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10161"
+    ],
+    "answerable": true,
+    "label_rationale": "标准名称与对象 ID 来源字段一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10161"
+      ],
+      "object_ids": [
+        "o10161"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q020",
+    "group_id": "family:o10161",
+    "type": "nickname",
+    "subtype": null,
+    "query": "精灵套",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10161"
+    ],
+    "answerable": true,
+    "label_rationale": "来源昵称库核对；默认期望原色，进化形态不替代原色答案",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10161",
+        "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%BC%BE%E6%A2%A6%E8%90%A6"
+      ],
+      "object_ids": [
+        "o10161"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q021",
+    "group_id": "family:o10161",
+    "type": "typo_pinyin",
+    "subtype": "pinyin",
+    "query": "huayangmengying",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10161"
+    ],
+    "answerable": true,
+    "label_rationale": "策划的无声调拼音改写；人工需确认读音或歧义",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10161"
+      ],
+      "object_ids": [
+        "o10161"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q022",
+    "group_id": "family:o10161",
+    "type": "partial",
+    "subtype": null,
+    "query": "花漾",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10161"
+    ],
+    "answerable": true,
+    "label_rationale": "不完整名称表达该家族；若人审发现其他有效答案须追加",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10161"
+      ],
+      "object_ids": [
+        "o10161"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q023",
+    "group_id": "family:o10161",
+    "type": "description",
+    "subtype": null,
+    "query": "找5星甜美风格的原色能力套装，标签有精灵和幻想，收录在探索季，获取方式是限定共鸣",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10161"
+    ],
+    "answerable": true,
+    "label_rationale": "所有条件来自目录字段；原色限定，所有满足条件的套装均计相关",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10161"
+      ],
+      "object_ids": [
+        "o10161"
+      ],
+      "fields": {
+        "rarity": 5,
+        "style": "甜美",
+        "tags": [
+          "精灵",
+          "幻想"
+        ],
+        "season": "探索季",
+        "type": "能力套装",
+        "obtain": "限定共鸣"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q024",
+    "group_id": "family:o10161",
+    "type": "multilingual",
+    "subtype": null,
+    "query": "花漾夢縈",
+    "language": "zh-TW",
+    "expected_ids": [
+      "o10161"
+    ],
+    "answerable": true,
+    "label_rationale": "对应语种来源名称；不要求查询语言与界面语言一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10161"
+      ],
+      "object_ids": [
+        "o10161"
+      ],
+      "fields": {
+        "locale": "zh-TW"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q055",
+    "group_id": "family:o10289",
+    "type": "formal",
+    "subtype": null,
+    "query": "无名亦无我",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10289"
+    ],
+    "answerable": true,
+    "label_rationale": "标准名称与对象 ID 来源字段一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10289"
+      ],
+      "object_ids": [
+        "o10289"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q056",
+    "group_id": "family:o10289",
+    "type": "nickname",
+    "subtype": null,
+    "query": "哥特套",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10289"
+    ],
+    "answerable": true,
+    "label_rationale": "来源昵称库核对；默认期望原色，进化形态不替代原色答案",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10289",
+        "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E6%97%A0%E5%90%8D%E4%BA%A6%E6%97%A0%E6%88%91"
+      ],
+      "object_ids": [
+        "o10289"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q057",
+    "group_id": "family:o10289",
+    "type": "typo_pinyin",
+    "subtype": "pinyin",
+    "query": "wumingyiwuwo",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10289"
+    ],
+    "answerable": true,
+    "label_rationale": "策划的无声调拼音改写；人工需确认读音或歧义",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10289"
+      ],
+      "object_ids": [
+        "o10289"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q058",
+    "group_id": "family:o10289",
+    "type": "partial",
+    "subtype": null,
+    "query": "无名亦",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10289"
+    ],
+    "answerable": true,
+    "label_rationale": "不完整名称表达该家族；若人审发现其他有效答案须追加",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10289"
+      ],
+      "object_ids": [
+        "o10289"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q059",
+    "group_id": "family:o10289",
+    "type": "description",
+    "subtype": null,
+    "query": "找5星性感风格的原色能力套装，标签有宫廷和礼服，收录在拾光季，获取方式是限定共鸣",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10289"
+    ],
+    "answerable": true,
+    "label_rationale": "所有条件来自目录字段；原色限定，所有满足条件的套装均计相关",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10289"
+      ],
+      "object_ids": [
+        "o10289"
+      ],
+      "fields": {
+        "rarity": 5,
+        "style": "性感",
+        "tags": [
+          "宫廷",
+          "礼服"
+        ],
+        "season": "拾光季",
+        "type": "能力套装",
+        "obtain": "限定共鸣"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q060",
+    "group_id": "family:o10289",
+    "type": "multilingual",
+    "subtype": null,
+    "query": "無名無我",
+    "language": "ja",
+    "expected_ids": [
+      "o10289"
+    ],
+    "answerable": true,
+    "label_rationale": "对应语种来源名称；不要求查询语言与界面语言一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10289"
+      ],
+      "object_ids": [
+        "o10289"
+      ],
+      "fields": {
+        "locale": "ja"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q073",
+    "group_id": "family:o10117",
+    "type": "formal",
+    "subtype": null,
+    "query": "缀夜希光",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10117"
+    ],
+    "answerable": true,
+    "label_rationale": "标准名称与对象 ID 来源字段一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10117"
+      ],
+      "object_ids": [
+        "o10117"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q074",
+    "group_id": "family:o10117",
+    "type": "nickname",
+    "subtype": null,
+    "query": "烟花套",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10117"
+    ],
+    "answerable": true,
+    "label_rationale": "来源昵称库核对；默认期望原色，进化形态不替代原色答案",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10117",
+        "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%BC%80%E5%A4%9C%E5%B8%8C%E5%85%89"
+      ],
+      "object_ids": [
+        "o10117"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q075",
+    "group_id": "family:o10117",
+    "type": "typo_pinyin",
+    "subtype": "typo",
+    "query": "缀夜希广",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10117"
+    ],
+    "answerable": true,
+    "label_rationale": "策划的单字错字改写；人工需确认读音或歧义",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10117"
+      ],
+      "object_ids": [
+        "o10117"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q076",
+    "group_id": "family:o10117",
+    "type": "partial",
+    "subtype": null,
+    "query": "缀夜",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10117"
+    ],
+    "answerable": true,
+    "label_rationale": "不完整名称表达该家族；若人审发现其他有效答案须追加",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10117"
+      ],
+      "object_ids": [
+        "o10117"
+      ],
+      "fields": {}
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q077",
+    "group_id": "family:o10117",
+    "type": "description",
+    "subtype": null,
+    "query": "找5星典雅风格的原色能力套装，标签有浪漫和舞会，收录在花焰季，获取方式是限定共鸣",
+    "language": "zh-CN",
+    "expected_ids": [
+      "o10117"
+    ],
+    "answerable": true,
+    "label_rationale": "所有条件来自目录字段；原色限定，所有满足条件的套装均计相关",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10117"
+      ],
+      "object_ids": [
+        "o10117"
+      ],
+      "fields": {
+        "rarity": 5,
+        "style": "典雅",
+        "tags": [
+          "浪漫",
+          "舞会"
+        ],
+        "season": "花焰季",
+        "type": "能力套装",
+        "obtain": "限定共鸣"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q078",
+    "group_id": "family:o10117",
+    "type": "multilingual",
+    "subtype": null,
+    "query": "Stardust Flare",
+    "language": "en",
+    "expected_ids": [
+      "o10117"
+    ],
+    "answerable": true,
+    "label_rationale": "对应语种来源名称；不要求查询语言与界面语言一致",
+    "evidence": {
+      "urls": [
+        "https://gongeo.us/zh/outfits/10117"
+      ],
+      "object_ids": [
+        "o10117"
+      ],
+      "fields": {
+        "locale": "en"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q093",
+    "group_id": "negative:fiction-title",
+    "type": "formal",
+    "subtype": null,
+    "query": "月球宇航喵套",
+    "language": "zh-CN",
+    "expected_ids": [],
+    "answerable": false,
+    "label_rationale": "策划的不存在名称；需人工确认资料范围",
+    "evidence": {
+      "urls": [],
+      "object_ids": [],
+      "fields": {
+        "negative_scope": "frozen outfit-and-clothing catalog only"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q094",
+    "group_id": "negative:fiction-title",
+    "type": "multilingual",
+    "subtype": null,
+    "query": "Moonwalk Momo Astronaut",
+    "language": "en",
+    "expected_ids": [],
+    "answerable": false,
+    "label_rationale": "策划的不存在名称；需人工确认资料范围",
+    "evidence": {
+      "urls": [],
+      "object_ids": [],
+      "fields": {
+        "negative_scope": "frozen outfit-and-clothing catalog only"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q095",
+    "group_id": "negative:fiction-material",
+    "type": "nickname",
+    "subtype": null,
+    "query": "量子星河机甲套",
+    "language": "zh-CN",
+    "expected_ids": [],
+    "answerable": false,
+    "label_rationale": "不存在的套装家族，两个改写同组",
+    "evidence": {
+      "urls": [],
+      "object_ids": [],
+      "fields": {
+        "negative_scope": "frozen outfit-and-clothing catalog only"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q096",
+    "group_id": "negative:fiction-material",
+    "type": "partial",
+    "subtype": null,
+    "query": "量子星河机甲",
+    "language": "zh-CN",
+    "expected_ids": [],
+    "answerable": false,
+    "label_rationale": "不存在的套装家族，两个改写同组",
+    "evidence": {
+      "urls": [],
+      "object_ids": [],
+      "fields": {
+        "negative_scope": "frozen outfit-and-clothing catalog only"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q097",
+    "group_id": "negative:impossible-condition",
+    "type": "description",
+    "subtype": null,
+    "query": "1星生于无瑕原色套装",
+    "language": "zh-CN",
+    "expected_ids": [],
+    "answerable": false,
+    "label_rationale": "指定原色实际为5星；矛盾约束不应被忽略",
+    "evidence": {
+      "urls": [],
+      "object_ids": [],
+      "fields": {
+        "negative_scope": "frozen outfit-and-clothing catalog only"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  },
+  {
+    "query_id": "q098",
+    "group_id": "negative:impossible-condition",
+    "type": "description",
+    "subtype": null,
+    "query": "生于无瑕原色，品质要求必须是1星",
+    "language": "zh-CN",
+    "expected_ids": [],
+    "answerable": false,
+    "label_rationale": "指定原色实际为5星；矛盾约束不应被忽略",
+    "evidence": {
+      "urls": [],
+      "object_ids": [],
+      "fields": {
+        "negative_scope": "frozen outfit-and-clothing catalog only"
+      }
+    },
+    "annotation_origin": "source_checked_ai_candidate",
+    "human_review": {
+      "status": "pending",
+      "reviewer": null,
+      "reviewed_at": null
+    },
+    "split": "test"
+  }
+]

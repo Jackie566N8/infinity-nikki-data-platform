@@ -1,0 +1,57 @@
+[
+  {
+    "file": "test.mjs",
+    "exit": 0,
+    "ms": 56297
+  },
+  {
+    "file": "test-analytics.mjs",
+    "exit": 0,
+    "ms": 7599
+  },
+  {
+    "file": "test-wardrobe.mjs",
+    "exit": 0,
+    "ms": 924
+  },
+  {
+    "file": "test-planning.mjs",
+    "exit": 0,
+    "ms": 1589
+  },
+  {
+    "file": "test-planning-extended.mjs",
+    "exit": 0,
+    "ms": 243
+  },
+  {
+    "file": "search/test.mjs",
+    "exit": 0,
+    "ms": 251
+  },
+  {
+    "file": "search-improved/test.mjs",
+    "exit": 0,
+    "ms": 725
+  },
+  {
+    "file": "advanced/test.mjs",
+    "exit": 0,
+    "ms": 156
+  },
+  {
+    "file": "test-review.mjs",
+    "exit": 0,
+    "ms": 4671
+  },
+  {
+    "file": "test-step8.mjs",
+    "exit": 0,
+    "ms": 795
+  },
+  {
+    "file": "test-step9.mjs",
+    "exit": 0,
+    "ms": 817
+  }
+]

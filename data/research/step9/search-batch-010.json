@@ -1,0 +1,407 @@
+[
+  {
+    "object_id": "o1017902",
+    "checked_at": "2026-10-11T15:38:45.184Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"粉缎带圆舞曲·变奏\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pink Ribbon Waltz: Variation\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"粉缎带圆舞曲·变奏\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Pink Ribbon Waltz: Variation\" evolution materials OR \"粉缎带圆舞曲·变奏\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Pink Ribbon Waltz: Variation | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Pink_Ribbon_Waltz%3A_Variation",
+        "evolution": "2 Pink Ribbon Waltz\n\n1 Pink Ribbon Waltz: Variation",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1018102",
+    "checked_at": "2026-10-11T15:38:47.836Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"湖的女儿·落星\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Daughter of the Lake: Star\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"湖的女儿·落星\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Daughter of the Lake: Star\" evolution materials OR \"湖的女儿·落星\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Daughter of the Lake: Star | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Daughter_of_the_Lake%3A_Star",
+        "evolution": "2 Daughter of the Lake\n\n1 Daughter of the Lake: Star",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1018202",
+    "checked_at": "2026-10-11T15:38:49.741Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"帷幕与星色·萦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Curtains & Stars: Linger\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"帷幕与星色·萦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Curtains & Stars: Linger\" evolution materials OR \"帷幕与星色·萦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Curtains & Stars: Linger | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Curtains_%26_Stars%3A_Linger",
+        "evolution": "2 Curtains & Stars\n\n1 Curtains & Stars: Linger",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1018302",
+    "checked_at": "2026-10-11T15:38:52.028Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"古典乐章·交响曲\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Timeless Melody: Symphony\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"古典乐章·交响曲\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Timeless Melody: Symphony\" evolution materials OR \"古典乐章·交响曲\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Timeless Melody: Symphony | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Symphony",
+        "evolution": "1 Heartshine: Timeless Melody\n\n1 Time­less Mel­o­dy: Sym­pho­ny",
+        "crafting": null
+      },
+      {
+        "title": "Timeless Melody: Variations | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Variations",
+        "evolution": "1 Heartshine: Timeless Melody\n\n1 Time­less Mel­o­dy: Va­ri­a­tions",
+        "crafting": null
+      },
+      {
+        "title": "Timeless Melody: Rhapsody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Rhapsody",
+        "evolution": "2 Time­less Mel­o­dy\n\n1 Time­less Mel­o­dy: Rhap­so­dy",
+        "crafting": null
+      },
+      {
+        "title": "Steam Műhely::1.6",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3577529814&l=hungarian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 创意工坊::环世界原版优化+拓展",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3612004314&l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "《新世纪福音战士》台版DVD附册 “各话解说”部分〖eva吧〗_百度贴吧",
+        "url": "https://c.tieba.baidu.com/p/1919204343?fr=good",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1018303",
+    "checked_at": "2026-10-11T15:38:54.057Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"古典乐章·变奏曲\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Timeless Melody: Variations\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"古典乐章·变奏曲\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Timeless Melody: Variations\" evolution materials OR \"古典乐章·变奏曲\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Timeless Melody: Variations | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Variations",
+        "evolution": "1 Heartshine: Timeless Melody\n\n1 Time­less Mel­o­dy: Va­ri­a­tions",
+        "crafting": null
+      },
+      {
+        "title": "Timeless Melody: Symphony | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Symphony",
+        "evolution": "1 Heartshine: Timeless Melody\n\n1 Time­less Mel­o­dy: Sym­pho­ny",
+        "crafting": null
+      },
+      {
+        "title": "Timeless Melody: Rhapsody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Rhapsody",
+        "evolution": "2 Time­less Mel­o­dy\n\n1 Time­less Mel­o­dy: Rhap­so­dy",
+        "crafting": null
+      },
+      {
+        "title": "海外特稿 | 从1.5万套黑胶收藏中挑选出11套最爱黑胶唱片推荐（一）。",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309405086530791407797",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "2026广州艺术季 | 广州5月精彩演艺来了（附购票指引）",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309405296707356721503",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1018304",
+    "checked_at": "2026-10-11T15:38:55.998Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"古典乐章·狂想曲\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Timeless Melody: Rhapsody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"古典乐章·狂想曲\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Timeless Melody: Rhapsody\" evolution materials OR \"古典乐章·狂想曲\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Timeless Melody: Rhapsody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Rhapsody",
+        "evolution": "2 Time­less Mel­o­dy\n\n1 Time­less Mel­o­dy: Rhap­so­dy",
+        "crafting": null
+      },
+      {
+        "title": "Timeless Melody: Variations | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Variations",
+        "evolution": "1 Heartshine: Timeless Melody\n\n1 Time­less Mel­o­dy: Va­ri­a­tions",
+        "crafting": null
+      },
+      {
+        "title": "Timeless Melody: Symphony | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Symphony",
+        "evolution": "1 Heartshine: Timeless Melody\n\n1 Time­less Mel­o­dy: Sym­pho­ny",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1018601",
+    "checked_at": "2026-10-11T15:38:57.944Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"掠影飞梭·岚雾\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Shadow Swiftweave: Mountain Mist\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"掠影飞梭·岚雾\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Shadow Swiftweave: Mountain Mist\" evolution materials OR \"掠影飞梭·岚雾\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Shadow Swiftweave: Leap | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Shadow_Swiftweave%3A_Leap",
+        "evolution": "7 Ethereal Thoughts\n\n2 Shadow Swiftweave\n\n100 Thread of Purity\n\n30k Bling\n\n1 Shadow Swiftweave: Leap",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1019202",
+    "checked_at": "2026-10-11T15:38:59.898Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"鎏金旧事·流浪\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Gilded Memories: Wandering\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"鎏金旧事·流浪\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Gilded Memories: Wandering\" evolution materials OR \"鎏金旧事·流浪\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1019702",
+    "checked_at": "2026-10-11T15:39:02.018Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"雾影飘灵·拂晓\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Spectral Mist: Dawn\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"雾影飘灵·拂晓\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Spectral Mist: Dawn\" evolution materials OR \"雾影飘灵·拂晓\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Spectral Mist: Dawn | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Spectral_Mist%3A_Dawn",
+        "evolution": "2 Spec­tral Mist\n\n1 Spec­tral Mist: Dawn",
+        "crafting": null
+      },
+      {
+        "title": "Steam Műhely::订购后新mod模版",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3637191290&l=hungarian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::觅长生mod合集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3335489298&l=swedish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::春短夜长一万五K-M",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3439240059",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 工作坊::001",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2617797804&l=tchinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::weird stuff.",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3224630436&l=latam",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1019802",
+    "checked_at": "2026-10-11T15:39:03.725Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"云朵白日梦·夜游\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Cloud Daydreams: Night Wander\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"云朵白日梦·夜游\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Cloud Daydreams: Night Wander\" evolution materials OR \"云朵白日梦·夜游\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Workshop di Steam::自用合集",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3155321074&l=italian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

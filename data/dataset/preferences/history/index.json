@@ -1,0 +1,201 @@
+[
+  {
+    "snapshot_id": "preferences:4147b9ed4c69c0fee2606c97",
+    "created_at": "2026-10-11T06:58:13.097Z",
+    "catalog_snapshot": "snapshot:d357644ea899acf2ae2b4796",
+    "parent_id": null,
+    "input_sha256": "4147b9ed4c69c0fee2606c972dc29826c993b9ad81d6202d66e8a2f8600531a9",
+    "note": "初始建档：4份公开投票，14项来源审查；比例保留原精度，历史可比调查、收入及完成率待补充。",
+    "file": "4147b9ed4c69c0fee2606c97.json",
+    "change_count": 18,
+    "changes": [
+      {
+        "table": "sources",
+        "id": "src:tap-dragon-cat-62",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:tap-dragon-cat-231",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:tap-sansheng-118",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:tap-fan-deer-253",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:tap-complete-74",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:tap-images-75",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:gongeo-global",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:reddit-pulls",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:tiermaker-81",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:bili-guide",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:official-release",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:official-vote",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:weibo-anniversary",
+        "change": "added"
+      },
+      {
+        "table": "sources",
+        "id": "src:wjx-marketing",
+        "change": "added"
+      },
+      {
+        "table": "studies",
+        "id": "study:tap-dragon-cat-62",
+        "change": "added"
+      },
+      {
+        "table": "studies",
+        "id": "study:tap-dragon-cat-231",
+        "change": "added"
+      },
+      {
+        "table": "studies",
+        "id": "study:tap-sansheng-118",
+        "change": "added"
+      },
+      {
+        "table": "studies",
+        "id": "study:tap-fan-deer-253",
+        "change": "added"
+      }
+    ],
+    "source_urls": [
+      "https://www.taptap.cn/moment/700147148997528787",
+      "https://www.taptap.cn/moment/699902022945605493",
+      "https://www.taptap.cn/moment/698970646377400845",
+      "https://www.taptap.cn/moment/766621634256701289",
+      "https://www.taptap.cn/moment/731863866601898534",
+      "https://www.taptap.cn/moment/704349798681020221",
+      "https://gongeo.us/zh/global",
+      "https://www.reddit.com/r/InfinityNikki/comments/1kjhrxf/individual_pieces_droprate_from_700_players_pull/",
+      "https://tiermaker.com/categories/online-games/infinity-nikki-all-outfits-evolutions-glow-ups-110-1211609",
+      "https://www.bilibili.com/video/BV1YcPUzDEuS/",
+      "https://infinitynikki.nuanpaper.com/news/738",
+      "https://infinitynikki.infoldgames.com/zh-TW/news/122",
+      "https://www.weibo.com/7801655101/Qh0YZpuC2",
+      "https://www.wjx.cn/vm/O4hZNH1.aspx"
+    ]
+  },
+  {
+    "snapshot_id": "preferences:ccc9e9d5ed0d1eb82363d884",
+    "created_at": "2026-10-11T07:16:03.094Z",
+    "catalog_snapshot": "snapshot:8b40ec876db4824a25c4dac8",
+    "parent_id": "preferences:4147b9ed4c69c0fee2606c97",
+    "input_sha256": "ccc9e9d5ed0d1eb82363d88456b899d4c662a23021ce9fba461aecf3f0845be6",
+    "note": "初始建档：4份公开投票，14项来源审查；比例保留原精度，历史可比调查、收入及完成率待补充。",
+    "file": "ccc9e9d5ed0d1eb82363d884.json",
+    "change_count": 0,
+    "changes": [],
+    "source_urls": [
+      "https://www.taptap.cn/moment/700147148997528787",
+      "https://www.taptap.cn/moment/699902022945605493",
+      "https://www.taptap.cn/moment/698970646377400845",
+      "https://www.taptap.cn/moment/766621634256701289",
+      "https://www.taptap.cn/moment/731863866601898534",
+      "https://www.taptap.cn/moment/704349798681020221",
+      "https://gongeo.us/zh/global",
+      "https://www.reddit.com/r/InfinityNikki/comments/1kjhrxf/individual_pieces_droprate_from_700_players_pull/",
+      "https://tiermaker.com/categories/online-games/infinity-nikki-all-outfits-evolutions-glow-ups-110-1211609",
+      "https://www.bilibili.com/video/BV1YcPUzDEuS/",
+      "https://infinitynikki.nuanpaper.com/news/738",
+      "https://infinitynikki.infoldgames.com/zh-TW/news/122",
+      "https://www.weibo.com/7801655101/Qh0YZpuC2",
+      "https://www.wjx.cn/vm/O4hZNH1.aspx"
+    ]
+  },
+  {
+    "snapshot_id": "preferences:8ae8d2bf3267c2ecced89c12",
+    "created_at": "2026-10-11T16:34:50.573Z",
+    "catalog_snapshot": "snapshot:40476599ebb8f4049129085c",
+    "parent_id": "preferences:ccc9e9d5ed0d1eb82363d884",
+    "input_sha256": "8ae8d2bf3267c2ecced89c12d0c15a0302d40c21f7e85c080cf1dddfa762d4fa",
+    "note": "初始建档：4份公开投票，14项来源审查；比例保留原精度，历史可比调查、收入及完成率待补充。",
+    "file": "8ae8d2bf3267c2ecced89c12.json",
+    "change_count": 0,
+    "changes": [],
+    "source_urls": [
+      "https://www.taptap.cn/moment/700147148997528787",
+      "https://www.taptap.cn/moment/699902022945605493",
+      "https://www.taptap.cn/moment/698970646377400845",
+      "https://www.taptap.cn/moment/766621634256701289",
+      "https://www.taptap.cn/moment/731863866601898534",
+      "https://www.taptap.cn/moment/704349798681020221",
+      "https://gongeo.us/zh/global",
+      "https://www.reddit.com/r/InfinityNikki/comments/1kjhrxf/individual_pieces_droprate_from_700_players_pull/",
+      "https://tiermaker.com/categories/online-games/infinity-nikki-all-outfits-evolutions-glow-ups-110-1211609",
+      "https://www.bilibili.com/video/BV1YcPUzDEuS/",
+      "https://infinitynikki.nuanpaper.com/news/738",
+      "https://infinitynikki.infoldgames.com/zh-TW/news/122",
+      "https://www.weibo.com/7801655101/Qh0YZpuC2",
+      "https://www.wjx.cn/vm/O4hZNH1.aspx"
+    ]
+  },
+  {
+    "snapshot_id": "preferences:46ba9c9eb9459a541b4a65cc",
+    "created_at": "2026-10-12T16:00:47.783Z",
+    "catalog_snapshot": "snapshot:72a014ad58ef81240bd603df",
+    "parent_id": "preferences:8ae8d2bf3267c2ecced89c12",
+    "input_sha256": "46ba9c9eb9459a541b4a65cc1af3987c542c9cff603503a374773f3667af9888",
+    "note": "初始建档：4份公开投票，14项来源审查；比例保留原精度，历史可比调查、收入及完成率待补充。",
+    "file": "46ba9c9eb9459a541b4a65cc.json",
+    "change_count": 0,
+    "changes": [],
+    "source_urls": [
+      "https://www.taptap.cn/moment/700147148997528787",
+      "https://www.taptap.cn/moment/699902022945605493",
+      "https://www.taptap.cn/moment/698970646377400845",
+      "https://www.taptap.cn/moment/766621634256701289",
+      "https://www.taptap.cn/moment/731863866601898534",
+      "https://www.taptap.cn/moment/704349798681020221",
+      "https://gongeo.us/zh/global",
+      "https://www.reddit.com/r/InfinityNikki/comments/1kjhrxf/individual_pieces_droprate_from_700_players_pull/",
+      "https://tiermaker.com/categories/online-games/infinity-nikki-all-outfits-evolutions-glow-ups-110-1211609",
+      "https://www.bilibili.com/video/BV1YcPUzDEuS/",
+      "https://infinitynikki.nuanpaper.com/news/738",
+      "https://infinitynikki.infoldgames.com/zh-TW/news/122",
+      "https://www.weibo.com/7801655101/Qh0YZpuC2",
+      "https://www.wjx.cn/vm/O4hZNH1.aspx"
+    ]
+  }
+]

@@ -1,0 +1,333 @@
+[
+  {
+    "object_id": "o1036102",
+    "checked_at": "2026-10-11T15:44:21.051Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"翩月飞仙·别宴\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moonlit Immortal: Last Banquet\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"翩月飞仙·别宴\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Moonlit Immortal: Last Banquet\" evolution materials OR \"翩月飞仙·别宴\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Moonlit Immortal: Last Banquet | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Moonlit_Immortal%3A_Last_Banquet",
+        "evolution": "2 Moonlit Immortal\n\n1 Moonlit Immortal: Last Banquet",
+        "crafting": null
+      },
+      {
+        "title": "吴氏寻根汇总3",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404427970214232160",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1036202",
+    "checked_at": "2026-10-11T15:44:23.038Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"夜羯之歌·饮歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Night Capricorn Song: Melodic Gulp\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"夜羯之歌·饮歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Night Capricorn Song: Melodic Gulp\" evolution materials OR \"夜羯之歌·饮歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1036302",
+    "checked_at": "2026-10-11T15:44:24.851Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"裁佳期·翠岫\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Perfect Moment: Jade Peak\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"裁佳期·翠岫\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Perfect Moment: Jade Peak\" evolution materials OR \"裁佳期·翠岫\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1036402",
+    "checked_at": "2026-10-11T15:44:27.306Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"渡者无归·挚守\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Guide of No Return: Commitment\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"渡者无归·挚守\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Guide of No Return: Commitment\" evolution materials OR \"渡者无归·挚守\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Guide of No Return: Commitment | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Commitment",
+        "evolution": "Heartshine: Guide of No Return1 Heartshine: Guide of No Return\n\n1 Guide of No Return: Commitment",
+        "crafting": null
+      },
+      {
+        "title": "Guide of No Return: Fate | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Fate",
+        "evolution": "2 Guide of No Return\n\n1 Guide of No Return: Fate",
+        "crafting": null
+      },
+      {
+        "title": "Guide of No Return: Valediction | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Valediction",
+        "evolution": "Heartshine: Guide of No Return1 Heartshine: Guide of No Return\n\n1 Guide of No Return: Valediction",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1036403",
+    "checked_at": "2026-10-11T15:44:29.690Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"渡者无归·离劫\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Guide of No Return: Valediction\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"渡者无归·离劫\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Guide of No Return: Valediction\" evolution materials OR \"渡者无归·离劫\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Guide of No Return: Valediction | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Valediction",
+        "evolution": "Heartshine: Guide of No Return1 Heartshine: Guide of No Return\n\n1 Guide of No Return: Valediction",
+        "crafting": null
+      },
+      {
+        "title": "Guide of No Return: Commitment | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Commitment",
+        "evolution": "Heartshine: Guide of No Return1 Heartshine: Guide of No Return\n\n1 Guide of No Return: Commitment",
+        "crafting": null
+      },
+      {
+        "title": "Guide of No Return: Fate | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Fate",
+        "evolution": "2 Guide of No Return\n\n1 Guide of No Return: Fate",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1036404",
+    "checked_at": "2026-10-11T15:44:31.679Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"渡者无归·命途\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Guide of No Return: Fate\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"渡者无归·命途\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Guide of No Return: Fate\" evolution materials OR \"渡者无归·命途\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Guide of No Return: Fate | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Fate",
+        "evolution": "2 Guide of No Return\n\n1 Guide of No Return: Fate",
+        "crafting": null
+      },
+      {
+        "title": "Guide of No Return: Commitment | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Commitment",
+        "evolution": "Heartshine: Guide of No Return1 Heartshine: Guide of No Return\n\n1 Guide of No Return: Commitment",
+        "crafting": null
+      },
+      {
+        "title": "Guide of No Return: Valediction | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Valediction",
+        "evolution": "Heartshine: Guide of No Return1 Heartshine: Guide of No Return\n\n1 Guide of No Return: Valediction",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1036602",
+    "checked_at": "2026-10-11T15:44:33.573Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"白夜长旋舞·觉念\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"White Night's Ballet: Awakening\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"白夜长旋舞·觉念\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"White Night's Ballet: Awakening\" evolution materials OR \"白夜长旋舞·觉念\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1036603",
+    "checked_at": "2026-10-11T15:44:35.455Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"白夜长旋舞·暗涌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"White Night's Ballet: Undercurrent\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"白夜长旋舞·暗涌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"White Night's Ballet: Undercurrent\" evolution materials OR \"白夜长旋舞·暗涌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1036604",
+    "checked_at": "2026-10-11T15:44:37.400Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"白夜长旋舞·醒焰\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"White Night's Ballet: Flamewake\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"白夜长旋舞·醒焰\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"White Night's Ballet: Flamewake\" evolution materials OR \"白夜长旋舞·醒焰\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam Workshop::matebookxpro2024",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3336251801&l=malay",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1036802",
+    "checked_at": "2026-10-11T15:44:39.314Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"遥域千星·明熠\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Distant Stars: Brilliance\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"遥域千星·明熠\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Distant Stars: Brilliance\" evolution materials OR \"遥域千星·明熠\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Distant Stars: Brilliance | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Distant_Stars%3A_Brilliance",
+        "evolution": "Distant Stars2 Distant Stars\n\nDistant Stars: Brilliance1 Distant Stars: Brilliance",
+        "crafting": null
+      }
+    ]
+  }
+]

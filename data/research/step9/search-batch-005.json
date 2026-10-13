@@ -1,0 +1,352 @@
+[
+  {
+    "object_id": "o1010702",
+    "checked_at": "2026-10-11T15:36:43.041Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"梦泽流光·协曲\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dreamy Glimmer: Melody\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"梦泽流光·协曲\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dreamy Glimmer: Melody\" evolution materials OR \"梦泽流光·协曲\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Dreamy Glimmer: Melody | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dreamy_Glimmer%3A_Melody",
+        "evolution": "2 Dreamy Glimmer\n\n1 Dreamy Glimmer: Melody",
+        "crafting": null
+      },
+      {
+        "title": "《逆水寒》手游3.2.1版本（2025年10月）更新公告",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309405227533678805018",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "道教诸真宝诰",
+        "url": "https://weibo.com/ttarticle/p/show?id=2309404312447229014644",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1010902",
+    "checked_at": "2026-10-11T15:36:45.473Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如烬之歌·初光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Song of Embers: First Glow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如烬之歌·初光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Song of Embers: First Glow\" evolution materials OR \"如烬之歌·初光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Song of Embers: First Glow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Song_of_Embers%3A_First_Glow",
+        "evolution": "Song of Embers2 Song of Embers\n\nSong of Embers: First Glow1 Song of Embers: First Glow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1011302",
+    "checked_at": "2026-10-11T15:36:47.386Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"摇醒星与月·云歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Celestial Whispers: Cloud Serenade\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"摇醒星与月·云歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Celestial Whispers: Cloud Serenade\" evolution materials OR \"摇醒星与月·云歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1011402",
+    "checked_at": "2026-10-11T15:36:49.492Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花舞绵绵·雪绒\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pastoral Dance: Snow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花舞绵绵·雪绒\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Pastoral Dance: Snow\" evolution materials OR \"花舞绵绵·雪绒\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "5月27日更新后，游戏内新增活动如下。",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405169807422259295",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1011702",
+    "checked_at": "2026-10-11T15:36:51.325Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"缀夜希光·灼焰\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Stardust Flare: Blaze\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"缀夜希光·灼焰\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Stardust Flare: Blaze\" evolution materials OR \"缀夜希光·灼焰\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Stardust Flare: Blaze | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Blaze",
+        "evolution": "1 Heartshine: Stardust Flare\n\n1 Stardust Flare: Blaze",
+        "crafting": null
+      },
+      {
+        "title": "Stardust Flare: Golden | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Golden",
+        "evolution": "1 Heartshine: Stardust Flare\n\n1 Stardust Flare: Golden",
+        "crafting": null
+      },
+      {
+        "title": "Stardust Flare: Eternal | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Eternal",
+        "evolution": "2 Stardust Flare\n\n1 Stardust Flare: Eternal",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1011703",
+    "checked_at": "2026-10-11T15:36:53.827Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"缀夜希光·迷金\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Stardust Flare: Golden\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"缀夜希光·迷金\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Stardust Flare: Golden\" evolution materials OR \"缀夜希光·迷金\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Stardust Flare: Golden | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Golden",
+        "evolution": "1 Heartshine: Stardust Flare\n\n1 Stardust Flare: Golden",
+        "crafting": null
+      },
+      {
+        "title": "Stardust Flare: Blaze | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Blaze",
+        "evolution": "1 Heartshine: Stardust Flare\n\n1 Stardust Flare: Blaze",
+        "crafting": null
+      },
+      {
+        "title": "Stardust Flare: Eternal | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Eternal",
+        "evolution": "2 Stardust Flare\n\n1 Stardust Flare: Eternal",
+        "crafting": null
+      },
+      {
+        "title": "燕云十六声官方-百度贴吧",
+        "url": "https://tieba.baidu.com/home/main?fr=home&id=tb.1.2f63f933.HPIbpU1m7JEs4Vo8aTK8vw",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1011704",
+    "checked_at": "2026-10-11T15:36:55.379Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"缀夜希光·长燃\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Stardust Flare: Eternal\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"缀夜希光·长燃\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Stardust Flare: Eternal\" evolution materials OR \"缀夜希光·长燃\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Stardust Flare: Eternal | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Eternal",
+        "evolution": "2 Stardust Flare\n\n1 Stardust Flare: Eternal",
+        "crafting": null
+      },
+      {
+        "title": "Stardust Flare: Golden | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Golden",
+        "evolution": "1 Heartshine: Stardust Flare\n\n1 Stardust Flare: Golden",
+        "crafting": null
+      },
+      {
+        "title": "Stardust Flare: Blaze | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Blaze",
+        "evolution": "1 Heartshine: Stardust Flare\n\n1 Stardust Flare: Blaze",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012302",
+    "checked_at": "2026-10-11T15:36:58.024Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"宴梦奇缘·新生\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dream Banquet: Rebirth\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"宴梦奇缘·新生\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dream Banquet: Rebirth\" evolution materials OR \"宴梦奇缘·新生\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: HonkaiImpact 3rd",
+        "url": "https://steamcommunity.com/app/1671200/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012602",
+    "checked_at": "2026-10-11T15:37:00.296Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蝶屿风袭·焰之歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flutter Storm: Fire Song\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蝶屿风袭·焰之歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Flutter Storm: Fire Song\" evolution materials OR \"蝶屿风袭·焰之歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1012603",
+    "checked_at": "2026-10-11T15:37:02.116Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"蝶屿风袭·森海声\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flutter Storm: Forest Song\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"蝶屿风袭·森海声\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Flutter Storm: Forest Song\" evolution materials OR \"蝶屿风袭·森海声\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  }
+]

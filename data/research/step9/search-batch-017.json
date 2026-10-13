@@ -1,0 +1,425 @@
+[
+  {
+    "object_id": "o1028802",
+    "checked_at": "2026-10-11T15:41:34.342Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"烬蝶终歌·凛夜\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Ashen Butterfly Hymn: Frost Night\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"烬蝶终歌·凛夜\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Ashen Butterfly Hymn: Frost Night\" evolution materials OR \"烬蝶终歌·凛夜\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 漫威争锋",
+        "url": "https://steamcommunity.com/app/2767030/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Майстерня Steam::自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3676979195&l=ukrainian",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::鬼谷自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930745741&l=german",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Community :: Inori_Shiranui",
+        "url": "https://steamcommunity.com/id/334770829",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 工作坊::001",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2617797804&l=tchinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::wallpaper",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3494056667&l=finnish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-værksted::壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3286844693&l=danish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 创意工坊::钢丝",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2915241615&l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1028902",
+    "checked_at": "2026-10-11T15:41:35.825Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"无名亦无我·碧空\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Nameless, Selfless: Azure Sky\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"无名亦无我·碧空\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Nameless, Selfless: Azure Sky\" evolution materials OR \"无名亦无我·碧空\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Nameless, Selfless: Azure Sky | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Azure_Sky",
+        "evolution": "1 Heartshine: Nameless, Selfless\n\n1 Nameless, Selfless: Azure Sky",
+        "crafting": null
+      },
+      {
+        "title": "Nameless, Selfless: Long Night | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Long_Night",
+        "evolution": "1 Heartshine: Nameless, Selfless\n\n1 Nameless, Selfless: Long Night",
+        "crafting": null
+      },
+      {
+        "title": "Nameless, Selfless: Returning Soul | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Returning_Soul",
+        "evolution": "2 Nameless, Selfless\n\n1 Nameless, Selfless: Returning Soul",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1028903",
+    "checked_at": "2026-10-11T15:41:38.224Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"无名亦无我·长夜\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Nameless, Selfless: Long Night\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"无名亦无我·长夜\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Nameless, Selfless: Long Night\" evolution materials OR \"无名亦无我·长夜\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Nameless, Selfless: Long Night | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Long_Night",
+        "evolution": "1 Heartshine: Nameless, Selfless\n\n1 Nameless, Selfless: Long Night",
+        "crafting": null
+      },
+      {
+        "title": "Nameless, Selfless: Returning Soul | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Returning_Soul",
+        "evolution": "2 Nameless, Selfless\n\n1 Nameless, Selfless: Returning Soul",
+        "crafting": null
+      },
+      {
+        "title": "Nameless, Selfless: Azure Sky | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Azure_Sky",
+        "evolution": "1 Heartshine: Nameless, Selfless\n\n1 Nameless, Selfless: Azure Sky",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1028904",
+    "checked_at": "2026-10-11T15:41:40.134Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"无名亦无我·归魂\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Nameless, Selfless: Returning Soul\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"无名亦无我·归魂\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Nameless, Selfless: Returning Soul\" evolution materials OR \"无名亦无我·归魂\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Nameless, Selfless: Returning Soul | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Returning_Soul",
+        "evolution": "2 Nameless, Selfless\n\n1 Nameless, Selfless: Returning Soul",
+        "crafting": null
+      },
+      {
+        "title": "Nameless, Selfless: Long Night | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Long_Night",
+        "evolution": "1 Heartshine: Nameless, Selfless\n\n1 Nameless, Selfless: Long Night",
+        "crafting": null
+      },
+      {
+        "title": "Nameless, Selfless: Azure Sky | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Azure_Sky",
+        "evolution": "1 Heartshine: Nameless, Selfless\n\n1 Nameless, Selfless: Azure Sky",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029002",
+    "checked_at": "2026-10-11T15:41:41.904Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"栖骨生花·翡梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Floral Rebirth: Emerald Reverie\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"栖骨生花·翡梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Floral Rebirth: Emerald Reverie\" evolution materials OR \"栖骨生花·翡梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Floral Rebirth: Emerald Reverie | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Emerald_Reverie",
+        "evolution": "Heartshine: Floral Rebirth1 Heartshine: Floral Rebirth\n\n1 Floral Rebirth: Emerald Reverie",
+        "crafting": null
+      },
+      {
+        "title": "Floral Rebirth: Awakening Hymn | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Awakening_Hymn",
+        "evolution": "Heartshine: Floral Rebirth1 Heartshine: Floral Rebirth\n\n1 Floral Rebirth: Awakening Hymn",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029003",
+    "checked_at": "2026-10-11T15:41:43.435Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"栖骨生花·昼歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Floral Rebirth: Awakening Hymn\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"栖骨生花·昼歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Floral Rebirth: Awakening Hymn\" evolution materials OR \"栖骨生花·昼歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Floral Rebirth: Awakening Hymn | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Awakening_Hymn",
+        "evolution": "Heartshine: Floral Rebirth1 Heartshine: Floral Rebirth\n\n1 Floral Rebirth: Awakening Hymn",
+        "crafting": null
+      },
+      {
+        "title": "Floral Rebirth: Emerald Reverie | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Emerald_Reverie",
+        "evolution": "Heartshine: Floral Rebirth1 Heartshine: Floral Rebirth\n\n1 Floral Rebirth: Emerald Reverie",
+        "crafting": null
+      },
+      {
+        "title": "Floral Rebirth: Final Vow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Final_Vow",
+        "evolution": "Floral Rebirth2 Floral Rebirth\n\nFloral Rebirth: Final Vow1 Floral Rebirth: Final Vow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029004",
+    "checked_at": "2026-10-11T15:41:45.418Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"栖骨生花·终誓\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Floral Rebirth: Final Vow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"栖骨生花·终誓\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Floral Rebirth: Final Vow\" evolution materials OR \"栖骨生花·终誓\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Floral Rebirth: Final Vow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Final_Vow",
+        "evolution": "Floral Rebirth2 Floral Rebirth\n\nFloral Rebirth: Final Vow1 Floral Rebirth: Final Vow",
+        "crafting": null
+      },
+      {
+        "title": "Floral Rebirth: Emerald Reverie | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Emerald_Reverie",
+        "evolution": "Heartshine: Floral Rebirth1 Heartshine: Floral Rebirth\n\n1 Floral Rebirth: Emerald Reverie",
+        "crafting": null
+      },
+      {
+        "title": "Floral Rebirth: Awakening Hymn | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Awakening_Hymn",
+        "evolution": "Heartshine: Floral Rebirth1 Heartshine: Floral Rebirth\n\n1 Floral Rebirth: Awakening Hymn",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029202",
+    "checked_at": "2026-10-11T15:41:47.490Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"沙野之息·遥径\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pulse of the Desert: Expanse\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"沙野之息·遥径\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Pulse of the Desert: Expanse\" evolution materials OR \"沙野之息·遥径\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1029302",
+    "checked_at": "2026-10-11T15:41:49.527Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"森之涟·氤霞\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forest Ripple: Mistlit\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"森之涟·氤霞\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forest Ripple: Mistlit\" evolution materials OR \"森之涟·氤霞\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forest Ripple: Roaming | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forest_Ripple%3A_Roaming",
+        "evolution": "2 Heartshine: Forest Ripple\n\n1 Forest Ripple: Roaming",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1029303",
+    "checked_at": "2026-10-11T15:41:51.428Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"森之涟·游林\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forest Ripple: Roaming\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"森之涟·游林\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forest Ripple: Roaming\" evolution materials OR \"森之涟·游林\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forest Ripple: Roaming | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forest_Ripple%3A_Roaming",
+        "evolution": "2 Heartshine: Forest Ripple\n\n1 Forest Ripple: Roaming",
+        "crafting": null
+      }
+    ]
+  }
+]

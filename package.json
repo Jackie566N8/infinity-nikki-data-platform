@@ -1,0 +1,33 @@
+{
+  "name": "infinity-nikki-data-platform",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A provenance-aware game data portfolio: relational data quality, wardrobe and material analytics, evaluated hybrid retrieval and explainable recommendations.",
+  "license": "MIT",
+  "engines": {
+    "node": ">=24.0.0"
+  },
+  "scripts": {
+    "start": "node scripts/serve.mjs",
+    "build": "node scripts/build.mjs",
+    "check": "node scripts/check.mjs",
+    "test": "node scripts/test.mjs",
+    "analyze": "node scripts/analyze.mjs",
+    "test:research": "node scripts/python.mjs analysis/test_research.py",
+    "verify": "npm run check && npm test && npm run test:research",
+    "format": "node scripts/format.mjs",
+    "test:browser": "node scripts/browser-qa.mjs --source-only",
+    "reproduce:search": "node scripts/reproduce-search.mjs",
+    "build:standalone": "node scripts/standalone.mjs",
+    "review:templates": "node scripts/update-review-assets.mjs",
+    "review:50": "node scripts/prepare-review-50.mjs",
+    "test:step10": "node scripts/test-step10.mjs",
+    "test:pages": "node scripts/step10-browser.mjs",
+    "evaluate:human": "node scripts/evaluate-step12.mjs",
+    "test:human": "node scripts/test-step12.mjs",
+    "test:release": "node scripts/python.mjs analysis/test_final_package.py"
+  },
+  "devDependencies": {
+    "prettier": "3.9.10"
+  }
+}

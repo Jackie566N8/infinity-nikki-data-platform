@@ -1,0 +1,3381 @@
+[
+  {
+    "object_id": "o1000102",
+    "name": "绽响黎明前·小夜灯",
+    "source_title": "Dance Till Dawn: Nightlight | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Nightlight",
+    "retrieved_at": "2026-10-11T16:09:12.401Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-dance-till-dawn",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Dance Till Dawn"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1000103",
+    "name": "绽响黎明前·小石船",
+    "source_title": "Dance Till Dawn: Boat | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Boat",
+    "retrieved_at": "2026-10-11T16:09:12.404Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-dance-till-dawn",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Dance Till Dawn"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1000104",
+    "name": "绽响黎明前·小礼花",
+    "source_title": "Dance Till Dawn: Fireworks | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Dance_Till_Dawn%3A_Fireworks",
+    "retrieved_at": "2026-10-11T16:09:12.405Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10001",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1001102",
+    "name": "深林遥梦·暮歌",
+    "source_title": "Deepwood Dream: Twilight Song | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Deepwood_Dream%3A_Twilight_Song",
+    "retrieved_at": "2026-10-11T16:09:12.406Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "methereal-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Ethereal Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10011",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1003302",
+    "name": "天鹅童话·入梦",
+    "source_title": "Fairytale Swan: Dream | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Dream",
+    "retrieved_at": "2026-10-11T16:09:12.407Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1003303",
+    "name": "天鹅童话·谜焰",
+    "source_title": "Fairytale Swan: Mystfire | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Mystfire",
+    "retrieved_at": "2026-10-11T16:09:12.409Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1003304",
+    "name": "天鹅童话·真谛",
+    "source_title": "Fairytale Swan: Truth | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Fairytale_Swan%3A_Truth",
+    "retrieved_at": "2026-10-11T16:09:12.410Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10033",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1004902",
+    "name": "森息浮光·暮颂",
+    "source_title": "Glimmering Forest: Twilight Hymn | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Glimmering_Forest%3A_Twilight_Hymn",
+    "retrieved_at": "2026-10-11T16:09:12.412Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10049",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1005902",
+    "name": "幽鳞渡梦生·寒渊",
+    "source_title": "Scaly Dream: Icy Depths | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Scaly_Dream%3A_Icy_Depths",
+    "retrieved_at": "2026-10-11T16:09:12.418Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10059",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1006202",
+    "name": "心愿金蔷薇·绽放",
+    "source_title": "Wishful Aurosa: Blooming | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Blooming",
+    "retrieved_at": "2026-10-11T16:09:12.419Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-wishful-aurosa",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Wishful Aurosa"
+      },
+      {
+        "material_id": "mheartfelt-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Heartfelt Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10062",
+        "quantity": 1,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1006203",
+    "name": "心愿金蔷薇·迟明",
+    "source_title": "Wishful Aurosa: Daybreak | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Daybreak",
+    "retrieved_at": "2026-10-11T16:09:12.419Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-wishful-aurosa",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Wishful Aurosa"
+      },
+      {
+        "material_id": "mheartfelt-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Heartfelt Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1006204",
+    "name": "心愿金蔷薇·暗蚀",
+    "source_title": "Wishful Aurosa: Shadow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Wishful_Aurosa%3A_Shadow",
+    "retrieved_at": "2026-10-11T16:09:12.421Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartfelt-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Heartfelt Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10062",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1006702",
+    "name": "绿韵心弦·织音",
+    "source_title": "Verdant Chord: Woven Melody | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Verdant_Chord%3A_Woven_Melody",
+    "retrieved_at": "2026-10-11T16:09:12.422Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10067",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1009302",
+    "name": "群星绽放时·坠梦",
+    "source_title": "Blossoming Stars: Dreamfall | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Dreamfall",
+    "retrieved_at": "2026-10-11T16:09:12.428Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1009303",
+    "name": "群星绽放时·星影",
+    "source_title": "Blossoming Stars: Starlight | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Starlight",
+    "retrieved_at": "2026-10-11T16:09:12.429Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1009304",
+    "name": "群星绽放时·璀璨",
+    "source_title": "Blossoming Stars: Radiance | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blossoming_Stars%3A_Radiance",
+    "retrieved_at": "2026-10-11T16:09:12.430Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10093",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1009502",
+    "name": "心湖涟漪·初虹",
+    "source_title": "Heartlake Ripples: Rainbow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Heartlake_Ripples%3A_Rainbow",
+    "retrieved_at": "2026-10-11T16:09:12.432Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mstarry-thoughts",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Starry Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10095",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1009602",
+    "name": "仲夜守望·启程",
+    "source_title": "Midnight Vigil: Embark | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Midnight_Vigil%3A_Embark",
+    "retrieved_at": "2026-10-11T16:09:12.433Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10096",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1009702",
+    "name": "恒久羁绊·回忆",
+    "source_title": "Enduring Bond: Memories | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Enduring_Bond%3A_Memories",
+    "retrieved_at": "2026-10-11T16:09:12.434Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10097",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1010702",
+    "name": "梦泽流光·协曲",
+    "source_title": "Dreamy Glimmer: Melody | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Dreamy_Glimmer%3A_Melody",
+    "retrieved_at": "2026-10-11T16:09:12.438Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10107",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1010902",
+    "name": "如烬之歌·初光",
+    "source_title": "Song of Embers: First Glow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Song_of_Embers%3A_First_Glow",
+    "retrieved_at": "2026-10-11T16:09:12.442Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10109",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1011702",
+    "name": "缀夜希光·灼焰",
+    "source_title": "Stardust Flare: Blaze | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Blaze",
+    "retrieved_at": "2026-10-11T16:09:12.445Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-stardust-flare",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Stardust Flare"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1011703",
+    "name": "缀夜希光·迷金",
+    "source_title": "Stardust Flare: Golden | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Golden",
+    "retrieved_at": "2026-10-11T16:09:12.446Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-stardust-flare",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Stardust Flare"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1011704",
+    "name": "缀夜希光·长燃",
+    "source_title": "Stardust Flare: Eternal | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Stardust_Flare%3A_Eternal",
+    "retrieved_at": "2026-10-11T16:09:12.446Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10117",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1012802",
+    "name": "咏叹银夜莺·化歌",
+    "source_title": "Silvergale's Aria: Melody | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Silvergale%27s_Aria%3A_Melody",
+    "retrieved_at": "2026-10-11T16:09:12.450Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-silvergale-s-aria",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Silvergale's Aria"
+      },
+      {
+        "material_id": "mheartfelt-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Heartfelt Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10128",
+        "quantity": 1,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1012903",
+    "name": "翩翩愿飞去·昔影",
+    "source_title": "Wings of Wishes: Past | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Wings_of_Wishes%3A_Past",
+    "retrieved_at": "2026-10-11T16:09:12.453Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-wings-of-wishes",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Wings of Wishes"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1014502",
+    "name": "谕浪希声·脉语",
+    "source_title": "Whispers of Waves: Echoes | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Echoes",
+    "retrieved_at": "2026-10-11T16:09:12.459Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1014503",
+    "name": "谕浪希声·森迹",
+    "source_title": "Whispers of Waves: Forest | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Forest",
+    "retrieved_at": "2026-10-11T16:09:12.460Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1014504",
+    "name": "谕浪希声·幽厄",
+    "source_title": "Whispers of Waves: Phantom | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Waves%3A_Phantom",
+    "retrieved_at": "2026-10-11T16:09:12.461Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10145",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1014602",
+    "name": "女王的游戏·争锋",
+    "source_title": "The Queen's Move: Endgame | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/The_Queen%27s_Move%3A_Endgame",
+    "retrieved_at": "2026-10-11T16:09:12.461Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10146",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1015402",
+    "name": "仙踪绮遇·雪旅",
+    "source_title": "Enchanted Encounter: Snowcrest | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Snowcrest",
+    "retrieved_at": "2026-10-11T16:09:12.463Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-enchanted-encounter",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Enchanted Encounter"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1015403",
+    "name": "仙踪绮遇·明光",
+    "source_title": "Enchanted Encounter: Gleam | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Gleam",
+    "retrieved_at": "2026-10-11T16:09:12.464Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-enchanted-encounter",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Enchanted Encounter"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1015404",
+    "name": "仙踪绮遇·心迹",
+    "source_title": "Enchanted Encounter: Dreamtrail | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Enchanted_Encounter%3A_Dreamtrail",
+    "retrieved_at": "2026-10-11T16:09:12.464Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10154",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016002",
+    "name": "淑雅格调·林影",
+    "source_title": "Graceful Elegance: Forest Silhouettes | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Graceful_Elegance%3A_Forest_Silhouettes",
+    "retrieved_at": "2026-10-11T16:09:12.465Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10160",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016102",
+    "name": "花漾梦萦·暗潮",
+    "source_title": "Blooming Dreams: Tides | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Tides",
+    "retrieved_at": "2026-10-11T16:09:12.466Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-blooming-dreams",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Blooming Dreams"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016103",
+    "name": "花漾梦萦·萤光",
+    "source_title": "Blooming Dreams: Glow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Glow",
+    "retrieved_at": "2026-10-11T16:09:12.467Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-blooming-dreams",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Blooming Dreams"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016104",
+    "name": "花漾梦萦·浴火",
+    "source_title": "Blooming Dreams: Phoenix | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Phoenix",
+    "retrieved_at": "2026-10-11T16:09:12.468Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10161",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016202",
+    "name": "雪境长歌·危火",
+    "source_title": "Snowy Ballad: Flame | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Flame",
+    "retrieved_at": "2026-10-11T16:09:12.468Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-snowy-ballad",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Snowy Ballad"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016203",
+    "name": "雪境长歌·心誓",
+    "source_title": "Snowy Ballad: Oath | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Oath",
+    "retrieved_at": "2026-10-11T16:09:12.469Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-snowy-ballad",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Snowy Ballad"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016204",
+    "name": "雪境长歌·离歌",
+    "source_title": "Snowy Ballad: Farewell | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Farewell",
+    "retrieved_at": "2026-10-11T16:09:12.470Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10162",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016402",
+    "name": "笔尖漾奇彩·绘梦",
+    "source_title": "Flowing Colors: Dreamy | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Flowing_Colors%3A_Dreamy",
+    "retrieved_at": "2026-10-11T16:09:12.471Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10164",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016502",
+    "name": "晶莹诗集·寒夜雪",
+    "source_title": "Crystal Poems: Snow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Snow",
+    "retrieved_at": "2026-10-11T16:09:12.473Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016503",
+    "name": "晶莹诗集·春日境",
+    "source_title": "Crystal Poems: Spring | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Spring",
+    "retrieved_at": "2026-10-11T16:09:12.475Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016504",
+    "name": "晶莹诗集·炽日晖",
+    "source_title": "Crystal Poems: Blazing | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Blazing",
+    "retrieved_at": "2026-10-11T16:09:12.475Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10165",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1016602",
+    "name": "流星绚烂时·星火",
+    "source_title": "Starfall Radiance: Starfire | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Starfall_Radiance%3A_Starfire",
+    "retrieved_at": "2026-10-11T16:09:12.476Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10166",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1017302",
+    "name": "一念生芳·映月",
+    "source_title": "Thought in Bloom: Moonlit Veil | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Thought_in_Bloom%3A_Moonlit_Veil",
+    "retrieved_at": "2026-10-11T16:09:12.478Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10173",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1017802",
+    "name": "炽羽不渝·落羽",
+    "source_title": "Crimson Feather: Ember | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Ember",
+    "retrieved_at": "2026-10-11T16:09:12.481Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-crimson-feather",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Crimson Feather"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1017803",
+    "name": "炽羽不渝·焚风",
+    "source_title": "Crimson Feather: Blaze | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Blaze",
+    "retrieved_at": "2026-10-11T16:09:12.482Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-crimson-feather",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Crimson Feather"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1017804",
+    "name": "炽羽不渝·涅槃",
+    "source_title": "Crimson Feather: Rebirth | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crimson_Feather%3A_Rebirth",
+    "retrieved_at": "2026-10-11T16:09:12.483Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10178",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1017902",
+    "name": "粉缎带圆舞曲·变奏",
+    "source_title": "Pink Ribbon Waltz: Variation | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Ribbon_Waltz%3A_Variation",
+    "retrieved_at": "2026-10-11T16:09:12.484Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10179",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1018102",
+    "name": "湖的女儿·落星",
+    "source_title": "Daughter of the Lake: Star | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Daughter_of_the_Lake%3A_Star",
+    "retrieved_at": "2026-10-11T16:09:12.485Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10181",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1018202",
+    "name": "帷幕与星色·萦",
+    "source_title": "Curtains & Stars: Linger | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Curtains_%26_Stars%3A_Linger",
+    "retrieved_at": "2026-10-11T16:09:12.485Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10182",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1018302",
+    "name": "古典乐章·交响曲",
+    "source_title": "Timeless Melody: Symphony | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Symphony",
+    "retrieved_at": "2026-10-11T16:09:12.486Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-timeless-melody",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Timeless Melody"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1018303",
+    "name": "古典乐章·变奏曲",
+    "source_title": "Timeless Melody: Variations | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Variations",
+    "retrieved_at": "2026-10-11T16:09:12.487Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-timeless-melody",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Timeless Melody"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1018304",
+    "name": "古典乐章·狂想曲",
+    "source_title": "Timeless Melody: Rhapsody | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Timeless_Melody%3A_Rhapsody",
+    "retrieved_at": "2026-10-11T16:09:12.488Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10183",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1019702",
+    "name": "雾影飘灵·拂晓",
+    "source_title": "Spectral Mist: Dawn | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Spectral_Mist%3A_Dawn",
+    "retrieved_at": "2026-10-11T16:09:12.491Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10197",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1020102",
+    "name": "朝岁贺禧·芳野",
+    "source_title": "New Bloom Blessings: Meadow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/New_Bloom_Blessings%3A_Meadow",
+    "retrieved_at": "2026-10-11T16:09:12.493Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10201",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1020302",
+    "name": "璨耀夜庭·森语",
+    "source_title": "Radiant Night: Forest | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Radiant_Night%3A_Forest",
+    "retrieved_at": "2026-10-11T16:09:12.493Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10203",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1020602",
+    "name": "沁誓长青·盟契",
+    "source_title": "Evergreen Vow: Covenant | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Evergreen_Vow%3A_Covenant",
+    "retrieved_at": "2026-10-11T16:09:12.496Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10206",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1021302",
+    "name": "焰光灼灼·奇妙夜",
+    "source_title": "Fiery Glow: Wonder | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Fiery_Glow%3A_Wonder",
+    "retrieved_at": "2026-10-11T16:09:12.499Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mglowing-thoughts",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Glowing Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10213",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1021502",
+    "name": "流光灵契·幻华",
+    "source_title": "Luster Covenant: Phantasm | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Luster_Covenant%3A_Phantasm",
+    "retrieved_at": "2026-10-11T16:09:12.500Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "methereal-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Ethereal Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10215",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1021702",
+    "name": "深林之心·新月",
+    "source_title": "Heart of the Deep Forest: Crescent Moon | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Heart_of_the_Deep_Forest%3A_Crescent_Moon",
+    "retrieved_at": "2026-10-11T16:09:12.502Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10217",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1021802",
+    "name": "折枝花锦·旧闻",
+    "source_title": "Blooming Brocade: Old Tales | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Blooming_Brocade%3A_Old_Tales",
+    "retrieved_at": "2026-10-11T16:09:12.503Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10218",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1022302",
+    "name": "绯夜狂想录·妄念",
+    "source_title": "Crimson Rhapsody: Delusion | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Delusion",
+    "retrieved_at": "2026-10-11T16:09:12.506Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-crimson-rhapsody",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Crimson Rhapsody"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1022303",
+    "name": "绯夜狂想录·叶札",
+    "source_title": "Crimson Rhapsody: Leafy | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Leafy",
+    "retrieved_at": "2026-10-11T16:09:12.507Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-crimson-rhapsody",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Crimson Rhapsody"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1022304",
+    "name": "绯夜狂想录·昔梦",
+    "source_title": "Crimson Rhapsody: Past Dreams | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Crimson_Rhapsody%3A_Past_Dreams",
+    "retrieved_at": "2026-10-11T16:09:12.508Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10223",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1022602",
+    "name": "剪裁艺术·赤剪",
+    "source_title": "Art of Tailoring: Scarlet | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Art_of_Tailoring%3A_Scarlet",
+    "retrieved_at": "2026-10-11T16:09:12.510Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10226",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1022702",
+    "name": "心享芳语·蜜意",
+    "source_title": "Whispers of Bliss: Sweetness | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Whispers_of_Bliss%3A_Sweetness",
+    "retrieved_at": "2026-10-11T16:09:12.511Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10227",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1022802",
+    "name": "绿野轻歌·惜别",
+    "source_title": "Verdant Melodies: Farewell | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Verdant_Melodies%3A_Farewell",
+    "retrieved_at": "2026-10-11T16:09:12.512Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10228",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023102",
+    "name": "落入泪之潮·挽歌",
+    "source_title": "Tide of Tears: Lament | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Lament",
+    "retrieved_at": "2026-10-11T16:09:12.513Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-tide-of-tears",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Tide of Tears"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023103",
+    "name": "落入泪之潮·落鳞",
+    "source_title": "Tide of Tears: Scales | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Scales",
+    "retrieved_at": "2026-10-11T16:09:12.514Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-tide-of-tears",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Tide of Tears"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023104",
+    "name": "落入泪之潮·冰雪",
+    "source_title": "Tide of Tears: Snow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Tide_of_Tears%3A_Snow",
+    "retrieved_at": "2026-10-11T16:09:12.514Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10231",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023202",
+    "name": "漫夜灯语·微光",
+    "source_title": "Nightlight Whispers: Shimmer | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Nightlight_Whispers%3A_Shimmer",
+    "retrieved_at": "2026-10-11T16:09:12.515Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10232",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023402",
+    "name": "林深栖羽·遗烬",
+    "source_title": "Woodland Nesting: Ashes | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Woodland_Nesting%3A_Ashes",
+    "retrieved_at": "2026-10-11T16:09:12.516Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10234",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023902",
+    "name": "咏叙的旧梦·未来声",
+    "source_title": "Echoed Dreams: Future Tone | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Future_Tone",
+    "retrieved_at": "2026-10-11T16:09:12.519Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-echoed-dreams",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Echoed Dreams"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1023903",
+    "name": "咏叙的旧梦·偶人歌",
+    "source_title": "Echoed Dreams: Threaded Melody | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Echoed_Dreams%3A_Threaded_Melody",
+    "retrieved_at": "2026-10-11T16:09:12.520Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-echoed-dreams",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Echoed Dreams"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1024102",
+    "name": "白日溯梦·荒言",
+    "source_title": "Rewound Daydream: Absurdity | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Rewound_Daydream%3A_Absurdity",
+    "retrieved_at": "2026-10-11T16:09:12.522Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10241",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1024902",
+    "name": "真意无形 ·铭心",
+    "source_title": "Formless Truth: Heartbound | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Formless_Truth%3A_Heartbound",
+    "retrieved_at": "2026-10-11T16:09:12.525Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10249",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1025002",
+    "name": "如雨坠，如花开·告别",
+    "source_title": "Rainfall & Blossoms: Farewell | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Farewell",
+    "retrieved_at": "2026-10-11T16:09:12.526Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-rainfall-and-blossoms",
+        "quantity": 2,
+        "unit": "count",
+        "english_name": "Heartshine: Rainfall & Blossoms"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1025003",
+    "name": "如雨坠，如花开·等候",
+    "source_title": "Rainfall & Blossoms: Anticipation | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Anticipation",
+    "retrieved_at": "2026-10-11T16:09:12.527Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-rainfall-and-blossoms",
+        "quantity": 2,
+        "unit": "count",
+        "english_name": "Heartshine: Rainfall & Blossoms"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1025004",
+    "name": "如雨坠，如花开· 怒放",
+    "source_title": "Rainfall & Blossoms: Flourish | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Rainfall_%26_Blossoms%3A_Flourish",
+    "retrieved_at": "2026-10-11T16:09:12.528Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10250",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1025802",
+    "name": "旧庭的花愿·蔓生",
+    "source_title": "Courtyard Flowers: Growth | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Courtyard_Flowers%3A_Growth",
+    "retrieved_at": "2026-10-11T16:09:12.531Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10258",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1025902",
+    "name": "应援的心跳·音浪",
+    "source_title": "Cheering Heartbeat: Soundwave | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Cheering_Heartbeat%3A_Soundwave",
+    "retrieved_at": "2026-10-11T16:09:12.532Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10259",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026302",
+    "name": "谒灵·赤枷",
+    "source_title": "Providence Immemorial: Shackles | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Shackles",
+    "retrieved_at": "2026-10-11T16:09:12.534Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-providence-immemorial",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Providence Immemorial"
+      },
+      {
+        "material_id": "mtranquil-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Tranquil Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10263",
+        "quantity": 1,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026303",
+    "name": "谒灵·溟逝",
+    "source_title": "Providence Immemorial: Finality | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Finality",
+    "retrieved_at": "2026-10-11T16:09:12.535Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-providence-immemorial",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Providence Immemorial"
+      },
+      {
+        "material_id": "mtranquil-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Tranquil Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10263",
+        "quantity": 1,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026304",
+    "name": "谒灵·轮复",
+    "source_title": "Providence Immemorial: Cycle | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Providence_Immemorial%3A_Cycle",
+    "retrieved_at": "2026-10-11T16:09:12.536Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mtranquil-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Tranquil Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10263",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026402",
+    "name": "花泉奇境·梦呓",
+    "source_title": "Springbloom Enchantment: Dreamwhisper | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Springbloom_Enchantment%3A_Dreamwhisper",
+    "retrieved_at": "2026-10-11T16:09:12.537Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "miridescent-thoughts",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Iridescent Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10264",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026502",
+    "name": "眠于花畔·盎然",
+    "source_title": "Slumber by Blossoms: Flourishing | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Flourishing",
+    "retrieved_at": "2026-10-11T16:09:12.538Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100042",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Slumber by Blossoms"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026503",
+    "name": "眠于花畔·潮音",
+    "source_title": "Slumber by Blossoms: Tidecall | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Tidecall",
+    "retrieved_at": "2026-10-11T16:09:12.538Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100042",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Slumber by Blossoms"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026802",
+    "name": "她是不驯火·森林",
+    "source_title": "She Is Wildfire: Forest | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Forest",
+    "retrieved_at": "2026-10-11T16:09:12.540Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100036",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: She Is Wildfire"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026803",
+    "name": "她是不驯火·残月",
+    "source_title": "She Is Wildfire: Waning Moon | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Waning_Moon",
+    "retrieved_at": "2026-10-11T16:09:12.541Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100036",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: She Is Wildfire"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1026804",
+    "name": "她是不驯火·周游",
+    "source_title": "She Is Wildfire: Journey | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Journey",
+    "retrieved_at": "2026-10-11T16:09:12.542Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10268",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1028902",
+    "name": "无名亦无我·碧空",
+    "source_title": "Nameless, Selfless: Azure Sky | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Azure_Sky",
+    "retrieved_at": "2026-10-11T16:09:12.546Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-nameless-selfless",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Nameless, Selfless"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1028903",
+    "name": "无名亦无我·长夜",
+    "source_title": "Nameless, Selfless: Long Night | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Long_Night",
+    "retrieved_at": "2026-10-11T16:09:12.547Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-nameless-selfless",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Nameless, Selfless"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1028904",
+    "name": "无名亦无我·归魂",
+    "source_title": "Nameless, Selfless: Returning Soul | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Nameless%2C_Selfless%3A_Returning_Soul",
+    "retrieved_at": "2026-10-11T16:09:12.548Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10289",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1029002",
+    "name": "栖骨生花·翡梦",
+    "source_title": "Floral Rebirth: Emerald Reverie | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Emerald_Reverie",
+    "retrieved_at": "2026-10-11T16:09:12.549Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100041",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Floral Rebirth"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1029003",
+    "name": "栖骨生花·昼歌",
+    "source_title": "Floral Rebirth: Awakening Hymn | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Awakening_Hymn",
+    "retrieved_at": "2026-10-11T16:09:12.550Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100041",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Floral Rebirth"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1029004",
+    "name": "栖骨生花·终誓",
+    "source_title": "Floral Rebirth: Final Vow | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Floral_Rebirth%3A_Final_Vow",
+    "retrieved_at": "2026-10-11T16:09:12.551Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10290",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1029303",
+    "name": "森之涟·游林",
+    "source_title": "Forest Ripple: Roaming | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Forest_Ripple%3A_Roaming",
+    "retrieved_at": "2026-10-11T16:09:12.553Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-forest-ripple",
+        "quantity": 2,
+        "unit": "count",
+        "english_name": "Heartshine: Forest Ripple"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1029802",
+    "name": "时之契·寓言",
+    "source_title": "Covenant of Time: Fable | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Covenant_of_Time%3A_Fable",
+    "retrieved_at": "2026-10-11T16:09:12.559Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10298",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1030102",
+    "name": "黎明无声·织光",
+    "source_title": "Soundless Dawn: Woven Light | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Woven_Light",
+    "retrieved_at": "2026-10-11T16:09:12.563Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100046",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Soundless Dawn"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1030103",
+    "name": "黎明无声·森籁",
+    "source_title": "Soundless Dawn: Forest Echoes | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Forest_Echoes",
+    "retrieved_at": "2026-10-11T16:09:12.563Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100046",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Soundless Dawn"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1030104",
+    "name": "黎明无声·花音",
+    "source_title": "Soundless Dawn: Floral Melody | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Soundless_Dawn%3A_Floral_Melody",
+    "retrieved_at": "2026-10-11T16:09:12.564Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10301",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1030702",
+    "name": "遇上喵喵雨・星彩",
+    "source_title": "Momo Rain: Starry Colors | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Momo_Rain%3A_Starry_Colors",
+    "retrieved_at": "2026-10-11T16:09:12.568Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10307",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1031302",
+    "name": "逆流协奏·破界",
+    "source_title": "Counterflow Concerto: Break | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Counterflow_Concerto%3A_Break",
+    "retrieved_at": "2026-10-11T16:09:12.569Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10313",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1032002",
+    "name": "流梦香甜忆·启晨",
+    "source_title": "Sweet Memories: First Light | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Sweet_Memories%3A_First_Light",
+    "retrieved_at": "2026-10-11T16:09:12.570Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10320",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1032402",
+    "name": "甜野小圆舞·蜜珀",
+    "source_title": "Sweet Waltz: Honeyed Amber | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Sweet_Waltz%3A_Honeyed_Amber",
+    "retrieved_at": "2026-10-11T16:09:12.571Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10324",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1032602",
+    "name": "星之海·梦谕",
+    "source_title": "Sea of Stars: Reverie | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Reverie",
+    "retrieved_at": "2026-10-11T16:09:12.572Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-shard-sea-of-stars",
+        "quantity": 4,
+        "unit": "count",
+        "english_name": "Heartshine Shard: Sea of Stars"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10326",
+        "quantity": 1,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1032603",
+    "name": "星之海·极境",
+    "source_title": "Sea of Stars: Aurora | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Aurora",
+    "retrieved_at": "2026-10-11T16:09:12.573Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-shard-sea-of-stars",
+        "quantity": 4,
+        "unit": "count",
+        "english_name": "Heartshine Shard: Sea of Stars"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10326",
+        "quantity": 1,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1032604",
+    "name": "星之海·无垠",
+    "source_title": "Sea of Stars: Infinity | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Sea_of_Stars%3A_Infinity",
+    "retrieved_at": "2026-10-11T16:09:12.574Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-shard-sea-of-stars",
+        "quantity": 4,
+        "unit": "count",
+        "english_name": "Heartshine Shard: Sea of Stars"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 300,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 100000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10326",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1033002",
+    "name": "龙隐云墨间·缥碧",
+    "source_title": "Clouded Loong: Misty Celadon | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Misty_Celadon",
+    "retrieved_at": "2026-10-11T16:09:12.575Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-clouded-loong",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Clouded Loong"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1033003",
+    "name": "龙隐云墨间·点睛",
+    "source_title": "Clouded Loong: Eye-Dotting | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Clouded_Loong%3A_Eye-Dotting",
+    "retrieved_at": "2026-10-11T16:09:12.576Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-clouded-loong",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Clouded Loong"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1033102",
+    "name": "缘缘长相念·草木间",
+    "source_title": "Forever Bond: Among Flora | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Among_Flora",
+    "retrieved_at": "2026-10-11T16:09:12.578Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-forever-bond",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Forever Bond"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1033103",
+    "name": "缘缘长相念·人间事",
+    "source_title": "Forever Bond: Mortal Affairs | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Forever_Bond%3A_Mortal_Affairs",
+    "retrieved_at": "2026-10-11T16:09:12.578Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-forever-bond",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Forever Bond"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1034602",
+    "name": "冰霜中倾舞·圆梦",
+    "source_title": "Dancing in Frost: Dream Fulfilled | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Dancing_in_Frost%3A_Dream_Fulfilled",
+    "retrieved_at": "2026-10-11T16:09:12.583Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10346",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1034802",
+    "name": "暖歌花纪·溯光",
+    "source_title": "Melody Bloom: Chasing Light | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Melody_Bloom%3A_Chasing_Light",
+    "retrieved_at": "2026-10-11T16:09:12.586Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "methereal-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Ethereal Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10348",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1034902",
+    "name": "生于无瑕·林中歌",
+    "source_title": "Born Flawless: Forest Song | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Forest_Song",
+    "retrieved_at": "2026-10-11T16:09:12.587Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-born-flawless",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Born Flawless"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1034903",
+    "name": "生于无瑕·烬中火",
+    "source_title": "Born Flawless: Glowing Embers | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Glowing_Embers",
+    "retrieved_at": "2026-10-11T16:09:12.588Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-born-flawless",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Born Flawless"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1034904",
+    "name": "生于无瑕·镜中我",
+    "source_title": "Born Flawless: Mirrored Self | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Born_Flawless%3A_Mirrored_Self",
+    "retrieved_at": "2026-10-11T16:09:12.588Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10349",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035002",
+    "name": "隐于祷音·月皎",
+    "source_title": "Behind Prayers: Bright Moon | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Bright_Moon",
+    "retrieved_at": "2026-10-11T16:09:12.589Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-behind-prayers",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Behind Prayers"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035003",
+    "name": "隐于祷音·郁冥",
+    "source_title": "Behind Prayers: Somber Nights | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Somber_Nights",
+    "retrieved_at": "2026-10-11T16:09:12.590Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "mheartshine-behind-prayers",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Behind Prayers"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035004",
+    "name": "隐于祷音·寂烬",
+    "source_title": "Behind Prayers: Silent Ashes | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Behind_Prayers%3A_Silent_Ashes",
+    "retrieved_at": "2026-10-11T16:09:12.591Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10350",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035202",
+    "name": "万相渡浮生·妙丹心",
+    "source_title": "Where Wanxiang Weaves Life: Benevolence | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Benevolence",
+    "retrieved_at": "2026-10-11T16:09:12.592Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100028",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Where Wanxiang Weaves Life"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035204",
+    "name": "万相渡浮生·人世间",
+    "source_title": "Where Wanxiang Weaves Life: Lived World | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Where_Wanxiang_Weaves_Life%3A_Lived_World",
+    "retrieved_at": "2026-10-11T16:09:12.594Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10352",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035302",
+    "name": "九色亦尘心·焚心",
+    "source_title": "Chroma's Mortal Heart: Seared | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Seared",
+    "retrieved_at": "2026-10-11T16:09:12.595Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100029",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Chroma's Mortal Heart"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035303",
+    "name": "九色亦尘心·长决",
+    "source_title": "Chroma's Mortal Heart: Parting | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Parting",
+    "retrieved_at": "2026-10-11T16:09:12.596Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100029",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Chroma's Mortal Heart"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1035304",
+    "name": "九色亦尘心·万相",
+    "source_title": "Chroma's Mortal Heart: Wanxiang | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Chroma%27s_Mortal_Heart%3A_Wanxiang",
+    "retrieved_at": "2026-10-11T16:09:12.597Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10353",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1036002",
+    "name": "青野漫林歌·暮影",
+    "source_title": "Forest's Song: Twilight Silhouette | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Forest%27s_Song%3A_Twilight_Silhouette",
+    "retrieved_at": "2026-10-11T16:09:12.602Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10360",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1036102",
+    "name": "翩月飞仙·别宴",
+    "source_title": "Moonlit Immortal: Last Banquet | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Moonlit_Immortal%3A_Last_Banquet",
+    "retrieved_at": "2026-10-11T16:09:12.603Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10361",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1036402",
+    "name": "渡者无归·挚守",
+    "source_title": "Guide of No Return: Commitment | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Commitment",
+    "retrieved_at": "2026-10-11T16:09:12.605Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100040",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Guide of No Return"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1036403",
+    "name": "渡者无归·离劫",
+    "source_title": "Guide of No Return: Valediction | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Valediction",
+    "retrieved_at": "2026-10-11T16:09:12.606Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110100040",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Heartshine: Guide of No Return"
+      }
+    ],
+    "requirements": [],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1036404",
+    "name": "渡者无归·命途",
+    "source_title": "Guide of No Return: Fate | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Guide_of_No_Return%3A_Fate",
+    "retrieved_at": "2026-10-11T16:09:12.607Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10364",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1036802",
+    "name": "遥域千星·明熠",
+    "source_title": "Distant Stars: Brilliance | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Distant_Stars%3A_Brilliance",
+    "retrieved_at": "2026-10-11T16:09:12.610Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10368",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1037102",
+    "name": "筑梦绘心·晴空",
+    "source_title": "Visionary Dreamer: Clear Sky | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Visionary_Dreamer%3A_Clear_Sky",
+    "retrieved_at": "2026-10-11T16:09:12.611Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10371",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1038102",
+    "name": "风过遗音·悲声",
+    "source_title": "Echoes Upon the Gale: Plaint | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Echoes_Upon_the_Gale%3A_Plaint",
+    "retrieved_at": "2026-10-11T16:09:12.616Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [],
+    "requirements": [
+      {
+        "object_id": "o10381",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "partial_confirmed",
+    "currency_status": "not_listed_not_assumed_zero",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1039002",
+    "name": "妖夜鉴影·心照",
+    "source_title": "Nefarious Shadows: Enlightened | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Nefarious_Shadows%3A_Enlightened",
+    "retrieved_at": "2026-10-11T16:09:12.623Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "minv_1110101009",
+        "quantity": 1,
+        "unit": "count",
+        "english_name": "Clear Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10390",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  },
+  {
+    "object_id": "o1040102",
+    "name": "寻味烟火间·蜜酿",
+    "source_title": "Tasting the World: Honey Brew | Infinity Nikki Wiki | Fandom",
+    "source_url": "https://infinity-nikki.fandom.com/wiki/Tasting_the_World%3A_Honey_Brew",
+    "retrieved_at": "2026-10-11T16:09:12.630Z",
+    "confidence": "medium",
+    "output_verified": true,
+    "inputs": [
+      {
+        "material_id": "methereal-thoughts",
+        "quantity": 7,
+        "unit": "count",
+        "english_name": "Ethereal Thoughts"
+      },
+      {
+        "material_id": "mthread-of-purity",
+        "quantity": 100,
+        "unit": "count",
+        "english_name": "Thread of Purity"
+      },
+      {
+        "material_id": "mbling",
+        "quantity": 30000,
+        "unit": "count",
+        "english_name": "Bling"
+      }
+    ],
+    "requirements": [
+      {
+        "object_id": "o10401",
+        "quantity": 2,
+        "type": "listed_input_copies",
+        "consumed_quantity": null
+      }
+    ],
+    "unknown": [],
+    "status": "complete_source_list",
+    "currency_status": "explicit",
+    "current_game_measured": false
+  }
+]

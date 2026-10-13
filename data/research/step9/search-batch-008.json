@@ -1,0 +1,480 @@
+[
+  {
+    "object_id": "o1016102",
+    "checked_at": "2026-10-11T15:37:56.073Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花漾梦萦·暗潮\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blooming Dreams: Tides\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花漾梦萦·暗潮\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blooming Dreams: Tides\" evolution materials OR \"花漾梦萦·暗潮\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blooming Dreams: Tides | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Tides",
+        "evolution": "1 Heartshine: Blooming Dreams\n\n1 Blooming Dreams: Tides",
+        "crafting": null
+      },
+      {
+        "title": "Blooming Dreams: Glow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Glow",
+        "evolution": "1 Heartshine: Blooming Dreams\n\n1 Blooming Dreams: Glow",
+        "crafting": null
+      },
+      {
+        "title": "Blooming Dreams: Phoenix | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Phoenix",
+        "evolution": "2 Blooming Dreams\n\n1 Blooming Dreams: Phoenix",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016103",
+    "checked_at": "2026-10-11T15:37:57.795Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花漾梦萦·萤光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blooming Dreams: Glow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花漾梦萦·萤光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blooming Dreams: Glow\" evolution materials OR \"花漾梦萦·萤光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blooming Dreams: Glow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Glow",
+        "evolution": "1 Heartshine: Blooming Dreams\n\n1 Blooming Dreams: Glow",
+        "crafting": null
+      },
+      {
+        "title": "Blooming Dreams: Tides | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Tides",
+        "evolution": "1 Heartshine: Blooming Dreams\n\n1 Blooming Dreams: Tides",
+        "crafting": null
+      },
+      {
+        "title": "Blooming Dreams: Phoenix | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Phoenix",
+        "evolution": "2 Blooming Dreams\n\n1 Blooming Dreams: Phoenix",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016104",
+    "checked_at": "2026-10-11T15:37:59.781Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"花漾梦萦·浴火\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blooming Dreams: Phoenix\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"花漾梦萦·浴火\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Blooming Dreams: Phoenix\" evolution materials OR \"花漾梦萦·浴火\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Blooming Dreams: Phoenix | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Phoenix",
+        "evolution": "2 Blooming Dreams\n\n1 Blooming Dreams: Phoenix",
+        "crafting": null
+      },
+      {
+        "title": "Blooming Dreams: Glow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Glow",
+        "evolution": "1 Heartshine: Blooming Dreams\n\n1 Blooming Dreams: Glow",
+        "crafting": null
+      },
+      {
+        "title": "Blooming Dreams: Tides | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Blooming_Dreams%3A_Tides",
+        "evolution": "1 Heartshine: Blooming Dreams\n\n1 Blooming Dreams: Tides",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016202",
+    "checked_at": "2026-10-11T15:38:02.243Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"雪境长歌·危火\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Snowy Ballad: Flame\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"雪境长歌·危火\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Snowy Ballad: Flame\" evolution materials OR \"雪境长歌·危火\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Snowy Ballad: Flame | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Flame",
+        "evolution": "1 Heartshine: Snowy Ballad\n\n1 Snowy Ballad: Flame",
+        "crafting": null
+      },
+      {
+        "title": "Snowy Ballad: Oath | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Oath",
+        "evolution": "1 Heartshine: Snowy Ballad\n\n1 Snowy Ballad: Oath",
+        "crafting": null
+      },
+      {
+        "title": "Snowy Ballad: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Farewell",
+        "evolution": "2 Snowy Ballad\n\n1 Snowy Ballad: Farewell",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016203",
+    "checked_at": "2026-10-11T15:38:04.313Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"雪境长歌·心誓\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Snowy Ballad: Oath\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"雪境长歌·心誓\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Snowy Ballad: Oath\" evolution materials OR \"雪境长歌·心誓\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Snowy Ballad: Oath | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Oath",
+        "evolution": "1 Heartshine: Snowy Ballad\n\n1 Snowy Ballad: Oath",
+        "crafting": null
+      },
+      {
+        "title": "Snowy Ballad: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Farewell",
+        "evolution": "2 Snowy Ballad\n\n1 Snowy Ballad: Farewell",
+        "crafting": null
+      },
+      {
+        "title": "Snowy Ballad: Flame | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Flame",
+        "evolution": "1 Heartshine: Snowy Ballad\n\n1 Snowy Ballad: Flame",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016204",
+    "checked_at": "2026-10-11T15:38:06.323Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"雪境长歌·离歌\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Snowy Ballad: Farewell\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"雪境长歌·离歌\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Snowy Ballad: Farewell\" evolution materials OR \"雪境长歌·离歌\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Snowy Ballad: Farewell | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Farewell",
+        "evolution": "2 Snowy Ballad\n\n1 Snowy Ballad: Farewell",
+        "crafting": null
+      },
+      {
+        "title": "Snowy Ballad: Oath | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Oath",
+        "evolution": "1 Heartshine: Snowy Ballad\n\n1 Snowy Ballad: Oath",
+        "crafting": null
+      },
+      {
+        "title": "Snowy Ballad: Flame | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Snowy_Ballad%3A_Flame",
+        "evolution": "1 Heartshine: Snowy Ballad\n\n1 Snowy Ballad: Flame",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016302",
+    "checked_at": "2026-10-11T15:38:07.929Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"定格瞬间·花海\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moment Capturer: Bloom\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"定格瞬间·花海\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Moment Capturer: Bloom\" evolution materials OR \"定格瞬间·花海\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam Community :: xlxszs :: Games",
+        "url": "https://steamcommunity.com/profiles/76561198816605010/recommended",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: OPUS：心相吾山",
+        "url": "https://steamcommunity.com/app/1947910/reviews/?browsefilter=toprated&l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-værksted::CFF",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3684906019&l=danish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Εργαστήρι Steam::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3761786890&l=greek",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3761786890",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311618301&l=spanish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 창작마당::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311618301&l=koreana",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Εργαστήρι Steam::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311618301&l=greek",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-værksted::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3761786890&l=danish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 创意工坊::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311618301&l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Warsztat Steam::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311618301&l=polish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::最喜爱のFurry壁纸",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3311618301&l=german",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016402",
+    "checked_at": "2026-10-11T15:38:11.726Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"笔尖漾奇彩·绘梦\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flowing Colors: Dreamy\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"笔尖漾奇彩·绘梦\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Flowing Colors: Dreamy\" evolution materials OR \"笔尖漾奇彩·绘梦\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Flowing Colors: Dreamy | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Flowing_Colors%3A_Dreamy",
+        "evolution": "2 Flowing Colors\n\n1 Flowing Colors: Dreamy",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016502",
+    "checked_at": "2026-10-11T15:38:13.989Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"晶莹诗集·寒夜雪\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crystal Poems: Snow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"晶莹诗集·寒夜雪\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crystal Poems: Snow\" evolution materials OR \"晶莹诗集·寒夜雪\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crystal Poems: Snow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Snow",
+        "evolution": "1 Heartshine\n\n1 Crystal Poems: Snow",
+        "crafting": null
+      },
+      {
+        "title": "Crystal Poems: Blazing | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Blazing",
+        "evolution": "2 Crystal Poems\n\n1 Crystal Poems: Blazing",
+        "crafting": null
+      },
+      {
+        "title": "Crystal Poems: Spring | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Spring",
+        "evolution": "1 Heartshine\n\n1 Crystal Poems: Spring",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1016503",
+    "checked_at": "2026-10-11T15:38:17.158Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"晶莹诗集·春日境\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crystal Poems: Spring\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"晶莹诗集·春日境\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Crystal Poems: Spring\" evolution materials OR \"晶莹诗集·春日境\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Crystal Poems: Spring | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Spring",
+        "evolution": "1 Heartshine\n\n1 Crystal Poems: Spring",
+        "crafting": null
+      },
+      {
+        "title": "Crystal Poems: Blazing | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Blazing",
+        "evolution": "2 Crystal Poems\n\n1 Crystal Poems: Blazing",
+        "crafting": null
+      },
+      {
+        "title": "Crystal Poems: Snow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Crystal_Poems%3A_Snow",
+        "evolution": "1 Heartshine\n\n1 Crystal Poems: Snow",
+        "crafting": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "research_snapshot_id": "advanced:632e9019fb83842b239ebb81",
+    "core_snapshot_id": "snapshot:6e70b8fc7d8a3cf7728b6abb",
+    "created_at": "2026-10-10T09:38:11.935Z",
+    "base_outfits": 305,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "0376c7c8cc3de3cf7efcefd9871b70c7491277a7c43c526f89f78d84abf77d22",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:fdae6f632996f566ce61ffcb",
+    "core_snapshot_id": "snapshot:6e70b8fc7d8a3cf7728b6abb",
+    "created_at": "2026-10-10T09:42:15.949Z",
+    "base_outfits": 305,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "0376c7c8cc3de3cf7efcefd9871b70c7491277a7c43c526f89f78d84abf77d22",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:799b5f49bff58526ad9f7a12",
+    "core_snapshot_id": "snapshot:b875405c41db2f395cf6a982",
+    "created_at": "2026-10-10T09:43:04.042Z",
+    "base_outfits": 305,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "24d8c61496f4ccaf31574c843948c62acccdab0305dff8743222749d5c50b7b4",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:d82c7264f13dbf9045263662",
+    "core_snapshot_id": "snapshot:7367f5521bd18b85eb3fac66",
+    "created_at": "2026-10-10T09:49:12.321Z",
+    "base_outfits": 305,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "8173ebd03b82029fb1122ffb276b5427eb28a14145a49ce4b97b000e32140974",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:d8783c240410a2e6b220e4f2",
+    "core_snapshot_id": "snapshot:50a02d284f967d91c8cca198",
+    "created_at": "2026-10-10T15:20:38.289Z",
+    "base_outfits": 313,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "dd7a328ba513d214d20585e879db0523e4ce0a60865b19a7c1acf7f838957a65",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:77fb60a5de832ca54c562907",
+    "core_snapshot_id": "snapshot:fdbaeb652f2de4e82bbcfb99",
+    "created_at": "2026-10-10T15:44:47.060Z",
+    "base_outfits": 311,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "83868c5f82228de8d81aad267730172506de10eee3dda92134d06020730ebb1d",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:71694c8b3a29305217bbd9f1",
+    "core_snapshot_id": "snapshot:ea704bcd47e3fe330431095a",
+    "created_at": "2026-10-10T17:11:28.457Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "e7350865fc879eb5714f3f0fc07c5c19e261a0b1991ca8a6cd2f6632d2753104",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:ae6481c60bb12ead5074114a",
+    "core_snapshot_id": "snapshot:c1838935bf8b36d6892f1296",
+    "created_at": "2026-10-10T17:26:48.713Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "53b53d2de4de06f4ff3669c32cf7b8d948f744994c1ed9183393f936065ae9c9",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:f2f9f2ac96e7bfabca399e5d",
+    "core_snapshot_id": "snapshot:2c02a562d0b9c6182f441926",
+    "created_at": "2026-10-11T06:53:42.048Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "ce6db766b4a5d03284d72091774e1f0efee353bfe3ef3a6015b09d8a75baefb0",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:6265b87351af7d5a80abbed6",
+    "core_snapshot_id": "snapshot:d357644ea899acf2ae2b4796",
+    "created_at": "2026-10-11T06:56:29.212Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "85fe3a44a181f0bd92d483b200d0a3df40cc643ff922879606d64433d228d82f",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:6aa455c75cfd65c17364726e",
+    "core_snapshot_id": "snapshot:8b40ec876db4824a25c4dac8",
+    "created_at": "2026-10-11T07:16:04.339Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "9869bfdfe082c83cf96c4e3ba6ac8d8cfc8ad1b56d3c83bc21b13e8168f75725",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:d60fcbb84a51c443a41e7175",
+    "core_snapshot_id": "snapshot:40476599ebb8f4049129085c",
+    "created_at": "2026-10-11T16:34:52.141Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "e51000f74bb83044c43426595fbabc5a56af05673581fcd6d9abc9368d237fa2",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  },
+  {
+    "research_snapshot_id": "advanced:9c5dabf08c203a328a7a1f67",
+    "core_snapshot_id": "snapshot:72a014ad58ef81240bd603df",
+    "created_at": "2026-10-12T16:00:49.081Z",
+    "base_outfits": 310,
+    "actual_aliases": 37,
+    "inputs": {
+      "analytics_sha256": "ce3defb4c2417dcf8c17dc3318c2bbf9a446b4eaa0378fcb634de7fe27b5869f",
+      "aliases_sha256": "265b03575224b9d3c767ca31093759080c347042f37add5387e91f294f5b7fc5",
+      "features_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8"
+    },
+    "model_sha256": "9a8e3cc30638af861ae148c2a13ce3b929a945acbcb69630a1c8b582d58a1221"
+  }
+]

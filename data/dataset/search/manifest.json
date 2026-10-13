@@ -1,0 +1,24 @@
+{
+  "schema_version": 1,
+  "benchmark_version": "search-v1",
+  "created_at": "2026-10-09T11:55:22.615Z",
+  "catalog_snapshot_id": "snapshot:1718d07a97be0c4135174f2f",
+  "seed": "miraland-search-v1-20261009",
+  "corpus_scope": "all recorded outfit and clothing forms; nickname relevance prefers base",
+  "corpus_count": 8734,
+  "query_count": 100,
+  "split": {
+    "dev": 70,
+    "test": 30,
+    "unit": "outfit family / negative intent group",
+    "positive_groups": 15,
+    "negative_groups": 5,
+    "test_positive_groups": 4,
+    "test_negative_groups": 3
+  },
+  "annotation_status": "pending_human_review",
+  "source_note": "Authored candidate queries, not sampled user logs. AI source verification is not human adjudication.",
+  "corpus_sha256": "642237fcdb3a5818475a1638a9e64c60d63e18b96f5d16e101d0545d2d68496f",
+  "aliases_sha256": "40ed29e94bbd67896c614f9e720ae07b8ce83db76d0b3687e26b2602de00e886",
+  "cases_sha256": "16741d3bc40c72fbba8ae0577698e5296d652f3a4e1b1070458a458548bc9632"
+}

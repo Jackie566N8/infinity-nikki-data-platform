@@ -1,0 +1,466 @@
+[
+  {
+    "object_id": "o10054",
+    "checked_at": "2026-10-11T15:34:19.027Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"甜酷交锋\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sweet-Cool Clash\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"甜酷交锋\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sweet-Cool Clash\" crafting materials OR \"甜酷交锋\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Steam Community :: LiSS.",
+        "url": "https://steamcommunity.com/profiles/76561198838962926",
+        "evolution": null
+      },
+      {
+        "title": "Steam コミュニティ :: ガイド :: 《海猫鸣泣之时·散》解（伪）",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2886225664&l=japanese",
+        "evolution": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null
+      },
+      {
+        "title": "Steamワークショップ::5.0",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3486719510&l=japanese",
+        "evolution": null
+      },
+      {
+        "title": "Steam Community :: Guide :: 〖情感反诈模拟器〗全流程全成就指北",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3505613059",
+        "evolution": null
+      },
+      {
+        "title": "Cộng đồng Steam :: 少終 :: Trò chơi",
+        "url": "https://steamcommunity.com/id/jimlym/recommended?l=vietnamese&p=20",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10067",
+    "checked_at": "2026-10-11T15:34:21.801Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绿韵心弦\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Chord\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绿韵心弦\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Verdant Chord\" crafting materials OR \"绿韵心弦\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Where All Souls Return | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Version/2.5",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::角色",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3114559195",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10082",
+    "checked_at": "2026-10-11T15:34:23.388Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"云隙的针脚\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Cloudbreak Stitches\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"云隙的针脚\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Cloudbreak Stitches\" crafting materials OR \"云隙的针脚\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 群侠传：幸存者",
+        "url": "https://steamcommunity.com/app/4957110?l=schinese",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::欧陆",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3161003280&l=finnish",
+        "evolution": null
+      },
+      {
+        "title": "无限暖暖的微博_微博",
+        "url": "https://weibo.com/u/7801655101?index=166&tabtype=album&uid=7801655101",
+        "evolution": null
+      },
+      {
+        "title": "Steam コミュニティ :: Hollow Knight: Silksong",
+        "url": "https://steamcommunity.com/app/1030300/negativereviews/?browsefilter=toprated&filterLanguage=schinese&l=japanese&snr=1_5_100010_",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::欧陆",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3161003280&l=swedish",
+        "evolution": null
+      },
+      {
+        "title": "Komunitas Steam :: LucherChu :: Game",
+        "url": "https://steamcommunity.com/id/LucherChu/recommended/?l=indonesian&p=3",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10214",
+    "checked_at": "2026-10-11T15:34:25.796Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"启源造律\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Origin of Machinery\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"启源造律\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Origin of Machinery\" crafting materials OR \"启源造律\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": []
+  },
+  {
+    "object_id": "o10304",
+    "checked_at": "2026-10-11T15:34:27.899Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"咏赞黄昏\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Hymn to Dusk\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"咏赞黄昏\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Hymn to Dusk\" crafting materials OR \"咏赞黄昏\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::666",
+        "url": "https://steamcommunity.com/workshop/filedetails/?id=3411771237&l=swedish",
+        "evolution": null
+      },
+      {
+        "title": "Майстерня Steam::于离别之际亦是花落之时",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3290398749&l=ukrainian",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::个人收集（：",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2983502617",
+        "evolution": null
+      },
+      {
+        "title": "Steam 社群 :: 不胜人间一场醉 :: 遊戲",
+        "url": "https://steamcommunity.com/id/SHARK0222/reviews/?l=tchinese&p=61",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::wallpaper",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3494056667&l=finnish",
+        "evolution": null
+      },
+      {
+        "title": "Workshop služby Steam::11111",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3430943562&l=czech",
+        "evolution": null
+      },
+      {
+        "title": "Steam 社区 :: Naval Action",
+        "url": "https://steamcommunity.com/app/311310/positivereviews/?browsefilter=toprated&l=schinese&snr=1_5_9_",
+        "evolution": null
+      },
+      {
+        "title": "Steam 커뮤니티 :: 遥远的天空 :: 게임",
+        "url": "https://steamcommunity.com/profiles/76561198379747406/recommended/?l=koreana",
+        "evolution": null
+      },
+      {
+        "title": "Steam 创意工坊::钢丝",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2915241615&l=schinese",
+        "evolution": null
+      },
+      {
+        "title": "Steam Community :: silverhugo :: Spellen",
+        "url": "https://steamcommunity.com/id/silverhugo/recommended/?l=dutch&p=9",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10342",
+    "checked_at": "2026-10-11T15:34:29.700Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"星跳记忆\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Star Memory\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"星跳记忆\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Star Memory\" crafting materials OR \"星跳记忆\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Dustlit View | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dustlit_View",
+        "evolution": null
+      },
+      {
+        "title": "Starlit Encounter | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Starlit_Encounter",
+        "evolution": null
+      },
+      {
+        "title": "Soft Glow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Soft_Glow_%28Top%29",
+        "evolution": null
+      },
+      {
+        "title": "Dustlight Traces | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dustlight_Traces",
+        "evolution": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10389",
+    "checked_at": "2026-10-11T15:34:31.710Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"梦隙灵语\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispered Dreams\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"梦隙灵语\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Whispered Dreams\" crafting materials OR \"梦隙灵语\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Where All Souls Return | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Version/2.5",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10393",
+    "checked_at": "2026-10-11T15:34:33.673Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"霓光游星\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Chromatic Comet\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"霓光游星\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Chromatic Comet\" crafting materials OR \"霓光游星\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Where All Souls Return | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Version/2.5",
+        "evolution": null
+      },
+      {
+        "title": "Steam 社区 :: HonkaiImpact 3rd",
+        "url": "https://steamcommunity.com/app/1671200/allnews/?l=schinese",
+        "evolution": null
+      },
+      {
+        "title": "Comunidad de Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=latam",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o10395",
+    "checked_at": "2026-10-11T15:34:39.730Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"一帘烟雨\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Veil of Misty Rain\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"一帘烟雨\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Veil of Misty Rain\" crafting materials OR \"一帘烟雨\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null
+      },
+      {
+        "title": "Steam Workshop::春短夜长一万五K-M",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3439240059",
+        "evolution": null
+      },
+      {
+        "title": "一帘烟雨 半卷江南",
+        "url": "https://weibo.com/2/detail/5337384394691117",
+        "evolution": null
+      },
+      {
+        "title": "Steam 工作坊::自用23451",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2789850262&l=tchinese",
+        "evolution": null
+      },
+      {
+        "title": "Workshop služby Steam::11",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3528643200&l=czech",
+        "evolution": null
+      },
+      {
+        "title": "邓为百妖谱一滴泪原始帧 风雪诀别名场面",
+        "url": "https://weibo.com/2/detail/5340477041935908",
+        "evolution": null
+      },
+      {
+        "title": "一帘烟雨半江南 闲坐庭院听雨声享松弛安然",
+        "url": "https://weibo.com/2/detail/5338821345413383",
+        "evolution": null
+      },
+      {
+        "title": "#中国银幕认证迪丽热巴90花首位视后",
+        "url": "https://weibo.com/2/detail/5336690864427734",
+        "evolution": null
+      }
+    ]
+  },
+  {
+    "object_id": "o20048",
+    "checked_at": "2026-10-11T15:34:41.605Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"无拘绿野\" 制作 配方 材料 数量 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unfettered Meadow\" \"Crafting Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"无拘绿野\" 制作 配方 材料 数量 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Unfettered Meadow\" crafting materials OR \"无拘绿野\" 制作 配方 材料 数量 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not direct private-platform access",
+    "hits": [
+      {
+        "title": "Where All Souls Return | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Version/2.5",
+        "evolution": null
+      }
+    ]
+  }
+]

@@ -1,0 +1,1900 @@
+[
+  {
+    "query_id": "q001",
+    "type": "formal",
+    "split": "test",
+    "group_id": "family:o10349",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0011466666666554678,
+    "predictions": [
+      "o10349"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q002",
+    "type": "nickname",
+    "split": "test",
+    "group_id": "family:o10349",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0016700000000203848,
+    "predictions": [
+      "o10349",
+      "o1034901",
+      "o1034902",
+      "o1034903",
+      "o1034904"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q003",
+    "type": "typo_pinyin",
+    "split": "test",
+    "group_id": "family:o10349",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006633333333032472,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q004",
+    "type": "partial",
+    "split": "test",
+    "group_id": "family:o10349",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009299999999673977,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q005",
+    "type": "description",
+    "split": "test",
+    "group_id": "family:o10349",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0011833333333167199,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q006",
+    "type": "multilingual",
+    "split": "test",
+    "group_id": "family:o10349",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0016266666666827708,
+    "predictions": [
+      "o10349"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q007",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10352",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.001073333333302647,
+    "predictions": [
+      "o10352"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q008",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10352",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.002009999999984302,
+    "predictions": [
+      "o10352",
+      "o1035201",
+      "o1035202",
+      "o1035203",
+      "o1035204"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q009",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10352",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0010766666666616705,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q010",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10352",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.000946666666618512,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q011",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10352",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0011599999999968229,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q012",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10352",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0014166666666710626,
+    "predictions": [
+      "o10352"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q013",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10350",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010633333333657901,
+    "predictions": [
+      "c1020100350"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q014",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10350",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.00190333333335199,
+    "predictions": [
+      "o10350",
+      "o1035001",
+      "o1035002",
+      "o1035003",
+      "o1035004"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q015",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10350",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009266666666576384,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q016",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10350",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009066666666285528,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q017",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10350",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.001609999999967234,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q018",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10350",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0011133333332888167,
+    "predictions": [
+      "o10350"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q019",
+    "type": "formal",
+    "split": "test",
+    "group_id": "family:o10161",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0012799999999742796,
+    "predictions": [
+      "o10161"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q020",
+    "type": "nickname",
+    "split": "test",
+    "group_id": "family:o10161",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0019966666666543158,
+    "predictions": [
+      "o10161",
+      "o1016101",
+      "o1016102",
+      "o1016103",
+      "o1016104"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q021",
+    "type": "typo_pinyin",
+    "split": "test",
+    "group_id": "family:o10161",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007833333333110204,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q022",
+    "type": "partial",
+    "split": "test",
+    "group_id": "family:o10161",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007599999999987025,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q023",
+    "type": "description",
+    "split": "test",
+    "group_id": "family:o10161",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0019066666667223824,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q024",
+    "type": "multilingual",
+    "split": "test",
+    "group_id": "family:o10161",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.001123333333297675,
+    "predictions": [
+      "o10161"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q025",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10033",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0009799999999813736,
+    "predictions": [
+      "o10033"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q026",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10033",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0018466666666275462,
+    "predictions": [
+      "o10033",
+      "o1003301",
+      "o1003302",
+      "o1003303",
+      "o1003304"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q027",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10033",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009933333333719929,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q028",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10033",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0016333333333098685,
+    "predictions": [
+      "o10033",
+      "o1003301",
+      "o1003302",
+      "o1003303",
+      "o1003304"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q029",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10033",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0013133333333371412,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q030",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10033",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0008633333333098865,
+    "predictions": [
+      "o10033"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q031",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10062",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0009966666666703834,
+    "predictions": [
+      "c1020100062"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q032",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10062",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.002023333333310499,
+    "predictions": [
+      "o10062",
+      "o1006201",
+      "o1006202",
+      "o1006203",
+      "o1006204"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q033",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10062",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0005966666666343674,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q034",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10062",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007199999999897954,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q035",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10062",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0011833333333356676,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q036",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10062",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010799999999714298,
+    "predictions": [
+      "o10062"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q037",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10036",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0009633333333681548,
+    "predictions": [
+      "o10036"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q038",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10036",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 3,
+    "response_ms": 0.001596666666667564,
+    "predictions": [
+      "o10036",
+      "o1003601",
+      "o1003602"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q039",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10036",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006166666667240861,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q040",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10036",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0012033333333003307,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q041",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10036",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0011666666666731848,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q042",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10036",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0009233333333440897,
+    "predictions": [
+      "o10036"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q043",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10126",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.001186666666687112,
+    "predictions": [
+      "o10126"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q044",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10126",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.00189666666666047,
+    "predictions": [
+      "o10126",
+      "o1012601",
+      "o1012602",
+      "o1012603",
+      "o1012604"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q045",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10126",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006533333333247053,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q046",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10126",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0010233333333379353,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q047",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10126",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0013466666666431593,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q048",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10126",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0009400000000179413,
+    "predictions": [
+      "o10126"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q049",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10330",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010499999999638021,
+    "predictions": [
+      "c1020100330"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q050",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10330",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.001709999999976238,
+    "predictions": [
+      "o10330",
+      "o1033001",
+      "o1033002",
+      "o1033003",
+      "o1033004"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q051",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10330",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0008666666667068057,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q052",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10330",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.000646666666652133,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q053",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10330",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0017200000000002547,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q054",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10330",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0013366666666646172,
+    "predictions": [
+      "o10330"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q055",
+    "type": "formal",
+    "split": "test",
+    "group_id": "family:o10289",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010133333333214977,
+    "predictions": [
+      "o10289"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q056",
+    "type": "nickname",
+    "split": "test",
+    "group_id": "family:o10289",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0022366666666812306,
+    "predictions": [
+      "o10289",
+      "o1028901",
+      "o1028902",
+      "o1028903",
+      "o1028904"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q057",
+    "type": "typo_pinyin",
+    "split": "test",
+    "group_id": "family:o10289",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0005900000000224282,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q058",
+    "type": "partial",
+    "split": "test",
+    "group_id": "family:o10289",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006066666666280677,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q059",
+    "type": "description",
+    "split": "test",
+    "group_id": "family:o10289",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0016299999999887405,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q060",
+    "type": "multilingual",
+    "split": "test",
+    "group_id": "family:o10289",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0011000000000194632,
+    "predictions": [
+      "o10289"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q061",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10183",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010500000000282248,
+    "predictions": [
+      "o10183"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q062",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10183",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0021933333333095106,
+    "predictions": [
+      "o10183",
+      "o1018301",
+      "o1018302",
+      "o1018303",
+      "o1018304"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q063",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10183",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.000703333333270469,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q064",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10183",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006333333333524631,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q065",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10183",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0014100000000288068,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q066",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10183",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0011599999999778751,
+    "predictions": [
+      "o10183"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q067",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10331",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.001000000000029407,
+    "predictions": [
+      "c1020100331"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q068",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10331",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.0022633333333336243,
+    "predictions": [
+      "o10331",
+      "o1033101",
+      "o1033102",
+      "o1033103",
+      "o1033104"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q069",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10331",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007400000000340394,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q070",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10331",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007466666666459787,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q071",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10331",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.002693333333316635,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q072",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10331",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010999999999929363,
+    "predictions": [
+      "o10331"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q073",
+    "type": "formal",
+    "split": "test",
+    "group_id": "family:o10117",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0011099999999790574,
+    "predictions": [
+      "o10117"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q074",
+    "type": "nickname",
+    "split": "test",
+    "group_id": "family:o10117",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 2,
+    "response_ms": 0.0010633333333316842,
+    "predictions": [
+      "o10117",
+      "o1011701"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q075",
+    "type": "typo_pinyin",
+    "split": "test",
+    "group_id": "family:o10117",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006699999999758196,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q076",
+    "type": "partial",
+    "split": "test",
+    "group_id": "family:o10117",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007766666666460272,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q077",
+    "type": "description",
+    "split": "test",
+    "group_id": "family:o10117",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0014433333333575622,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q078",
+    "type": "multilingual",
+    "split": "test",
+    "group_id": "family:o10117",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0009533333332835052,
+    "predictions": [
+      "o10117"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q079",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10178",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0010099999999852115,
+    "predictions": [
+      "o10178"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q080",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10178",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 5,
+    "response_ms": 0.002030000000005809,
+    "predictions": [
+      "o10178",
+      "o1017801",
+      "o1017802",
+      "o1017803",
+      "o1017804"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q081",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10178",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0008266666667130569,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q082",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10178",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0008333333333439441,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q083",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10178",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.001546666666672536,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q084",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10178",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0013033333333472305,
+    "predictions": [
+      "o10178"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q085",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "family:o10173",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0011800000000031711,
+    "predictions": [
+      "c1020100173"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q086",
+    "type": "nickname",
+    "split": "dev",
+    "group_id": "family:o10173",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 3,
+    "response_ms": 0.0016800000000102954,
+    "predictions": [
+      "o10173",
+      "o1017301",
+      "o1017302"
+    ],
+    "match_types": [
+      "nickname",
+      "nickname",
+      "nickname"
+    ]
+  },
+  {
+    "query_id": "q087",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "family:o10173",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009800000000079005,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q088",
+    "type": "partial",
+    "split": "dev",
+    "group_id": "family:o10173",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006133333333499043,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q089",
+    "type": "description",
+    "split": "dev",
+    "group_id": "family:o10173",
+    "answerable": true,
+    "hit1": 0,
+    "hit5": 0,
+    "rr": 0,
+    "no_answer_correct": null,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.001716666666660179,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q090",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "family:o10173",
+    "answerable": true,
+    "hit1": 1,
+    "hit5": 1,
+    "rr": 1,
+    "no_answer_correct": null,
+    "first_relevant_rank": 1,
+    "returned": 1,
+    "response_ms": 0.0012899999999755587,
+    "predictions": [
+      "o10173"
+    ],
+    "match_types": [
+      "formal"
+    ]
+  },
+  {
+    "query_id": "q091",
+    "type": "formal",
+    "split": "dev",
+    "group_id": "negative:missing-name",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009466666666450388,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q092",
+    "type": "typo_pinyin",
+    "split": "dev",
+    "group_id": "negative:missing-name",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0009166666666677278,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q093",
+    "type": "formal",
+    "split": "test",
+    "group_id": "negative:fiction-title",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.000729999999972127,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q094",
+    "type": "multilingual",
+    "split": "test",
+    "group_id": "negative:fiction-title",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0010266666666628528,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q095",
+    "type": "nickname",
+    "split": "test",
+    "group_id": "negative:fiction-material",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0007933333333236685,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q096",
+    "type": "partial",
+    "split": "test",
+    "group_id": "negative:fiction-material",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006333333333297257,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q097",
+    "type": "description",
+    "split": "test",
+    "group_id": "negative:impossible-condition",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006533333333512322,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q098",
+    "type": "description",
+    "split": "test",
+    "group_id": "negative:impossible-condition",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0008433333333186966,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q099",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "negative:foreign-fiction",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006966666666964254,
+    "predictions": [],
+    "match_types": []
+  },
+  {
+    "query_id": "q100",
+    "type": "multilingual",
+    "split": "dev",
+    "group_id": "negative:foreign-fiction",
+    "answerable": false,
+    "hit1": null,
+    "hit5": null,
+    "rr": null,
+    "no_answer_correct": 1,
+    "first_relevant_rank": null,
+    "returned": 0,
+    "response_ms": 0.0006766666666787084,
+    "predictions": [],
+    "match_types": []
+  }
+]

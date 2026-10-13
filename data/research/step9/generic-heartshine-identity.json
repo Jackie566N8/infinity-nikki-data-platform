@@ -1,0 +1,9 @@
+{
+  "material_id": "mheartshine",
+  "public_inventory_id": "inv_1110100004",
+  "source_url": "https://infinitynikki.th.gl/api/db/entity-tooltip?id=inv_1110100004&locale=en",
+  "checked_at": "2026-10-11T16:09:12.240Z",
+  "name": "Heartshine",
+  "use_description": " Can be used for 5-Star Outfit Evolution",
+  "mapping_basis": "Exact inventory name and public item ID. This proves an actual generic item exists; it is not a quality/family quantity inference."
+}

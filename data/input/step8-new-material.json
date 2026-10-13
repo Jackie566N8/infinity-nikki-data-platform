@@ -1,0 +1,72 @@
+[
+  {
+    "id": "inv_1110120006",
+    "locale": "en",
+    "url": "https://infinitynikki.th.gl/api/db/entity-tooltip?id=inv_1110120006&locale=en",
+    "checked_at": "2026-10-11T06:51:59.223Z",
+    "name": "Dreambloom of Yore",
+    "type": "inventory",
+    "desc": "A precious memory bloom that can be exchanged at the Glow Chamber. The tide carries in the scent of damp earth, the roaming wind sings through the valley, and the Lumies return with glistening memories, little by little, weaving them into a dream that never fades.\n\nCan be used to craft the Slumber by Blossoms Outfit",
+    "bonuses": [],
+    "stats": [
+      "Price: 100"
+    ],
+    "extras": []
+  },
+  {
+    "id": "inv_1110120006",
+    "locale": "zh-CN",
+    "url": "https://infinitynikki.th.gl/api/db/entity-tooltip?id=inv_1110120006&locale=zh-CN",
+    "checked_at": "2026-10-11T06:51:59.404Z",
+    "name": "昔梦凝花",
+    "type": "inventory",
+    "desc": "通过灵芒之阁兑换获得的珍贵记忆之花。潮汐送来湿润的气味，流风唱着歌穿过谷地，拉姆带回晶莹的记忆，一点一点，凝成永不凋零的梦境。\n\n可用于眠于花畔套装制作。",
+    "bonuses": [],
+    "stats": [
+      "Price: 100"
+    ],
+    "extras": []
+  },
+  {
+    "id": "inv_1110120006",
+    "locale": "zh-TW",
+    "url": "https://infinitynikki.th.gl/api/db/entity-tooltip?id=inv_1110120006&locale=zh-TW",
+    "checked_at": "2026-10-11T06:51:59.553Z",
+    "name": "昔夢凝花",
+    "type": "inventory",
+    "desc": "透過靈芒之閣兌換獲得的珍貴記憶之花。潮汐送來濕潤的氣味，流風唱著歌穿過谷地，拉姆帶回晶瑩的記憶，一點一點，凝成永不凋零的夢境。\n\n可用於眠於花畔套裝製作。",
+    "bonuses": [],
+    "stats": [
+      "Price: 100"
+    ],
+    "extras": []
+  },
+  {
+    "id": "inv_1110120006",
+    "locale": "ja",
+    "url": "https://infinitynikki.th.gl/api/db/entity-tooltip?id=inv_1110120006&locale=ja",
+    "checked_at": "2026-10-11T06:52:00.176Z",
+    "name": "花となりし旧夢",
+    "type": "inventory",
+    "desc": "夢光結晶交換で獲得できる、貴重な記憶の花。潮は湿った匂いを運び、風は歌いながら谷を吹き抜け、ラムはきらきらとした記憶を持ち帰る。そうして少しずつ、永遠に散ることのない夢へと昇華されていくのだ。\n\n「花畔の眠り」の製作に使用可能",
+    "bonuses": [],
+    "stats": [
+      "Price: 100"
+    ],
+    "extras": []
+  },
+  {
+    "id": "inv_1110120006",
+    "locale": "ko",
+    "url": "https://infinitynikki.th.gl/api/db/entity-tooltip?id=inv_1110120006&locale=ko",
+    "checked_at": "2026-10-11T06:52:00.303Z",
+    "name": "옛꿈에 맺힌 꽃",
+    "type": "inventory",
+    "desc": "영감의 누각 교환을 통해 획득한 소중한 기억의 꽃이다. 조수는 축축한 냄새를 실어 오고, 바람은 노래를 부르며 골짜기를 가로지른다. 라움이 되찾아 온 영롱한 기억은 조금씩 모여 영원히 시들지 않는 꿈결이 된다.\n\n꽃언덕에 잠들다 세트 제작에 사용할 수 있다.",
+    "bonuses": [],
+    "stats": [
+      "Price: 100"
+    ],
+    "extras": []
+  }
+]

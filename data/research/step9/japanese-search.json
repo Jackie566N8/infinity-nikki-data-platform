@@ -1,0 +1,3962 @@
+[
+  {
+    "object_ids": [
+      "o10054",
+      "o10067",
+      "o10082",
+      "o10214"
+    ],
+    "checked_at": "2026-10-11T15:47:28.766Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"スイートクールライン\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"心揺らす翠の調べ\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雲間のステッチ\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"原初よりの創律\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "アイヅィスタイト共和国 - 天空世界 Wiki*",
+        "url": "https://wikiwiki.jp/tenku-sekai/%E3%82%A2%E3%82%A4%E3%83%85%E3%82%A3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%88%E5%85%B1%E5%92%8C%E5%9B%BD",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o10304",
+      "o10342",
+      "o10389",
+      "o10393"
+    ],
+    "checked_at": "2026-10-11T15:47:32.323Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"黄昏の賛歌\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星が弾む記憶\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"霊語響く夢の狭間\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星巡るネオン\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "〖デナアビ〗ライフル一覧〖デュエットナイトアビス〗｜ゲームエイト",
+        "url": "https://game8.jp/duetnightabyss/733640",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "攻撃スキル一覧 - 信長の野望 20XX (旧 201X) 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/nobuyabo201x/%E3%82%B9%E3%82%AD%E3%83%AB%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "イベント - identityⅤ推理考察 Wiki*",
+        "url": "https://wikiwiki.jp/story5/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "模擬宇宙/模擬宇宙図鑑 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%A8%A1%E6%93%AC%E5%AE%87%E5%AE%99/%E6%A8%A1%E6%93%AC%E5%AE%87%E5%AE%99%E5%9B%B3%E9%91%91",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "小説一覧 - Designed by Sakurai Wiki*",
+        "url": "https://wikiwiki.jp/dbs/%E5%B0%8F%E8%AA%AC%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "物語考察 - Designed by Sakurai Wiki*",
+        "url": "https://wikiwiki.jp/dbs/%E7%89%A9%E8%AA%9E%E8%80%83%E5%AF%9F",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "開拓行路/ピノコニー - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E9%96%8B%E6%8B%93%E8%A1%8C%E8%B7%AF/%E3%83%94%E3%83%8E%E3%82%B3%E3%83%8B%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "チラシの裏/夢の世界のアイデア - ゆめにっきっぽいゲームを作るスレ まとめ Wiki*",
+        "url": "https://wikiwiki.jp/yumenikki-g3/%E3%83%81%E3%83%A9%E3%82%B7%E3%81%AE%E8%A3%8F/%E5%A4%A2%E3%81%AE%E4%B8%96%E7%95%8C%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/オンパロス - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E3%82%AA%E3%83%B3%E3%83%91%E3%83%AD%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/ピノコニー(2) - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E3%83%94%E3%83%8E%E3%82%B3%E3%83%8B%E3%83%BC%282%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "イメージソング - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A4%E3%83%A1%E3%83%BC%E3%82%B8%E3%82%BD%E3%83%B3%E3%82%B0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "MenuBar - RISE OF KINGDOMS WIKI Wiki*",
+        "url": "https://wikiwiki.jp/raikin/MenuBar",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o10395",
+      "o20048",
+      "o20053",
+      "o1000102"
+    ],
+    "checked_at": "2026-10-11T15:47:34.474Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"一簾の煙雨\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"束縛なき緑野\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"海風の呼び声\" 製作 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夜明け前の躍動・小さな夜灯\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "星々の幻境/衣装 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%98%9F%E3%80%85%E3%81%AE%E5%B9%BB%E5%A2%83/%E8%A1%A3%E8%A3%85",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート履歴/2026 - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/2026",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "3.5周年記念イベントまとめ - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/3.5%E5%91%A8%E5%B9%B4%E8%A8%98%E5%BF%B5%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%81%BE%E3%81%A8%E3%82%81",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文1 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%201",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Ver3.0「星空を瞳に映して」 - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/Ver3.0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "山風/コメント6 - 艦隊これくしょん -艦これ- 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/kancolle/%E5%B1%B1%E9%A2%A8/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%886",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "画像倉庫/期間限定イベント - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E7%94%BB%E5%83%8F%E5%80%89%E5%BA%AB/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "クエスト - Silent Archivist - 沈黙の記録者 - Wiki*",
+        "url": "https://wikiwiki.jp/archivist/%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "旅のしるし - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E6%97%85%E3%81%AE%E3%81%97%E3%82%8B%E3%81%97",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "実績/ソラの見聞 - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E5%AE%9F%E7%B8%BE/%E3%82%BD%E3%83%A9%E3%81%AE%E8%A6%8B%E8%81%9E",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1000103",
+      "o1000104",
+      "o1001102",
+      "o1003302"
+    ],
+    "checked_at": "2026-10-11T15:47:36.648Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夜明け前の躍動・小さな石舟\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夜明け前の躍動・小さな花火\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"遥かな深林の夢・夕歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"白鳥童話・夢想\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "BGM - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/BGM",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖オセロニア〗神のキャラ評価一覧｜ゲームエイト",
+        "url": "https://game8.jp/othellonia/147429",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "２階・部屋データ - ミステリーハウス Wiki*",
+        "url": "https://wikiwiki.jp/misterymanor/%EF%BC%92%E9%9A%8E%E3%83%BB%E9%83%A8%E5%B1%8B%E3%83%87%E3%83%BC%E3%82%BF",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "モンスターストライク/ページ11 - ドリームレジェンドアニメファイタークロニクル Wiki*",
+        "url": "https://wikiwiki.jp/taka135248/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%82%A4%E3%82%AF/%E3%83%9A%E3%83%BC%E3%82%B811",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1003303",
+      "o1003304",
+      "o1004902",
+      "o1005102"
+    ],
+    "checked_at": "2026-10-11T15:47:38.766Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"白鳥童話・秘炎\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"白鳥童話・真髄\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森の息吹と光・暮歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"吟じられる古夢・帰路\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "詠嘆の銀小夜啼 - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E8%A9%A0%E5%98%86%E3%81%AE%E9%8A%80%E5%B0%8F%E5%A4%9C%E5%95%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "風物クエスト - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E9%A2%A8%E7%89%A9%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "人気100 - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E4%BA%BA%E6%B0%97100",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "シーズン17 - identityⅤ推理考察 Wiki*",
+        "url": "https://wikiwiki.jp/story5/%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B317",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "元ネタ - VIPでウマ娘 Wiki*",
+        "url": "https://wikiwiki.jp/vip_umamusu/%E5%85%83%E3%83%8D%E3%82%BF",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1005202",
+      "o1005602",
+      "o1005802",
+      "o1005902"
+    ],
+    "checked_at": "2026-10-11T15:47:40.403Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"新歳の曙・春茶\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"潮汐のサメの影・楽夏\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森の蝶との戯れ・星彩\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢渡りの幽鱗・寒淵\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1006202",
+      "o1006203",
+      "o1006204",
+      "o1006702"
+    ],
+    "checked_at": "2026-10-11T15:47:42.079Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"願いの金薔薇・開花\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"願いの金薔薇・遅明\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"願いの金薔薇・暗蝕\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"心揺らす翠の調べ・織音\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "シーズン17 - identityⅤ推理考察 Wiki*",
+        "url": "https://wikiwiki.jp/story5/%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B317",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "更新情報 - Elona mobile 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/elonamobile/%E6%9B%B4%E6%96%B0%E6%83%85%E5%A0%B1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "オンライン/バッジ攻略 - ゆめ2っきを楽しむ Wiki*",
+        "url": "https://wikiwiki.jp/yume2kki-t/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/%E3%83%90%E3%83%83%E3%82%B8%E6%94%BB%E7%95%A5",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1008202",
+      "o1008402",
+      "o1008502",
+      "o1009202"
+    ],
+    "checked_at": "2026-10-11T15:47:44.347Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"雲間のステッチ・野織\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"爽やかなお茶会・後憩\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"金色の根芽・焼跡\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"ナイトジャズの恋人・輪舞\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1009302",
+      "o1009303",
+      "o1009304",
+      "o1009402"
+    ],
+    "checked_at": "2026-10-11T15:47:45.941Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"燦然と輝く星々・堕夢\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"燦然と輝く星々・星影\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"燦然と輝く星々・栄輝\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"月下の盟約・幽林\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖モンスト〗クリティカル持ちキャラクター一覧｜ゲームエイト",
+        "url": "https://game8.jp/monst/67227",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖原神〗アチーブメントチェッカー・総数｜ゲームエイト",
+        "url": "https://game8.jp/genshin/776239",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "物語/物語_ハ - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E/%E7%89%A9%E8%AA%9E_%E3%83%8F",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "夢現のシーベッド - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E5%A4%A2%E7%8F%BE%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%99%E3%83%83%E3%83%89",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1009502",
+      "o1009602",
+      "o1009702",
+      "o1010502"
+    ],
+    "checked_at": "2026-10-11T15:47:47.590Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"心湖のそよ波・初虹\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"真夜中の見守り・旅立ち\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"永遠の絆・思い出\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"筆先の花・星舞い\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "残虹 - Neverness to Everness Wiki*",
+        "url": "https://wikiwiki.jp/nte/%E6%AE%8B%E8%99%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文5 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%205",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "強力な編成例 - 崩壊学園 Wiki*",
+        "url": "https://wikiwiki.jp/houkaigakuen/build",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "G.R.A.D.編 - シャニマス攻略 Wiki*",
+        "url": "https://wikiwiki.jp/shinycolors/G.R.A.D.%E7%B7%A8",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ローディングTips - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%AD%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0Tips",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "セラフ・ダズルガーデン/動画一覧 - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%BB%E3%83%A9%E3%83%95%E3%83%BB%E3%83%80%E3%82%BA%E3%83%AB%E3%82%AC%E3%83%BC%E3%83%87%E3%83%B3/%E5%8B%95%E7%94%BB%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "サポートスキル一覧 - シャニマス攻略 Wiki*",
+        "url": "https://wikiwiki.jp/shinycolors/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E3%82%B9%E3%82%AD%E3%83%AB%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "コメント/質問掲示板7 - シャニマス攻略 Wiki*",
+        "url": "https://wikiwiki.jp/shinycolors/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88/%E8%B3%AA%E5%95%8F%E6%8E%B2%E7%A4%BA%E6%9D%BF7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "探索手帖 - 攻略メモ Wiki*",
+        "url": "https://wikiwiki.jp/ryza2/%E6%8E%A2%E7%B4%A2%E6%89%8B%E5%B8%96",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1010702",
+      "o1010902",
+      "o1011302",
+      "o1011402"
+    ],
+    "checked_at": "2026-10-11T15:47:49.428Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夢の泉の流光・協奏\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"灰燼の如き歌・初光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星と月の目覚め・雲歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"ふわふわ花踊り・雪の絨毯\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "育成素材 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E8%82%B2%E6%88%90%E7%B4%A0%E6%9D%90",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "イネファ - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A4%E3%83%8D%E3%83%95%E3%82%A1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "特殊ペア名 - 幻想少女大戦コンプリートボックス 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/gswcomplete/%E7%89%B9%E6%AE%8A%E3%83%9A%E3%82%A2%E5%90%8D",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "バッグ/調度品 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E8%AA%BF%E5%BA%A6%E5%93%81",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文3 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%204",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ゲーム外の公式コンテンツ/動画 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%B2%E3%83%BC%E3%83%A0%E5%A4%96%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/%E5%8B%95%E7%94%BB",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ストーリー要約/魔神任務 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E8%A6%81%E7%B4%84/%E9%AD%94%E7%A5%9E%E4%BB%BB%E5%8B%99",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1011702",
+      "o1011703",
+      "o1011704",
+      "o1012302"
+    ],
+    "checked_at": "2026-10-11T15:47:51.192Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夜を彩る光・灼熱の焔\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夜を彩る光・眩惑の金\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夜を彩る光・永炎の灯\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"宴と夢の奇縁・新生\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "〖原神〗Ver.7.1アプデ最新情報・過去のアプデ情報まとめ｜ゲームエイト",
+        "url": "https://game8.jp/genshin/354957",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "コンボ図鑑/図鑑順 - ヤマトクロニクル覚醒 Wiki*",
+        "url": "https://wikiwiki.jp/yamachro/%E3%82%B3%E3%83%B3%E3%83%9C%E5%9B%B3%E9%91%91/%E5%9B%B3%E9%91%91%E9%A0%86",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖原神〗アチーブメントチェッカー・総数｜ゲームエイト",
+        "url": "https://game8.jp/genshin/776239",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1012602",
+      "o1012603",
+      "o1012604",
+      "o1012802"
+    ],
+    "checked_at": "2026-10-11T15:47:52.703Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"孤島の蝶の羽ばたき・火焔の歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"孤島の蝶の羽ばたき・花鳥の歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"孤島の蝶の羽ばたき・夢吟の歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"詠嘆の銀小夜啼・変化の歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "階差宇宙/千の面を持つ英雄/タイタン頌歌 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99/%E5%8D%83%E3%81%AE%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4%E8%8B%B1%E9%9B%84/%E3%82%BF%E3%82%A4%E3%82%BF%E3%83%B3%E9%A0%8C%E6%AD%8C",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ショアキーパー - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E3%82%B7%E3%83%A7%E3%82%A2%E3%82%AD%E3%83%BC%E3%83%91%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "バッグ/調度品/屋外/景観2 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E8%AA%BF%E5%BA%A6%E5%93%81/%E5%B1%8B%E5%A4%96/%E6%99%AF%E8%A6%B32",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "バッグ/調度品/一覧2 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E8%AA%BF%E5%BA%A6%E5%93%81/%E4%B8%80%E8%A6%A72",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖原神〗屋外用の調度品一覧と入手方法｜ゲームエイト",
+        "url": "https://game8.jp/genshin/487316",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1012803",
+      "o1012804",
+      "o1012902",
+      "o1012903"
+    ],
+    "checked_at": "2026-10-11T15:47:54.954Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"詠嘆の銀小夜啼・涙の跡\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"詠嘆の銀小夜啼・別れの時\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"羽ばたく願い事・晴空\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"羽ばたく願い事・憧影\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ストーリー実装順 - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E5%AE%9F%E8%A3%85%E9%A0%86",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1012904",
+      "o1013202",
+      "o1013702",
+      "o1014202"
+    ],
+    "checked_at": "2026-10-11T15:47:56.638Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"羽ばたく願い事・月夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"グッドライド・幻夢\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"第五の味覚・本初\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"きらめく舞曲・終幕\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ストーリー実装順 - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC%E5%AE%9F%E8%A3%85%E9%A0%86",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "イベント一覧 - 崩壊3rd Wiki*",
+        "url": "https://wikiwiki.jp/houkai/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "夢現のシーベッド - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E5%A4%A2%E7%8F%BE%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%99%E3%83%83%E3%83%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ガシャ - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E3%82%AC%E3%82%B7%E3%83%A3",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1014302",
+      "o1014502",
+      "o1014503",
+      "o1014504"
+    ],
+    "checked_at": "2026-10-11T15:47:58.374Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"せせらぐ水の導き・波歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"波間のささやき・鼓動\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"波間のささやき・森跡\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"波間のささやき・幽災\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "チャンピオンズミーティング/25CLASSIC - ｽｯﾍﾟﾝﾍﾟﾝ Wiki*",
+        "url": "https://wikiwiki.jp/sppenpen/%E3%83%81%E3%83%A3%E3%83%B3%E3%83%94%E3%82%AA%E3%83%B3%E3%82%BA%E3%83%9F%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0/25CLASSIC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "スキル(加速) - ｽｯﾍﾟﾝﾍﾟﾝ Wiki*",
+        "url": "https://wikiwiki.jp/sppenpen/%E3%82%B9%E3%82%AD%E3%83%AB%28%E5%8A%A0%E9%80%9F%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ガシャ - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E3%82%AC%E3%82%B7%E3%83%A3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "スキル(速度5) - ｽｯﾍﾟﾝﾍﾟﾝ Wiki*",
+        "url": "https://wikiwiki.jp/sppenpen/%E3%82%B9%E3%82%AD%E3%83%AB%28%E9%80%9F%E5%BA%A65%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "スキル(持久力) - ｽｯﾍﾟﾝﾍﾟﾝ Wiki*",
+        "url": "https://wikiwiki.jp/sppenpen/%E3%82%B9%E3%82%AD%E3%83%AB%28%E6%8C%81%E4%B9%85%E5%8A%9B%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Side Story 2 (10-1~S-6) - Arcaea Wiki*",
+        "url": "https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Side%20Story/Archive%202",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "サポート完凸早見表 - VIPでウマ娘 Wiki*",
+        "url": "https://wikiwiki.jp/vip_umamusu/%E3%82%B5%E3%83%9D%E3%83%BC%E3%83%88%E5%AE%8C%E5%87%B8%E6%97%A9%E8%A6%8B%E8%A1%A8",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1014602",
+      "o1015302",
+      "o1015402",
+      "o1015403"
+    ],
+    "checked_at": "2026-10-11T15:48:00.329Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"クイーンの遊戯・支配\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"カエルトレンド・守夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"フェアリーノート・雪路\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"フェアリーノート・明光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "〖モンスト〗クリティカル持ちキャラクター一覧｜ゲームエイト",
+        "url": "https://game8.jp/monst/67227",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖マスターデュエル〗地属性モンスターの一覧と入手方法〖遊戯王〗｜ゲームエイト",
+        "url": "https://game8.jp/yugioh-masterduel/437586",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "稼ぎ編成 - YourChronicle Wiki*",
+        "url": "https://wikiwiki.jp/ychronicle/%E7%A8%BC%E3%81%8E%E7%B7%A8%E6%88%90",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖マスターデュエル〗SRカードの一覧と入手方法〖遊戯王〗｜ゲームエイト",
+        "url": "https://game8.jp/yugioh-masterduel/437766",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖マスターデュエル〗エクシーズモンスターの最強ランキングと一覧〖遊戯王〗｜ゲームエイト",
+        "url": "https://game8.jp/yugioh-masterduel/430165",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アイテム/セット装備 - Throne and Liberty攻略 Wiki*",
+        "url": "https://wikiwiki.jp/ptaljp/%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0/%E3%82%BB%E3%83%83%E3%83%88%E8%A3%85%E5%82%99",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖モンスト〗光属性のガチャキャラ一覧！｜ゲームエイト",
+        "url": "https://game8.jp/monst/67114",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート情報/カード変更履歴 - 東方光耀夜攻略 Wiki*",
+        "url": "https://wikiwiki.jp/tohokoyoya/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E6%83%85%E5%A0%B1/%E3%82%AB%E3%83%BC%E3%83%89%E5%A4%89%E6%9B%B4%E5%B1%A5%E6%AD%B4",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖マスターデュエル〗効果モンスターの最強ランキングと一覧〖遊戯王〗｜ゲームエイト",
+        "url": "https://game8.jp/yugioh-masterduel/430163",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート情報/カード変更履歴/共通 - 東方光耀夜攻略 Wiki*",
+        "url": "https://wikiwiki.jp/tohokoyoya/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E6%83%85%E5%A0%B1/%E3%82%AB%E3%83%BC%E3%83%89%E5%A4%89%E6%9B%B4%E5%B1%A5%E6%AD%B4/%E5%85%B1%E9%80%9A",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "オリバー・エバンス (おりばーえばんす) - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%AA%E3%83%AA%E3%83%90%E3%83%BC%E3%83%BB%E3%82%A8%E3%83%90%E3%83%B3%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "キャラクター/財統べる貪欲な支配者 アポロ - 夢王国と眠れる100人の王子様攻略情報 Wiki*",
+        "url": "https://wikiwiki.jp/yume100/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC/%E8%B2%A1%E7%B5%B1%E3%81%B9%E3%82%8B%E8%B2%AA%E6%AC%B2%E3%81%AA%E6%94%AF%E9%85%8D%E8%80%85%20%E3%82%A2%E3%83%9D%E3%83%AD",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1015404",
+      "o1016002",
+      "o1016102",
+      "o1016103"
+    ],
+    "checked_at": "2026-10-11T15:48:02.682Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"フェアリーノート・心跡\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"優雅な気品・森影\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢咲く花の幻・暗潮\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢咲く花の幻・蛍光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "風物クエスト - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E9%A2%A8%E7%89%A9%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ミラクルツアー - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E3%83%9F%E3%83%A9%E3%82%AF%E3%83%AB%E3%83%84%E3%82%A2%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "バッジ攻略 - Yume Nikki Fangamesを楽しむ Wiki*",
+        "url": "https://wikiwiki.jp/yno/%E3%83%90%E3%83%83%E3%82%B8%E6%94%BB%E7%95%A5",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "人気100 - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E4%BA%BA%E6%B0%97100",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/物産誌 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E5%9B%B3%E9%91%91/%E7%89%A9%E7%94%A3%E8%AA%8C",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "詠嘆の銀小夜啼 - インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/%E8%A9%A0%E5%98%86%E3%81%AE%E9%8A%80%E5%B0%8F%E5%A4%9C%E5%95%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "インフィニティニキ Wiki*",
+        "url": "https://wikiwiki.jp/infinityniki/",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "神域帝国 - 天空世界 Wiki*",
+        "url": "https://wikiwiki.jp/tenku-sekai/%E3%83%9F%E3%82%AA%E3%82%BD%E3%83%86%E3%82%A3%E3%83%AA%E3%82%A2%E8%92%BC%E7%91%A9%E7%A9%A3%E5%A4%A2%E5%B9%BB%E3%83%8F%E3%82%A4%E3%83%B4%E3%82%A3%E3%83%8B%E3%82%BF%E3%83%81%E3%82%A2%E7%A5%9E%E5%9F%9F%E5%B8%9D%E5%9B%BD",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "歌唱まとめ/03 - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E6%AD%8C%E5%94%B1%E3%81%BE%E3%81%A8%E3%82%81/03",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1016104",
+      "o1016202",
+      "o1016203",
+      "o1016204"
+    ],
+    "checked_at": "2026-10-11T15:48:04.481Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夢咲く花の幻・浴炎\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雪原の叙事詩・危炎\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雪原の叙事詩・心誓\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雪原の叙事詩・別歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "残虹 - Neverness to Everness Wiki*",
+        "url": "https://wikiwiki.jp/nte/%E6%AE%8B%E8%99%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "大北イスカンヅィア帝国連邦 - 国家創作世界 Magiscia Wiki*",
+        "url": "https://wikiwiki.jp/magiscia/%E5%A4%A7%E5%8C%97%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%B3%E3%83%85%E3%82%A3%E3%82%A2%E5%B8%9D%E5%9B%BD%E9%80%A3%E9%82%A6",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文1 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%201",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ローディングTips - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%AD%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0Tips",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文3 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%203",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ドゥリン - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%89%E3%82%A5%E3%83%AA%E3%83%B3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ゲーム外の公式コンテンツ/動画 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%B2%E3%83%BC%E3%83%A0%E5%A4%96%E3%81%AE%E5%85%AC%E5%BC%8F%E3%82%B3%E3%83%B3%E3%83%86%E3%83%B3%E3%83%84/%E5%8B%95%E7%94%BB",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "物語/物語_ハ - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E/%E7%89%A9%E8%AA%9E_%E3%83%8F",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1016302",
+      "o1016402",
+      "o1016502",
+      "o1016503"
+    ],
+    "checked_at": "2026-10-11T15:48:06.706Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"切り取る一瞬・花海\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"筆先に漂う奇彩・絵夢\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"透き通る詩集・夜雪\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"透き通る詩集・春境\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "バッグ/調度品/屋外/景観 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E8%AA%BF%E5%BA%A6%E5%93%81/%E5%B1%8B%E5%A4%96/%E6%99%AF%E8%A6%B3",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1016504",
+      "o1016602",
+      "o1016702",
+      "o1017302"
+    ],
+    "checked_at": "2026-10-11T15:48:08.264Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"透き通る詩集・灼陽\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"煌めく流星の刻・星火\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"実りへの賛歌・星光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"一念の芳香・映月\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "育成素材 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E8%82%B2%E6%88%90%E7%B4%A0%E6%9D%90",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "階差宇宙/千の面を持つ英雄/可能性ギャラリー/奇物フレーバーテキスト - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E9%9A%8E%E5%B7%AE%E5%AE%87%E5%AE%99/%E5%8D%83%E3%81%AE%E9%9D%A2%E3%82%92%E6%8C%81%E3%81%A4%E8%8B%B1%E9%9B%84/%E5%8F%AF%E8%83%BD%E6%80%A7%E3%82%AE%E3%83%A3%E3%83%A9%E3%83%AA%E3%83%BC/%E5%A5%87%E7%89%A9%E3%83%95%E3%83%AC%E3%83%BC%E3%83%90%E3%83%BC%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1017402",
+      "o1017502",
+      "o1017602",
+      "o1017802"
+    ],
+    "checked_at": "2026-10-11T15:48:10.315Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"深海より来たる・終寂\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"林霧の語りもの・余温\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"蓮心の済度・久念\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"一途な炎翼・落羽\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1017803",
+      "o1017804",
+      "o1017902",
+      "o1018102"
+    ],
+    "checked_at": "2026-10-11T15:48:11.779Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"一途な炎翼・熾風\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"一途な炎翼・涅槃\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"ローゼリボンワルツ・変奏\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"湖の人魚姫・落星\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1018202",
+      "o1018302",
+      "o1018303",
+      "o1018304"
+    ],
+    "checked_at": "2026-10-11T15:48:13.377Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"星色の幕開け・縈\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"クラシックの楽章・交響曲\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"クラシックの楽章・変奏曲\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"クラシックの楽章・狂想曲\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "ナムコオリジナル曲のシリーズ曲一覧 - 太鼓の達人 譜面とか Wiki*",
+        "url": "https://wikiwiki.jp/taiko-fumen/%E5%8F%8E%E9%8C%B2%E6%9B%B2/%E3%83%8A%E3%83%A0%E3%82%B3%E3%82%AA%E3%83%AA%E3%82%B8%E3%83%8A%E3%83%AB/%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA%E6%9B%B2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "極のイチ押し作品 - BLUE・RAIN広場 Wiki*",
+        "url": "https://wikiwiki.jp/bluerain/%E6%A5%B5%E3%81%AE%E3%82%A4%E3%83%81%E6%8A%BC%E3%81%97%E4%BD%9C%E5%93%81",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "LVBNR5 SCHWARZ - Cytus Wiki*",
+        "url": "https://wikiwiki.jp/cytus/LVBNR5%20SCHWARZ",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "コメント/自由掲示板/戦闘時に聞いてる曲・BGMを晒すスレ - War Thunder Wiki*",
+        "url": "https://wikiwiki.jp/warthunder/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88/%E8%87%AA%E7%94%B1%E6%8E%B2%E7%A4%BA%E6%9D%BF/%E6%88%A6%E9%97%98%E6%99%82%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%82%8B%E6%9B%B2%E3%83%BBBGM%E3%82%92%E6%99%92%E3%81%99%E3%82%B9%E3%83%AC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "コメント/システム/CSの歴史 - 太鼓の達人 譜面とか Wiki*",
+        "url": "https://wikiwiki.jp/taiko-fumen/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%88/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/CS%E3%81%AE%E6%AD%B4%E5%8F%B2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "楽曲 - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E6%A5%BD%E6%9B%B2",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1018601",
+      "o1019202",
+      "o1019702",
+      "o1019802"
+    ],
+    "checked_at": "2026-10-11T15:48:15.284Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"残影のシャトル・青霧\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"金彩の日々・放浪\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"霧に漂う幻霊・夜明け\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雲の白昼夢・夜遊\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "BGM/フィールドBGM - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/BGM/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89BGM",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "BGM/真珠の歌 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/BGM/%E7%9C%9F%E7%8F%A0%E3%81%AE%E6%AD%8C",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "調度品 - 原神翻訳 Wiki*",
+        "url": "https://wikiwiki.jp/gnsn_tr/%E8%AA%BF%E5%BA%A6%E5%93%81",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/二相楽園(2) - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E4%BA%8C%E7%9B%B8%E6%A5%BD%E5%9C%92%282%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "キャラマイページ台詞集（3D） - 世界だ Wiki*",
+        "url": "https://wikiwiki.jp/sekaida/%E3%82%AD%E3%83%A3%E3%83%A9%E3%83%9E%E3%82%A4%E3%83%9A%E3%83%BC%E3%82%B8%E5%8F%B0%E8%A9%9E%E9%9B%86%EF%BC%883D%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "実績/編集用ページ - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E5%AE%9F%E7%B8%BE/%E7%B7%A8%E9%9B%86%E7%94%A8%E3%83%9A%E3%83%BC%E3%82%B8",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "好きな曲 - mk48.io Sand Box Wiki*",
+        "url": "https://wikiwiki.jp/phoenix1201/%E5%A5%BD%E3%81%8D%E3%81%AA%E6%9B%B2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1020102",
+      "o1020302",
+      "o1020402",
+      "o1020502"
+    ],
+    "checked_at": "2026-10-11T15:48:16.888Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"新歳の賀慶・春の野原\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"輝きの夜庭・森語\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"剣雨の侠客・紅葉\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"碧波の恩返し・同舟\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1020602",
+      "o1020702",
+      "o1020802",
+      "o1021302"
+    ],
+    "checked_at": "2026-10-11T15:48:18.624Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"色褪せぬ誓い・盟約\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"今宵の風月・無縛\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢燃やす幻花・さざ波\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"燦燦たる焔光・不思議な夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語（法器） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E%EF%BC%88%E6%B3%95%E5%99%A8%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語（Ver5.0～） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E%EF%BC%88Ver5.0%EF%BD%9E%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "勇者一覧 - おいしいうどんを蕎麦にする Wiki*",
+        "url": "https://wikiwiki.jp/yusyadearu/%E5%8B%87%E8%80%85%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ダンス・ダンス・ダンス - 中野有香総合 Wiki*",
+        "url": "https://wikiwiki.jp/nakanoyuka/dancedancedance",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アビリティ 逆検索2 - おいしいうどんを蕎麦にする Wiki*",
+        "url": "https://wikiwiki.jp/yusyadearu/%E3%82%A2%E3%83%93%E3%83%AA%E3%83%86%E3%82%A3%20%E9%80%86%E6%A4%9C%E7%B4%A22",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1021402",
+      "o1021502",
+      "o1021602",
+      "o1021702"
+    ],
+    "checked_at": "2026-10-11T15:48:20.785Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"原初よりの創律・憧影\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"流れる霊光の契約・幻華\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"霧と夜明けの誓い・灼光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"深き林の心・新月\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "物語/物語_ア_2 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E/%E7%89%A9%E8%AA%9E_%E3%82%A2_2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "任務アイテム - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E4%BB%BB%E5%8B%99%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1021802",
+      "o1021902",
+      "o1022202",
+      "o1022302"
+    ],
+    "checked_at": "2026-10-11T15:48:23.106Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"折枝の花景色・旧聞\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢映しの姿・蜜の絵\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"陽回りの花紀・咲菫\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"緋い夜の狂想・儚い執念\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1022303",
+      "o1022304",
+      "o1022402",
+      "o1022602"
+    ],
+    "checked_at": "2026-10-11T15:48:24.774Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"緋い夜の狂想・葉の手稿\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"緋い夜の狂想・往日の夢\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"機巧の証明・本心\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"テーラリングアート・赤いハサミ\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アーカイブ/遺物 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/%E9%81%BA%E7%89%A9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "寒鴉 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E5%AF%92%E9%B4%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "朱雀院椿 - CRYSTALiA 作品 Wiki*",
+        "url": "https://wikiwiki.jp/crystarea/%E6%9C%B1%E9%9B%80%E9%99%A2%E6%A4%BF",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "七聖召喚/装備カード - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E4%B8%83%E8%81%96%E5%8F%AC%E5%96%9A/%E8%A3%85%E5%82%99%E3%82%AB%E3%83%BC%E3%83%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "キャラクターストーリー - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1022702",
+      "o1022802",
+      "o1023102",
+      "o1023103"
+    ],
+    "checked_at": "2026-10-11T15:48:26.647Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"心安らぐ言葉・甘い想い\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"緑野の軽やかな歌・惜別\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"涙影は潮に落ちて・挽歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"涙影は潮に落ちて・落鱗\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/生物誌/敵と魔物 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E5%9B%B3%E9%91%91/%E7%94%9F%E7%89%A9%E8%AA%8C/%E6%95%B5%E3%81%A8%E9%AD%94%E7%89%A9",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1023104",
+      "o1023202",
+      "o1023402",
+      "o1023502"
+    ],
+    "checked_at": "2026-10-11T15:48:28.333Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"涙影は潮に落ちて・氷雪\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"長夜の灯語り・微光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森奥の翼・残火\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"王国の姫君・長明\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "バッグ/育成アイテム - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E8%82%B2%E6%88%90%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "UID素材等 - 関数を探す喜び Wiki*",
+        "url": "https://wikiwiki.jp/persikawaii/UID%E7%B4%A0%E6%9D%90%E7%AD%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "開拓行路/オンパロス - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E9%96%8B%E6%8B%93%E8%A1%8C%E8%B7%AF/%E3%82%AA%E3%83%B3%E3%83%91%E3%83%AD%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "フィールドテキスト - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "鳴潮用語集（世界観の用語） - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E9%B3%B4%E6%BD%AE%E7%94%A8%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1023802",
+      "o1023902",
+      "o1023903",
+      "o1023904"
+    ],
+    "checked_at": "2026-10-11T15:48:30.214Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"バルーン漫遊記・輪菓\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"アリオーソの旧夢・未来の声\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"アリオーソの旧夢・人形の歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"アリオーソの旧夢・最後のバラ\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1024102",
+      "o1024302",
+      "o1024402",
+      "o1024502"
+    ],
+    "checked_at": "2026-10-11T15:48:32.403Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"白日の夢追い・妄言\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"前塵を渡る心盤・瑶光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"三生の共縁・彼岸\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"千焔燃ゆ花明り・夢燃\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "夢追翔/動画一覧/投稿動画・番組出演 - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E8%BF%BD%E7%BF%94/%E5%8B%95%E7%94%BB%E4%B8%80%E8%A6%A7/%E6%8A%95%E7%A8%BF%E5%8B%95%E7%94%BB%E3%83%BB%E7%95%AA%E7%B5%84%E5%87%BA%E6%BC%94",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "緑仙/動画一覧 - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E7%B7%91%E4%BB%99/%E5%8B%95%E7%94%BB%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "緑仙 (りゅーしぇん) - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E7%B7%91%E4%BB%99",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "夢追翔/音楽情報/歌まとめ - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%A4%A2%E8%BF%BD%E7%BF%94/%E9%9F%B3%E6%A5%BD%E6%83%85%E5%A0%B1/%E6%AD%8C%E3%81%BE%E3%81%A8%E3%82%81",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アクシア・クローネ (あくしあくろーね) - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E3%82%A2%E3%82%AF%E3%82%B7%E3%82%A2%E3%83%BB%E3%82%AF%E3%83%AD%E3%83%BC%E3%83%8D",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "健屋花那/詳しく知りたい/配信でのエピソード - にじさんじ Wiki*",
+        "url": "https://wikiwiki.jp/nijisanji/%E5%81%A5%E5%B1%8B%E8%8A%B1%E9%82%A3/%E8%A9%B3%E3%81%97%E3%81%8F%E7%9F%A5%E3%82%8A%E3%81%9F%E3%81%84/%E9%85%8D%E4%BF%A1%E3%81%A7%E3%81%AE%E3%82%A8%E3%83%94%E3%82%BD%E3%83%BC%E3%83%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アーカイブ/キャラクター - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/%E3%82%AD%E3%83%A3%E3%83%A9%E3%82%AF%E3%82%BF%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート履歴 - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1024902",
+      "o1025002",
+      "o1025003",
+      "o1025004"
+    ],
+    "checked_at": "2026-10-11T15:48:34.281Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"形無き真意・銘心\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雨落ちて、花ひらく・別れ\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雨落ちて、花ひらく・待ち人\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雨落ちて、花ひらく・繚乱\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1025102",
+      "o1025202",
+      "o1025602",
+      "o1025802"
+    ],
+    "checked_at": "2026-10-11T15:48:36.296Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"雲露の幻想・輝陽\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"昨日を行きし穂風・遥歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"ドレスと夢の影・年華\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"古庭に咲く花思い・蔓生ゆ\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1025902",
+      "o1026102",
+      "o1026302",
+      "o1026303"
+    ],
+    "checked_at": "2026-10-11T15:48:37.851Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"応援のハートビート・音波\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"輝火の叙す長詩・微芒\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"謁霊・赤枷\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"謁霊・往生\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "ローディングTips - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%AD%E3%83%BC%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0Tips",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "説明テキスト - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%AA%AC%E6%98%8E%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ことば追加要望 - コトダマン Wiki*",
+        "url": "https://wikiwiki.jp/kotodaman-d/%E3%81%93%E3%81%A8%E3%81%B0%E8%BF%BD%E5%8A%A0%E8%A6%81%E6%9C%9B",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "クイックスタート説明文 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%AF%E3%82%A4%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%88%E8%AA%AC%E6%98%8E%E6%96%87",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "砂場/地名集 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%A0%82%E5%A0%B4/%E5%9C%B0%E5%90%8D%E9%9B%86",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1026304",
+      "o1026402",
+      "o1026502",
+      "o1026503"
+    ],
+    "checked_at": "2026-10-11T15:48:40.534Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"謁霊・輪廻\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"花泉の幻想世界・夢語\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"花畔の眠り・息吹\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"花畔の眠り・潮騒\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "説明テキスト - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%AA%AC%E6%98%8E%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "トークン一覧(やみおとめ)/7 - AIのべりすと Wiki*",
+        "url": "https://wikiwiki.jp/ainove_wiki/%E3%83%88%E3%83%BC%E3%82%AF%E3%83%B3%E4%B8%80%E8%A6%A7%28%E3%82%84%E3%81%BF%E3%81%8A%E3%81%A8%E3%82%81%29/7",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1026504",
+      "o1026802",
+      "o1026803",
+      "o1026804"
+    ],
+    "checked_at": "2026-10-11T15:48:42.082Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"花畔の眠り・夕日\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"彼女は不縛の炎・森林\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"彼女は不縛の炎・残月\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"彼女は不縛の炎・周遊\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1027902",
+      "o1028201",
+      "o1028601",
+      "o1028701"
+    ],
+    "checked_at": "2026-10-11T15:48:44.176Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夢に落ちる夜・決意\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢に宿る星々・雲霞\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森に芽吹きし新角・夜帳\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"舞い浮かぶ白・寂生\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "文藝誌 ジャパリ文學（SS総合投稿スレ） けものフレンズBBS NEO - zawazawa",
+        "url": "https://z.wikiwiki.jp/minmi/topic/282",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1028802",
+      "o1028902",
+      "o1028903",
+      "o1028904"
+    ],
+    "checked_at": "2026-10-11T15:48:47.265Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"燼なる蝶の終曲・凛夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無名無我・碧空\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無名無我・長夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無名無我・帰魂\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2025-1 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2025-1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖原神〗Ver.7.1アプデ最新情報・過去のアプデ情報まとめ｜ゲームエイト",
+        "url": "https://game8.jp/genshin/354957",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2026-1 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2026-1",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1029002",
+      "o1029003",
+      "o1029004",
+      "o1029202"
+    ],
+    "checked_at": "2026-10-11T15:48:49.062Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"枯骨に咲く花・翠夢\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"枯骨に咲く花・昼歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"枯骨に咲く花・終誓\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"砂原の息吹・遠路\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1029302",
+      "o1029303",
+      "o1029304",
+      "o1029402"
+    ],
+    "checked_at": "2026-10-11T15:48:50.998Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"森のさざめき・煙霞\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森のさざめき・林遊\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森のさざめき・幽蛍\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"花影に心を寄せて・熾心\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "物語/物語_ハ - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E/%E7%89%A9%E8%AA%9E_%E3%83%8F",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "メルローゼン - メフテルハーネデータベース Wiki*",
+        "url": "https://wikiwiki.jp/mehterhanedb/%E3%83%A1%E3%83%AB%E3%83%AD%E3%83%BC%E3%82%BC%E3%83%B3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ファイノン - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8E%E3%83%B3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ラズベリア舞台/戦闘エリア/マーゼランド王国 - ラズベリア Wiki*",
+        "url": "https://wikiwiki.jp/raspberria/%E3%83%A9%E3%82%BA%E3%83%99%E3%83%AA%E3%82%A2%E8%88%9E%E5%8F%B0/%E6%88%A6%E9%97%98%E3%82%A8%E3%83%AA%E3%82%A2/%E3%83%9E%E3%83%BC%E3%82%BC%E3%83%A9%E3%83%B3%E3%83%89%E7%8E%8B%E5%9B%BD",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アーカイブ/遺物 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/%E9%81%BA%E7%89%A9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "キャラクターストーリー（あ行, か行） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖ステラソラ〗最強パーティ編成・属性別おすすめ編成｜ゲームエイト",
+        "url": "https://game8.jp/stellasora/731952",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "清らかな森 - ポケモン不思議のダンジョン 救助隊DX Wiki*",
+        "url": "https://wikiwiki.jp/pokemysdundx/%E6%B8%85%E3%82%89%E3%81%8B%E3%81%AA%E6%A3%AE",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "書籍 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1029403",
+      "o1029404",
+      "o1029502",
+      "o1029601"
+    ],
+    "checked_at": "2026-10-11T15:48:53.496Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"花影に心を寄せて・澄輝\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"花影に心を寄せて・彩夢\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"一葉の陽だまり・晚安\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"森の古歌・若芽\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "Short Story - Arcaea Wiki*",
+        "url": "https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Short%20Story",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1029802",
+      "o1029901",
+      "o1030002",
+      "o1030003"
+    ],
+    "checked_at": "2026-10-11T15:48:55.904Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"時の誓約・寓話\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"孤独の羽影・断痕\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"灯りし破暁の光・空繭\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"灯りし破暁の光・墜火\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語（Ver2.6～） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E%EF%BC%88Ver2.6%EF%BD%9E%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/二相楽園 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E4%BA%8C%E7%9B%B8%E6%A5%BD%E5%9C%92",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート一覧/2023/2 - ドールズフロントライン(ドルフロ)〖少女前線〗 Wiki*",
+        "url": "https://wikiwiki.jp/dolls-fl/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7/2023/2",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "バッグ/任務/世界任務 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E4%BB%BB%E5%8B%99/%E4%B8%96%E7%95%8C%E4%BB%BB%E5%8B%99",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1030004",
+      "o1030102",
+      "o1030103",
+      "o1030104"
+    ],
+    "checked_at": "2026-10-11T15:48:59.975Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"灯りし破暁の光・重明\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無音の黎明・織光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無音の黎明・森響\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無音の黎明・花音\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "鳴潮（めいちょう）攻略｜ゲームエイト",
+        "url": "https://game8.jp/meicho",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1030202",
+      "o1030402",
+      "o1030403",
+      "o1030404"
+    ],
+    "checked_at": "2026-10-11T15:49:02.472Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"青枝に綴る詩・熾躍\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"黄昏の賛歌・金穹\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"黄昏の賛歌・神逝\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"黄昏の賛歌・帰塵\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "アルバム一覧 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%AB%E3%83%90%E3%83%A0%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "開拓者-調和 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E9%96%8B%E6%8B%93%E8%80%85-%E8%AA%BF%E5%92%8C",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/オンパロス - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E3%82%AA%E3%83%B3%E3%83%91%E3%83%AD%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/ピノコニー - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E3%83%94%E3%83%8E%E3%82%B3%E3%83%8B%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "蓄音機 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E8%93%84%E9%9F%B3%E6%A9%9F",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート履歴/2026 - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/2026",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文3 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%204",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖崩壊スターレイル〗オンパロスの攻略・ギミックとストーリー情報まとめ｜ゲームエイト",
+        "url": "https://game8.jp/houkaistarrail/752954",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "画像倉庫/期間限定イベント - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E7%94%BB%E5%83%8F%E5%80%89%E5%BA%AB/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント/君との思い出 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88/%E5%90%9B%E3%81%A8%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖崩壊スターレイル〗アチーブメント・隠しクエスト一覧｜ゲームエイト",
+        "url": "https://game8.jp/houkaistarrail/653235",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1030702",
+      "o1031302",
+      "o1032002",
+      "o1032202"
+    ],
+    "checked_at": "2026-10-11T15:49:04.731Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"モモ雨との邂逅・星の彩り\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"逆流の協奏曲・突破\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"流れる甘夢・暁光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"造化紡ぐ丹青・楓火\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "アイヅィスタイト共和国 - 天空世界 Wiki*",
+        "url": "https://wikiwiki.jp/tenku-sekai/%E3%82%A2%E3%82%A4%E3%83%85%E3%82%A3%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%88%E5%85%B1%E5%92%8C%E5%9B%BD",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "零号ホロウ/迷いの地 - ゼンレスゾーンゼロ Wiki*",
+        "url": "https://wikiwiki.jp/zenless/%E9%9B%B6%E5%8F%B7%E3%83%9B%E3%83%AD%E3%82%A6/%E8%BF%B7%E3%81%84%E3%81%AE%E5%9C%B0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "セイレンス - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1032402",
+      "o1032602",
+      "o1032603",
+      "o1032604"
+    ],
+    "checked_at": "2026-10-11T15:49:08.091Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"野のワルツ・蜜珀\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星の海・夢告\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星の海・極地\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星の海・無限\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "有栖川夏葉 - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E6%9C%89%E6%A0%96%E5%B7%9D%E5%A4%8F%E8%91%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖星の海、無限航行〗有栖川夏葉 - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E3%80%90%E6%98%9F%E3%81%AE%E6%B5%B7%E3%80%81%E7%84%A1%E9%99%90%E8%88%AA%E8%A1%8C%E3%80%91%E6%9C%89%E6%A0%96%E5%B7%9D%E5%A4%8F%E8%91%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2017-2023 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2017-2023",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "30MSコラボガシャ - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/30MS%E3%82%B3%E3%83%A9%E3%83%9C%E3%82%AC%E3%82%B7%E3%83%A3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "実績一覧 - 崩壊3rd Wiki*",
+        "url": "https://wikiwiki.jp/houkai/%E5%AE%9F%E7%B8%BE%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Pアイドル衣装一覧/有栖川夏葉 - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/P%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E8%A1%A3%E8%A3%85%E4%B8%80%E8%A6%A7/%E6%9C%89%E6%A0%96%E5%B7%9D%E5%A4%8F%E8%91%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "過去のアップデート内容４ - 戦艦少女 Wiki*",
+        "url": "https://wikiwiki.jp/senkan-girl/%E9%81%8E%E5%8E%BB%E3%81%AE%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%86%85%E5%AE%B9%EF%BC%94",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "鱗の跡（留まる影収集イベント） - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E9%B1%97%E3%81%AE%E8%B7%A1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ガシャ - シャニソン攻略 Wiki*",
+        "url": "https://wikiwiki.jp/songforprism/%E3%82%AC%E3%82%B7%E3%83%A3",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "戦艦少女 Wiki*",
+        "url": "https://wikiwiki.jp/senkan-girl/",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート/2026-1 - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88/2026-1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "特徴 - Cell to Singularity Wiki*",
+        "url": "https://wikiwiki.jp/c-t-s/%E5%A4%A9%E4%BD%93%E3%81%AE%E7%89%B9%E5%BE%B4",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1032701",
+      "o1033002",
+      "o1033003",
+      "o1033004"
+    ],
+    "checked_at": "2026-10-11T15:49:10.369Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"かの風に捧げる舞・蒼夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"龍は雲墨に帰す・浅緑\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"龍は雲墨に帰す・点睛\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"龍は雲墨に帰す・紅綾\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "エスコフィエ - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A8%E3%82%B9%E3%82%B3%E3%83%95%E3%82%A3%E3%82%A8",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文2 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%202",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語（片手剣） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E%EF%BC%88%E7%89%87%E6%89%8B%E5%89%A3%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文3 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%203",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/物産誌 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E5%9B%B3%E9%91%91/%E7%89%A9%E7%94%A3%E8%AA%8C",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "実績/編集用ページ - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E5%AE%9F%E7%B8%BE/%E7%B7%A8%E9%9B%86%E7%94%A8%E3%83%9A%E3%83%BC%E3%82%B8",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語（長柄武器） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E%EF%BC%88%E9%95%B7%E6%9F%84%E6%AD%A6%E5%99%A8%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アーカイブ/光円錐 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/%E5%85%89%E5%86%86%E9%8C%90",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文5 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%205",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "物語/物語_ア_2 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E/%E7%89%A9%E8%AA%9E_%E3%82%A2_2",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1033102",
+      "o1033103",
+      "o1033104",
+      "o1033202"
+    ],
+    "checked_at": "2026-10-11T15:49:11.991Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"共縁は夢魂に巡る・草間\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"共縁は夢魂に巡る・世事\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"共縁は夢魂に巡る・別序\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星屑の小夢曲・初日\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1033302",
+      "o1034302",
+      "o1034602",
+      "o1034702"
+    ],
+    "checked_at": "2026-10-11T15:49:13.917Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"綺語の月仙・夜明\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"星の王子さま・贈り物\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"雪霜を抱きしめて・成就\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"その花を愛せば・思念\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "イベント・再訪精霊 - Sky 星を紡ぐ子どもたち Wiki*",
+        "url": "https://wikiwiki.jp/sky-jp/%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88%E3%83%BB%E5%86%8D%E8%A8%AA%E7%B2%BE%E9%9C%8A",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "用語集 - Sky 星を紡ぐ子どもたち Wiki*",
+        "url": "https://wikiwiki.jp/sky-jp/%E7%94%A8%E8%AA%9E%E9%9B%86",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "秘密のエリア(オフィス) - Sky 星を紡ぐ子どもたち Wiki*",
+        "url": "https://wikiwiki.jp/sky-jp/%E3%82%AA%E3%83%95%E3%82%A3%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "星の王子さまの季節 - Sky考察 Wiki*",
+        "url": "https://wikiwiki.jp/archeosky/%E6%98%9F%E3%81%AE%E7%8E%8B%E5%AD%90%E3%81%95%E3%81%BE%E3%81%AE%E5%AD%A3%E7%AF%80",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アチーブメント元ネタ解説 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%82%A2%E3%83%81%E3%83%BC%E3%83%96%E3%83%A1%E3%83%B3%E3%83%88%E5%85%83%E3%83%8D%E3%82%BF%E8%A7%A3%E8%AA%AC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "幻想体情報/01 - LimbusCompany攻略 Wiki*",
+        "url": "https://wikiwiki.jp/lcbwiki/%E5%B9%BB%E6%83%B3%E4%BD%93%E6%83%85%E5%A0%B1/01",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1034703",
+      "o1034704",
+      "o1034802",
+      "o1034902"
+    ],
+    "checked_at": "2026-10-11T15:49:15.987Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"その花を愛せば・懐柔\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"その花を愛せば・唯一\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"花咲きの暖歌・遡光\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無垢より誕生・森歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Side Story 1 (3-0~9-6) - Arcaea Wiki*",
+        "url": "https://wikiwiki.jp/arcaea/%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AA%E3%83%BC/Side%20Story/Archive%201",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "雑談掲示板/避難所/ログ4340 - 艦隊これくしょん -艦これ- 攻略 避難所 Wiki*",
+        "url": "https://wikiwiki.jp/kancolle2nd/%E9%9B%91%E8%AB%87%E6%8E%B2%E7%A4%BA%E6%9D%BF/%E9%81%BF%E9%9B%A3%E6%89%80/%E3%83%AD%E3%82%B04340",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "五月雨/コメント2 - 艦隊これくしょん -艦これ- 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/kancolle/%E4%BA%94%E6%9C%88%E9%9B%A8/%E3%82%B3%E3%83%A1%E3%83%B3%E3%83%882",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "H台詞 - VenusBlood-HYPNO- Wiki*",
+        "url": "https://wikiwiki.jp/vbh/H%E5%8F%B0%E8%A9%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "フィールドテキスト - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E3%83%95%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%89%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "オンライン/バッジ攻略 - ゆめ2っきを楽しむ Wiki*",
+        "url": "https://wikiwiki.jp/yume2kki-t/%E3%82%AA%E3%83%B3%E3%83%A9%E3%82%A4%E3%83%B3/%E3%83%90%E3%83%83%E3%82%B8%E6%94%BB%E7%95%A5",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/仙舟「羅浮」 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E4%BB%99%E8%88%9F%E3%80%8C%E7%BE%85%E6%B5%AE%E3%80%8D",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1034903",
+      "o1034904",
+      "o1035002",
+      "o1035003"
+    ],
+    "checked_at": "2026-10-11T15:49:17.633Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"無垢より誕生・灰炎\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無垢より誕生・我鏡\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"秘せし祈りの調べ・明月\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"秘せし祈りの調べ・深闇\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "2025.12.01｜〖プレイレポート〗2025年11月26日（水）に大型アップデートされた『インフィニティニキ』をご紹介！新ワールド『イザンの地』と追加された新アクションに要注目！｜ゲームエイト",
+        "url": "https://game8.jp/articles/569338",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "データ/装備品一覧/DFFOO/武器 - ファイナルファンタジー用語辞典 Wiki*",
+        "url": "https://wikiwiki.jp/ffdic/%E3%83%87%E3%83%BC%E3%82%BF/%E8%A3%85%E5%82%99%E5%93%81%E4%B8%80%E8%A6%A7/DFFOO/%E6%AD%A6%E5%99%A8",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖崩壊スターレイル〗アチーブメント・隠しクエスト一覧｜ゲームエイト",
+        "url": "https://game8.jp/houkaistarrail/653235",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1035004",
+      "o1035102",
+      "o1035202",
+      "o1035203"
+    ],
+    "checked_at": "2026-10-11T15:49:19.696Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"秘せし祈りの調べ・静灰\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"羽根の調べ・調和\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"浮生を渡る万相・美丹心\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"浮生を渡る万相・悲歓戯\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "〖崩壊スターレイル〗アチーブメント・隠しクエスト一覧｜ゲームエイト",
+        "url": "https://game8.jp/houkaistarrail/653235",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1035204",
+      "o1035302",
+      "o1035303",
+      "o1035304"
+    ],
+    "checked_at": "2026-10-11T15:49:22.193Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"浮生を渡る万相・人間界\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"人心を有す九色・焚心\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"人心を有す九色・永別\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"人心を有す九色・万相\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1035402",
+      "o1035502",
+      "o1035503",
+      "o1035504"
+    ],
+    "checked_at": "2026-10-11T15:49:25.148Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"塵外に歌う羽・不離\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢見る心のひと時・幻言\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢見る心のひと時・熾心\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢見る心のひと時・終彩\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "バッグ/聖遺物 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E3%83%90%E3%83%83%E3%82%B0/%E8%81%96%E9%81%BA%E7%89%A9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖原神〗屋外用の調度品一覧と入手方法｜ゲームエイト",
+        "url": "https://game8.jp/genshin/487316",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "長い夢の記憶 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E9%96%8B%E6%8B%93%E8%A1%8C%E8%B7%AF/%E7%B5%82%E7%84%89%E3%83%94%E3%83%8E%E3%82%B3%E3%83%8B%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "サポイベ登場人物一覧 - シャニマス攻略 Wiki*",
+        "url": "https://wikiwiki.jp/shinycolors/%E3%82%B5%E3%83%9D%E3%82%A4%E3%83%99%E7%99%BB%E5%A0%B4%E4%BA%BA%E7%89%A9%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1035801",
+      "o1036002",
+      "o1036102",
+      "o1036202"
+    ],
+    "checked_at": "2026-10-11T15:49:26.775Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"声なき賛歌・敬虔\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"青野の歌・夕影\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"月下に舞う飛仙・別宴\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夜山羊の歌・飲歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "蓄音機 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E8%93%84%E9%9F%B3%E6%A9%9F",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "イスカンヴァルナ合州国 - 天空世界 Wiki*",
+        "url": "https://wikiwiki.jp/tenku-sekai/%E3%82%A4%E3%82%B9%E3%82%AB%E3%83%B3%E3%83%B4%E3%82%A1%E3%83%AB%E3%83%8A%E5%90%88%E5%B7%9E%E5%9B%BD",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "踊り子 - identityⅤ推理考察 Wiki*",
+        "url": "https://wikiwiki.jp/story5/%E8%B8%8A%E3%82%8A%E5%AD%90",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1036302",
+      "o1036402",
+      "o1036403",
+      "o1036404"
+    ],
+    "checked_at": "2026-10-11T15:49:28.654Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"切り取る佳期・翠峰\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無帰の渡り手・必守\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無帰の渡り手・離劫\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"無帰の渡り手・運命\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": []
+  },
+  {
+    "object_ids": [
+      "o1036602",
+      "o1036603",
+      "o1036604",
+      "o1036802"
+    ],
+    "checked_at": "2026-10-11T15:49:30.173Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"白夜のロンド・覚念\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"白夜のロンド・暗流\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"白夜のロンド・醒炎\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"遥か彼方の星々・明耀\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "アップデート一覧/2025/1 - ドールズフロントライン(ドルフロ)〖少女前線〗 Wiki*",
+        "url": "https://wikiwiki.jp/dolls-fl/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E4%B8%80%E8%A6%A7/2025/1",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "パッチノート - may先輩の蕎麦がいい！ Wiki*",
+        "url": "https://wikiwiki.jp/bisyoujo_aji/%E3%83%91%E3%83%83%E3%83%81%E3%83%8E%E3%83%BC%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "共用パーツ/人形入手 - ドールズフロントライン(ドルフロ)〖少女前線〗 Wiki*",
+        "url": "https://wikiwiki.jp/dolls-fl/%E5%85%B1%E7%94%A8%E3%83%91%E3%83%BC%E3%83%84/%E4%BA%BA%E5%BD%A2%E5%85%A5%E6%89%8B",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖パニグレ〗武器の一覧｜ゲームエイト",
+        "url": "https://game8.jp/punishinggrayraven/359454",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1037102",
+      "o1037302",
+      "o1037402",
+      "o1037702"
+    ],
+    "checked_at": "2026-10-11T15:49:32.050Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夢紡ぐ心・晴空\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"存続のパラドクス・黎明\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"心は絢爛へと・虹色\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"月夜に流るる光・軽歌\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "リンネー - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E3%83%AA%E3%83%B3%E3%83%8D%E3%83%BC",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "神域帝国 - 天空世界 Wiki*",
+        "url": "https://wikiwiki.jp/tenku-sekai/%E3%83%9F%E3%82%AA%E3%82%BD%E3%83%86%E3%82%A3%E3%83%AA%E3%82%A2%E8%92%BC%E7%91%A9%E7%A9%A3%E5%A4%A2%E5%B9%BB%E3%83%8F%E3%82%A4%E3%83%B4%E3%82%A3%E3%83%8B%E3%82%BF%E3%83%81%E3%82%A2%E7%A5%9E%E5%9F%9F%E5%B8%9D%E5%9B%BD",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文3 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%204",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "任務アイテム - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E4%BB%BB%E5%8B%99%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "セイレンス - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%BB%E3%82%A4%E3%83%AC%E3%83%B3%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ミーメリア帝国/History - 汎点領域 Wiki*",
+        "url": "https://wikiwiki.jp/pandotfield/%E3%83%9F%E3%83%BC%E3%83%A1%E3%83%AA%E3%82%A2%E5%B8%9D%E5%9B%BD/History",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "焉聖領/overview_society - 汎点領域 Wiki*",
+        "url": "https://wikiwiki.jp/pandotfield/%E7%84%89%E8%81%96%E9%A0%98/overview_society",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アーカイブ/光円錐 - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E3%82%A2%E3%83%BC%E3%82%AB%E3%82%A4%E3%83%96/%E5%85%89%E5%86%86%E9%8C%90",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "各話メモ/第5章 - 幻想再帰のアリュージョニストWiki Wiki*",
+        "url": "https://wikiwiki.jp/gensousaiki/%E5%90%84%E8%A9%B1%E3%83%A1%E3%83%A2/%E7%AC%AC5%E7%AB%A0",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "思い出アピール一覧 - シャニマス攻略 Wiki*",
+        "url": "https://wikiwiki.jp/shinycolors/%E6%80%9D%E3%81%84%E5%87%BA%E3%82%A2%E3%83%94%E3%83%BC%E3%83%AB%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "シーズン17 - identityⅤ推理考察 Wiki*",
+        "url": "https://wikiwiki.jp/story5/%E3%82%B7%E3%83%BC%E3%82%BA%E3%83%B317",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "『Curse Nightmare Party』-邪眼妖精が征くVRMMO/アイテム - アウターワールドストーリーまとめ Wiki*",
+        "url": "https://wikiwiki.jp/outerworld/%E3%80%8ECurse%20Nightmare%20Party%E3%80%8F-%E9%82%AA%E7%9C%BC%E5%A6%96%E7%B2%BE%E3%81%8C%E5%BE%81%E3%81%8FVRMMO/%E3%82%A2%E3%82%A4%E3%83%86%E3%83%A0",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1037802",
+      "o1037902",
+      "o1038102",
+      "o1038202"
+    ],
+    "checked_at": "2026-10-11T15:49:34.376Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"花帳の終幕・羽化\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"ドンドコ邂逅・巡遊\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"風撫でる余韻・悲声\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢は心の波紋・合奏\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "〖崩壊スターレイル〗アチーブメント・隠しクエスト一覧｜ゲームエイト",
+        "url": "https://game8.jp/houkaistarrail/653235",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "図鑑/書籍/本文3 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%9B%B8%E7%B1%8D/%E6%9C%AC%E6%96%87%204",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1038203",
+      "o1038204",
+      "o1038302",
+      "o1038402"
+    ],
+    "checked_at": "2026-10-11T15:49:36.323Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"夢は心の波紋・夜曲\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夢は心の波紋・輪舞\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"朝焼けの調べ・咲華\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"未だ届かぬ神託・星織\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Ver2.5「不滅の命に捧ぐ讃美歌」 - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/Ver2.5",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語（Ver2.6～） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E%EF%BC%88Ver2.6%EF%BD%9E%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "夢現のシーベッド - 鳴潮 (めいちょう) Wiki*",
+        "url": "https://wikiwiki.jp/w-w/%E5%A4%A2%E7%8F%BE%E3%81%AE%E3%82%B7%E3%83%BC%E3%83%99%E3%83%83%E3%83%89",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1038502",
+      "o1038702",
+      "o1038902",
+      "o1039002"
+    ],
+    "checked_at": "2026-10-11T15:49:39.189Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"心温まる奇跡・星冠\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"反逆の軌跡・異想\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"霊語響く夢の狭間・秘契\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"妖夜の映影・心照\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語（Ver2.6～） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E%EF%BC%88Ver2.6%EF%BD%9E%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート履歴/2026 - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4/2026",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "アップデート履歴 - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E3%82%A2%E3%83%83%E3%83%97%E3%83%87%E3%83%BC%E3%83%88%E5%B1%A5%E6%AD%B4",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "画像倉庫/期間限定イベント - 無期迷途 日本語 Wiki*",
+        "url": "https://wikiwiki.jp/ptn/%E7%94%BB%E5%83%8F%E5%80%89%E5%BA%AB/%E6%9C%9F%E9%96%93%E9%99%90%E5%AE%9A%E3%82%A4%E3%83%99%E3%83%B3%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "年表 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E5%B9%B4%E8%A1%A8",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1039102",
+      "o1039202",
+      "o1039402",
+      "o1039702"
+    ],
+    "checked_at": "2026-10-11T15:49:42.181Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"塵の如き礼賛・長旅\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"踊り手を描く詩・懐願\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"夜明け前の色彩・緘言\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"輝く夢の旋律・光追\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "星々の幻境/衣装 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%98%9F%E3%80%85%E3%81%AE%E5%B9%BB%E5%A2%83/%E8%A1%A3%E8%A3%85",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "物語/物語_ア_2 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E7%89%A9%E8%AA%9E/%E7%89%A9%E8%AA%9E_%E3%82%A2_2",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1039802",
+      "o1039902",
+      "o1039903",
+      "o1039904"
+    ],
+    "checked_at": "2026-10-11T15:49:44.201Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"光の帳に映る秘密・終映\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"塵に覆われた罪・銀律\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"塵に覆われた罪・栄律\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"塵に覆われた罪・断律\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "聖遺物/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "武器/物語 - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E6%AD%A6%E5%99%A8/%E7%89%A9%E8%AA%9E",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "システム/仲間/仲間の評価/赤仲間(20220729以降) - Elona mobile 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/elonamobile/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0/%E4%BB%B2%E9%96%93/%E4%BB%B2%E9%96%93%E3%81%AE%E8%A9%95%E4%BE%A1/%E8%B5%A4%E4%BB%B2%E9%96%93%2820220729%E4%BB%A5%E9%99%8D%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "聖遺物/物語（Ver2.6～） - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%81%96%E9%81%BA%E7%89%A9/%E7%89%A9%E8%AA%9E%EF%BC%88Ver2.6%EF%BD%9E%EF%BC%89",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/オンパロス(2) - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E3%82%AA%E3%83%B3%E3%83%91%E3%83%AD%E3%82%B9%282%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "説明テキスト - 原神 Wiki*",
+        "url": "https://wikiwiki.jp/genshinwiki/%E8%AA%AC%E6%98%8E%E3%83%86%E3%82%AD%E3%82%B9%E3%83%88",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/オンパロス - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E3%82%AA%E3%83%B3%E3%83%91%E3%83%AD%E3%82%B9",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "本棚/二相楽園(2) - 崩壊スターレイル Wiki*",
+        "url": "https://wikiwiki.jp/star-rail/%E6%9C%AC%E6%A3%9A/%E4%BA%8C%E7%9B%B8%E6%A5%BD%E5%9C%92%282%29",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "〖原神〗アチーブメントチェッカー・総数｜ゲームエイト",
+        "url": "https://game8.jp/genshin/776239",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "ミーメリア帝国/History - 汎点領域 Wiki*",
+        "url": "https://wikiwiki.jp/pandotfield/%E3%83%9F%E3%83%BC%E3%83%A1%E3%83%AA%E3%82%A2%E5%B8%9D%E5%9B%BD/History",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_ids": [
+      "o1040102",
+      "o1040402",
+      "o1041702",
+      "o1043002"
+    ],
+    "checked_at": "2026-10-11T15:49:45.998Z",
+    "queries": [
+      {
+        "channel": "japanese",
+        "q": "\"尋ぬし俗世の味・蜜漬\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"時忘れの蝶夢・払暁\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"万華繚乱・彩徹\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      },
+      {
+        "channel": "japanese",
+        "q": "\"沈まぬ黄金の夢・墟夜\" 進化 素材 (site:youtube.com OR site:game8.jp OR site:wikiwiki.jp OR site:gamewith.jp)"
+      }
+    ],
+    "scope": "batch of four Japanese target queries; hits not automatically attributed to every query",
+    "hits": [
+      {
+        "title": "攻撃スキル一覧 - 信長の野望 20XX (旧 201X) 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/nobuyabo201x/%E3%82%B9%E3%82%AD%E3%83%AB%E4%B8%80%E8%A6%A7",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "表編集/☆4 - 信長の野望 20XX (旧 201X) 攻略 Wiki*",
+        "url": "https://wikiwiki.jp/nobuyabo201x/%E8%A1%A8%E7%B7%A8%E9%9B%86/%E2%98%864",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

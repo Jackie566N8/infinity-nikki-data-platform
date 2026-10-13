@@ -1,0 +1,26 @@
+name: Reproducible data and model checks
+on: [push, pull_request]
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '24'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - run: python -m pip install -r requirements.txt
+      - run: npm run build
+      - run: npm run analyze
+      - run: npm run verify
+      - run: node scripts/test-step10.mjs
+      - run: node scripts/test-step12.mjs
+      - run: node scripts/test-region-banners.mjs
+      - run: node scripts/evaluate-step12.mjs
+      - run: node scripts/check-pages.mjs
+      - run: node scripts/reproduce-search.mjs
+      - run: python analysis/data_quality_check.py
+      - run: python analysis/search_evaluation.py
+      - run: python analysis/test_final_package.py

@@ -1,0 +1,8 @@
+[
+  {
+    "at": "2026-10-12T16:10:00.675Z",
+    "from": "preferences:46ba9c9eb9459a541b4a65cc",
+    "to": "preferences:8ae8d2bf3267c2ecced89c12",
+    "reason": "Catalog-only rebuild: public source observations unchanged; reuse original immutable snapshot without rewriting archives"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "name": "pinyin-pro",
+    "version": "3.29.5",
+    "license": "MIT",
+    "url": "https://cdn.jsdelivr.net/npm/pinyin-pro@3.29.5/dist/index.js",
+    "main": "dist/index.js",
+    "sha256": "a488173470768ace074c3c4fffbb880e83523b3aa9598a8147c930e7f2d5c7dc",
+    "retrieved_at": "2026-10-10T05:43:02.604Z"
+  },
+  {
+    "name": "opencc-js",
+    "version": "1.4.2",
+    "license": "MIT AND Apache-2.0",
+    "url": "https://cdn.jsdelivr.net/npm/opencc-js@1.4.2/dist/umd/full.js",
+    "main": "dist/umd/full.js",
+    "sha256": "95b04abf136d9c28263773bb7d357eac80b7954d101efd23c4d09c737d3d379e",
+    "retrieved_at": "2026-10-10T05:43:02.947Z"
+  }
+]

@@ -1,0 +1,190 @@
+.search-eval-page {
+  max-width: 1500px;
+  margin: auto;
+}
+.se-notice {
+  border: 1px solid #eadac4;
+  background: #f9f2e8;
+  color: #947854;
+  padding: 17px 21px;
+  border-radius: 14px;
+  margin: 20px 0;
+  line-height: 1.8;
+  font-size: 12px;
+}
+.se-notice p {
+  margin-bottom: 0;
+}
+.se-metrics {
+  min-width: 680px;
+  font-size: 12px;
+}
+.se-metrics th small {
+  display: block;
+  font-weight: 400;
+  color: #9d89ae;
+  margin-top: 5px;
+}
+.se-type {
+  padding: 14px 0;
+  border-bottom: 1px solid #eee6f3;
+}
+.se-type summary {
+  cursor: pointer;
+  color: #8d70a3;
+  font-size: 13px;
+}
+.se-type .ana-table-scroll {
+  margin-top: 15px;
+}
+.search-eval-page .ana-lineage {
+  overflow-wrap: anywhere;
+}
+.search-eval-page p {
+  line-height: 1.9;
+}
+.search-eval-page select,
+.search-eval-page input {
+  font: inherit;
+  color: #826591;
+  padding: 10px;
+  border: 1px solid #e2d8eb;
+  border-radius: 8px;
+  background: #fbf9fd;
+  box-sizing: border-box;
+  min-width: 0;
+  max-width: 100%;
+}
+.se-review-controls {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin: 18px 0;
+  font-size: 12px;
+  color: #957eaa;
+}
+.se-review-controls label {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 1;
+  min-width: 130px;
+}
+.se-query {
+  border: 1px solid #ece3f3;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 12px 0;
+  font-size: 12px;
+}
+.se-query > div {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+.se-query b {
+  font-weight: 500;
+  color: #78568f;
+}
+.se-query span,
+.se-query small {
+  color: #ab97b7;
+  font-size: 10px;
+  line-height: 1.8;
+}
+.se-query details {
+  margin: 10px 0;
+  color: #9b84aa;
+}
+.se-query details a {
+  color: #8a68a2;
+}
+.se-query details label {
+  display: block;
+  margin: 12px 0;
+}
+.se-query details input {
+  display: block;
+  width: 100%;
+  margin-top: 7px;
+}
+.se-query .ana-export {
+  margin: 8px 8px 0 0;
+}
+.se-record {
+  border: 0;
+  background: none;
+  color: #83619b;
+  font: inherit;
+  cursor: pointer;
+  padding: 0;
+  overflow-wrap: anywhere;
+}
+.se-record:hover {
+  text-decoration: underline;
+}
+.se-pagination {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  color: #9b87a8;
+  font-size: 12px;
+}
+.se-pagination span {
+  margin-right: auto;
+}
+.se-pagination button {
+  font: inherit;
+  padding: 6px 10px;
+  border: 1px solid #e6ddec;
+  background: #faf8fc;
+  color: #876699;
+  border-radius: 7px;
+}
+.se-pagination button:disabled {
+  opacity: 0.45;
+}
+#se-probe {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+}
+#se-probe input {
+  flex: 1;
+  min-width: 140px;
+}
+#se-probe-results {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: 12px;
+  margin-top: 15px;
+}
+#se-probe-results > div {
+  padding: 12px;
+  background: #f8f3fc;
+  border-radius: 9px;
+  font-size: 12px;
+}
+.search-eval-page :focus-visible {
+  outline: 2px solid #a184b8;
+  outline-offset: 3px;
+}
+@media (max-width: 550px) {
+  #se-probe-results {
+    grid-template-columns: 1fr;
+  }
+  .se-query {
+    padding: 12px;
+  }
+  .se-notice {
+    padding: 14px;
+  }
+  .search-eval-page .ana-card-head {
+    flex-wrap: wrap;
+  }
+  .se-review-controls {
+    gap: 10px;
+  }
+}

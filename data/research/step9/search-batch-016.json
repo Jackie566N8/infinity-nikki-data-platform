@@ -1,0 +1,396 @@
+[
+  {
+    "object_id": "o1026502",
+    "checked_at": "2026-10-11T15:41:08.619Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"眠于花畔·盎然\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Slumber by Blossoms: Flourishing\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"眠于花畔·盎然\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Slumber by Blossoms: Flourishing\" evolution materials OR \"眠于花畔·盎然\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Slumber by Blossoms: Flourishing | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Flourishing",
+        "evolution": "Heartshine: Slumber by Blossoms1 Heartshine: Slumber by Blossoms\n\n1 Slumber by Blossoms: Flourishing",
+        "crafting": null
+      },
+      {
+        "title": "Slumber by Blossoms: Tidecall | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Tidecall",
+        "evolution": "Heartshine: Slumber by Blossoms1 Heartshine: Slumber by Blossoms\n\n1 Slumber by Blossoms: Tidecall",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026503",
+    "checked_at": "2026-10-11T15:41:11.012Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"眠于花畔·潮音\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Slumber by Blossoms: Tidecall\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"眠于花畔·潮音\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Slumber by Blossoms: Tidecall\" evolution materials OR \"眠于花畔·潮音\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Slumber by Blossoms: Tidecall | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Tidecall",
+        "evolution": "Heartshine: Slumber by Blossoms1 Heartshine: Slumber by Blossoms\n\n1 Slumber by Blossoms: Tidecall",
+        "crafting": null
+      },
+      {
+        "title": "Slumber by Blossoms: Flourishing | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Flourishing",
+        "evolution": "Heartshine: Slumber by Blossoms1 Heartshine: Slumber by Blossoms\n\n1 Slumber by Blossoms: Flourishing",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026504",
+    "checked_at": "2026-10-11T15:41:13.402Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"眠于花畔·夕晖\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Slumber by Blossoms: Evenfall\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"眠于花畔·夕晖\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Slumber by Blossoms: Evenfall\" evolution materials OR \"眠于花畔·夕晖\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Slumber by Blossoms: Tidecall | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Tidecall",
+        "evolution": "Heartshine: Slumber by Blossoms1 Heartshine: Slumber by Blossoms\n\n1 Slumber by Blossoms: Tidecall",
+        "crafting": null
+      },
+      {
+        "title": "Slumber by Blossoms: Flourishing | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Slumber_by_Blossoms%3A_Flourishing",
+        "evolution": "Heartshine: Slumber by Blossoms1 Heartshine: Slumber by Blossoms\n\n1 Slumber by Blossoms: Flourishing",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026802",
+    "checked_at": "2026-10-11T15:41:15.545Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"她是不驯火·森林\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"She Is Wildfire: Forest\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"她是不驯火·森林\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"She Is Wildfire: Forest\" evolution materials OR \"她是不驯火·森林\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "She Is Wildfire: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Forest",
+        "evolution": "Heartshine: She Is Wildfire1 Heartshine: She Is Wildfire\n\n1 She Is Wildfire: Forest",
+        "crafting": null
+      },
+      {
+        "title": "She Is Wildfire: Waning Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Waning_Moon",
+        "evolution": "Heartshine: She Is Wildfire1 Heartshine: She Is Wildfire\n\n1 She Is Wildfire: Waning Moon",
+        "crafting": null
+      },
+      {
+        "title": "She Is Wildfire: Journey | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Journey",
+        "evolution": "2 She Is Wildfire\n\n1 She Is Wildfire: Journey",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026803",
+    "checked_at": "2026-10-11T15:41:17.928Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"她是不驯火·残月\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"She Is Wildfire: Waning Moon\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"她是不驯火·残月\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"She Is Wildfire: Waning Moon\" evolution materials OR \"她是不驯火·残月\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "She Is Wildfire: Waning Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Waning_Moon",
+        "evolution": "Heartshine: She Is Wildfire1 Heartshine: She Is Wildfire\n\n1 She Is Wildfire: Waning Moon",
+        "crafting": null
+      },
+      {
+        "title": "She Is Wildfire: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Forest",
+        "evolution": "Heartshine: She Is Wildfire1 Heartshine: She Is Wildfire\n\n1 She Is Wildfire: Forest",
+        "crafting": null
+      },
+      {
+        "title": "She Is Wildfire: Journey | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Journey",
+        "evolution": "2 She Is Wildfire\n\n1 She Is Wildfire: Journey",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1026804",
+    "checked_at": "2026-10-11T15:41:19.927Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"她是不驯火·周游\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"She Is Wildfire: Journey\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"她是不驯火·周游\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"She Is Wildfire: Journey\" evolution materials OR \"她是不驯火·周游\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "She Is Wildfire: Journey | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Journey",
+        "evolution": "2 She Is Wildfire\n\n1 She Is Wildfire: Journey",
+        "crafting": null
+      },
+      {
+        "title": "She Is Wildfire: Waning Moon | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Waning_Moon",
+        "evolution": "Heartshine: She Is Wildfire1 Heartshine: She Is Wildfire\n\n1 She Is Wildfire: Waning Moon",
+        "crafting": null
+      },
+      {
+        "title": "She Is Wildfire: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/She_Is_Wildfire%3A_Forest",
+        "evolution": "Heartshine: She Is Wildfire1 Heartshine: She Is Wildfire\n\n1 She Is Wildfire: Forest",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1027902",
+    "checked_at": "2026-10-11T15:41:22.498Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如坠梦之夜·决意\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dream-Like Night: Resolve\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如坠梦之夜·决意\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dream-Like Night: Resolve\" evolution materials OR \"如坠梦之夜·决意\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]##无限暖暖拾光季##无限暖... 来自无限暖暖 - 微博",
+        "url": "https://www.weibo.com/7801655101/QaKkImQGj",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: HonkaiImpact 3rd",
+        "url": "https://steamcommunity.com/app/1671200/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunidade Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=portuguese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Comunitatea Steam :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=romanian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1028201",
+    "checked_at": "2026-10-11T15:41:25.367Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"揽星入梦·云霞\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starwoven Dreams: Dusk Clouds\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"揽星入梦·云霞\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Starwoven Dreams: Dusk Clouds\" evolution materials OR \"揽星入梦·云霞\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Starwoven Dreams: Gilded Night | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Starwoven_Dreams%3A_Gilded_Night",
+        "evolution": "2 Starwoven Dreams\n\n1 Starwoven Dreams: Gilded Night",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1028601",
+    "checked_at": "2026-10-11T15:41:27.111Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"森野茸裔·隐夜\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Forest Folk: Concealed Night\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"森野茸裔·隐夜\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Forest Folk: Concealed Night\" evolution materials OR \"森野茸裔·隐夜\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Forest Folk: Dark Afterglow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Forest_Folk%3A_Dark_Afterglow",
+        "evolution": "7 Ethereal Thoughts\n\n2 Forest Folk\n\n100 Thread of Purity\n\n30k Bling\n\n1 Forest Folk: Dark Afterglow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1028701",
+    "checked_at": "2026-10-11T15:41:29.470Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"浮翩莹白·寂生\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dancing Pearl: Silent Life\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"浮翩莹白·寂生\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dancing Pearl: Silent Life\" evolution materials OR \"浮翩莹白·寂生\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Dancing Pearl: Offering | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Dancing_Pearl%3A_Offering",
+        "evolution": "2 Dancing Pearl\n\n1 Dancing Pearl: Offering",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: 无限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

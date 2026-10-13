@@ -1,0 +1,558 @@
+{
+  "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+  "baseline_complete": [
+    "o10029",
+    "o10045",
+    "o10048",
+    "o10060"
+  ],
+  "updated": {
+    "total": 775,
+    "complete": 350,
+    "by_form": [
+      {
+        "value": "base",
+        "total": 310,
+        "complete": 66,
+        "pending": 5,
+        "not_crafting": 239
+      },
+      {
+        "value": "renewal",
+        "total": 191,
+        "complete": 191,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "evolution",
+        "total": 274,
+        "complete": 93,
+        "pending": 181,
+        "not_crafting": 0
+      }
+    ],
+    "by_rarity": [
+      {
+        "value": 5,
+        "total": 212,
+        "complete": 117,
+        "pending": 58,
+        "not_crafting": 37
+      },
+      {
+        "value": 3,
+        "total": 119,
+        "complete": 24,
+        "pending": 4,
+        "not_crafting": 91
+      },
+      {
+        "value": 4,
+        "total": 444,
+        "complete": 209,
+        "pending": 124,
+        "not_crafting": 111
+      }
+    ],
+    "by_acquisition": [
+      {
+        "value": "限定共鸣",
+        "total": 388,
+        "complete": 153,
+        "pending": 127,
+        "not_crafting": 108
+      },
+      {
+        "value": "未见诗行间",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "美鸭梨商城精品",
+        "total": 165,
+        "complete": 31,
+        "pending": 31,
+        "not_crafting": 103
+      },
+      {
+        "value": "经营家园的感悟",
+        "total": 6,
+        "complete": 6,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "无限之心的感悟",
+        "total": 65,
+        "complete": 58,
+        "pending": 7,
+        "not_crafting": 0
+      },
+      {
+        "value": "唱诗蓝龙的赠礼",
+        "total": 21,
+        "complete": 17,
+        "pending": 4,
+        "not_crafting": 0
+      },
+      {
+        "value": "烛火燃甜梦",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "世界逸事",
+        "total": 3,
+        "complete": 2,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "搭配师团的藏品",
+        "total": 8,
+        "complete": 6,
+        "pending": 2,
+        "not_crafting": 0
+      },
+      {
+        "value": "遥远之海",
+        "total": 32,
+        "complete": 16,
+        "pending": 8,
+        "not_crafting": 8
+      },
+      {
+        "value": "主线留念",
+        "total": 2,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 2
+      },
+      {
+        "value": "奇迹套装的辉光",
+        "total": 25,
+        "complete": 23,
+        "pending": 2,
+        "not_crafting": 0
+      },
+      {
+        "value": "落墨引鸢归",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "游历心得",
+        "total": 6,
+        "complete": 4,
+        "pending": 2,
+        "not_crafting": 0
+      },
+      {
+        "value": "散落各处的宝箱",
+        "total": 10,
+        "complete": 10,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "蓝泪漫溢之时",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "活跃印记",
+        "total": 3,
+        "complete": 3,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "泡泡飘游时",
+        "total": 3,
+        "complete": 3,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "竞放自我",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "春野与繁花",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "冒险中的意外之喜",
+        "total": 5,
+        "complete": 4,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "寻梦于迷途之中",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "雾林夜行时",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "风物珍存",
+        "total": 3,
+        "complete": 3,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "繁星入夜",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "弦歌共岁",
+        "total": 3,
+        "complete": 3,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "且寄浮生梦",
+        "total": 3,
+        "complete": 2,
+        "pending": 1,
+        "not_crafting": 0
+      },
+      {
+        "value": "星露谷奇缘",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "星光绽放之时",
+        "total": 3,
+        "complete": 3,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "林间欢动时光",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "宁心生莲",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "暖心福礼来",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "旅途见闻",
+        "total": 1,
+        "complete": 0,
+        "pending": 1,
+        "not_crafting": 0
+      },
+      {
+        "value": "花雨入画时",
+        "total": 1,
+        "complete": 0,
+        "pending": 1,
+        "not_crafting": 0
+      },
+      {
+        "value": "晴日海风吹",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "浮生百味珍",
+        "total": 3,
+        "complete": 3,
+        "pending": 0,
+        "not_crafting": 0
+      },
+      {
+        "value": "风过麦浪",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      },
+      {
+        "value": "拾光向远行",
+        "total": 1,
+        "complete": 0,
+        "pending": 0,
+        "not_crafting": 1
+      }
+    ],
+    "status_counts": {
+      "not_crafting": 239,
+      "complete": 350,
+      "evolution_pending": 181,
+      "missing_entry": 5
+    },
+    "recipe_materials": 302,
+    "materials_with_guidance": 302,
+    "verified_material_synthesis": 0
+  },
+  "new_catalog_entries": [
+    {
+      "outfit_id": "o10310",
+      "name": "霓虹心音",
+      "rarity": 3,
+      "form_type": "base",
+      "acquisition": "美鸭梨商城精品",
+      "status": "not_crafting",
+      "reason": "直接获取，不计制作",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10310"
+    },
+    {
+      "outfit_id": "o10343",
+      "name": "小王子",
+      "rarity": 4,
+      "form_type": "base",
+      "acquisition": "限定共鸣",
+      "status": "not_crafting",
+      "reason": "直接获取，不计制作",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10343"
+    },
+    {
+      "outfit_id": "o1034301",
+      "name": "小王子·泪水",
+      "rarity": 4,
+      "form_type": "renewal",
+      "acquisition": "限定共鸣",
+      "status": "complete",
+      "reason": "可计算",
+      "recipe_id": "outfit-renewal:o1034301",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%B0%8F%E7%8E%8B%E5%AD%90%C2%B7%E6%B3%AA%E6%B0%B4?oldid=71478"
+    },
+    {
+      "outfit_id": "o1034302",
+      "name": "小王子·礼物",
+      "rarity": 4,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1034302"
+    },
+    {
+      "outfit_id": "o10344",
+      "name": "穗典吟光",
+      "rarity": 3,
+      "form_type": "base",
+      "acquisition": "美鸭梨商城精品",
+      "status": "not_crafting",
+      "reason": "公告明确通过符合条件的购买累积花音里程领取；当前无该原色制作设计图",
+      "recipe_id": null,
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355"
+    },
+    {
+      "outfit_id": "o10347",
+      "name": "如果爱上一朵花",
+      "rarity": 5,
+      "form_type": "base",
+      "acquisition": "限定共鸣",
+      "status": "not_crafting",
+      "reason": "直接获取，不计制作",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10347"
+    },
+    {
+      "outfit_id": "o1034701",
+      "name": "如果爱上一朵花·青涩",
+      "rarity": 5,
+      "form_type": "renewal",
+      "acquisition": "限定共鸣",
+      "status": "complete",
+      "reason": "可计算",
+      "recipe_id": "outfit-renewal:o1034701",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%82%E6%9E%9C%E7%88%B1%E4%B8%8A%E4%B8%80%E6%9C%B5%E8%8A%B1%C2%B7%E9%9D%92%E6%B6%A9?oldid=71483"
+    },
+    {
+      "outfit_id": "o1034702",
+      "name": "如果爱上一朵花·思念",
+      "rarity": 5,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1034702"
+    },
+    {
+      "outfit_id": "o1034703",
+      "name": "如果爱上一朵花·驯化",
+      "rarity": 5,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1034703"
+    },
+    {
+      "outfit_id": "o1034704",
+      "name": "如果爱上一朵花·唯一",
+      "rarity": 5,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1034704"
+    },
+    {
+      "outfit_id": "o10357",
+      "name": "河畔一日晴",
+      "rarity": 3,
+      "form_type": "base",
+      "acquisition": "美鸭梨商城精品",
+      "status": "not_crafting",
+      "reason": "直接获取，不计制作",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10357"
+    },
+    {
+      "outfit_id": "o10395",
+      "name": "一帘烟雨",
+      "rarity": 3,
+      "form_type": "base",
+      "acquisition": "花雨入画时",
+      "status": "missing_entry",
+      "reason": "数据缺失待录入",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10395"
+    },
+    {
+      "outfit_id": "o10399",
+      "name": "蒙尘之罪",
+      "rarity": 5,
+      "form_type": "base",
+      "acquisition": "限定共鸣",
+      "status": "not_crafting",
+      "reason": "直接获取，不计制作",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10399"
+    },
+    {
+      "outfit_id": "o1039901",
+      "name": "蒙尘之罪·明律",
+      "rarity": 5,
+      "form_type": "renewal",
+      "acquisition": "限定共鸣",
+      "status": "complete",
+      "reason": "可计算",
+      "recipe_id": "outfit-renewal:o1039901",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%92%99%E5%B0%98%E4%B9%8B%E7%BD%AA%C2%B7%E6%98%8E%E5%BE%8B?oldid=71475"
+    },
+    {
+      "outfit_id": "o1039902",
+      "name": "蒙尘之罪·银律",
+      "rarity": 5,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1039902"
+    },
+    {
+      "outfit_id": "o1039903",
+      "name": "蒙尘之罪·荣律",
+      "rarity": 5,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1039903"
+    },
+    {
+      "outfit_id": "o1039904",
+      "name": "蒙尘之罪·断律",
+      "rarity": 5,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1039904"
+    },
+    {
+      "outfit_id": "o10430",
+      "name": "不落的黄金梦",
+      "rarity": 4,
+      "form_type": "base",
+      "acquisition": "限定共鸣",
+      "status": "not_crafting",
+      "reason": "直接获取，不计制作",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/10430"
+    },
+    {
+      "outfit_id": "o1043001",
+      "name": "不落的黄金梦·残响",
+      "rarity": 4,
+      "form_type": "renewal",
+      "acquisition": "限定共鸣",
+      "status": "complete",
+      "reason": "可计算",
+      "recipe_id": "outfit-renewal:o1043001",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E4%B8%8D%E8%90%BD%E7%9A%84%E9%BB%84%E9%87%91%E6%A2%A6%C2%B7%E6%AE%8B%E5%93%8D?oldid=71470"
+    },
+    {
+      "outfit_id": "o1043002",
+      "name": "不落的黄金梦·墟夜",
+      "rarity": 4,
+      "form_type": "evolution",
+      "acquisition": "限定共鸣",
+      "status": "evolution_pending",
+      "reason": "进化消耗待补充",
+      "recipe_id": null,
+      "source_url": "https://gongeo.us/zh/outfits/1043002"
+    }
+  ]
+}

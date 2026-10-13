@@ -1,0 +1,6866 @@
+[
+  {
+    "id": "c1021780081",
+    "name": "草木生灵",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021920032",
+    "name": "龙息刻印",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600134",
+    "name": "出逃的星星",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300523",
+    "name": "湛空吐息",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600170",
+    "name": "午夜漫行",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720170",
+    "name": "斑斓拾影",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029500009",
+    "name": "云间漫步",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021780008",
+    "name": "心选之礼",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021710035",
+    "name": "星河犄梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021770015",
+    "name": "星虹交错",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021910001",
+    "name": "魔猫扑克",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021780045",
+    "name": "一口夏天",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1026300015",
+    "name": "黑白随心签·率性",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760200",
+    "name": "不完美回忆",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021720071",
+    "name": "苦海迷津",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029900044",
+    "name": "晴虹垂天",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020410245",
+    "name": "行云织锦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600245",
+    "name": "明烛归梦",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720245",
+    "name": "绮罗缀珠",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920249",
+    "name": "寄梦中",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029930045",
+    "name": "遥夜寄君",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500038",
+    "name": "大漠惊鸿",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500293",
+    "name": "化为千风",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022600102",
+    "name": "随性漫步·熟红",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025600293",
+    "name": "循路寻花",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023950293",
+    "name": "暮天涟漪荡",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1026200017",
+    "name": "流泻繁花·纪年",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1026900043",
+    "name": "轻摇晨襟·轻蓝",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029900043",
+    "name": "轻摇晨襟",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100299",
+    "name": "颤颤危容",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100302",
+    "name": "澄澈诗篇",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022500287",
+    "name": "月下凝辉·寂生",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023710287",
+    "name": "雾中尾奏",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022730299",
+    "name": "深瞳溢月·断痕",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023760287",
+    "name": "蛛心隽永",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023770299",
+    "name": "曾托雏羽",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900287",
+    "name": "悬网之上",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900287",
+    "name": "悬网之上·寂生",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900287",
+    "name": "交响绯舞",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023920299",
+    "name": "桠尖隐踪",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300319",
+    "name": "夺目风暴",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920319",
+    "name": "特写杀手",
+    "colors": [
+      "Black",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200345",
+    "name": "蓬松童话",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100263",
+    "name": "夜息垂芒",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025720263",
+    "name": "寂渊探影",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920263",
+    "name": "龙穹织影",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900151",
+    "name": "深渊之上·微明",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200312",
+    "name": "粉铠宣言",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029300020",
+    "name": "夕阳余焰",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029900022",
+    "name": "薄雾花梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100350",
+    "name": "霜夜垂思",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025200349",
+    "name": "终幕之后",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500349",
+    "name": "天真和鸣",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023500349",
+    "name": "无忧火花",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024720349",
+    "name": "琥珀残觉",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024720350",
+    "name": "永夜圣冕",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025740350",
+    "name": "荒诞祭宴",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024760350",
+    "name": "虚穗丰饶",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900102",
+    "name": "花漾雪境",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024900350",
+    "name": "郁夜冥辉",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025950349",
+    "name": "径的交汇",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1026500038",
+    "name": "林雾旋律·暮霭",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029600019",
+    "name": "足畔花语",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1026780050",
+    "name": "长夜不熄·灵焰",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100186",
+    "name": "收爪时刻",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100348",
+    "name": "金蔷薇之梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022500348",
+    "name": "微风絮语·星遇",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720348",
+    "name": "花愿星光",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600011",
+    "name": "与梦共舞",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760011",
+    "name": "铃音悠歌",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022760011",
+    "name": "铃音悠歌·新声",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900011",
+    "name": "梦烬序曲",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600312",
+    "name": "破棘之心",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020940079",
+    "name": "穿梭昼夜",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029940022",
+    "name": "粉意雾匣",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100358",
+    "name": "心坠长夜",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100360",
+    "name": "自然生息",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600358",
+    "name": "神迹将临",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600358",
+    "name": "无悯之地",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023720282",
+    "name": "心扉初启",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720358",
+    "name": "穹顶天光",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022720360",
+    "name": "鹿梦灵枝·晨露",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760324",
+    "name": "蝶落花褶",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022760324",
+    "name": "蝶落花褶·谧星",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900358",
+    "name": "午夜颂歌",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022410296",
+    "name": "叶脉留声·新芽",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022750296",
+    "name": "森脉低语·新芽",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200271",
+    "name": "别营星夜",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300271",
+    "name": "飞扬轻粉",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720271",
+    "name": "晨间寻踪",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900308",
+    "name": "花跃旷野",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029100024",
+    "name": "粉霞落野",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029410010",
+    "name": "白日流星",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029500003",
+    "name": "昔时花影",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029500024",
+    "name": "花与春游",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021410042",
+    "name": "风谕织雾",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021410044",
+    "name": "心上翩跹",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021900026",
+    "name": "红菇伞与白菇杆",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021940012",
+    "name": "蜜愿回旋",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720079",
+    "name": "午夜幽馥",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029500022",
+    "name": "花海闲游",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029710022",
+    "name": "落英鬓粉",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029730022",
+    "name": "花漾心绪",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029720041",
+    "name": "时尚之心",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020410309",
+    "name": "黯迹流痕",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740184",
+    "name": "如梦伊始",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760309",
+    "name": "限界之外",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770309",
+    "name": "循音拨韵",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029720019",
+    "name": "柔白云响",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029730024",
+    "name": "花绽芬芳",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021300052",
+    "name": "智慧启蒙",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029920053",
+    "name": "深海视野",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025100289",
+    "name": "黎明将至未至",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025500289",
+    "name": "歧路万千",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600289",
+    "name": "蛰伏暗处",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022600289",
+    "name": "蛰伏暗处·余火",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025720289",
+    "name": "我与我",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900289",
+    "name": "何不执炬迎风",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900289",
+    "name": "何不执炬迎风·余火",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025900289",
+    "name": "相会于拂晓后",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920289",
+    "name": "未曾期然",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024950289",
+    "name": "错轨仇怨",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025950289",
+    "name": "远日期许",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100234",
+    "name": "灰穹暗涌",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100279",
+    "name": "幻梦启明",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023500279",
+    "name": "梦中知晓",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600234",
+    "name": "溯焰寻踪",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600279",
+    "name": "回声梦境",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023710279",
+    "name": "渡梦之桥",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020730234",
+    "name": "林中盈露",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022730234",
+    "name": "林中盈露·邀梦",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023730234",
+    "name": "挽歌残响",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022740234",
+    "name": "循迹翠痕·邀梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023770234",
+    "name": "林中遗魂",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770279",
+    "name": "冷梦魇",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022770279",
+    "name": "冷梦魇·迷途",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023770279",
+    "name": "群茧中梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900049",
+    "name": "地脉情书·曦途",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900234",
+    "name": "烬夜一刹",
+    "colors": [
+      "Blue",
+      "White",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900279",
+    "name": "哑梦无言·迷途",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900279",
+    "name": "梦潮将别",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600320",
+    "name": "味蕾轻绽",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900320",
+    "name": "层叠执念",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900320",
+    "name": "层叠执念·追昔",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029900032",
+    "name": "叠叠烁影",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300007",
+    "name": "冰凉舞曲",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020410007",
+    "name": "蜜罐号角",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720007",
+    "name": "蜜色梦境",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300066",
+    "name": "深山之灵",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600066",
+    "name": "溟濛夜游",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720066",
+    "name": "寒雾弥天",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770233",
+    "name": "寒野微憩",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740138",
+    "name": "雨后清馨",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029720031",
+    "name": "绵云垂耳",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024500250",
+    "name": "绵延信仰",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025500250",
+    "name": "怒醒花雨",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600250",
+    "name": "第一支舞",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022600250",
+    "name": "第一支舞·未绽",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024600250",
+    "name": "雨的回声",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025600250",
+    "name": "花雨巡游",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024710250",
+    "name": "巷尾奇迹",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025710250",
+    "name": "雨雾梦中",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022720250",
+    "name": "梅雨花园·未绽",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024770250",
+    "name": "无址信件",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1024900250",
+    "name": "渐近线",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020930250",
+    "name": "雨季的谵妄",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022930250",
+    "name": "谵妄雨季·未绽",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021410012",
+    "name": "浆果秘密",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100251",
+    "name": "色彩边缘",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022500251",
+    "name": "远方邀约·雾雨",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500258",
+    "name": "花阶拾音",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022500258",
+    "name": "花阶拾音·困梦",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600251",
+    "name": "绵绵足迹",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600258",
+    "name": "遥梦花笺",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022600258",
+    "name": "遥梦花笺·困梦",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600258",
+    "name": "赴一场绽放",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020710251",
+    "name": "弥漫空白",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023710251",
+    "name": "雨露添香",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022710252",
+    "name": "童语暖阳·新芽",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720258",
+    "name": "层层蝶蝶",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023720258",
+    "name": "蝶恋好景",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [
+      "蝴蝶"
+    ],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "en": "Butterfly Beauty",
+        "element": "蝴蝶",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Butterfly_Beauty",
+        "evidence": "Butterflies paused in the courtyard, replaying old memories.",
+        "status": "description_mention_not_visual_verification",
+        "field": "description_mentions"
+      }
+    ]
+  },
+  {
+    "id": "c1020730251",
+    "name": "墨色心情",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022730251",
+    "name": "墨色心情·雾雨",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023730252",
+    "name": "茫然心野",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020730258",
+    "name": "玲珑生息",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022730258",
+    "name": "玲珑生息·困梦",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760251",
+    "name": "雨露纷飞",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900251",
+    "name": "晴雨歌谣",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900258",
+    "name": "花瀑下的追忆",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900258",
+    "name": "花瀑下的追忆·困梦",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023500346",
+    "name": "冰弦共舞",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600346",
+    "name": "冰锋回响",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760346",
+    "name": "无惧寒歌",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020950346",
+    "name": "落冰生华",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021980003",
+    "name": "勤劳的赞许",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200255",
+    "name": "云岫生烟",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900255",
+    "name": "檐前昔年",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029300033",
+    "name": "斑斓余音",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100332",
+    "name": "聚光的起点",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021720052",
+    "name": "闪翘兔耳",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100334",
+    "name": "初生晴梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021710026",
+    "name": "祝你幸福",
+    "colors": [
+      "Blue",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900136",
+    "name": "寄月花时",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600136",
+    "name": "云莺踏尘",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900237",
+    "name": "蘑菇星云",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900174",
+    "name": "层叠波澜",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022900174",
+    "name": "层叠波澜·箴言",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100229",
+    "name": "粉色冒险",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500229",
+    "name": "沸腾阈值",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740229",
+    "name": "炒热气氛",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770229",
+    "name": "全场合唱",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900229",
+    "name": "名喵光环",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020950229",
+    "name": "纵梦时刻",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740237",
+    "name": "小小大力士",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023500154",
+    "name": "迎风的逆旅",
+    "colors": [
+      "Blue",
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600154",
+    "name": "异乡的漫步",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020730154",
+    "name": "感召的灵光",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740154",
+    "name": "梦中的遐想",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770154",
+    "name": "心意的交叠",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020950154",
+    "name": "奇迹的诞生",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021900014",
+    "name": "粉嫩嫩冰沙",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021100037",
+    "name": "晚起乱糟糟",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760162",
+    "name": "絮语祝愿",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920178",
+    "name": "清醒摇篮",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022950178",
+    "name": "以她之名·冰刻",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029730008",
+    "name": "跳跳团绒",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021100036",
+    "name": "湿漉漉泡沫",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100326",
+    "name": "梦之虹",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600326",
+    "name": "极光舞台",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600113",
+    "name": "天际一隅",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023710113",
+    "name": "轻盈飞梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023750113",
+    "name": "旧梦续想",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900113",
+    "name": "无忧新章",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760160",
+    "name": "午后茶歇",
+    "colors": [
+      "White",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022760160",
+    "name": "午后茶歇·娴静",
+    "colors": [
+      "Blue",
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100150",
+    "name": "深浅悠浮",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021900023",
+    "name": "层叠原野",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100072",
+    "name": "潇洒卷尾",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100226",
+    "name": "绯色狂热",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200114",
+    "name": "飘舞穗花",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720114",
+    "name": "清馨蕾花",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900146",
+    "name": "纵横棋局",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600080",
+    "name": "恰恰舞步旋",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100183",
+    "name": "时光余温",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025100183",
+    "name": "晨逸乐律",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025500183",
+    "name": "逐曦协曲",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600183",
+    "name": "月光之泪",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025600183",
+    "name": "黎明余韵",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023760183",
+    "name": "悠悠遗梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025760183",
+    "name": "觅梦音符",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770072",
+    "name": "镂空柔白",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770183",
+    "name": "鸣奏将息",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900183",
+    "name": "落月奏章",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025900183",
+    "name": "梦蕾回响",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025970183",
+    "name": "月凝和声",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600197",
+    "name": "馥梦舞庭",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020760123",
+    "name": "窗边风景",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900197",
+    "name": "暗瑰盛放",
+    "colors": [
+      "Blue",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900197",
+    "name": "月色归程",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300219",
+    "name": "裁折夜瑰",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920219",
+    "name": "摩登暗调",
+    "colors": [
+      "Black",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023920219",
+    "name": "明朗滤色",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100088",
+    "name": "粉色狂潮",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200088",
+    "name": "粉心黑巧",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200209",
+    "name": "假性亲和",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300088",
+    "name": "软弹粉糖",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020410088",
+    "name": "粉墨格纹",
+    "colors": [
+      "Pink",
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500088",
+    "name": "琐碎粉绒",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600088",
+    "name": "松糕脆响",
+    "colors": [
+      "Black",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020710088",
+    "name": "极繁主义",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720185",
+    "name": "碧梦序曲",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020730185",
+    "name": "星花流音",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740088",
+    "name": "斑斓垂链",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900185",
+    "name": "翡色盛放",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020920209",
+    "name": "莫测凝眸",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020980209",
+    "name": "恰好弧度",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200155",
+    "name": "倒数启晨",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020600155",
+    "name": "一霎灵光",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770155",
+    "name": "追云逐梦",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025100001",
+    "name": "清醒梦",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1022200073",
+    "name": "正午烈阳·藏海",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020710117",
+    "name": "粲然信标",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900001",
+    "name": "蜜糖乐章",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025900001",
+    "name": "小晨曲",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021980005",
+    "name": "愉快点缀",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029740008",
+    "name": "甜澜狂潮",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021780019",
+    "name": "云上的梦影",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100227",
+    "name": "倩影依然",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200096",
+    "name": "星辉灿亮",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020410096",
+    "name": "帆起乘风",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020720096",
+    "name": "蓝羽意志",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023720228",
+    "name": "薄暮悄至",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100213",
+    "name": "焰色印记",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023780201",
+    "name": "芳菲甜凝",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900052",
+    "name": "瑞景长歌",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100220",
+    "name": "梦离愁",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021750018",
+    "name": "千鹤衔云",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100120",
+    "name": "轻俏卷粉",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300120",
+    "name": "扑闪靓粉",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500003",
+    "name": "落花清影",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020710003",
+    "name": "绒绒雪球",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740120",
+    "name": "粉润圆珠",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900003",
+    "name": "暗香锦簇",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021730012",
+    "name": "蝠翼心跳",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600181",
+    "name": "梦外落星",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021730004",
+    "name": "幸运满满",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020780199",
+    "name": "深黑手袋",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020300180",
+    "name": "浩瀚夜空",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023600062",
+    "name": "盛放新篇",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900062",
+    "name": "金蔷薇礼颂",
+    "colors": [
+      "White",
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      },
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021600031",
+    "name": "珠光棉绒鸟",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021760002",
+    "name": "漫长的拥抱",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021900015",
+    "name": "愿愿纷飞",
+    "colors": [],
+    "verified_elements": [
+      "纸鹤"
+    ],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "en": "Fluttering Wishes",
+        "element": "纸鹤",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Fluttering_Wishes",
+        "evidence": "The paper cranes on the hem were personally sewn by grandpa.",
+        "status": "explicit_description",
+        "field": "verified_elements"
+      }
+    ]
+  },
+  {
+    "id": "c1023100093",
+    "name": "醉眠晚宴",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020900033",
+    "name": "翩然新蕾",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025900033",
+    "name": "终至远星",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100126",
+    "name": "沉没诅咒",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1025100161",
+    "name": "烬上新风",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1026900003",
+    "name": "蓝色轻风·悠阳",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100037",
+    "name": "晴晚月色",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100130",
+    "name": "千千乐章",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023930036",
+    "name": "最佳搭档",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023950028",
+    "name": "满满收获",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021900008",
+    "name": "无畏蝶影",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020770037",
+    "name": "深黑圆月",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021100025",
+    "name": "纯熟短发",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021200003",
+    "name": "雾蓝方向",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023100058",
+    "name": "绚蝶保护色",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100164",
+    "name": "妙笔染樱华",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200094",
+    "name": "穹宇星垂",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500051",
+    "name": "烛映佳宴",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020740094",
+    "name": "星流交轨",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1023900051",
+    "name": "层叠记忆",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020780177",
+    "name": "星与梦的盛典",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021300031",
+    "name": "红色雪暴",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100121",
+    "name": "憧憬的幻梦",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021300027",
+    "name": "学院寄语",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021940005",
+    "name": "柔羽之偎",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1029920049",
+    "name": "窥渊",
+    "colors": [
+      "Black"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Black",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Black_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021780013",
+    "name": "指挥好心情",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021500016",
+    "name": "甜紫条纹",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020200031",
+    "name": "不予显示",
+    "colors": [
+      "Blue"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Blue",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Blue_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020500125",
+    "name": "心间蝶舞",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100042",
+    "name": "粉红微卷",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020100043",
+    "name": "天生粉色",
+    "colors": [
+      "Pink"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "Pink",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/Pink_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1020780324",
+    "name": "森灵梦网",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  },
+  {
+    "id": "c1021300056",
+    "name": "我爱种田",
+    "colors": [
+      "White"
+    ],
+    "verified_elements": [],
+    "description_mentions": [],
+    "evidence": [
+      {
+        "field": "colors",
+        "value": "White",
+        "source_url": "https://infinity-nikki.fandom.com/wiki/White_Clothing",
+        "method": "community_color_category",
+        "checked_at": "2026-10-10",
+        "note": "社区 Wiki 颜色分类，不是游戏官方颜色字段；只用于该具体部件形态。"
+      }
+    ]
+  }
+]

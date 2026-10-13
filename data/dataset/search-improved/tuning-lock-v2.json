@@ -1,0 +1,82 @@
+{
+  "version": "smart-search-v2",
+  "frozen_at": "2026-10-10T05:57:50.620Z",
+  "inputs": {
+    "dev_sha256": "f99a90fb112089802a49952cade588a0c43a4f3019df515f6cb2bdd3c25f00c6",
+    "feature_sha256": "f01b1bb96cd9304101e671edacb36b6100c166cd71636510981f978438b660e8",
+    "aliases_sha256": "40ed29e94bbd67896c614f9e720ae07b8ce83db76d0b3687e26b2602de00e886",
+    "model_sha256": "be549d9175e0794c7bad87aa066325c3632a3ded08713647a4c2a87ac947190c",
+    "vendor_sha256": "fd55732118e3290ccffae9a9a975f6bae79a6e6e176e09a1cb4be4a33319e2be"
+  },
+  "configuration": {
+    "name_min": 0.78,
+    "weights": {
+      "name": 0.75,
+      "alias": 0.6,
+      "semantic": 0.6,
+      "prior": 0.04
+    },
+    "threshold": 0.4,
+    "disable": {}
+  },
+  "selected_for_deployment": "F",
+  "selection_basis": "development labels only; maximize MRR + .25 Hit@5 + .5 no-answer accuracy; ties prefer weights nearest prespecified default, then deterministic order",
+  "n_dev": 70,
+  "grid_size": 108,
+  "dev_methods": {
+    "D": {
+      "metrics": {
+        "n": 70,
+        "answerable_n": 66,
+        "no_answer_n": 4,
+        "hit1": 0.8181818181818182,
+        "hit5": 0.8181818181818182,
+        "mrr": 0.8181818181818182,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0,
+        "positive_abstention": 0.18181818181818182
+      },
+      "objective": 1.5227272727272727,
+      "ranking_ms": 0.1655999999999267
+    },
+    "E": {
+      "metrics": {
+        "n": 70,
+        "answerable_n": 66,
+        "no_answer_n": 4,
+        "hit1": 0.6818181818181818,
+        "hit5": 0.6818181818181818,
+        "mrr": 0.6818181818181818,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0,
+        "positive_abstention": 0.30303030303030304
+      },
+      "objective": 1.352272727272727,
+      "ranking_ms": 0.959699999999998
+    },
+    "F": {
+      "metrics": {
+        "n": 70,
+        "answerable_n": 66,
+        "no_answer_n": 4,
+        "hit1": 0.9848484848484849,
+        "hit5": 0.9848484848484849,
+        "mrr": 0.9848484848484849,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0,
+        "positive_abstention": 0.015151515151515152
+      },
+      "objective": 1.731060606060606,
+      "ranking_ms": 0.5012000000000398
+    }
+  },
+  "read_files": [
+    "dataset/search/dev.json",
+    "dataset/search-improved/features.json",
+    "dataset/search/aliases.json",
+    "search-improved/improved-model.cjs",
+    "search-improved/vendor/manifest.json"
+  ],
+  "test_labels_read": false,
+  "formula": "S = w_name*name_similarity + w_alias*nickname_similarity + w_sem*weighted_keyword_similarity + .04*base/kind_prior; filters are hard constraints; require minimum lexical confidence or full semantic constraints, then S >= threshold"
+}

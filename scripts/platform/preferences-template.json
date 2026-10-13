@@ -1,0 +1,48 @@
+{
+  "schema_version": 1,
+  "update_note": "说明本次采集或更正",
+  "sources": [
+    {
+      "source_id": "src:your-poll",
+      "url": "https://example.com/replace-with-source",
+      "platform": "填写平台",
+      "title": "填写来源标题",
+      "sample_size": null,
+      "sample_scope": "填写招募方式、地区与样本范围",
+      "data_type": "偏好单选投票",
+      "status": "pending",
+      "assessment": "填写验证方式、限制与偏差",
+      "access_method": "manual",
+      "collected_at": "2026-09-17T17:31:28.920Z"
+    }
+  ],
+  "studies": [
+    {
+      "study_id": "study:your-poll",
+      "source_id": "src:your-poll",
+      "title": "填写原问题",
+      "status": "pending",
+      "metric": "preference",
+      "unit": "percent",
+      "selection_mode": "single",
+      "form_scope": "family",
+      "sample_size": null,
+      "sample_unit": "participants",
+      "population": "填写样本范围，避免只有“全体玩家”",
+      "question": "填写原问题",
+      "candidate_ids": [],
+      "options": [],
+      "observations": [],
+      "published_date": null,
+      "published_label": "待补充",
+      "period_start": null,
+      "period_end": null,
+      "period_version_id": null,
+      "comparison_series": null,
+      "comparability_note": null,
+      "measure_note": "填写选择规则、分母和选项是否互斥",
+      "mapping_note": "填写名称/昵称与 ID 的对应证据"
+    }
+  ],
+  "search_log": []
+}

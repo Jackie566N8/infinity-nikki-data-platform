@@ -1,0 +1,516 @@
+{
+  "generated_at": "2026-10-13T05:42:08.042Z",
+  "annotation_status": "provisional_not_human_reviewed",
+  "original_report_preserved": true,
+  "test_queries": 30,
+  "positive_test_queries": 24,
+  "negative_test_queries": 6,
+  "human_approved": 0,
+  "frozen_scope_count": 8734,
+  "current_live_scope_note": "Live catalog has more objects. Frozen scores are not a claim about all live queries.",
+  "release_sha256": "9c69c4c96a6671f6ad9c50511e025fa84abd2202a9c894cb70f12b365be425bf",
+  "cases_sha256": "16741d3bc40c72fbba8ae0577698e5296d652f3a4e1b1070458a458548bc9632",
+  "environment": {
+    "node": "v24.19.0",
+    "os": "win32",
+    "cpu": "AMD Ryzen 9 7945HX with Radeon Graphics        ",
+    "index_build_ms": 420.5836,
+    "timing_repeats": 20,
+    "warmup_rounds": 3,
+    "timing_scope": "warm in-memory model only; excludes page loading, network and rendering"
+  },
+  "results": {
+    "A": {
+      "test": {
+        "n": 30,
+        "answerable_n": 24,
+        "no_answer_n": 6,
+        "hit1": 0.3333333333333333,
+        "hit5": 0.3333333333333333,
+        "mrr": 0.3333333333333333,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0.0004911666666667239,
+        "positive_abstention": 0.6666666666666666
+      },
+      "by_type": {
+        "formal": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0005509999999912908,
+          "positive_abstention": 0
+        },
+        "nickname": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.00044200000000159894,
+          "positive_abstention": 1
+        },
+        "typo_pinyin": {
+          "n": 4,
+          "answerable_n": 4,
+          "no_answer_n": 0,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": null,
+          "mean_response_ms": 0.00040374999999954754,
+          "positive_abstention": 1
+        },
+        "partial": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0004099999999982628,
+          "positive_abstention": 1
+        },
+        "description": {
+          "n": 6,
+          "answerable_n": 4,
+          "no_answer_n": 2,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0006550000000004274,
+          "positive_abstention": 1
+        },
+        "multilingual": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0004350000000090404,
+          "positive_abstention": 0
+        }
+      },
+      "identical_top5_count": 100
+    },
+    "B": {
+      "test": {
+        "n": 30,
+        "answerable_n": 24,
+        "no_answer_n": 6,
+        "hit1": 0.16666666666666666,
+        "hit5": 0.16666666666666666,
+        "mrr": 0.16666666666666666,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0.0005730000000001685,
+        "positive_abstention": 0.8333333333333334
+      },
+      "by_type": {
+        "formal": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.00042700000000081675,
+          "positive_abstention": 1
+        },
+        "nickname": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0011190000000021881,
+          "positive_abstention": 0
+        },
+        "typo_pinyin": {
+          "n": 4,
+          "answerable_n": 4,
+          "no_answer_n": 0,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": null,
+          "mean_response_ms": 0.0004300000000029058,
+          "positive_abstention": 1
+        },
+        "partial": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0003949999999997544,
+          "positive_abstention": 1
+        },
+        "description": {
+          "n": 6,
+          "answerable_n": 4,
+          "no_answer_n": 2,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0006391666666644369,
+          "positive_abstention": 1
+        },
+        "multilingual": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.00038599999999860306,
+          "positive_abstention": 1
+        }
+      },
+      "identical_top5_count": 100
+    },
+    "C": {
+      "test": {
+        "n": 30,
+        "answerable_n": 24,
+        "no_answer_n": 6,
+        "hit1": 0.5,
+        "hit5": 0.5,
+        "mrr": 0.5,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0.0005076666666675086,
+        "positive_abstention": 0.5
+      },
+      "by_type": {
+        "formal": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.00042399999999474856,
+          "positive_abstention": 0
+        },
+        "nickname": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0007899999999995088,
+          "positive_abstention": 0
+        },
+        "typo_pinyin": {
+          "n": 4,
+          "answerable_n": 4,
+          "no_answer_n": 0,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": null,
+          "mean_response_ms": 0.0003550000000061004,
+          "positive_abstention": 1
+        },
+        "partial": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.00037700000001109405,
+          "positive_abstention": 1
+        },
+        "description": {
+          "n": 6,
+          "answerable_n": 4,
+          "no_answer_n": 2,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0006291666666697893,
+          "positive_abstention": 1
+        },
+        "multilingual": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0004159999999910724,
+          "positive_abstention": 0
+        }
+      },
+      "identical_top5_count": 100
+    },
+    "D": {
+      "test": {
+        "n": 30,
+        "answerable_n": 24,
+        "no_answer_n": 6,
+        "hit1": 0.8333333333333334,
+        "hit5": 0.8333333333333334,
+        "mrr": 0.8333333333333334,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0.13776316666666408,
+        "positive_abstention": 0.16666666666666666
+      },
+      "by_type": {
+        "formal": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.003794999999994389,
+          "positive_abstention": 0
+        },
+        "nickname": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.007249999999996817,
+          "positive_abstention": 0
+        },
+        "typo_pinyin": {
+          "n": 4,
+          "answerable_n": 4,
+          "no_answer_n": 0,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": null,
+          "mean_response_ms": 0.01024124999999998,
+          "positive_abstention": 0
+        },
+        "partial": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.012522999999995362,
+          "positive_abstention": 0
+        },
+        "description": {
+          "n": 6,
+          "answerable_n": 4,
+          "no_answer_n": 2,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.02767166666667151,
+          "positive_abstention": 1
+        },
+        "multilingual": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.7616119999999922,
+          "positive_abstention": 0
+        }
+      },
+      "identical_top5_count": 100
+    },
+    "E": {
+      "test": {
+        "n": 30,
+        "answerable_n": 24,
+        "no_answer_n": 6,
+        "hit1": 0.6666666666666666,
+        "hit5": 0.6666666666666666,
+        "mrr": 0.6666666666666666,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0.13153316666666645,
+        "positive_abstention": 0.3333333333333333
+      },
+      "by_type": {
+        "formal": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.004145000000003165,
+          "positive_abstention": 0
+        },
+        "nickname": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0062030000000004295,
+          "positive_abstention": 0
+        },
+        "typo_pinyin": {
+          "n": 4,
+          "answerable_n": 4,
+          "no_answer_n": 0,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": null,
+          "mean_response_ms": 0.006735000000000468,
+          "positive_abstention": 1
+        },
+        "partial": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 0,
+          "hit5": 0,
+          "mrr": 0,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.009287000000001626,
+          "positive_abstention": 1
+        },
+        "description": {
+          "n": 6,
+          "answerable_n": 4,
+          "no_answer_n": 2,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.0213016666666609,
+          "positive_abstention": 0
+        },
+        "multilingual": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.738614,
+          "positive_abstention": 0
+        }
+      },
+      "identical_top5_count": 100
+    },
+    "F": {
+      "test": {
+        "n": 30,
+        "answerable_n": 24,
+        "no_answer_n": 6,
+        "hit1": 1,
+        "hit5": 1,
+        "mrr": 1,
+        "no_answer_accuracy": 1,
+        "mean_response_ms": 0.13143100000000116,
+        "positive_abstention": 0
+      },
+      "by_type": {
+        "formal": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.004091000000003078,
+          "positive_abstention": 0
+        },
+        "nickname": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.005777000000002773,
+          "positive_abstention": 0
+        },
+        "typo_pinyin": {
+          "n": 4,
+          "answerable_n": 4,
+          "no_answer_n": 0,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": null,
+          "mean_response_ms": 0.010411249999992832,
+          "positive_abstention": 0
+        },
+        "partial": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.008962999999992009,
+          "positive_abstention": 0
+        },
+        "description": {
+          "n": 6,
+          "answerable_n": 4,
+          "no_answer_n": 2,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.021420833333350705,
+          "positive_abstention": 0
+        },
+        "multilingual": {
+          "n": 5,
+          "answerable_n": 4,
+          "no_answer_n": 1,
+          "hit1": 1,
+          "hit5": 1,
+          "mrr": 1,
+          "no_answer_accuracy": 1,
+          "mean_response_ms": 0.7357209999999941,
+          "positive_abstention": 0
+        }
+      },
+      "identical_top5_count": 100
+    }
+  }
+}

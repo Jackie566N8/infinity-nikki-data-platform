@@ -1,0 +1,17 @@
+{
+  "locked_at": "2026-10-09T11:55:22.705Z",
+  "model_sha256": "147a18870bc0cc4085e62468403e15d924a790352fb459cf959d27e9d419598b",
+  "methods": {
+    "A": "Normalized full official names across five locales only",
+    "B": "Existing Chinese nickname library and existing suffix/traditional forms only",
+    "C": "A union B; formal before nickname; base before variants; outfit before clothing; stable ID tie-break",
+    "L": "Existing website substring + translated metadata + nicknames, same restricted corpus; supplemental comparator"
+  },
+  "parameters": {
+    "new_nicknames_added": 0,
+    "fuzzy_matching": false,
+    "pinyin_matching": false,
+    "semantic_matching": false
+  },
+  "manifest_sha256": "40663a072a246ad47aed150cb073fbdfe2bf97a84508547e1bba126b5b16eb50"
+}

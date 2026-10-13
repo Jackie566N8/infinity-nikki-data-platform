@@ -1,0 +1,9 @@
+// Generate current reports without overwriting the curated portfolio narrative.
+import fs from 'node:fs';
+const q=JSON.parse(fs.readFileSync('data/dataset/quality-report.json'));
+const pct=m=>m.percent===null?'未评估':m.percent.toFixed(2)+'%';
+const table=q.metrics.map(m=>`| ${m.label} | ${m.numerator}/${m.denominator} | ${pct(m)} | ${m.definition} |`).join('\n');
+fs.writeFileSync('docs/data_quality_report.md',`# 数据质量报告\n\n源数据日期：${q.source_date}；当前构建检查时间：${q.audited_at}；快照：\`${q.snapshot.snapshot_id}\`。构建时间不是游戏推出日期，也不表示全部来源重新抓取。\n\n## 覆盖率与分母\n\n| 指标 | 完整数/分母 | 比例 | 统计口径 |\n|---|---:|---:|---|\n${table}\n\n## 完整性检查\n\n${q.tables.length} 张关联表；结构错误 ${q.validation.error_count}，警告 ${q.validation.warning_count}，重复 ID ${q.validation.duplicate_ids}，缺失关联 ${q.validation.missing_links}。80 个设计图目标在当前服装目录外，保留原资料而不创建悬空关联。字段差异候选需要来源核对，不自动裁定哪一来源正确。\n\n范围：775 套装形态（310 原色、274 进化、191 焕新），8213 部件、11469 检索对象。66/71 是制作候选原色配方覆盖；350/775 是所有形态中可计算清单覆盖，不能交换两个分母。直接获取的 239 原色不计入制作候选分母。\n\n[机器可读质量报告](../data/dataset/quality-report.json) · [数据字典](../data/data_dictionary.md) · [剩余具名缺口](reports/step9/STEP9_FINAL_REPORT.md) · [区域背景清单](REGION_BANNER_STATUS.md)。\n\n## 独立复算与局限\n\n运行 \`python analysis/data_quality_check.py\` 验证 CSV 主键/外键、必填/枚举/数值及从原表重新计算配方分母；结果见 \`analysis/results/data_quality_check.json\`。Node 的额外语义/配方单位/周期/推断守卫单独验证。\n\n图片地址覆盖不等于真实可用率，外链检查只是抽样。本地 9 区域主图可用，8 张官方素材、1 张用户截图修复版；会话失败会如实降低会话指标。五套原色及181进化没有完整确认值，不一概标为官方未公开。同等级前后属性、精确坐标与通行图仍待补充；真人搜索标签审核不代表游戏配方实测。\n`);
+const report=fs.readFileSync('docs/reports/step12/FINAL_SEARCH_EVALUATION.md','utf8').replaceAll('(COMPARISON_TABLES.md)','(reports/step12/COMPARISON_TABLES.md)').replaceAll('(../../../data/','(../data/');
+fs.writeFileSync('docs/search_evaluation_report.md',report);
+console.log('Current quality and human search reports refreshed; README remains the curated release narrative.');

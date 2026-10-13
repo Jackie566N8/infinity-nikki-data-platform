@@ -1,0 +1,288 @@
+[
+  {
+    "object_id": "o1038302",
+    "checked_at": "2026-10-11T15:45:08.919Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"吹响朝阳时·华绽\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawn's Melody: Splendor\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"吹响朝阳时·华绽\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dawn's Melody: Splendor\" evolution materials OR \"吹响朝阳时·华绽\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "#无限暖暖[超话]# #无限暖暖黄金尘# #无限... 来自无限暖暖 - 微博",
+        "url": "https://weibo.com/7801655101/R8tIg9f11",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1038402",
+    "checked_at": "2026-10-11T15:45:10.854Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"灵谕未启·星织\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unawakened Oracle: Starweave\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"灵谕未启·星织\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Unawakened Oracle: Starweave\" evolution materials OR \"灵谕未启·星织\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1038502",
+    "checked_at": "2026-10-11T15:45:13.337Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"暖心奇迹·星冕\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Warm Miracles: Astral Crown\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"暖心奇迹·星冕\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Warm Miracles: Astral Crown\" evolution materials OR \"暖心奇迹·星冕\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1038702",
+    "checked_at": "2026-10-11T15:45:15.147Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"逆规行迹·异想\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Steps Against Order: Unruly Fancy\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"逆规行迹·异想\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Steps Against Order: Unruly Fancy\" evolution materials OR \"逆规行迹·异想\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1038902",
+    "checked_at": "2026-10-11T15:45:17.021Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"梦隙灵语·秘契\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispered Dreams: Covenant\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"梦隙灵语·秘契\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Whispered Dreams: Covenant\" evolution materials OR \"梦隙灵语·秘契\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1039002",
+    "checked_at": "2026-10-11T15:45:18.752Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"妖夜鉴影·心照\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Nefarious Shadows: Enlightened\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"妖夜鉴影·心照\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Nefarious Shadows: Enlightened\" evolution materials OR \"妖夜鉴影·心照\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Nefarious Shadows: Enlightened | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Nefarious_Shadows%3A_Enlightened",
+        "evolution": "2 Nefarious Shadows\n\nClear Thoughts1 Clear Thoughts\n\n100 Thread of Purity\n\n30k Bling\n\n1 Nefarious Shadows: Enlightened",
+        "crafting": null
+      },
+      {
+        "title": "7月9日《诛仙世界》例行维护公告",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309405186255913877617",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1039102",
+    "checked_at": "2026-10-11T15:45:20.733Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"如尘礼赞·长行\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dustwoven Tribute: Expedition\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"如尘礼赞·长行\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Dustwoven Tribute: Expedition\" evolution materials OR \"如尘礼赞·长行\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1039202",
+    "checked_at": "2026-10-11T15:45:22.512Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绘伶成诗·怀愿\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Painted to Life: Cherished Wish\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绘伶成诗·怀愿\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Painted to Life: Cherished Wish\" evolution materials OR \"绘伶成诗·怀愿\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam Workshop::鬼谷自用",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2930745741&l=german",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Communauté Steam :: Guide :: 天命奇御2全任务全人物收集（陌刀门已更新）",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2691841686&l=french",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Műhely::Girls",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2460757717&l=hungarian",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1039402",
+    "checked_at": "2026-10-11T15:45:24.386Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"绘色未明·缄言\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unseen Colors: Quieted\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"绘色未明·缄言\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Unseen Colors: Quieted\" evolution materials OR \"绘色未明·缄言\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam Community :: echo :: Games",
+        "url": "https://steamcommunity.com/profiles/76561199188643983/recommended",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1039702",
+    "checked_at": "2026-10-11T15:45:26.035Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"浮金奏梦·循光\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Gilded Dreamsong: Light Follower\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"浮金奏梦·循光\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Gilded Dreamsong: Light Follower\" evolution materials OR \"浮金奏梦·循光\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  }
+]

@@ -1,0 +1,349 @@
+{
+  "checked_at": "2026-10-10T17:11:08.041Z",
+  "changes": [
+    {
+      "id": "o1024902",
+      "field": "variation",
+      "before": "进化形态",
+      "after": "满进",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%9C%9F%E6%84%8F%E6%97%A0%E5%BD%A2%C2%B7%E9%93%AD%E5%BF%83",
+      "basis": "unique normalized name; explicit BWIKI form label"
+    },
+    {
+      "id": "o1024501",
+      "field": "family",
+      "before": [
+        "o1024501"
+      ],
+      "after": [
+        "o10245",
+        "o1024501",
+        "o1024502"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "base_source_url": "https://gongeo.us/zh/outfits/10245",
+      "basis": "explicit renewal label, matching formal name root and source ID suffix encoding"
+    },
+    {
+      "id": "c1022100245",
+      "field": "clothing_family",
+      "base_id": "c1020100245",
+      "after": [
+        "c1020100245",
+        "c1022100245",
+        "c1023100245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022300245",
+      "field": "clothing_family",
+      "base_id": "c1020300245",
+      "after": [
+        "c1020300245",
+        "c1022300245",
+        "c1023300245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022410245",
+      "field": "clothing_family",
+      "base_id": "c1020410245",
+      "after": [
+        "c1020410245",
+        "c1022410245",
+        "c1023410245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022600245",
+      "field": "clothing_family",
+      "base_id": "c1020600245",
+      "after": [
+        "c1020600245",
+        "c1022600245",
+        "c1023600245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022710245",
+      "field": "clothing_family",
+      "base_id": "c1020710245",
+      "after": [
+        "c1020710245",
+        "c1022710245",
+        "c1023710245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022720245",
+      "field": "clothing_family",
+      "base_id": "c1020720245",
+      "after": [
+        "c1020720245",
+        "c1022720245",
+        "c1023720245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022730245",
+      "field": "clothing_family",
+      "base_id": "c1020730245",
+      "after": [
+        "c1020730245",
+        "c1022730245",
+        "c1023730245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022780245",
+      "field": "clothing_family",
+      "base_id": "c1020780245",
+      "after": [
+        "c1020780245",
+        "c1022780245",
+        "c1023780245"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E8%8A%B1%E6%98%8E%E5%8D%83%E7%84%B0%C2%B7%E9%81%90%E6%80%9D",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "o1039001",
+      "field": "family",
+      "before": [
+        "o1039001"
+      ],
+      "after": [
+        "o10390",
+        "o1039001",
+        "o1039002"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "base_source_url": "https://gongeo.us/zh/outfits/10390",
+      "basis": "explicit renewal label, matching formal name root and source ID suffix encoding"
+    },
+    {
+      "id": "c1022100390",
+      "field": "clothing_family",
+      "base_id": "c1020100390",
+      "after": [
+        "c1020100390",
+        "c1022100390",
+        "c1023100390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022600390",
+      "field": "clothing_family",
+      "base_id": "c1020600390",
+      "after": [
+        "c1020600390",
+        "c1022600390",
+        "c1023600390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022720390",
+      "field": "clothing_family",
+      "base_id": "c1020720390",
+      "after": [
+        "c1020720390",
+        "c1022720390",
+        "c1023720390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022760390",
+      "field": "clothing_family",
+      "base_id": "c1020760390",
+      "after": [
+        "c1020760390",
+        "c1022760390",
+        "c1023760390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022770390",
+      "field": "clothing_family",
+      "base_id": "c1020770390",
+      "after": [
+        "c1020770390",
+        "c1022770390",
+        "c1023770390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022900390",
+      "field": "clothing_family",
+      "base_id": "c1020900390",
+      "after": [
+        "c1020900390",
+        "c1022900390",
+        "c1023900390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022920390",
+      "field": "clothing_family",
+      "base_id": "c1020920390",
+      "after": [
+        "c1020920390",
+        "c1022920390",
+        "c1023920390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "c1022970390",
+      "field": "clothing_family",
+      "base_id": "c1020970390",
+      "after": [
+        "c1020970390",
+        "c1022970390",
+        "c1023970390"
+      ],
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%96%E5%A4%9C%E9%89%B4%E5%BD%B1%C2%B7%E5%B9%BD%E7%BD%97",
+      "basis": "verified parent outfit part relation and matching encoded item root"
+    },
+    {
+      "id": "o1025004",
+      "field": "variation",
+      "before": "进化形态",
+      "after": "满进",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E5%A6%82%E9%9B%A8%E5%9D%A0%EF%BC%8C%E5%A6%82%E8%8A%B1%E5%BC%80%C2%B7%E6%80%92%E6%94%BE",
+      "basis": "unique normalized name; explicit BWIKI form label"
+    },
+    {
+      "id": "o1030702",
+      "field": "variation",
+      "before": "进化形态",
+      "after": "满进",
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E9%81%87%E4%B8%8A%E5%96%B5%E5%96%B5%E9%9B%A8%C2%B7%E6%98%9F%E5%BD%A9",
+      "basis": "unique normalized name; explicit BWIKI form label"
+    },
+    {
+      "id": "o10117",
+      "field": "family",
+      "before": [
+        "o10117",
+        "o1011701"
+      ],
+      "after": [
+        "o10117",
+        "o1011701",
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "before_is_base": true,
+      "after_is_base": true,
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%BC%80%E5%A4%9C%E5%B8%8C%E5%85%89%C2%B7%E7%81%BC%E7%84%B0",
+      "basis": "explicit first evolution + shared formal root; split catalog tag group is not a new outfit"
+    },
+    {
+      "id": "o1011701",
+      "field": "family",
+      "before": [
+        "o10117",
+        "o1011701"
+      ],
+      "after": [
+        "o10117",
+        "o1011701",
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "before_is_base": false,
+      "after_is_base": false,
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%BC%80%E5%A4%9C%E5%B8%8C%E5%85%89%C2%B7%E7%81%BC%E7%84%B0",
+      "basis": "explicit first evolution + shared formal root; split catalog tag group is not a new outfit"
+    },
+    {
+      "id": "o1011702",
+      "field": "family",
+      "before": [
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "after": [
+        "o10117",
+        "o1011701",
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "before_is_base": true,
+      "after_is_base": false,
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%BC%80%E5%A4%9C%E5%B8%8C%E5%85%89%C2%B7%E7%81%BC%E7%84%B0",
+      "basis": "explicit first evolution + shared formal root; split catalog tag group is not a new outfit"
+    },
+    {
+      "id": "o1011703",
+      "field": "family",
+      "before": [
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "after": [
+        "o10117",
+        "o1011701",
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "before_is_base": false,
+      "after_is_base": false,
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%BC%80%E5%A4%9C%E5%B8%8C%E5%85%89%C2%B7%E7%81%BC%E7%84%B0",
+      "basis": "explicit first evolution + shared formal root; split catalog tag group is not a new outfit"
+    },
+    {
+      "id": "o1011704",
+      "field": "family",
+      "before": [
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "after": [
+        "o10117",
+        "o1011701",
+        "o1011702",
+        "o1011703",
+        "o1011704"
+      ],
+      "before_is_base": false,
+      "after_is_base": false,
+      "source_url": "https://wiki.biligame.com/wxnn/%E5%A5%97%E8%A3%85%E7%BC%80%E5%A4%9C%E5%B8%8C%E5%85%89%C2%B7%E7%81%BC%E7%84%B0",
+      "basis": "explicit first evolution + shared formal root; split catalog tag group is not a new outfit"
+    }
+  ]
+}

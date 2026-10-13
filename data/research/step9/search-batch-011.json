@@ -1,0 +1,351 @@
+[
+  {
+    "object_id": "o1020102",
+    "checked_at": "2026-10-11T15:39:08.317Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"朝岁贺禧·芳野\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"New Bloom Blessings: Meadow\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"朝岁贺禧·芳野\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"New Bloom Blessings: Meadow\" evolution materials OR \"朝岁贺禧·芳野\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "New Bloom Blessings: Meadow | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/New_Bloom_Blessings%3A_Meadow",
+        "evolution": "2 New Bloom Blessings\n\n1 New Bloom Blessings: Meadow",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1020302",
+    "checked_at": "2026-10-11T15:39:10.523Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"璨耀夜庭·森语\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Radiant Night: Forest\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"璨耀夜庭·森语\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Radiant Night: Forest\" evolution materials OR \"璨耀夜庭·森语\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Radiant Night: Forest | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Radiant_Night%3A_Forest",
+        "evolution": "2 Radiant Night\n\n1 Radiant Night: Forest",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1020402",
+    "checked_at": "2026-10-11T15:39:12.669Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"剑雨侠客·红叶\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sword Master: Red Leaves\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"剑雨侠客·红叶\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Sword Master: Red Leaves\" evolution materials OR \"剑雨侠客·红叶\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "墨香铜臭后记整理",
+        "url": "https://www.weibo.com/ttarticle/p/show?id=2309404784236703122118&sudaref=www.baidu.com",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1020502",
+    "checked_at": "2026-10-11T15:39:14.708Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"碧波酬恩·同舟\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Waves' Gratitude: Shared Boat\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"碧波酬恩·同舟\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Waves' Gratitude: Shared Boat\" evolution materials OR \"碧波酬恩·同舟\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Steam 社群 :: 無限暖暖",
+        "url": "https://steamcommunity.com/app/3164330/allnews/?l=tchinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社群 :: 無限暖暖",
+        "url": "https://steamcommunity.com/app/3164330?l=tchinese",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1020602",
+    "checked_at": "2026-10-11T15:39:16.172Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"沁誓长青·盟契\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Evergreen Vow: Covenant\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"沁誓长青·盟契\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Evergreen Vow: Covenant\" evolution materials OR \"沁誓长青·盟契\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Evergreen Vow: Covenant | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Evergreen_Vow%3A_Covenant",
+        "evolution": "2 Evergreen Vow\n\n1 Evergreen Vow: Covenant",
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1020702",
+    "checked_at": "2026-10-11T15:39:18.495Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"今宵风月·无束\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tonight's Wind and Moon: Unfettered\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"今宵风月·无束\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Tonight's Wind and Moon: Unfettered\" evolution materials OR \"今宵风月·无束\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1020802",
+    "checked_at": "2026-10-11T15:39:20.306Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"迷花燃梦·涟漪\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rosy Reverie: Ripples\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"迷花燃梦·涟漪\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Rosy Reverie: Ripples\" evolution materials OR \"迷花燃梦·涟漪\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1021302",
+    "checked_at": "2026-10-11T15:39:22.316Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"焰光灼灼·奇妙夜\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fiery Glow: Wonder\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"焰光灼灼·奇妙夜\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Fiery Glow: Wonder\" evolution materials OR \"焰光灼灼·奇妙夜\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Fiery Glow: Wonder | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Fiery_Glow%3A_Wonder",
+        "evolution": "1 Glowing Thoughts\n\n2 Fiery Glow\n\n100 Thread of Purity\n\n30k Bling\n\n1 Fiery Glow: Wonder",
+        "crafting": null
+      },
+      {
+        "title": "Glowing Thoughts | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Glowing_Thoughts",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Warsztat Steam::壁纸收藏",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3504069604&l=polish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam Workshop::啥必装的mod",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3604323031",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  },
+  {
+    "object_id": "o1021402",
+    "checked_at": "2026-10-11T15:39:24.643Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"启源造律·昔影\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Origin of Machinery: Past Shadows\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"启源造律·昔影\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Origin of Machinery: Past Shadows\" evolution materials OR \"启源造律·昔影\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": []
+  },
+  {
+    "object_id": "o1021502",
+    "checked_at": "2026-10-11T15:39:27.003Z",
+    "queries": [
+      {
+        "channel": "official",
+        "q": "\"流光灵契·幻华\" 进化 消耗 材料 (site:infinitynikki.infoldgames.com OR site:nikki4.com OR site:steamcommunity.com/games/3164330)"
+      },
+      {
+        "channel": "wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Luster Covenant: Phantasm\" \"Evolution Materials\""
+      },
+      {
+        "channel": "community",
+        "q": "\"流光灵契·幻华\" 进化 消耗 材料 (site:bbs.nga.cn OR site:tieba.baidu.com OR site:xiaohongshu.com OR site:weibo.com OR site:taptap.cn)"
+      },
+      {
+        "channel": "video_international",
+        "q": "\"Luster Covenant: Phantasm\" evolution materials OR \"流光灵契·幻华\" 进化 消耗 材料 (site:bilibili.com OR site:youtube.com OR site:reddit.com OR site:game8.co OR site:gamepress.gg)"
+      }
+    ],
+    "search_surface": "public_search_index; not private-platform login or Discord access",
+    "hits": [
+      {
+        "title": "Luster Covenant: Phantasm | Infinity Nikki Wiki | Fandom",
+        "url": "https://infinity-nikki.fandom.com/wiki/Luster_Covenant%3A_Phantasm",
+        "evolution": "7 Ethereal Thoughts\n\n2 Luster Covenant\n\n100 Thread of Purity\n\n30,000 Bling\n\n1 Luster Covenant: Phantasm",
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: HonkaiImpact 3rd",
+        "url": "https://steamcommunity.com/app/1671200/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 커뮤니티 :: 崩坏3",
+        "url": "https://steamcommunity.com/app/1668940/allnews/?l=koreana",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社区 :: Life Makeover",
+        "url": "https://steamcommunity.com/app/2626940/allnews/?l=schinese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam-værksted::L4D2",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=2974770869&l=danish",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steamワークショップ::角色",
+        "url": "https://steamcommunity.com/sharedfiles/filedetails/?id=3582799177&l=japanese",
+        "evolution": null,
+        "crafting": null
+      },
+      {
+        "title": "Steam 社群 :: 凱風🌟Zephyr :: 遊戲",
+        "url": "https://steamcommunity.com/id/xianjian1998/recommended/?l=tchinese&p=6",
+        "evolution": null,
+        "crafting": null
+      }
+    ]
+  }
+]

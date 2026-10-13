@@ -1,0 +1,2 @@
+import fs from 'node:fs';
+const url='https://infinitynikki.th.gl/api/db/search-index?locale=en',r=await fetch(url,{signal:AbortSignal.timeout(25000)});if(!r.ok)throw Error('HTTP '+r.status);const j=await r.json();fs.writeFileSync('data/research/step9/public-item-index.json',JSON.stringify({source_url:url,retrieved_at:new Date().toISOString(),inventory:(j.entries||[]).filter(x=>/inventory/.test(x.href||x.section||''))},null,2));console.log('Inventory',j.entries?.length,j.entries?.[0]);

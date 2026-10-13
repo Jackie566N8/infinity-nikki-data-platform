@@ -1,0 +1,1072 @@
+{
+  "checked_at": "2026-10-11T06:53:23.827Z",
+  "facts": [
+    {
+      "outfit_id": "o10265",
+      "source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/",
+      "derivation": "Each omitted amount is a positive integer; aggregate minus explicit amounts equals number of omitted amounts. Unique solution: all omitted amounts are 1.",
+      "pieces": [
+        {
+          "target_id": "c1020100265",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 12500,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 160,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mplumeveil-feather",
+              "english_name": "Plumeveil Feather",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010219"
+            },
+            {
+              "material_id": "mglimmerdrift",
+              "english_name": "Glimmerdrift",
+              "quantity": 12,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010233"
+            },
+            {
+              "material_id": "mdragonspine-stem",
+              "english_name": "Dragonspine Stem",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010230"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110120006"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:09.957Z",
+          "sha256": "4c5db1febf6978c9adec189bbe5b4ccc336eb4b4edb2d10985e7a999f11184d4"
+        },
+        {
+          "target_id": "c1020200265",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 6300,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 80,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mcandlemelt-cluster",
+              "english_name": "Candlemelt Cluster",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010225"
+            },
+            {
+              "material_id": "mleatherbag-beetle",
+              "english_name": "Leatherbag Beetle",
+              "quantity": 8,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010232"
+            },
+            {
+              "material_id": "mwindspin-flower",
+              "english_name": "Windspin Flower",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010229"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110120006"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:10.323Z",
+          "sha256": "8e2c832fe48eb14b48ea0eed823a4eda70759b0bf787776c8e445c099317ec70"
+        },
+        {
+          "target_id": "c1020600265",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 10000,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 128,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mboneflame-bloom",
+              "english_name": "Boneflame Bloom",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010227"
+            },
+            {
+              "material_id": "mcandleglow-cluster-essence",
+              "english_name": "Candleglow Cluster Essence",
+              "quantity": 6,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030226"
+            },
+            {
+              "material_id": "mnela-feather",
+              "english_name": "Nela Feather",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010221"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110120006",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:10.453Z",
+          "sha256": "323d64e18b67705a22a28aeec8ff2e91f2a1326c7a693e51ef4282b93e1c5f89"
+        },
+        {
+          "target_id": "c1020710265",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020710265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 6300,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 80,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mboneflame-bloom",
+              "english_name": "Boneflame Bloom",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110010227",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            },
+            {
+              "material_id": "memberpaw-furball-essence",
+              "english_name": "Emberpaw Furball Essence",
+              "quantity": 8,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030220"
+            },
+            {
+              "material_id": "msproutantler-fur-essence",
+              "english_name": "Sproutantler Fur Essence",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110030217",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110120006",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:10.581Z",
+          "sha256": "34478248c537342450f7383897a908c241d804a2a5a4669aebd0ed6174234ed4"
+        },
+        {
+          "target_id": "c1020720265",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 6300,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 80,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mumbrellabloom-essence",
+              "english_name": "Umbrellabloom Essence",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030228"
+            },
+            {
+              "material_id": "mboneflame-bloom",
+              "english_name": "Boneflame Bloom",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010227"
+            },
+            {
+              "material_id": "mleafantler-fur-essence",
+              "english_name": "Leafantler Fur Essence",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030218"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110120006",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:10.781Z",
+          "sha256": "cf975b67e48682df6fcecae3bc32d8939531164f2e977598654d541fa4469b7f"
+        },
+        {
+          "target_id": "c1020730265",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 6300,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 80,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mleafantler-fur-essence",
+              "english_name": "Leafantler Fur Essence",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110030218",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            },
+            {
+              "material_id": "mpearled-spider-essence",
+              "english_name": "Pearled Spider Essence",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110030234",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            },
+            {
+              "material_id": "msproutantler-fur-essence",
+              "english_name": "Sproutantler Fur Essence",
+              "quantity": 12,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030217"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110120006",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:10.896Z",
+          "sha256": "a4b30361177a8951706920d5cd74d7b77bfc9324dbc0fc37d147ef298a37b9b9"
+        },
+        {
+          "target_id": "c1020740265",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 6300,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 80,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mumbrellabloom-essence",
+              "english_name": "Umbrellabloom Essence",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030228"
+            },
+            {
+              "material_id": "mcandlemelt-cluster",
+              "english_name": "Candlemelt Cluster",
+              "quantity": 8,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010225"
+            },
+            {
+              "material_id": "mdragonspine-stem-essence",
+              "english_name": "Dragonspine Stem Essence",
+              "quantity": 12,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030230"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110120006",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:11.044Z",
+          "sha256": "d61c083a3439429a62c98b46831705adc8aa50ddb64e92a6552dcd0c42a215d8"
+        },
+        {
+          "target_id": "c1020760265",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020760265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 6300,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 80,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mleafantler-fur-essence",
+              "english_name": "Leafantler Fur Essence",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030218"
+            },
+            {
+              "material_id": "mpearled-spider",
+              "english_name": "Pearled Spider",
+              "quantity": 3,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010234"
+            },
+            {
+              "material_id": "mglaciscale-essence",
+              "english_name": "Glaciscale Essence",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030231"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 10,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110120006",
+              "quantity_source_url": "https://allthings.how/slumber-by-blossoms-crafting-guide-for-infinity-nikki-2-5/"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:11.150Z",
+          "sha256": "e846417a122f8aace3858f08d46e1eff817d14e07b0ede6273f2c5efddbde272"
+        },
+        {
+          "target_id": "c1020900265",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900265",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 20000,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 256,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mglaciscale",
+              "english_name": "Glaciscale",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010231"
+            },
+            {
+              "material_id": "mcandleglow-cluster",
+              "english_name": "Candleglow Cluster",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010226"
+            },
+            {
+              "material_id": "mnela-feather",
+              "english_name": "Nela Feather",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010221"
+            },
+            {
+              "material_id": "mterra-gem-sweet",
+              "english_name": "Terra Gem: Sweet",
+              "quantity": 25,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050020"
+            },
+            {
+              "material_id": "minv_1110120006",
+              "english_name": "Dreambloom of Yore",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110120006"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:11.299Z",
+          "sha256": "20a272b834c51181e27ecc68386a3d40fa243ea1c79ab6b01ecc047000298fd1"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "quantity": 80300,
+          "unit": "count"
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "quantity": 1024,
+          "unit": "count"
+        },
+        {
+          "material_id": "mplumeveil-feather",
+          "quantity": 15,
+          "unit": "count"
+        },
+        {
+          "material_id": "mglimmerdrift",
+          "quantity": 12,
+          "unit": "count"
+        },
+        {
+          "material_id": "mdragonspine-stem",
+          "quantity": 10,
+          "unit": "count"
+        },
+        {
+          "material_id": "mterra-gem-sweet",
+          "quantity": 110,
+          "unit": "count"
+        },
+        {
+          "material_id": "minv_1110120006",
+          "quantity": 12,
+          "unit": "count"
+        },
+        {
+          "material_id": "mcandlemelt-cluster",
+          "quantity": 23,
+          "unit": "count"
+        },
+        {
+          "material_id": "mleatherbag-beetle",
+          "quantity": 8,
+          "unit": "count"
+        },
+        {
+          "material_id": "mwindspin-flower",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "mboneflame-bloom",
+          "quantity": 26,
+          "unit": "count"
+        },
+        {
+          "material_id": "mcandleglow-cluster-essence",
+          "quantity": 6,
+          "unit": "count"
+        },
+        {
+          "material_id": "mnela-feather",
+          "quantity": 4,
+          "unit": "count"
+        },
+        {
+          "material_id": "memberpaw-furball-essence",
+          "quantity": 8,
+          "unit": "count"
+        },
+        {
+          "material_id": "msproutantler-fur-essence",
+          "quantity": 13,
+          "unit": "count"
+        },
+        {
+          "material_id": "mumbrellabloom-essence",
+          "quantity": 12,
+          "unit": "count"
+        },
+        {
+          "material_id": "mleafantler-fur-essence",
+          "quantity": 13,
+          "unit": "count"
+        },
+        {
+          "material_id": "mpearled-spider-essence",
+          "quantity": 1,
+          "unit": "count"
+        },
+        {
+          "material_id": "mdragonspine-stem-essence",
+          "quantity": 12,
+          "unit": "count"
+        },
+        {
+          "material_id": "mpearled-spider",
+          "quantity": 3,
+          "unit": "count"
+        },
+        {
+          "material_id": "mglaciscale-essence",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "mglaciscale",
+          "quantity": 15,
+          "unit": "count"
+        },
+        {
+          "material_id": "mcandleglow-cluster",
+          "quantity": 15,
+          "unit": "count"
+        }
+      ]
+    },
+    {
+      "outfit_id": "o20052",
+      "source_url": "https://infinity-nikki.fandom.com/wiki/Sizzpollen",
+      "derivation": "Each omitted amount is a positive integer; aggregate minus explicit amounts equals number of omitted amounts. Unique solution: all omitted amounts are 1.",
+      "pieces": [
+        {
+          "target_id": "c1029100052",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100052",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 2000,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 25,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mhare-powder-essence",
+              "english_name": "Hare Powder Essence",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030116"
+            },
+            {
+              "material_id": "mlongstocking-wool",
+              "english_name": "Longstocking Wool",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010099"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "english_name": "Bedrock Crystal: Command",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050001"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:20.574Z",
+          "sha256": "5fdc55c7bf206c47658cfa4dff2f968be5b29d84280dec61571086f50b4904a9"
+        },
+        {
+          "target_id": "c1029300052",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300052",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 1600,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 20,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mstallion-locks",
+              "english_name": "Stallion Locks",
+              "quantity": 3,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010100"
+            },
+            {
+              "material_id": "mpony-curls",
+              "english_name": "Pony Curls",
+              "quantity": 1,
+              "unit": "count",
+              "quantity_status": "derived_unique_positive_integer_allocation",
+              "source_material_id": "inv_1110010101",
+              "quantity_source_url": "https://infinity-nikki.fandom.com/wiki/Sizzpollen"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "english_name": "Bedrock Crystal: Command",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050001"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:20.784Z",
+          "sha256": "db1e6f17b5b4b04504577dad9676280c517b4600990fd6a3e14a12bba4d50a05"
+        },
+        {
+          "target_id": "c1029410052",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410052",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 1600,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 20,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mquillfin",
+              "english_name": "Quillfin",
+              "quantity": 30,
+              "unit": "kg",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010136"
+            },
+            {
+              "material_id": "mwhisker-fish",
+              "english_name": "Whisker Fish",
+              "quantity": 60,
+              "unit": "kg",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010105"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "english_name": "Bedrock Crystal: Command",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050001"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:20.948Z",
+          "sha256": "ab60591307208f1c0bcaf9073dc0fcda8df296cab40fb95f3232865d4f12803a"
+        },
+        {
+          "target_id": "c1029500052",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500052",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 1200,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 15,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mpin-hopper",
+              "english_name": "Pin Hopper",
+              "quantity": 3,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010087"
+            },
+            {
+              "material_id": "mgogglebug",
+              "english_name": "Gogglebug",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010088"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:21.107Z",
+          "sha256": "1148440c23966fa2a1ce4f053af2a2555c47c91d95ecc5891dcbce42754a8ea3"
+        },
+        {
+          "target_id": "c1029600052",
+          "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600052",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 1600,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 20,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "mflorapom",
+              "english_name": "Florapom",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010078"
+            },
+            {
+              "material_id": "mblossom-beetle-essence",
+              "english_name": "Blossom Beetle Essence",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110030089"
+            },
+            {
+              "material_id": "mbedrock-crystal-command",
+              "english_name": "Bedrock Crystal: Command",
+              "quantity": 2,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110050001"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:21.261Z",
+          "sha256": "30c88ec9bd63df50f81d38c9d6fa890cf09e06429c2c520bc454a6756a8e667d"
+        },
+        {
+          "target_id": "c1029710052",
+          "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029710052",
+          "ingredients": [
+            {
+              "material_id": "mbling",
+              "english_name": "Bling",
+              "quantity": 1000,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_2"
+            },
+            {
+              "material_id": "mthread-of-purity",
+              "english_name": "Thread of Purity",
+              "quantity": 12,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010065"
+            },
+            {
+              "material_id": "msizzpollen",
+              "english_name": "Sizzpollen",
+              "quantity": 5,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010074"
+            },
+            {
+              "material_id": "mgrasspom",
+              "english_name": "Grasspom",
+              "quantity": 5,
+              "unit": "count",
+              "quantity_status": "explicit_badge",
+              "source_material_id": "inv_1110010073"
+            }
+          ],
+          "checked_at": "2026-10-11T06:47:21.424Z",
+          "sha256": "01526a026c78d6e55749191cc75096282b9a416cab154ffc8e477535739ac825"
+        }
+      ],
+      "ingredients": [
+        {
+          "material_id": "mbling",
+          "quantity": 9000,
+          "unit": "count"
+        },
+        {
+          "material_id": "mthread-of-purity",
+          "quantity": 112,
+          "unit": "count"
+        },
+        {
+          "material_id": "mhare-powder-essence",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "mlongstocking-wool",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "mbedrock-crystal-command",
+          "quantity": 8,
+          "unit": "count"
+        },
+        {
+          "material_id": "mstallion-locks",
+          "quantity": 3,
+          "unit": "count"
+        },
+        {
+          "material_id": "mpony-curls",
+          "quantity": 1,
+          "unit": "count"
+        },
+        {
+          "material_id": "mquillfin",
+          "quantity": 30,
+          "unit": "kg"
+        },
+        {
+          "material_id": "mwhisker-fish",
+          "quantity": 60,
+          "unit": "kg"
+        },
+        {
+          "material_id": "mpin-hopper",
+          "quantity": 3,
+          "unit": "count"
+        },
+        {
+          "material_id": "mgogglebug",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "mflorapom",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "mblossom-beetle-essence",
+          "quantity": 2,
+          "unit": "count"
+        },
+        {
+          "material_id": "msizzpollen",
+          "quantity": 5,
+          "unit": "count"
+        },
+        {
+          "material_id": "mgrasspom",
+          "quantity": 5,
+          "unit": "count"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "version_id": "version:62e6217bc8ac886b57217593",
+    "version_number": "2.8",
+    "launch_date": "2026-07-16",
+    "time_zone": "UTC-07:00",
+    "date_basis": "publisher_announced_update_day",
+    "source_id": "src:19daac5c74d415a1701d7666",
+    "source_published_date": "2026-07-15",
+    "checked_at": "2026-10-10T15:37:05.085Z"
+  },
+  {
+    "version_id": "version:ac113449ac48a86709494554",
+    "version_number": "2.10",
+    "launch_date": "2026-09-23",
+    "time_zone": "UTC-07:00",
+    "date_basis": "publisher_announced_update_day",
+    "source_id": "src:198df3c5c6bdd1001b10ac6e",
+    "source_published_date": "2026-09-19",
+    "checked_at": "2026-10-10T15:37:05.085Z"
+  },
+  {
+    "version_id": "version:e1eb91b06caf33692b79f191",
+    "version_number": "2.9",
+    "launch_date": "2026-08-27",
+    "time_zone": "UTC-07:00",
+    "date_basis": "publisher_announced_update_day",
+    "source_id": "src:474062988ada152450fef486",
+    "source_published_date": "2026-08-26",
+    "checked_at": "2026-10-10T15:37:05.085Z"
+  }
+]

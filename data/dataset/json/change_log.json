@@ -1,0 +1,11 @@
+[
+  {
+    "change_id": "change:0d4f8a437d63213b7465e8a0",
+    "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+    "table_name": "*",
+    "row_key": "*",
+    "change_type": "baseline",
+    "before_json": null,
+    "after_json": null
+  }
+]

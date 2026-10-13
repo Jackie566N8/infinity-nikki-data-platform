@@ -1,0 +1,285 @@
+{
+  "facts": [
+    {
+      "material_id": "mblossom-beetle-essence",
+      "sourceId": "inv_1110030089",
+      "names": {
+        "zh-CN": "花球娘精粹",
+        "en": "Blossom Beetle Essence",
+        "ja": "ハナタマコロガシ(エキス)",
+        "ko": "꽃구슬 벌레 정수",
+        "zh-TW": "花球娘精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030089",
+      "checked_at": "2026-10-11T06:54:26.333Z",
+      "text": "捕捉花球娘时溢出的奇想力凝结成的精粹，其中蕴含着花球娘的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mcalm-thoughts",
+      "sourceId": "inv_1110100001",
+      "names": {
+        "zh-CN": "沉稳思绪",
+        "en": "Calm Thoughts",
+        "ja": "カームマインド",
+        "ko": "차분한 생각",
+        "zh-TW": "沉穩思緒"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110100001",
+      "checked_at": "2026-10-11T06:54:26.474Z",
+      "text": "平稳如细流的情感能量在瓶中缓缓流淌着，漾出微微的波纹。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mplumeveil-feather",
+      "sourceId": "inv_1110010219",
+      "names": {
+        "zh-CN": "羽巾绒",
+        "en": "Plumeveil Feather",
+        "ja": "フェザーフカモメの綿毛",
+        "ko": "깃털 스카프 솜털",
+        "zh-TW": "羽巾絨"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010219",
+      "checked_at": "2026-10-11T06:54:27.401Z",
+      "text": "清洁生活在埋骨地的羽巾鸥时收集的羽毛，是制作精美头饰或仪式用品，亦是旅人珍爱的护身之物。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mglimmerdrift",
+      "sourceId": "inv_1110010233",
+      "names": {
+        "zh-CN": "蜉幽幽",
+        "en": "Glimmerdrift",
+        "ja": "フユーン",
+        "ko": "희미한 빛 하루살이",
+        "zh-TW": "蜉幽幽"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010233",
+      "checked_at": "2026-10-11T06:54:27.713Z",
+      "text": "埋骨地的水域生物，散发柔和的蓝色荧光，是制作晚礼服或披肩的上乘材料。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mdragonspine-stem",
+      "sourceId": "inv_1110010230",
+      "names": {
+        "zh-CN": "龙棘瑚",
+        "en": "Dragonspine Stem",
+        "ja": "ドラゴンコーラル",
+        "ko": "용가시산호",
+        "zh-TW": "龍棘瑚"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010230",
+      "checked_at": "2026-10-11T06:54:27.866Z",
+      "text": "生长在埋骨地的植物，根茎纹理经提取后制成布料，结实耐用，是用于制作实用型织物的不二之选。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mcandlemelt-cluster",
+      "sourceId": "inv_1110010225",
+      "names": {
+        "zh-CN": "烛融花",
+        "en": "Candlemelt Cluster",
+        "ja": "メルトキャンドルフラワー",
+        "ko": "촉용화",
+        "zh-TW": "燭融花"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010225",
+      "checked_at": "2026-10-11T06:54:28.019Z",
+      "text": "白天在埋骨地可以采集到的花朵，如同燃尽后融化的蜡烛，若是织入布料中，可使织物如蜡般柔滑细腻，贴合肌肤。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mleatherbag-beetle",
+      "sourceId": "inv_1110010232",
+      "names": {
+        "zh-CN": "革袋甲",
+        "en": "Leatherbag Beetle",
+        "ja": "レザーバッグカブト",
+        "ko": "가죽 주머니 딱정벌레",
+        "zh-TW": "革袋甲"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010232",
+      "checked_at": "2026-10-11T06:54:28.284Z",
+      "text": "埋骨地常见的甲虫，皮革质甲壳经过特殊处理后可以提升布料的韧性，广泛应用于耐用织物的制作。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mboneflame-bloom",
+      "sourceId": "inv_1110010227",
+      "names": {
+        "zh-CN": "骨焰花",
+        "en": "Boneflame Bloom",
+        "ja": "ボーナフレイムフラワー",
+        "ko": "골화염 꽃",
+        "zh-TW": "骨焰花"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010227",
+      "checked_at": "2026-10-11T06:54:29.173Z",
+      "text": "多生长在埋骨地龙骨附近的花朵，花瓣作为天然的染料，可赋予布料梦幻般的红色微光。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mcandleglow-cluster-essence",
+      "sourceId": "inv_1110030226",
+      "names": {
+        "zh-CN": "烛荧花精粹",
+        "en": "Candleglow Cluster Essence",
+        "ja": "グロウキャンドルフラワー(エキス)",
+        "ko": "촉영화 정수",
+        "zh-TW": "燭熒花精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030226",
+      "checked_at": "2026-10-11T06:54:29.323Z",
+      "text": "采集烛荧花时溢出的奇想力凝结成的精粹，其中蕴含着烛荧花的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mnela-feather",
+      "sourceId": "inv_1110010221",
+      "names": {
+        "zh-CN": "涅拉羽",
+        "en": "Nela Feather",
+        "ja": "ネラバードの羽根",
+        "ko": "넬라 깃털",
+        "zh-TW": "涅拉羽"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010221",
+      "checked_at": "2026-10-11T06:54:29.476Z",
+      "text": "清洁生活在埋骨地的涅拉鸟时收集的羽毛，用它编织成的布料散发着微弱的光辉，被用于高端服饰与装饰品的制作。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "memberpaw-furball-essence",
+      "sourceId": "inv_1110030220",
+      "names": {
+        "zh-CN": "金灵毛球精粹",
+        "en": "Emberpaw Furball Essence",
+        "ja": "ゴルディアキャットの毛玉(エキス)",
+        "ko": "금령 털뭉치 정수",
+        "zh-TW": "金靈毛球精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030220",
+      "checked_at": "2026-10-11T06:54:29.633Z",
+      "text": "清洁金灵猫时溢出的奇想力凝结成的精粹，其中蕴含着金灵毛球的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "msproutantler-fur-essence",
+      "sourceId": "inv_1110030217",
+      "names": {
+        "zh-CN": "茸芽鹿绒精粹",
+        "en": "Sproutantler Fur Essence",
+        "ja": "スプラウトディアの鹿毛(エキス)",
+        "ko": "새싹 사슴 솜털 정수",
+        "zh-TW": "茸芽鹿絨精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030217",
+      "checked_at": "2026-10-11T06:54:29.784Z",
+      "text": "清洁茸芽角鹿时溢出的奇想力凝结成的精粹，其中蕴含着茸芽鹿绒的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mumbrellabloom-essence",
+      "sourceId": "inv_1110030228",
+      "names": {
+        "zh-CN": "晴雨伞精粹",
+        "en": "Umbrellabloom Essence",
+        "ja": "晴雨のパラソルフラワー(エキス)",
+        "ko": "해와 비의 우산 정수",
+        "zh-TW": "晴雨傘精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030228",
+      "checked_at": "2026-10-11T06:54:29.936Z",
+      "text": "采集晴雨伞时溢出的奇想力凝结成的精粹，其中蕴含着晴雨伞的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mleafantler-fur-essence",
+      "sourceId": "inv_1110030218",
+      "names": {
+        "zh-CN": "大叶鹿绒精粹",
+        "en": "Leafantler Fur Essence",
+        "ja": "ビッグリーフディアの鹿毛(エキス)",
+        "ko": "큰잎 사슴 솜털 정수",
+        "zh-TW": "大葉鹿絨精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030218",
+      "checked_at": "2026-10-11T06:54:30.088Z",
+      "text": "清洁大叶角鹿时溢出的奇想力凝结成的精粹，其中蕴含着大叶鹿绒的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mpearled-spider-essence",
+      "sourceId": "inv_1110030234",
+      "names": {
+        "zh-CN": "珍蛛精粹",
+        "en": "Pearled Spider Essence",
+        "ja": "パールクモ(エキス)",
+        "ko": "진주 거미 정수",
+        "zh-TW": "珍蛛精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030234",
+      "checked_at": "2026-10-11T06:54:30.270Z",
+      "text": "捕捉珍蛛时溢出的奇想力凝结成的精粹，其中蕴含着珍蛛的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mdragonspine-stem-essence",
+      "sourceId": "inv_1110030230",
+      "names": {
+        "zh-CN": "龙棘瑚精粹",
+        "en": "Dragonspine Stem Essence",
+        "ja": "ドラゴンコーラル(エキス)",
+        "ko": "용가시산호 정수",
+        "zh-TW": "龍棘瑚精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030230",
+      "checked_at": "2026-10-11T06:54:30.444Z",
+      "text": "采集龙棘瑚时溢出的奇想力凝结成的精粹，其中蕴含着龙棘瑚的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mpearled-spider",
+      "sourceId": "inv_1110010234",
+      "names": {
+        "zh-CN": "珍蛛",
+        "en": "Pearled Spider",
+        "ja": "パールクモ",
+        "ko": "진주 거미",
+        "zh-TW": "珍蛛"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010234",
+      "checked_at": "2026-10-11T06:54:30.597Z",
+      "text": "埋骨地礁石海岸常见的昆虫，圆润的腹部如华美珠宝，是精致手工艺品的不凡之选。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mglaciscale-essence",
+      "sourceId": "inv_1110030231",
+      "names": {
+        "zh-CN": "蓝鳞晶精粹",
+        "en": "Glaciscale Essence",
+        "ja": "青鱗の結晶(エキス)",
+        "ko": "푸른 비늘 수정 정수",
+        "zh-TW": "藍鱗晶精粹"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110030231",
+      "checked_at": "2026-10-11T06:54:30.751Z",
+      "text": "采集蓝鳞晶时溢出的奇想力凝结成的精粹，其中蕴含着蓝鳞晶的特质。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mglaciscale",
+      "sourceId": "inv_1110010231",
+      "names": {
+        "zh-CN": "蓝鳞晶",
+        "en": "Glaciscale",
+        "ja": "青鱗の結晶",
+        "ko": "푸른 비늘 수정",
+        "zh-TW": "藍鱗晶"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010231",
+      "checked_at": "2026-10-11T06:54:30.905Z",
+      "text": "埋骨地岩壁上的藤壶类生物，其闪耀的外壳如宝石般璀璨，常被用于装饰品的制作，为服饰增添华丽点缀。具体条件请核对来源与游戏内追踪。"
+    },
+    {
+      "material_id": "mcandleglow-cluster",
+      "sourceId": "inv_1110010226",
+      "names": {
+        "zh-CN": "烛荧花",
+        "en": "Candleglow Cluster",
+        "ja": "グロウキャンドルフラワー",
+        "ko": "촉영화",
+        "zh-TW": "燭熒花"
+      },
+      "source_url": "https://infinitynikki.th.gl/db/inventory/inv_1110010226",
+      "checked_at": "2026-10-11T06:54:31.078Z",
+      "text": "夜晚在埋骨地可以采集到的花朵，如同静谧凝固的蜡烛，若是织入布料中，可使织物如烛光般温润柔和，散发微弱光辉。具体条件请核对来源与游戏内追踪。"
+    }
+  ],
+  "failures": []
+}

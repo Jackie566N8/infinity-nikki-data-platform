@@ -1,0 +1,3297 @@
+[
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020300054",
+    "name": "胜负一念",
+    "en": "Win or Lose",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Win or Lose\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"胜负一念\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%83%9C%E8%B4%9F%E4%B8%80%E5%BF%B5&oldid=68250",
+    "checked_at": "2026-10-11T16:18:56.938Z",
+    "revision": 68250,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 涡影泡泡·帅气×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 涡影泡泡·帅气×65 设计图 信息 类型：风格套装 制作花费：6000 所需材料 纯真丝线×72 岩壳鱼精粹×1 珠坠甲虫×6 大地晶珀·帅气×5",
+    "bling": 6000,
+    "sha256": "fa2fe788f016e3d839bff88bec4516d573bc304803fa0f489b6707f93af8f3c8",
+    "design_available": true,
+    "crafting_text": "纯真丝线×72 岩壳鱼精粹×1 珠坠甲虫×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 72,
+        "unit": "count"
+      },
+      {
+        "name_zh": "岩壳鱼精粹",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020410054",
+    "name": "澎湃心绪",
+    "en": "Surging Thoughts",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Surging Thoughts\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"澎湃心绪\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BE%8E%E6%B9%83%E5%BF%83%E7%BB%AA&oldid=68249",
+    "checked_at": "2026-10-11T16:18:57.493Z",
+    "revision": 68249,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 涡影泡泡·帅气×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 涡影泡泡·帅气×65 设计图 信息 类型：风格套装 制作花费：6000 所需材料 纯真丝线×72 岩壳鱼×10.0kg 金轴蜻蜓×5 大地晶珀·帅气×5",
+    "bling": 6000,
+    "sha256": "f08cb74308d51b59c3c66b3ae4134d11ce07204dc994d823830a331f79280f99",
+    "design_available": true,
+    "crafting_text": "纯真丝线×72 岩壳鱼×10.0kg 金轴蜻蜓×5 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 72,
+        "unit": "count"
+      },
+      {
+        "name_zh": "岩壳鱼",
+        "quantity": 10,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020100054",
+    "name": "飒心掠影",
+    "en": "Galeheart Glimpse",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Galeheart Glimpse\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"飒心掠影\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%92%E5%BF%83%E6%8E%A0%E5%BD%B1&oldid=68248",
+    "checked_at": "2026-10-11T16:18:57.690Z",
+    "revision": 68248,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×1220 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·帅气×80 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×1220、 涡影泡泡·帅气×80 设计图 信息 类型：风格套装 制作花费：7500 所需材料 纯真丝线×90 浮冠果精粹×5 金轴蜻蜓×6 大地晶珀·帅气×5",
+    "bling": 7500,
+    "sha256": "51bcb82fd68f373d9381d875071cc1be38754a3bc3645eef5acc7b42c4658471",
+    "design_available": true,
+    "crafting_text": "纯真丝线×90 浮冠果精粹×5 金轴蜻蜓×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 90,
+        "unit": "count"
+      },
+      {
+        "name_zh": "浮冠果精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020730054",
+    "name": "掣电定格",
+    "en": "Frozen Flash",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Frozen Flash\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"掣电定格\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8E%A3%E7%94%B5%E5%AE%9A%E6%A0%BC&oldid=68244",
+    "checked_at": "2026-10-11T16:18:57.765Z",
+    "revision": 68244,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·帅气×20 设计图 信息 类型：风格套装 制作花费：3800 所需材料 纯真丝线×45 浮冠果精粹×5 金轴蜻蜓×6 大地晶珀·帅气×5",
+    "bling": 3800,
+    "sha256": "66e7f2dd80d24f976c381357d93c393ac3cf12a873b55f002a6bbd1c4ab23118",
+    "design_available": true,
+    "crafting_text": "纯真丝线×45 浮冠果精粹×5 金轴蜻蜓×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 45,
+        "unit": "count"
+      },
+      {
+        "name_zh": "浮冠果精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020600054",
+    "name": "炽烈远行",
+    "en": "Fervent Journey",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fervent Journey\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"炽烈远行\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%82%BD%E7%83%88%E8%BF%9C%E8%A1%8C&oldid=68246",
+    "checked_at": "2026-10-11T16:18:57.984Z",
+    "revision": 68246,
+    "materials_text": "所需材料&#x20; 噗灵×11700、 纯真丝线×156、 闪亮泡泡×732 焕新所需材料 &#x20; 噗灵×1780、 纯真丝线×24、 涡影泡泡·帅气×50 总材料 噗灵×13480、 纯真丝线×180、 闪亮泡泡×732、 涡影泡泡·帅气×50 设计图 文件:部件炽烈远行02.jpg 信息 类型：风格套装 制作花费：6000 所需材料 纯真丝线×72 机芯果×5 晶球绵蚧精粹×3 大地晶珀·帅气×5",
+    "bling": 6000,
+    "sha256": "ddaa89fd7a956fc375a5e96baa72778aab3a69935745ee677f1795c9cadf1c8e",
+    "design_available": true,
+    "crafting_text": "纯真丝线×72 机芯果×5 晶球绵蚧精粹×3 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 72,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机芯果",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晶球绵蚧精粹",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020760054",
+    "name": "锋芒交界",
+    "en": "Clash of Edges",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Clash of Edges\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"锋芒交界\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%94%8B%E8%8A%92%E4%BA%A4%E7%95%8C&oldid=68245",
+    "checked_at": "2026-10-11T16:18:58.489Z",
+    "revision": 68245,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·帅气×20 设计图 信息 类型：风格套装 制作花费：3800 所需材料 纯真丝线×45 机芯果×5 暮暮蝶×3 大地晶珀·帅气×5",
+    "bling": 3800,
+    "sha256": "31630343c770396086f3ac7139bb0fd8a0818c6b46197edba9b6e6c9050d7a3f",
+    "design_available": true,
+    "crafting_text": "纯真丝线×45 机芯果×5 暮暮蝶×3 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 45,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机芯果",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "暮暮蝶",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020100067",
+    "name": "年轮记忆",
+    "en": "Rings of Memory",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rings of Memory\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"年轮记忆\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198",
+    "checked_at": "2026-10-11T16:18:58.591Z",
+    "revision": 67198,
+    "materials_text": "所需材料&#x20; 噗灵×70150、 纯真丝线×936、 闪亮泡泡×2440 焕新所需材料 &#x20; 噗灵×10690、 纯真丝线×143、 涡影泡泡·清新×160 总材料 噗灵×80840、 纯真丝线×1079、 闪亮泡泡×2440、 涡影泡泡·清新×160 设计图 信息 类型：风格套装 制作花费：14400 所需材料 卷尾伞鱼×3.0kg 烛荧花精粹×12 大地晶珀·清新×10 革袋甲精粹×5 纯真丝线×200",
+    "bling": 14400,
+    "sha256": "16475335dfa11a474d2a4d1bee72d83d4b7057081f71e407d2220a707b2de80c",
+    "design_available": true,
+    "crafting_text": "卷尾伞鱼×3.0kg 烛荧花精粹×12 大地晶珀·清新×10 革袋甲精粹×5 纯真丝线×200",
+    "materials": [
+      {
+        "name_zh": "卷尾伞鱼",
+        "quantity": 3,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "烛荧花精粹",
+        "quantity": 12,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "革袋甲精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 200,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10054",
+    "object_id": "c1020770054",
+    "name": "热忱托寄",
+    "en": "Heartfelt Entrustment",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Heartfelt Entrustment\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"热忱托寄\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%AD%E5%BF%B1%E6%89%98%E5%AF%84&oldid=68247",
+    "checked_at": "2026-10-11T16:18:58.709Z",
+    "revision": 68247,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·帅气×20 设计图 信息 类型：风格套装 制作花费：3800 所需材料 纯真丝线×45 机雀羽×2 珠坠甲虫×6 大地晶珀·帅气×5",
+    "bling": 3800,
+    "sha256": "6c1d2327340b2fc7c83657a01d2258a371d82980f27dcf362426cdee7be2a31b",
+    "design_available": true,
+    "crafting_text": "纯真丝线×45 机雀羽×2 珠坠甲虫×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 45,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机雀羽",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020300067",
+    "name": "根脉共息",
+    "en": "Intertwined Roots",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Intertwined Roots\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"根脉共息\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194",
+    "checked_at": "2026-10-11T16:18:59.111Z",
+    "revision": 67194,
+    "materials_text": "所需材料&#x20; 噗灵×58460、 纯真丝线×779、 闪亮泡泡×1952 焕新所需材料 &#x20; 噗灵×8910、 纯真丝线×119、 涡影泡泡·清新×130 总材料 噗灵×67370、 纯真丝线×898、 闪亮泡泡×1952、 涡影泡泡·清新×130 设计图 信息 类型：风格套装 制作花费：11500 所需材料 烛荧花×6 大地晶珀·清新×10 羽巾绒×10 汐荧蟹精粹×15 纯真丝线×160",
+    "bling": 11500,
+    "sha256": "243173b2e35eb307e0a39b0e7743d5c62d2378887009a80859152ecd47f804b2",
+    "design_available": true,
+    "crafting_text": "烛荧花×6 大地晶珀·清新×10 羽巾绒×10 汐荧蟹精粹×15 纯真丝线×160",
+    "materials": [
+      {
+        "name_zh": "烛荧花",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "羽巾绒",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "汐荧蟹精粹",
+        "quantity": 15,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 160,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020600067",
+    "name": "绿野行歌",
+    "en": "Verdant Melody",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绿野行歌\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196",
+    "checked_at": "2026-10-11T16:18:59.437Z",
+    "revision": 67196,
+    "materials_text": "所需材料&#x20; 噗灵×35080、 纯真丝线×468、 闪亮泡泡×1465 焕新所需材料 &#x20; 噗灵×5350、 纯真丝线×71、 涡影泡泡·清新×95 总材料 噗灵×40430、 纯真丝线×539、 闪亮泡泡×1465、 涡影泡泡·清新×95 设计图 信息 类型：风格套装 制作花费：11500 所需材料 风舞花×10 大地晶珀·清新×10 龙棘瑚×2 龙棘瑚精粹×3 纯真丝线×160",
+    "bling": 11500,
+    "sha256": "9f79c81b43dc4f4f2fc7bcf7a5241e301860cbeb1767606594748282baaea82e",
+    "design_available": true,
+    "crafting_text": "风舞花×10 大地晶珀·清新×10 龙棘瑚×2 龙棘瑚精粹×3 纯真丝线×160",
+    "materials": [
+      {
+        "name_zh": "风舞花",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "龙棘瑚",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "龙棘瑚精粹",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 160,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020500067",
+    "name": "苔痕浅印",
+    "en": "Verdant Imprint",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Imprint\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"苔痕浅印\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199",
+    "checked_at": "2026-10-11T16:18:59.615Z",
+    "revision": 67199,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·清新×40 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：风格套装 制作花费：8600 所需材料 大地晶珀·清新×5 晴雨伞×15 金灵毛球精粹×1 埙音甲精粹×2 纯真丝线×120",
+    "bling": 8600,
+    "sha256": "d28b3fd8c8ac605d040a17ac81b73055c6e6bc824e338b0aa7694c8181a113dd",
+    "design_available": true,
+    "crafting_text": "大地晶珀·清新×5 晴雨伞×15 金灵毛球精粹×1 埙音甲精粹×2 纯真丝线×120",
+    "materials": [
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晴雨伞",
+        "quantity": 15,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金灵毛球精粹",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "埙音甲精粹",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 120,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020410067",
+    "name": "缤纷心事",
+    "en": "Kaleidoscope Mind",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Kaleidoscope Mind\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"缤纷心事\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195",
+    "checked_at": "2026-10-11T16:18:59.776Z",
+    "revision": 67195,
+    "materials_text": "所需材料&#x20; 噗灵×58460、 纯真丝线×779、 闪亮泡泡×1952 焕新所需材料 &#x20; 噗灵×8910、 纯真丝线×119、 涡影泡泡·清新×130 总材料 噗灵×67370、 纯真丝线×898、 闪亮泡泡×1952、 涡影泡泡·清新×130 设计图 信息 类型：风格套装 制作花费：11500 所需材料 烛融花×2 烛融花精粹×20 大地晶珀·清新×10 蓝鳞晶精粹×10 纯真丝线×160",
+    "bling": 11500,
+    "sha256": "f82e4a3eadb390f7cab70b80b0c7de1794ccfd6f958762693ac04340294ee7fd",
+    "design_available": true,
+    "crafting_text": "烛融花×2 烛融花精粹×20 大地晶珀·清新×10 蓝鳞晶精粹×10 纯真丝线×160",
+    "materials": [
+      {
+        "name_zh": "烛融花",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "烛融花精粹",
+        "quantity": 20,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "蓝鳞晶精粹",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 160,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020760067",
+    "name": "草木轻语",
+    "en": "Whispering Grove",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Whispering Grove\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"草木轻语\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193",
+    "checked_at": "2026-10-11T16:19:00.216Z",
+    "revision": 67193,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 卷尾伞鱼×1.0kg 风舞花×8 澜旗鱼精粹×1 大地晶珀·清新×5 纯真丝线×100",
+    "bling": 7200,
+    "sha256": "77534ef425990a026ac0a41e6d025851edcd54dcb2a1ece85ac9fdfaf34a2ce8",
+    "design_available": true,
+    "crafting_text": "卷尾伞鱼×1.0kg 风舞花×8 澜旗鱼精粹×1 大地晶珀·清新×5 纯真丝线×100",
+    "materials": [
+      {
+        "name_zh": "卷尾伞鱼",
+        "quantity": 1,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "风舞花",
+        "quantity": 8,
+        "unit": "count"
+      },
+      {
+        "name_zh": "澜旗鱼精粹",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020940067",
+    "name": "萌芽初绽",
+    "en": "Awakening Buds",
+    "type": "挂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Awakening Buds\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"萌芽初绽\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197",
+    "checked_at": "2026-10-11T16:19:00.700Z",
+    "revision": 67197,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 大地晶珀·清新×5 革袋甲×5 狠厉布块×5 怨恨绳结×5 纯真丝线×100",
+    "bling": 7200,
+    "sha256": "d45e6361709aee9b7decf8c5c740667c486d34f9df68867ef111f55bf1d08b7a",
+    "design_available": true,
+    "crafting_text": "大地晶珀·清新×5 革袋甲×5 狠厉布块×5 怨恨绳结×5 纯真丝线×100",
+    "materials": [
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "革袋甲",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "狠厉布块",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "怨恨绳结",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020100082",
+    "name": "缱绻云丝",
+    "en": "Lingering Cloud",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lingering Cloud\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"缱绻云丝\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%B1%E7%BB%BB%E4%BA%91%E4%B8%9D&oldid=68554",
+    "checked_at": "2026-10-11T16:19:00.722Z",
+    "revision": 68554,
+    "materials_text": "所需材料&#x20; 噗灵×70150、 纯真丝线×936、 闪亮泡泡×2440 焕新所需材料 &#x20; 噗灵×10690、 纯真丝线×143、 涡影泡泡·帅气×160 总材料 噗灵×80840、 纯真丝线×1079、 闪亮泡泡×2440、 涡影泡泡·帅气×160 设计图 信息 类型：风格套装 制作花费：14400 所需材料 纯真丝线×200 铁剑鱼×10.0kg 桂冠翎羽×6 大地晶珀·帅气×10",
+    "bling": 14400,
+    "sha256": "29ab5ec9102060f2e89097f7189dfa6428eec259967d0efc4e78414ec31e2ab4",
+    "design_available": true,
+    "crafting_text": "纯真丝线×200 铁剑鱼×10.0kg 桂冠翎羽×6 大地晶珀·帅气×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 200,
+        "unit": "count"
+      },
+      {
+        "name_zh": "铁剑鱼",
+        "quantity": 10,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "桂冠翎羽",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020200082",
+    "name": "绵绵归讯",
+    "en": "Messages of Return",
+    "type": "外套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Messages of Return\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绵绵归讯\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%B5%E7%BB%B5%E5%BD%92%E8%AE%AF&oldid=68552",
+    "checked_at": "2026-10-11T16:19:00.765Z",
+    "revision": 68552,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×65 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×976、 涡影泡泡·帅气×65 设计图 信息 类型：风格套装 制作花费：7200 所需材料 纯真丝线×100 斗篷绒毛精粹×5 金轴蜻蜓×6 大地晶珀·帅气×5",
+    "bling": 7200,
+    "sha256": "343ce192b7efb2354ab031361a429807971d3d6d25c2102cd7d51433bf63b37a",
+    "design_available": true,
+    "crafting_text": "纯真丝线×100 斗篷绒毛精粹×5 金轴蜻蜓×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      },
+      {
+        "name_zh": "斗篷绒毛精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020300082",
+    "name": "寞寞晴袍",
+    "en": "Lonely Sunlight",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lonely Sunlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"寞寞晴袍\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%9E%E5%AF%9E%E6%99%B4%E8%A2%8D&oldid=68556",
+    "checked_at": "2026-10-11T16:19:01.569Z",
+    "revision": 68556,
+    "materials_text": "所需材料&#x20; 噗灵×58460、 纯真丝线×779、 闪亮泡泡×1952 焕新所需材料 &#x20; 噗灵×8910、 纯真丝线×119、 涡影泡泡·帅气×130 总材料 噗灵×67370、 纯真丝线×898、 闪亮泡泡×1952、 涡影泡泡·帅气×130 设计图 信息 类型：风格套装 制作花费：11500 所需材料 纯真丝线×160 珠坠甲虫精粹×6 晶球绵蚧×6 大地晶珀·帅气×10",
+    "bling": 11500,
+    "sha256": "8d04578434dda8f327cd18b2f6a3637f5c0119278f3ca564f4c870924aa42f99",
+    "design_available": true,
+    "crafting_text": "纯真丝线×160 珠坠甲虫精粹×6 晶球绵蚧×6 大地晶珀·帅气×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 160,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晶球绵蚧",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020410082",
+    "name": "青丛细语",
+    "en": "Verdant Whispers",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Verdant Whispers\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"青丛细语\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555",
+    "checked_at": "2026-10-11T16:19:01.650Z",
+    "revision": 68555,
+    "materials_text": "所需材料&#x20; 噗灵×58460、 纯真丝线×779、 闪亮泡泡×1952 焕新所需材料 &#x20; 噗灵×8910、 纯真丝线×119、 涡影泡泡·帅气×130 总材料 噗灵×67370、 纯真丝线×898、 闪亮泡泡×1952、 涡影泡泡·帅气×130 设计图 信息 类型：风格套装 制作花费：11500 所需材料 纯真丝线×160 机芯果×7 金轴蜻蜓精粹×5 珠坠甲虫精粹×4 大地晶珀·帅气×10",
+    "bling": 11500,
+    "sha256": "8555d6173caec2b441f4708051b47753a6218e29bd2164adeb628ade73feaa8c",
+    "design_available": true,
+    "crafting_text": "纯真丝线×160 机芯果×7 金轴蜻蜓精粹×5 珠坠甲虫精粹×4 大地晶珀·帅气×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 160,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机芯果",
+        "quantity": 7,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 4,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10067",
+    "object_id": "c1020720067",
+    "name": "沐风聆歌",
+    "en": "Breeze's Melody",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Breeze's Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"沐风聆歌\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192",
+    "checked_at": "2026-10-11T16:19:01.880Z",
+    "revision": 67192,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 蜉幽幽×5 烛荧花精粹×1 大地晶珀·清新×5 珍蛛×3 纯真丝线×100",
+    "bling": 7200,
+    "sha256": "42321bf646889109c5eb45104275a439f267bfc8bddff75f23dbc42ea4d89664",
+    "design_available": true,
+    "crafting_text": "蜉幽幽×5 烛荧花精粹×1 大地晶珀·清新×5 珍蛛×3 纯真丝线×100",
+    "materials": [
+      {
+        "name_zh": "蜉幽幽",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "烛荧花精粹",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·清新",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珍蛛",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020600082",
+    "name": "行向溪野",
+    "en": "Toward the Creekside",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Toward the Creekside\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"行向溪野\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%A1%8C%E5%90%91%E6%BA%AA%E9%87%8E&oldid=68551",
+    "checked_at": "2026-10-11T16:19:02.311Z",
+    "revision": 68551,
+    "materials_text": "所需材料&#x20; 噗灵×35080、 纯真丝线×468、 闪亮泡泡×1465 焕新所需材料 &#x20; 噗灵×5350、 纯真丝线×71、 涡影泡泡·帅气×95 总材料 噗灵×40430、 纯真丝线×539、 闪亮泡泡×1465、 涡影泡泡·帅气×95 设计图 信息 类型：风格套装 制作花费：11500 所需材料 纯真丝线×160 岩壳鱼×10.0kg 珠坠甲虫×6 大地晶珀·帅气×10",
+    "bling": 11500,
+    "sha256": "ed239122f0910a921fe5191f1b32b437abae970d7339bbfef21a71c844dc1d9a",
+    "design_available": true,
+    "crafting_text": "纯真丝线×160 岩壳鱼×10.0kg 珠坠甲虫×6 大地晶珀·帅气×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 160,
+        "unit": "count"
+      },
+      {
+        "name_zh": "岩壳鱼",
+        "quantity": 10,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "珠坠甲虫",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020770082",
+    "name": "松针引线",
+    "en": "Pine Needle Thread",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pine Needle Thread\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"松针引线\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%BE%E9%92%88%E5%BC%95%E7%BA%BF&oldid=68553",
+    "checked_at": "2026-10-11T16:19:02.376Z",
+    "revision": 68553,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·帅气×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·帅气×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 纯真丝线×100 晶球绵蚧精粹×6 机芯果×5 大地晶珀·帅气×5",
+    "bling": 7200,
+    "sha256": "e1f1ed79b0e8f2bd499eefc9e5dbfab0696f015e1d041fcaf6ed123a389a2d93",
+    "design_available": true,
+    "crafting_text": "纯真丝线×100 晶球绵蚧精粹×6 机芯果×5 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晶球绵蚧精粹",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机芯果",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020950082",
+    "name": "软尺远征",
+    "en": "Tape Measure's Trek",
+    "type": "背饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Tape Measure's Trek\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"软尺远征\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BD%AF%E5%B0%BA%E8%BF%9C%E5%BE%81&oldid=68548",
+    "checked_at": "2026-10-11T16:19:02.435Z",
+    "revision": 68548,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·帅气×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·帅气×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 纯真丝线×100 岩壳鱼×10.0kg 斗篷绒毛×6 大地晶珀·帅气×5",
+    "bling": 7200,
+    "sha256": "5113a2658e5ada1bd579854093f09765bc5f86e84987d227f46f6a10d3c8f963",
+    "design_available": true,
+    "crafting_text": "纯真丝线×100 岩壳鱼×10.0kg 斗篷绒毛×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      },
+      {
+        "name_zh": "岩壳鱼",
+        "quantity": 10,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "斗篷绒毛",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020720082",
+    "name": "绒绒方寸",
+    "en": "Puffy Corner",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Puffy Corner\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绒绒方寸\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%92%E7%BB%92%E6%96%B9%E5%AF%B8&oldid=68549",
+    "checked_at": "2026-10-11T16:19:02.452Z",
+    "revision": 68549,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·帅气×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·帅气×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 纯真丝线×100 铁剑鱼精粹×2 珠坠甲虫×6 大地晶珀·帅气×5",
+    "bling": 7200,
+    "sha256": "ea469c2643f507088056c9f2a85b93b2eccd63829f3bb8854cc3d8c1d77ea97e",
+    "design_available": true,
+    "crafting_text": "纯真丝线×100 铁剑鱼精粹×2 珠坠甲虫×6 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      },
+      {
+        "name_zh": "铁剑鱼精粹",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020710214",
+    "name": "恒思深流",
+    "en": "Enduring Thoughts",
+    "type": "发饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Enduring Thoughts\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"恒思深流\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%81%92%E6%80%9D%E6%B7%B1%E6%B5%81&oldid=68260",
+    "checked_at": "2026-10-11T16:19:03.001Z",
+    "revision": 68260,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：能力套装 制作花费：1600 所需材料 纯真丝线×10",
+    "bling": 1600,
+    "sha256": "c6fd34c4f8afc1e63445dadb10fb66c9f13de51d98513ff3de38bd038422d6cd",
+    "design_available": true,
+    "crafting_text": "纯真丝线×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10082",
+    "object_id": "c1020980082",
+    "name": "剪剪绿野",
+    "en": "Trimming Fields",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Trimming Fields\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"剪剪绿野\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550",
+    "checked_at": "2026-10-11T16:19:03.109Z",
+    "revision": 68550,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·帅气×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·帅气×40 设计图 信息 类型：风格套装 制作花费：7200 所需材料 纯真丝线×100 机芯果×3 珠坠甲虫精粹×2 金轴蜻蜓精粹×1 大地晶珀·帅气×5",
+    "bling": 7200,
+    "sha256": "d146500b789aaade2759a9c78c60def95f525b41ced4539c93cd166f2d27749f",
+    "design_available": true,
+    "crafting_text": "纯真丝线×100 机芯果×3 珠坠甲虫精粹×2 金轴蜻蜓精粹×1 大地晶珀·帅气×5",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 100,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机芯果",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓精粹",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 5,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020100214",
+    "name": "风启纪元",
+    "en": "Windborne Era",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Windborne Era\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"风启纪元\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%8E%E5%90%AF%E7%BA%AA%E5%85%83&oldid=68257",
+    "checked_at": "2026-10-11T16:19:03.309Z",
+    "revision": 68257,
+    "materials_text": "所需材料&#x20; 噗灵×70150、 纯真丝线×936、 闪亮泡泡×2440 焕新所需材料 &#x20; 噗灵×10690、 纯真丝线×143、 涡影泡泡·清新×160 总材料 噗灵×80840、 纯真丝线×1079、 闪亮泡泡×2440、 涡影泡泡·清新×160 设计图 信息 类型：能力套装 制作花费：3200 所需材料 金轴蜻蜓×1 纯真丝线×20",
+    "bling": 3200,
+    "sha256": "40bc38dc6b180ab6c78a2852b43102a6e41f1996e90a33ce842a65a658ccf09a",
+    "design_available": true,
+    "crafting_text": "金轴蜻蜓×1 纯真丝线×20",
+    "materials": [
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 20,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020600214",
+    "name": "通行之契",
+    "en": "Pact of Passage",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pact of Passage\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"通行之契\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%80%9A%E8%A1%8C%E4%B9%8B%E5%A5%91&oldid=68265",
+    "checked_at": "2026-10-11T16:19:03.333Z",
+    "revision": 68265,
+    "materials_text": "所需材料&#x20; 噗灵×35080、 纯真丝线×468、 闪亮泡泡×1465 焕新所需材料 &#x20; 噗灵×5350、 纯真丝线×71、 涡影泡泡·清新×95 总材料 噗灵×40430、 纯真丝线×539、 闪亮泡泡×1465、 涡影泡泡·清新×95 设计图 信息 类型：能力套装 制作花费：2600 所需材料 纯真丝线×16",
+    "bling": 2600,
+    "sha256": "78d5c07d836acfc4fdc78d33f9455df93cdebb28dc57c7684a430aa2490b9361",
+    "design_available": true,
+    "crafting_text": "纯真丝线×16",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 16,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020770214",
+    "name": "心源共振",
+    "en": "Pulsing Resonance",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pulsing Resonance\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"心源共振\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BF%83%E6%BA%90%E5%85%B1%E6%8C%AF&oldid=68263",
+    "checked_at": "2026-10-11T16:19:03.855Z",
+    "revision": 68263,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：能力套装 制作花费：1600 所需材料 纯真丝线×10",
+    "bling": 1600,
+    "sha256": "96fbe666c81b05d8d02ec86374a87951906b14e53e857ae499f26a270c6df651",
+    "design_available": true,
+    "crafting_text": "纯真丝线×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020720214",
+    "name": "至理悬光",
+    "en": "Light of Truth",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Light of Truth\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"至理悬光\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%87%B3%E7%90%86%E6%82%AC%E5%85%89&oldid=68259",
+    "checked_at": "2026-10-11T16:19:04.087Z",
+    "revision": 68259,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：能力套装 制作花费：1600 所需材料 纯真丝线×10",
+    "bling": 1600,
+    "sha256": "f1564c1a3454fbab511d0915f5510954e5935af5c0bd61f8881be49adc218189",
+    "design_available": true,
+    "crafting_text": "纯真丝线×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020760214",
+    "name": "永动心枢",
+    "en": "Everturning Heart",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Everturning Heart\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"永动心枢\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B0%B8%E5%8A%A8%E5%BF%83%E6%9E%A2&oldid=68258",
+    "checked_at": "2026-10-11T16:19:04.282Z",
+    "revision": 68258,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：能力套装 制作花费：1600 所需材料 纯真丝线×10",
+    "bling": 1600,
+    "sha256": "d7744e8ee5a9595b20b8a5f354099aad5ab4d1974adab2a6bf8528b717fd7326",
+    "design_available": true,
+    "crafting_text": "纯真丝线×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020790214",
+    "name": "流光序列",
+    "en": "Flowing Sequence",
+    "type": "肤绘",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flowing Sequence\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"流光序列\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B5%81%E5%85%89%E5%BA%8F%E5%88%97&oldid=68262",
+    "checked_at": "2026-10-11T16:19:04.773Z",
+    "revision": 68262,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：能力套装 制作花费：1600 所需材料 纯真丝线×10",
+    "bling": 1600,
+    "sha256": "08e122cb42a2c75a164b180a2871f377e98ba22ac2e50aa957ed58af90abd523",
+    "design_available": true,
+    "crafting_text": "纯真丝线×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020100304",
+    "name": "不落黎光",
+    "en": "Unfading Sunlight",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unfading Sunlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"不落黎光\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298",
+    "checked_at": "2026-10-11T16:19:04.827Z",
+    "revision": 68298,
+    "materials_text": "所需材料&#x20; 噗灵×116910、 纯真丝线×1559、 闪亮泡泡×3912 焕新所需材料 &#x20; 噗灵×17820、 纯真丝线×238、 涡影泡泡·帅气×255 总材料 噗灵×134730、 纯真丝线×1797、 闪亮泡泡×3912、 涡影泡泡·帅气×255 设计图 信息 类型：奇迹套装 制作花费：18800 所需材料 炽曜金砂×2 晶球绵蚧精粹×5 大地晶珀·帅气×15 金轴蜻蜓×6 机雀羽精粹×6 纯真丝线×288",
+    "bling": 18800,
+    "sha256": "674bef4179b19bd3324ed3f10ea42199a6fc02b0244d2382314e9bb1d41448db",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×2 晶球绵蚧精粹×5 大地晶珀·帅气×15 金轴蜻蜓×6 机雀羽精粹×6 纯真丝线×288",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晶球绵蚧精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 15,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机雀羽精粹",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 288,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020900214",
+    "name": "不落晨辉",
+    "en": "Lasting Dawn",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lasting Dawn\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"不落晨辉\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E6%99%A8%E8%BE%89&oldid=68264",
+    "checked_at": "2026-10-11T16:19:04.863Z",
+    "revision": 68264,
+    "materials_text": "所需材料&#x20; 噗灵×116910、 纯真丝线×1559、 闪亮泡泡×3912 焕新所需材料 &#x20; 噗灵×17820、 纯真丝线×238、 涡影泡泡·清新×255 总材料 噗灵×134730、 纯真丝线×1797、 闪亮泡泡×3912、 涡影泡泡·清新×255 设计图 信息 类型：能力套装 制作花费：5100 所需材料 金轴蜻蜓×1 纯真丝线×32",
+    "bling": 5100,
+    "sha256": "ea26fde2dca6eeccfc6fab8420a1c885a615c8c76b5cee79cd8b8282bbfa9fca",
+    "design_available": true,
+    "crafting_text": "金轴蜻蜓×1 纯真丝线×32",
+    "materials": [
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 32,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020600304",
+    "name": "新火已生",
+    "en": "Flame Renewed",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Flame Renewed\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"新火已生\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295",
+    "checked_at": "2026-10-11T16:19:05.324Z",
+    "revision": 68295,
+    "materials_text": "所需材料&#x20; 噗灵×58460、 纯真丝线×779、 闪亮泡泡×2341 焕新所需材料 &#x20; 噗灵×8910、 纯真丝线×119、 涡影泡泡·帅气×155 总材料 噗灵×67370、 纯真丝线×898、 闪亮泡泡×2341、 涡影泡泡·帅气×155 设计图 信息 类型：奇迹套装 制作花费：1500 所需材料 炽曜金砂×1 晶球绵蚧×6 珠坠甲虫精粹×2 大地晶珀·帅气×10 重铸布块×3 纯真丝线×230",
+    "bling": 1500,
+    "sha256": "a8888971a6911dd852a638a3595a0ed2060883e2fc35759be315f10d8aeb6950",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 晶球绵蚧×6 珠坠甲虫精粹×2 大地晶珀·帅气×10 重铸布块×3 纯真丝线×230",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晶球绵蚧",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "重铸布块",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 230,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020720304",
+    "name": "尘与火",
+    "en": "Dust and Fire",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dust and Fire\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"尘与火\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291",
+    "checked_at": "2026-10-11T16:19:05.374Z",
+    "revision": 68291,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：6300 所需材料 炽曜金砂×1 大地晶珀·帅气×10 铁剑鱼×10.0kg 桂冠翎羽×6 火爆绳结×2 纯真丝线×96",
+    "bling": 6300,
+    "sha256": "edc56b0dcb444e1b305fd326c92e456ecebad44f9fdea58298c923a2305be3f3",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 大地晶珀·帅气×10 铁剑鱼×10.0kg 桂冠翎羽×6 火爆绳结×2 纯真丝线×96",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "铁剑鱼",
+        "quantity": 10,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "桂冠翎羽",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "火爆绳结",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 96,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10214",
+    "object_id": "c1020970214",
+    "name": "启源法则",
+    "en": "Law of Origins",
+    "type": "臂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Law of Origins\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"启源法则\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%90%AF%E6%BA%90%E6%B3%95%E5%88%99&oldid=68261",
+    "checked_at": "2026-10-11T16:19:05.642Z",
+    "revision": 68261,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·清新×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·清新×40 设计图 信息 类型：能力套装 制作花费：1600 所需材料 纯真丝线×10",
+    "bling": 1600,
+    "sha256": "9c57d80bf7474922e559a1fbab19c134705bb27a8c26a62e0c34af0019c84cec",
+    "design_available": true,
+    "crafting_text": "纯真丝线×10",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 10,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020730304",
+    "name": "承辉之坠",
+    "en": "Lightbearer's Fall",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lightbearer's Fall\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"承辉之坠\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290",
+    "checked_at": "2026-10-11T16:19:06.009Z",
+    "revision": 68290,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：6300 所需材料 炽曜金砂×1 珠坠甲虫×6 大地晶珀·帅气×10 机雀羽精粹×3 金轴蜻蜓精粹×5 纯真丝线×96",
+    "bling": 6300,
+    "sha256": "1d4f0988b49d30810feff77bb49da8f22349c817d303612df955dec471809560",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 珠坠甲虫×6 大地晶珀·帅气×10 机雀羽精粹×3 金轴蜻蜓精粹×5 纯真丝线×96",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机雀羽精粹",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 96,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020760304",
+    "name": "引炬为誓",
+    "en": "Fire Oath",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Fire Oath\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"引炬为誓\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294",
+    "checked_at": "2026-10-11T16:19:06.201Z",
+    "revision": 68294,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：7500 所需材料 炽曜金砂×1 悖逆构件×1 大地晶珀·帅气×10 金轴蜻蜓×6 机雀羽精粹×6 纯真丝线×120",
+    "bling": 7500,
+    "sha256": "37e6879e75dad73f399d0c7e555c6813003c5f8480e32adde4b39fc8b5da8446",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 悖逆构件×1 大地晶珀·帅气×10 金轴蜻蜓×6 机雀羽精粹×6 纯真丝线×120",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "悖逆构件",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机雀羽精粹",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 120,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020740304",
+    "name": "神顾心辉",
+    "en": "Divine Glimpse",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Divine Glimpse\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"神顾心辉\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292",
+    "checked_at": "2026-10-11T16:19:06.388Z",
+    "revision": 68292,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：7500 所需材料 炽曜金砂×1 斓焰鱼×5.0kg 珠坠甲虫精粹×6 大地晶珀·帅气×10 斗篷绒毛×8 纯真丝线×120",
+    "bling": 7500,
+    "sha256": "d9051065245639f13a420aca524bc9cc96d10313604b6149df0babf4f4b7af43",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 斓焰鱼×5.0kg 珠坠甲虫精粹×6 大地晶珀·帅气×10 斗篷绒毛×8 纯真丝线×120",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "斓焰鱼",
+        "quantity": 5,
+        "unit": "kg"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "斗篷绒毛",
+        "quantity": 8,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 120,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020770304",
+    "name": "期然向晓",
+    "en": "Dawnward Hope",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawnward Hope\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"期然向晓\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297",
+    "checked_at": "2026-10-11T16:19:06.495Z",
+    "revision": 68297,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：9400 所需材料 纯真丝线×144 斗篷绒毛精粹×5 珠坠甲虫×6 珠坠甲虫精粹×3 大地晶珀·帅气×10 炽曜金砂×1",
+    "bling": 9400,
+    "sha256": "0b9ae104f9906f9e6821df8db991b334377374d94d793e3043f7161a3c726224",
+    "design_available": true,
+    "crafting_text": "纯真丝线×144 斗篷绒毛精粹×5 珠坠甲虫×6 珠坠甲虫精粹×3 大地晶珀·帅气×10 炽曜金砂×1",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 144,
+        "unit": "count"
+      },
+      {
+        "name_zh": "斗篷绒毛精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020900304",
+    "name": "此身长照",
+    "en": "Everlit Form",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Everlit Form\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"此身长照\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296",
+    "checked_at": "2026-10-11T16:19:06.927Z",
+    "revision": 68296,
+    "materials_text": "所需材料&#x20; 噗灵×194850、 纯真丝线×2598、 闪亮泡泡×6244 焕新所需材料 &#x20; 噗灵×29700、 纯真丝线×396、 涡影泡泡·帅气×410 总材料 噗灵×224550、 纯真丝线×2994、 闪亮泡泡×6244、 涡影泡泡·帅气×410 设计图 信息 类型：奇迹套装 制作花费：30000 所需材料 纯真丝线×461 珠坠甲虫精粹×6 机雀羽×6 斗篷绒毛精粹×2 大地晶珀·帅气×25 炽曜金砂×2",
+    "bling": 30000,
+    "sha256": "4440182c073df7352f3ebc01815f1d5ce97cb428cf4c742f7b760c79f80bcc4a",
+    "design_available": true,
+    "crafting_text": "纯真丝线×461 珠坠甲虫精粹×6 机雀羽×6 斗篷绒毛精粹×2 大地晶珀·帅气×25 炽曜金砂×2",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 461,
+        "unit": "count"
+      },
+      {
+        "name_zh": "珠坠甲虫精粹",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机雀羽",
+        "quantity": 6,
+        "unit": "count"
+      },
+      {
+        "name_zh": "斗篷绒毛精粹",
+        "quantity": 2,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 25,
+        "unit": "count"
+      },
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 2,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020950304",
+    "name": "命运洪流",
+    "en": "Torrent of Fate",
+    "type": "背饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Torrent of Fate\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"命运洪流\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289",
+    "checked_at": "2026-10-11T16:19:07.246Z",
+    "revision": 68289,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：6300 所需材料 炽曜金砂×1 大地晶珀·帅气×10 机雀羽×5 金轴蜻蜓×10 金轴蜻蜓精粹×5 纯真丝线×96",
+    "bling": 6300,
+    "sha256": "32648f604e81fbf3876fbd0131ab873105c532b4b4aa87e399b7fffaf3b9ca1a",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 大地晶珀·帅气×10 机雀羽×5 金轴蜻蜓×10 金轴蜻蜓精粹×5 纯真丝线×96",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机雀羽",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "金轴蜻蜓精粹",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 96,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020100342",
+    "name": "璨如流星",
+    "en": "Meteor Glow",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Meteor Glow\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"璨如流星\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%92%A8%E5%A6%82%E6%B5%81%E6%98%9F&oldid=51412",
+    "checked_at": "2026-10-11T16:19:07.307Z",
+    "revision": 51412,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×1220 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 幻彩泡泡·帅气×80 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×1220、 幻彩泡泡·帅气×80 设计图 信息 类型：能力套装 制作花费：1600 所需材料 明黄杯杯香×1 纯真丝线×2",
+    "bling": 1600,
+    "sha256": "c15256bb10e20635ad462f4bf6cd9fde4866ad64f291ed6680869851d89292e8",
+    "design_available": true,
+    "crafting_text": "明黄杯杯香×1 纯真丝线×2",
+    "materials": [
+      {
+        "name_zh": "明黄杯杯香",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 2,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020300342",
+    "name": "荧荧如初",
+    "en": "Soft Glow",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Soft Glow\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"荧荧如初\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%A7%E8%8D%A7%E5%A6%82%E5%88%9D&oldid=51414",
+    "checked_at": "2026-10-11T16:19:07.467Z",
+    "revision": 51414,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 幻彩泡泡·帅气×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 幻彩泡泡·帅气×65 设计图 信息 类型：能力套装 制作花费：1200 所需材料 明黄杯杯香×1 纯真丝线×2",
+    "bling": 1200,
+    "sha256": "7429fb4b5112e8284a7e51e4eb44ae4ae025f2653e809e2b648d5911e576ea78",
+    "design_available": true,
+    "crafting_text": "明黄杯杯香×1 纯真丝线×2",
+    "materials": [
+      {
+        "name_zh": "明黄杯杯香",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 2,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10304",
+    "object_id": "c1020970304",
+    "name": "灼火犹燃",
+    "en": "Lingering Flame",
+    "type": "臂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lingering Flame\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"灼火犹燃\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293",
+    "checked_at": "2026-10-11T16:19:07.504Z",
+    "revision": 68293,
+    "materials_text": "所需材料&#x20; 噗灵×29270、 纯真丝线×390、 闪亮泡泡×933 焕新所需材料 &#x20; 噗灵×4460、 纯真丝线×59、 涡影泡泡·帅气×60 总材料 噗灵×33730、 纯真丝线×449、 闪亮泡泡×933、 涡影泡泡·帅气×60 设计图 信息 类型：奇迹套装 制作花费：7500 所需材料 炽曜金砂×1 晶球绵蚧×7 大地晶珀·帅气×10 机芯果×5 执拗花布×3 纯真丝线×120",
+    "bling": 7500,
+    "sha256": "b46d760d8638e5968d1ae57b2bee2836cab4dbe0bf343af0c9f6e9f93739aa4e",
+    "design_available": true,
+    "crafting_text": "炽曜金砂×1 晶球绵蚧×7 大地晶珀·帅气×10 机芯果×5 执拗花布×3 纯真丝线×120",
+    "materials": [
+      {
+        "name_zh": "炽曜金砂",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "晶球绵蚧",
+        "quantity": 7,
+        "unit": "count"
+      },
+      {
+        "name_zh": "大地晶珀·帅气",
+        "quantity": 10,
+        "unit": "count"
+      },
+      {
+        "name_zh": "机芯果",
+        "quantity": 5,
+        "unit": "count"
+      },
+      {
+        "name_zh": "执拗花布",
+        "quantity": 3,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 120,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020410342",
+    "name": "漫漫星事",
+    "en": "Starlit Drift",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlit Drift\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"漫漫星事\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BC%AB%E6%BC%AB%E6%98%9F%E4%BA%8B&oldid=51413",
+    "checked_at": "2026-10-11T16:19:07.772Z",
+    "revision": 51413,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 幻彩泡泡·帅气×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 幻彩泡泡·帅气×65 设计图 信息 类型：能力套装 制作花费：1200 所需材料 明黄杯杯香×1 纯真丝线×2",
+    "bling": 1200,
+    "sha256": "df014c54a06ad6e090c93ea6dd39d7c2f8abe0486aa950ec46727e19ffe30193",
+    "design_available": true,
+    "crafting_text": "明黄杯杯香×1 纯真丝线×2",
+    "materials": [
+      {
+        "name_zh": "明黄杯杯香",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 2,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020600342",
+    "name": "寻光随尘",
+    "en": "Dustlight Traces",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dustlight Traces\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"寻光随尘\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%BB%E5%85%89%E9%9A%8F%E5%B0%98&oldid=51410",
+    "checked_at": "2026-10-11T16:19:08.016Z",
+    "revision": 51410,
+    "materials_text": "所需材料&#x20; 噗灵×11700、 纯真丝线×156、 闪亮泡泡×732 焕新所需材料 &#x20; 噗灵×1780、 纯真丝线×24、 幻彩泡泡·帅气×50 总材料 噗灵×13480、 纯真丝线×180、 闪亮泡泡×732、 幻彩泡泡·帅气×50 设计图 信息 类型：能力套装 制作花费：1200 所需材料 明黄杯杯香×1 纯真丝线×1",
+    "bling": 1200,
+    "sha256": "762dcc442e59df6f45c5598c1df3fe5798eb7df04d686993d1bb1e2763f0d5f5",
+    "design_available": true,
+    "crafting_text": "明黄杯杯香×1 纯真丝线×1",
+    "materials": [
+      {
+        "name_zh": "明黄杯杯香",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020730342",
+    "name": "星色蕴声",
+    "en": "Star's Echo",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Star's Echo\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"星色蕴声\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%9F%E8%89%B2%E8%95%B4%E5%A3%B0&oldid=51406",
+    "checked_at": "2026-10-11T16:19:08.059Z",
+    "revision": 51406,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 幻彩泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 幻彩泡泡·帅气×20 设计图 信息 类型：能力套装 制作花费：800 所需材料 纯真丝线×1",
+    "bling": 800,
+    "sha256": "c67ec4bb433b89a4d15d323a66204619932b2f0096358d77cd1bacc34c975a34",
+    "design_available": true,
+    "crafting_text": "纯真丝线×1",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020760342",
+    "name": "星野觅光",
+    "en": "Starlit Search",
+    "type": "项圈",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlit Search\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"星野觅光\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%9F%E9%87%8E%E8%A7%85%E5%85%89&oldid=51409",
+    "checked_at": "2026-10-11T16:19:08.318Z",
+    "revision": 51409,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 幻彩泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 幻彩泡泡·帅气×20 设计图 信息 类型：能力套装 制作花费：800 所需材料 纯真丝线×1",
+    "bling": 800,
+    "sha256": "ea8de7c7fb7ba0d7aba1f3fe04c823e468e478b4291176045258f6416f862c40",
+    "design_available": true,
+    "crafting_text": "纯真丝线×1",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020740342",
+    "name": "邂逅星圃",
+    "en": "Starlit Encounter",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlit Encounter\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"邂逅星圃\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%82%82%E9%80%85%E6%98%9F%E5%9C%83&oldid=51408",
+    "checked_at": "2026-10-11T16:19:08.491Z",
+    "revision": 51408,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 幻彩泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 幻彩泡泡·帅气×20 设计图 信息 类型：能力套装 制作花费：800 所需材料 纯真丝线×1",
+    "bling": 800,
+    "sha256": "6ed83640689089904bd6d9cf68006eed0e962cb5de5c5da3f83c7b1e27be3b1c",
+    "design_available": true,
+    "crafting_text": "纯真丝线×1",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020920342",
+    "name": "尘光视野",
+    "en": "Dustlit View",
+    "type": "面饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dustlit View\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"尘光视野\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E5%85%89%E8%A7%86%E9%87%8E&oldid=51407",
+    "checked_at": "2026-10-11T16:19:08.615Z",
+    "revision": 51407,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 幻彩泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 幻彩泡泡·帅气×20 设计图 信息 类型：能力套装 制作花费：800 所需材料 纯真丝线×1",
+    "bling": 800,
+    "sha256": "9c15d127d98655474cc07b82d44cc61f7b2a341572ad8f346ce6a52944c01ca6",
+    "design_available": true,
+    "crafting_text": "纯真丝线×1",
+    "materials": [
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10342",
+    "object_id": "c1020770342",
+    "name": "揽星之时",
+    "en": "Starlight Moments",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Starlight Moments\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"揽星之时\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8F%BD%E6%98%9F%E4%B9%8B%E6%97%B6&oldid=51411",
+    "checked_at": "2026-10-11T16:19:08.808Z",
+    "revision": 51411,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 幻彩泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 幻彩泡泡·帅气×20 设计图 信息 类型：能力套装 制作花费：800 所需材料 明黄杯杯香×1 纯真丝线×1",
+    "bling": 800,
+    "sha256": "248f6694a4ea201cfb1a262de8fe2e803122a28434240e3221ef5af5bbad28d0",
+    "design_available": true,
+    "crafting_text": "明黄杯杯香×1 纯真丝线×1",
+    "materials": [
+      {
+        "name_zh": "明黄杯杯香",
+        "quantity": 1,
+        "unit": "count"
+      },
+      {
+        "name_zh": "纯真丝线",
+        "quantity": 1,
+        "unit": "count"
+      }
+    ]
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020100389",
+    "name": "晨风拾歌",
+    "en": "Dawn Melody",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawn Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"晨风拾歌\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%99%A8%E9%A3%8E%E6%8B%BE%E6%AD%8C&oldid=60907",
+    "checked_at": "2026-10-11T16:19:08.836Z",
+    "revision": 60907,
+    "materials_text": "所需材料&#x20; 噗灵×70150、 纯真丝线×936、 闪亮泡泡×2440 焕新所需材料 &#x20; 噗灵×10690、 纯真丝线×143、 涡影泡泡·甜美×160 总材料 噗灵×80840、 纯真丝线×1079、 闪亮泡泡×2440、 涡影泡泡·甜美×160 关联部件 晨风拾歌 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 无声心迹 晨风拾歌·憧梦 <img alt=\"部件月华轻纱01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/80px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B101.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/120px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B101.png 1.5x, https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/160px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%",
+    "bling": null,
+    "sha256": "deefbbd83de907d50efa10753673c5b8865bcc536b8a93b438ec5385e0a1f636",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020600389",
+    "name": "昼夜行路",
+    "en": "Dawn to Dusk",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dawn to Dusk\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"昼夜行路\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%BC%E5%A4%9C%E8%A1%8C%E8%B7%AF&oldid=60914",
+    "checked_at": "2026-10-11T16:19:09.178Z",
+    "revision": 60914,
+    "materials_text": "所需材料&#x20; 噗灵×35080、 纯真丝线×468、 闪亮泡泡×1465 焕新所需材料 &#x20; 噗灵×5350、 纯真丝线×71、 涡影泡泡·甜美×95 总材料 噗灵×40430、 纯真丝线×539、 闪亮泡泡×1465、 涡影泡泡·甜美×95 关联部件 晨风拾歌·憧梦 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 晨风拾歌 无声心迹 <img alt=\"部件月华轻纱·憧梦01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/0/00/j4m7j6tj7d2p0mex06w2ww91jzic491.png/80px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1%C2%B7%E6%86%A7%E6%A2%A601.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/0/00/j4m7j6tj7d2p0mex06w2ww91jzic491.png/120px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1%C2%B7%E6%86%A7%E6%A2%A601.png 1.5x, https://patchwiki.",
+    "bling": null,
+    "sha256": "cdc4bf4b6d15e409424c2a8a003dab95166025f465b496f50ae81b87ac0679f5",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020720389",
+    "name": "羽叶珊珊",
+    "en": "Feathers and Leaves",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Feathers and Leaves\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"羽叶珊珊\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BE%BD%E5%8F%B6%E7%8F%8A%E7%8F%8A&oldid=60908",
+    "checked_at": "2026-10-11T16:19:09.666Z",
+    "revision": 60908,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·甜美×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·甜美×40 关联部件 晨风拾歌 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 无声心迹 晨风拾歌·憧梦 <img alt=\"部件月华轻纱·憧梦01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/0/00/j4m7j6tj7d2p0mex06w2ww91jzic491.png/80px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1%C2%B7%E6%86%A7%E6%A2%A601.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/0/00/j4m7j6tj7d2p0mex06w2ww91jzic491.png/120px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1%C2%B7%E6%86%A7%E6%A2%A601.png 1.5x, https://patchwiki.bi",
+    "bling": null,
+    "sha256": "b7794e86995980c31195541c4a9d52f1f78959a4daf958efa17a9cc8cb9c9a9e",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020500389",
+    "name": "芳枝苒苒",
+    "en": "Lush Branches",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Lush Branches\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"芳枝苒苒\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8A%B3%E6%9E%9D%E8%8B%92%E8%8B%92&oldid=60913",
+    "checked_at": "2026-10-11T16:19:09.760Z",
+    "revision": 60913,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·甜美×40 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×584、 涡影泡泡·甜美×40 关联部件 晨风拾歌 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 无声心迹 晨风拾歌·憧梦 <img alt=\"部件月华轻纱01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/80px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B101.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/120px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B101.png 1.5x, https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/160px-%E",
+    "bling": null,
+    "sha256": "f8db4d7e536e12c159b588432cf725fe183dd9debd140c01451a35f4b43828ec",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020730389",
+    "name": "林溪乐音",
+    "en": "Woodland Melody",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Woodland Melody\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"林溪乐音\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9E%97%E6%BA%AA%E4%B9%90%E9%9F%B3&oldid=60909",
+    "checked_at": "2026-10-11T16:19:09.942Z",
+    "revision": 60909,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·甜美×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·甜美×40 关联部件 晨风拾歌·憧梦 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 无声心迹 晨风拾歌 <img alt=\"部件流金愿景01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/6/6e/471ckq2g0i15j37n6ny0tpschqjty3y.png/80px-%E9%83%A8%E4%BB%B6%E6%B5%81%E9%87%91%E6%84%BF%E6%99%AF01.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/6/6e/471ckq2g0i15j37n6ny0tpschqjty3y.png/120px-%E9%83%A8%E4%BB%B6%E6%B5%81%E9%87%91%E6%84%BF%E6%99%AF01.png 1.5x, https://patchwiki.biligame.com/images/wxnn/thumb/6/6e/471ckq2g0i15j37n6ny0tpschqjty3y.png/160px-%E",
+    "bling": null,
+    "sha256": "60d4176364536bb5679e8c6adfaf350dd4ee8cfb9f8f070cf51d5b003e0460e0",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020740389",
+    "name": "生命启示",
+    "en": "Life's Insight",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Life's Insight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"生命启示\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%94%9F%E5%91%BD%E5%90%AF%E7%A4%BA&oldid=60910",
+    "checked_at": "2026-10-11T16:19:09.965Z",
+    "revision": 60910,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·甜美×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·甜美×40 关联部件 晨风拾歌 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 无声心迹 晨风拾歌·憧梦 <img alt=\"部件月华轻纱·憧梦01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/0/00/j4m7j6tj7d2p0mex06w2ww91jzic491.png/80px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1%C2%B7%E6%86%A7%E6%A2%A601.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/0/00/j4m7j6tj7d2p0mex06w2ww91jzic491.png/120px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1%C2%B7%E6%86%A7%E6%A2%A601.png 1.5x, https://patchwiki.bi",
+    "bling": null,
+    "sha256": "7f8987005915cae0f3b4cc646da9fac02946ef127e4db41f50969095a6648d39",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020900389",
+    "name": "月华轻纱",
+    "en": "Veil of Moonlight",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Veil of Moonlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"月华轻纱\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B1&oldid=60911",
+    "checked_at": "2026-10-11T16:19:10.311Z",
+    "revision": 60911,
+    "materials_text": "所需材料&#x20; 噗灵×116910、 纯真丝线×1559、 闪亮泡泡×3912 焕新所需材料 &#x20; 噗灵×17820、 纯真丝线×238、 涡影泡泡·甜美×255 总材料 噗灵×134730、 纯真丝线×1797、 闪亮泡泡×3912、 涡影泡泡·甜美×255 关联部件 晨风拾歌·憧梦 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 无声心迹 晨风拾歌 <img alt=\"部件流金愿景01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/6/6e/471ckq2g0i15j37n6ny0tpschqjty3y.png/80px-%E9%83%A8%E4%BB%B6%E6%B5%81%E9%87%91%E6%84%BF%E6%99%AF01.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/6/6e/471ckq2g0i15j37n6ny0tpschqjty3y.png/120px-%E9%83%A8%E4%BB%B6%E6%B5%81%E9%87%91%E6%84%BF%E6%99%AF01.png 1.5x, https://patchwiki.biligame.com/images/wxnn/thumb/6/6e/471ckq2g0i15j37n6ny0tpschqjty3y.pn",
+    "bling": null,
+    "sha256": "7a0a990942bc748008525ef2c9d7a4bb860ac71b039ff4b5c2e4e3f21933f02a",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020100393",
+    "name": "绚丽弧光",
+    "en": "Dazzling Arc",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Dazzling Arc\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"绚丽弧光\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%9A%E4%B8%BD%E5%BC%A7%E5%85%89&oldid=61066",
+    "checked_at": "2026-10-11T16:19:10.484Z",
+    "revision": 61066,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×1220 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·帅气×80 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×1220、 涡影泡泡·帅气×80 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/c/c6",
+    "bling": null,
+    "sha256": "480a9784d61d06c35917bbb238a165af30e41c040f6e806654f7eb54109c24a2",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020200393",
+    "name": "霓彩星辰",
+    "en": "Neon Stars",
+    "type": "外套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Neon Stars\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"霓彩星辰\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9C%93%E5%BD%A9%E6%98%9F%E8%BE%B0&oldid=61067",
+    "checked_at": "2026-10-11T16:19:10.508Z",
+    "revision": 61067,
+    "materials_text": "所需材料&#x20; 噗灵×9780、 纯真丝线×130、 闪亮泡泡×489 焕新所需材料 &#x20; 噗灵×1490、 纯真丝线×20、 涡影泡泡·帅气×30 总材料 噗灵×11270、 纯真丝线×150、 闪亮泡泡×489、 涡影泡泡·帅气×30 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/c/c6/2n",
+    "bling": null,
+    "sha256": "8b79835372a80587a729ded590af4ff6cbd8df6b00742ed2b41523d1fa26a84d",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10389",
+    "object_id": "c1020770389",
+    "name": "杳梦渺渺",
+    "en": "Distant Dreams",
+    "type": "手套",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Distant Dreams\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"杳梦渺渺\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%B3%E6%A2%A6%E6%B8%BA%E6%B8%BA&oldid=60912",
+    "checked_at": "2026-10-11T16:19:10.649Z",
+    "revision": 60912,
+    "materials_text": "所需材料&#x20; 噗灵×17550、 纯真丝线×233、 闪亮泡泡×584 焕新所需材料 &#x20; 噗灵×2670、 纯真丝线×36、 涡影泡泡·甜美×40 总材料 噗灵×20220、 纯真丝线×269、 闪亮泡泡×584、 涡影泡泡·甜美×40 关联部件 晨风拾歌·憧梦 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 晨风拾歌 无声心迹 <img alt=\"部件月华轻纱01.png\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/80px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B101.png\" decoding=\"async\" loading=\"lazy\" width=\"80\" height=\"80\" srcset=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/120px-%E9%83%A8%E4%BB%B6%E6%9C%88%E5%8D%8E%E8%BD%BB%E7%BA%B101.png 1.5x, https://patchwiki.biligame.com/images/wxnn/thumb/2/2c/ox65pgsotq56luugulh5ua519uvhkd6.png/160px-%E",
+    "bling": null,
+    "sha256": "c6b5d4f15542c5e8fca2be419d4bd5b16627d42520cfadc4c36dbaa5f9509ac0",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020720393",
+    "name": "光感猫耳",
+    "en": "Luminous Cat Ears",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Luminous Cat Ears\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"光感猫耳\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%85%89%E6%84%9F%E7%8C%AB%E8%80%B3&oldid=61064",
+    "checked_at": "2026-10-11T16:19:11.256Z",
+    "revision": 61064,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·帅气×20 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "0dd6f6c99f11dd9593ab48fd066eec9627e6c72f9c04dc7090a38c22e7e06228",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020600393",
+    "name": "雳光踪迹",
+    "en": "Thunderbolt Trace",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Thunderbolt Trace\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"雳光踪迹\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9B%B3%E5%85%89%E8%B8%AA%E8%BF%B9&oldid=61070",
+    "checked_at": "2026-10-11T16:19:11.323Z",
+    "revision": 61070,
+    "materials_text": "所需材料&#x20; 噗灵×11700、 纯真丝线×156、 闪亮泡泡×732 焕新所需材料 &#x20; 噗灵×1780、 纯真丝线×24、 涡影泡泡·帅气×50 总材料 噗灵×13480、 纯真丝线×180、 闪亮泡泡×732、 涡影泡泡·帅气×50 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"h",
+    "bling": null,
+    "sha256": "ff3d21b41f0a53ebad048f722037a67e22bb21427e4f340fd2bd741f1ba8f98f",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020730393",
+    "name": "超频信号",
+    "en": "Overclocked Signal",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Overclocked Signal\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"超频信号\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%B6%85%E9%A2%91%E4%BF%A1%E5%8F%B7&oldid=61065",
+    "checked_at": "2026-10-11T16:19:11.441Z",
+    "revision": 61065,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·帅气×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·帅气×20 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "1f42d9402b02133d461c65b694e955f4377fb133f96e8e5ed76a60719b7fb51a",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020100395",
+    "name": "墨写流年",
+    "en": "Ink-Written Years",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Ink-Written Years\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"墨写流年\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%A2%A8%E5%86%99%E6%B5%81%E5%B9%B4&oldid=71559",
+    "checked_at": "2026-10-11T16:19:12.114Z",
+    "revision": 71559,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×1220 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·性感×80 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×1220、 涡影泡泡·性感×80 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 宣上泊月 <div style=\"flex",
+    "bling": null,
+    "sha256": "5e508cfc5a51cfc8d524e54b5f6ecf8527e2db14473546de885fb8bd894794dc",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020900393",
+    "name": "寻星掠影",
+    "en": "Chasing Starlight",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Chasing Starlight\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"寻星掠影\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%BB%E6%98%9F%E6%8E%A0%E5%BD%B1&oldid=61068",
+    "checked_at": "2026-10-11T16:19:12.358Z",
+    "revision": 61068,
+    "materials_text": "所需材料&#x20; 噗灵×38970、 纯真丝线×520、 闪亮泡泡×1952 焕新所需材料 &#x20; 噗灵×5940、 纯真丝线×79、 涡影泡泡·帅气×130 总材料 噗灵×44910、 纯真丝线×599、 闪亮泡泡×1952、 涡影泡泡·帅气×130 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/c/",
+    "bling": null,
+    "sha256": "0c8bbba02454baefcb23b161cd7c577058452dc4397cef7646d9ee3a2405527c",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020300395",
+    "name": "风洇竹影",
+    "en": "Wind-Blurred Bamboo",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wind-Blurred Bamboo\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"风洇竹影\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%8E%E6%B4%87%E7%AB%B9%E5%BD%B1&oldid=71569",
+    "checked_at": "2026-10-11T16:19:12.517Z",
+    "revision": 71569,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 涡影泡泡·性感×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 涡影泡泡·性感×65 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 宣上泊月 <div style=\"flex:",
+    "bling": null,
+    "sha256": "e7d3b5e1a17635199059524925689fd653ad3177673f566c6ec80a04c762d2ff",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020410395",
+    "name": "烟雨渡青",
+    "en": "Crossing Through Mist",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Crossing Through Mist\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"烟雨渡青\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%9F%E9%9B%A8%E6%B8%A1%E9%9D%92&oldid=71573",
+    "checked_at": "2026-10-11T16:19:12.915Z",
+    "revision": 71573,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 涡影泡泡·性感×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 涡影泡泡·性感×65 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 宣上泊月 <div style=\"flex:",
+    "bling": null,
+    "sha256": "e672ebcacdf45edb2975edac3a90f67f4a5c7a9e45ecc63ffb11263e10113a12",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020500395",
+    "name": "宣上泊月",
+    "en": "Moon on Paper",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moon on Paper\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"宣上泊月\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AE%A3%E4%B8%8A%E6%B3%8A%E6%9C%88&oldid=71578",
+    "checked_at": "2026-10-11T16:19:12.948Z",
+    "revision": 71578,
+    "materials_text": "所需材料&#x20; 噗灵×7790、 纯真丝线×104、 闪亮泡泡×291 焕新所需材料 &#x20; 噗灵×1190、 纯真丝线×16、 涡影泡泡·性感×20 总材料 噗灵×8980、 纯真丝线×120、 闪亮泡泡×291、 涡影泡泡·性感×20 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 宣上泊月 <div style=\"flex: 0",
+    "bling": null,
+    "sha256": "efdf3b84ef54110c9b3e867225d8be4ea256d1cb51f10d13a580c6b5f6d27194",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020600395",
+    "name": "径上花明",
+    "en": "Blossoming Path",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoming Path\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"径上花明\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BE%84%E4%B8%8A%E8%8A%B1%E6%98%8E&oldid=71585",
+    "checked_at": "2026-10-11T16:19:13.049Z",
+    "revision": 71585,
+    "materials_text": "所需材料&#x20; 噗灵×11700、 纯真丝线×156、 闪亮泡泡×732 焕新所需材料 &#x20; 噗灵×1780、 纯真丝线×24、 涡影泡泡·性感×50 总材料 噗灵×13480、 纯真丝线×180、 闪亮泡泡×732、 涡影泡泡·性感×50 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 <a href=\"/wxnn/%E9%83%A8%E4%BB%B6%E5%AE%A3%E4%B8%8A%E6%B3%8A%E6%9C%88\" title",
+    "bling": null,
+    "sha256": "a19db4d9170e641c6aeebfa1fc6e4c91289c2a37232d40a55aa54682a9d5ecc4",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020710395",
+    "name": "落香邀客",
+    "en": "Scented Invitation",
+    "type": "发饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Scented Invitation\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"落香邀客\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%BD%E9%A6%99%E9%82%80%E5%AE%A2&oldid=71591",
+    "checked_at": "2026-10-11T16:19:13.700Z",
+    "revision": 71591,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·性感×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·性感×20 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 <a href=\"/wxnn/%E9%83%A8%E4%BB%B6%E5%AE%A3%E4%B8%8A%E6%B3%8A%E6%9C%88\" title=\"部件宣",
+    "bling": null,
+    "sha256": "b5091689f30abe26aa8460db8a6d9530843b87e4774a9dcfadc3561fd3885a7a",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10393",
+    "object_id": "c1020500393",
+    "name": "律动节拍",
+    "en": "Rhythmic Beat",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Rhythmic Beat\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"律动节拍\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BE%8B%E5%8A%A8%E8%8A%82%E6%8B%8D&oldid=61069",
+    "checked_at": "2026-10-11T16:19:13.971Z",
+    "revision": 61069,
+    "materials_text": "所需材料&#x20; 噗灵×7790、 纯真丝线×104、 闪亮泡泡×291 焕新所需材料 &#x20; 噗灵×1190、 纯真丝线×16、 涡影泡泡·帅气×20 总材料 噗灵×8980、 纯真丝线×120、 闪亮泡泡×291、 涡影泡泡·帅气×20 关联部件 绚丽弧光 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 寻星掠影 霓彩星辰 <img alt=\"部件律动节拍02.jpg\" src=\"htt",
+    "bling": null,
+    "sha256": "71544fd741f462f7d1031edcf4010d4cdaaaf0b0a6c4cf5692a9b1bf2757a32f",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o10395",
+    "object_id": "c1020750395",
+    "name": "脉间听雨",
+    "en": "Pulsing Rain",
+    "type": "腕饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Pulsing Rain\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"脉间听雨\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%84%89%E9%97%B4%E5%90%AC%E9%9B%A8&oldid=71602",
+    "checked_at": "2026-10-11T16:19:14.054Z",
+    "revision": 71602,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·性感×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·性感×20 关联部件 墨写流年 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 文件:部件风洇竹影02.jpg 风洇竹影 文件:部件烟雨渡青02.jpg 烟雨渡青 <a href=\"/wxnn/%E9%83%A8%E4%BB%B6%E5%AE%A3%E4%B8%8A%E6%B3%8A%E6%9C%88\" title=\"部件宣",
+    "bling": null,
+    "sha256": "cabad492f2989e057c0932907b713e495c89885fbd1e3f4a1390de8fae817437",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029100048",
+    "name": "旷野煦风",
+    "en": "Wilderness Zephyr",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Wilderness Zephyr\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"旷野煦风\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%97%B7%E9%87%8E%E7%85%A6%E9%A3%8E&oldid=60893",
+    "checked_at": "2026-10-11T16:19:14.068Z",
+    "revision": 60893,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×1220 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·典雅×80 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×1220、 涡影泡泡·典雅×80 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/28",
+    "bling": null,
+    "sha256": "3e45d65ad59cb6a7a92af6c9c11fe046263d262f58ce5517ae6a740a3930da1e",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029500048",
+    "name": "迥途待书",
+    "en": "Unwritten Path",
+    "type": "袜子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unwritten Path\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"迥途待书\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BF%A5%E9%80%94%E5%BE%85%E4%B9%A6&oldid=60898",
+    "checked_at": "2026-10-11T16:19:14.433Z",
+    "revision": 60898,
+    "materials_text": "所需材料&#x20; 噗灵×7790、 纯真丝线×104、 闪亮泡泡×291 焕新所需材料 &#x20; 噗灵×1190、 纯真丝线×16、 涡影泡泡·典雅×20 总材料 噗灵×8980、 纯真丝线×120、 闪亮泡泡×291、 涡影泡泡·典雅×20 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/28/qj1",
+    "bling": null,
+    "sha256": "1e1ebd8c829d9548a68a52ae192bce74cf5e39cd7cbd479a3a1e8e2a01d13d39",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029720048",
+    "name": "仰望芳菲",
+    "en": "Blossoms Above",
+    "type": "帽子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Blossoms Above\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"仰望芳菲\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%BB%B0%E6%9C%9B%E8%8A%B3%E8%8F%B2&oldid=60894",
+    "checked_at": "2026-10-11T16:19:14.744Z",
+    "revision": 60894,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·典雅×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·典雅×20 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "9002412e02d50ea0b3aeb3958050fd029bb42884175af849b8a5208a8ee5bbc9",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029730048",
+    "name": "耀目盛阳",
+    "en": "Resplendent Sun",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Resplendent Sun\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"耀目盛阳\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%80%80%E7%9B%AE%E7%9B%9B%E9%98%B3&oldid=60895",
+    "checked_at": "2026-10-11T16:19:14.826Z",
+    "revision": 60895,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·典雅×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·典雅×20 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "360284dcc43285a9eb604a4bbe39ab1400b61ff4d14ecd5bf20507bee66ce693",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029600048",
+    "name": "从容稳步",
+    "en": "Composed Strides",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Composed Strides\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"从容稳步\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%BB%8E%E5%AE%B9%E7%A8%B3%E6%AD%A5&oldid=60899",
+    "checked_at": "2026-10-11T16:19:14.923Z",
+    "revision": 60899,
+    "materials_text": "所需材料&#x20; 噗灵×11700、 纯真丝线×156、 闪亮泡泡×732 焕新所需材料 &#x20; 噗灵×1780、 纯真丝线×24、 涡影泡泡·典雅×50 总材料 噗灵×13480、 纯真丝线×180、 闪亮泡泡×732、 涡影泡泡·典雅×50 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"h",
+    "bling": null,
+    "sha256": "79465402b9628e9167520c01a10d8d20ebd35b78510eae4c7974110af659ba73",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029900048",
+    "name": "优雅新意",
+    "en": "New Elegance",
+    "type": "连衣裙",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"New Elegance\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"优雅新意\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%BC%98%E9%9B%85%E6%96%B0%E6%84%8F&oldid=60896",
+    "checked_at": "2026-10-11T16:19:15.485Z",
+    "revision": 60896,
+    "materials_text": "所需材料&#x20; 噗灵×38970、 纯真丝线×520、 闪亮泡泡×1952 焕新所需材料 &#x20; 噗灵×5940、 纯真丝线×79、 涡影泡泡·典雅×130 总材料 噗灵×44910、 纯真丝线×599、 闪亮泡泡×1952、 涡影泡泡·典雅×130 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/2/",
+    "bling": null,
+    "sha256": "36b34c7659b8c0f7d778646d455072968ad3bbdecc5fbd629a54864456821e95",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029100053",
+    "name": "沙滩启示",
+    "en": "Beachside Revelation",
+    "type": "发型",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Beachside Revelation\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"沙滩启示\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%99%E6%BB%A9%E5%90%AF%E7%A4%BA&oldid=49217",
+    "checked_at": "2026-10-11T16:19:15.556Z",
+    "revision": 49217,
+    "materials_text": "所需材料&#x20; 噗灵×23380、 纯真丝线×312、 闪亮泡泡×1220 焕新所需材料 &#x20; 噗灵×3560、 纯真丝线×48、 涡影泡泡·性感×80 总材料 噗灵×26940、 纯真丝线×360、 闪亮泡泡×1220、 涡影泡泡·性感×80 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/1/12",
+    "bling": null,
+    "sha256": "b7ad65433a262f2bdee4426d01f13f86327e956a59b3b9ed7489ee0f4be04b01",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029300053",
+    "name": "拥抱海风",
+    "en": "Sea-Scented Embrace",
+    "type": "上衣",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Sea-Scented Embrace\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"拥抱海风\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8B%A5%E6%8A%B1%E6%B5%B7%E9%A3%8E&oldid=49218",
+    "checked_at": "2026-10-11T16:19:15.756Z",
+    "revision": 49218,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 涡影泡泡·性感×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 涡影泡泡·性感×65 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/1/12/a",
+    "bling": null,
+    "sha256": "a5bde336fc10968e530d11313d52169ec96de49caa1f39a7b2e99d5d76045ee1",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20048",
+    "object_id": "c1029940048",
+    "name": "自由向往",
+    "en": "Longing for Freedom",
+    "type": "挂饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Longing for Freedom\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"自由向往\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%87%AA%E7%94%B1%E5%90%91%E5%BE%80&oldid=60897",
+    "checked_at": "2026-10-11T16:19:15.765Z",
+    "revision": 60897,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·典雅×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·典雅×20 关联部件 旷野煦风 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 优雅新意 迥途待书 <img alt=\"部件从容稳步02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "837071efd2ce529d2ca21c7c2520e71474995879c6aa98b1ac72f27f94a147c7",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029600053",
+    "name": "未知足迹",
+    "en": "Unknown Footprints",
+    "type": "鞋子",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Unknown Footprints\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"未知足迹\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%AA%E7%9F%A5%E8%B6%B3%E8%BF%B9&oldid=49220",
+    "checked_at": "2026-10-11T16:19:16.270Z",
+    "revision": 49220,
+    "materials_text": "所需材料&#x20; 噗灵×11700、 纯真丝线×156、 闪亮泡泡×732 焕新所需材料 &#x20; 噗灵×1780、 纯真丝线×24、 涡影泡泡·性感×50 总材料 噗灵×13480、 纯真丝线×180、 闪亮泡泡×732、 涡影泡泡·性感×50 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"h",
+    "bling": null,
+    "sha256": "f0c675e5ccbc84b2060e21dbd933cbdad48f9a81bc66ee6b3d20f38a7900f76a",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029730053",
+    "name": "与鱼同游",
+    "en": "Reverie at Sea",
+    "type": "耳饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Reverie at Sea\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"与鱼同游\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8E%E9%B1%BC%E5%90%8C%E6%B8%B8&oldid=49214",
+    "checked_at": "2026-10-11T16:19:16.485Z",
+    "revision": 49214,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·性感×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·性感×20 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "94178af8babf348be324fc7d3062d2e3a677367d668ac71982004c07edb0c6d1",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029740053",
+    "name": "月下珍珠",
+    "en": "Moonlit Pearls",
+    "type": "颈饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Moonlit Pearls\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"月下珍珠\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%88%E4%B8%8B%E7%8F%8D%E7%8F%A0&oldid=49215",
+    "checked_at": "2026-10-11T16:19:16.487Z",
+    "revision": 49215,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·性感×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·性感×20 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "c7bb158422c2413d2c9bc1cb6420e68963e2d590f4fa8386a215579213ce3dff",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029410053",
+    "name": "飞跃金沙",
+    "en": "Across Golden Sand",
+    "type": "下装",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Across Golden Sand\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"飞跃金沙\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%9E%E8%B7%83%E9%87%91%E6%B2%99&oldid=49219",
+    "checked_at": "2026-10-11T16:19:16.531Z",
+    "revision": 49219,
+    "materials_text": "所需材料&#x20; 噗灵×19490、 纯真丝线×260、 闪亮泡泡×976 焕新所需材料 &#x20; 噗灵×2970、 纯真丝线×40、 涡影泡泡·性感×65 总材料 噗灵×22460、 纯真丝线×300、 闪亮泡泡×976、 涡影泡泡·性感×65 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"https://patchwiki.biligame.com/images/wxnn/thumb/1/12/a",
+    "bling": null,
+    "sha256": "d02b84b5140485e64aa815fd9c8faf6a470c13c0183615ac8886d1caa4463db0",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  },
+  {
+    "outfit_id": "o20053",
+    "object_id": "c1029920053",
+    "name": "深海视野",
+    "en": "Deepsea Vision",
+    "type": "面饰",
+    "queries": [
+      {
+        "channel": "specific_piece_wiki",
+        "q": "site:infinity-nikki.fandom.com/wiki/ \"Deepsea Vision\" \"Crafting Materials\""
+      },
+      {
+        "channel": "piece_community",
+        "q": "无限暖暖 \"深海视野\" 制作 材料 数量"
+      }
+    ],
+    "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B7%B1%E6%B5%B7%E8%A7%86%E9%87%8E&oldid=49216",
+    "checked_at": "2026-10-11T16:19:16.966Z",
+    "revision": 49216,
+    "materials_text": "所需材料&#x20; 噗灵×5860、 纯真丝线×78、 闪亮泡泡×290 焕新所需材料 &#x20; 噗灵×890、 纯真丝线×12、 涡影泡泡·性感×20 总材料 噗灵×6750、 纯真丝线×90、 闪亮泡泡×290、 涡影泡泡·性感×20 关联部件 沙滩启示 .preview .tippy-content { transition-duration: 0ms!important; }.preview .tippy-content-container { padding: 0; max-height: none; }.preview .tippy-header {display: none;}> 拥抱海风 飞跃金沙 <img alt=\"部件未知足迹02.jpg\" src=\"https:",
+    "bling": null,
+    "sha256": "4bb5586c5799c6951dd5509240541388a6a2ed0f8de8bb9f6663849243dd5312",
+    "design_available": false,
+    "crafting_text": null,
+    "materials": []
+  }
+]

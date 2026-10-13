@@ -1,0 +1,502 @@
+{
+  "snapshot": {
+    "snapshot_id": "preferences:ccc9e9d5ed0d1eb82363d884",
+    "created_at": "2026-10-11T07:16:03.094Z",
+    "catalog_snapshot": "snapshot:8b40ec876db4824a25c4dac8",
+    "parent_id": "preferences:4147b9ed4c69c0fee2606c97",
+    "input_sha256": "ccc9e9d5ed0d1eb82363d88456b899d4c662a23021ce9fba461aecf3f0845be6",
+    "note": "初始建档：4份公开投票，14项来源审查；比例保留原精度，历史可比调查、收入及完成率待补充。",
+    "file": "ccc9e9d5ed0d1eb82363d884.json",
+    "change_count": 0,
+    "changes": [],
+    "source_urls": [
+      "https://www.taptap.cn/moment/700147148997528787",
+      "https://www.taptap.cn/moment/699902022945605493",
+      "https://www.taptap.cn/moment/698970646377400845",
+      "https://www.taptap.cn/moment/766621634256701289",
+      "https://www.taptap.cn/moment/731863866601898534",
+      "https://www.taptap.cn/moment/704349798681020221",
+      "https://gongeo.us/zh/global",
+      "https://www.reddit.com/r/InfinityNikki/comments/1kjhrxf/individual_pieces_droprate_from_700_players_pull/",
+      "https://tiermaker.com/categories/online-games/infinity-nikki-all-outfits-evolutions-glow-ups-110-1211609",
+      "https://www.bilibili.com/video/BV1YcPUzDEuS/",
+      "https://infinitynikki.nuanpaper.com/news/738",
+      "https://infinitynikki.infoldgames.com/zh-TW/news/122",
+      "https://www.weibo.com/7801655101/Qh0YZpuC2",
+      "https://www.wjx.cn/vm/O4hZNH1.aspx"
+    ]
+  },
+  "data": {
+    "schema_version": 1,
+    "update_note": "初始建档：4份公开投票，14项来源审查；比例保留原精度，历史可比调查、收入及完成率待补充。",
+    "sources": [
+      {
+        "source_id": "src:tap-dragon-cat-62",
+        "url": "https://www.taptap.cn/moment/700147148997528787",
+        "platform": "TapTap",
+        "title": "丹青季龙猫套装偏好投票",
+        "sample_size": 62,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "服装偏好单选投票",
+        "status": "usable",
+        "assessment": "搜索索引正文可核验 N 与全部选项；直连读取失败。仅限该帖候选，不代表平台或全体玩家。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:tap-dragon-cat-231",
+        "url": "https://www.taptap.cn/moment/699902022945605493",
+        "platform": "TapTap",
+        "title": "丹青季龙猫套装抽取意向",
+        "sample_size": 231,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "抽取意向单选投票",
+        "status": "usable",
+        "assessment": "仅有月日日期，年份未直接核实；不作为时间趋势点。抽取意向与喜爱程度分别统计。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:tap-sansheng-118",
+        "url": "https://www.taptap.cn/moment/698970646377400845",
+        "platform": "TapTap",
+        "title": "三生因缘外观评价",
+        "sample_size": 118,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "单套装赞同比例",
+        "status": "usable",
+        "assessment": "评价讨论包括原色与进化，按家族归并；不是原色单独偏好，也不是持有率。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:tap-fan-deer-253",
+        "url": "https://www.taptap.cn/moment/766621634256701289",
+        "platform": "TapTap",
+        "title": "扇妖与鹿套抽取选择",
+        "sample_size": 253,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "抽取意向单选投票",
+        "status": "usable",
+        "assessment": "问题背景包含二进意愿，选项未细分形态；仅映射家族。只显示月日，年份留空。",
+        "access_method": "direct_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:tap-complete-74",
+        "url": "https://www.taptap.cn/moment/731863866601898534",
+        "platform": "TapTap",
+        "title": "套装集齐情况提问",
+        "sample_size": 74,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "是否集齐的自报投票",
+        "status": "pending",
+        "assessment": "可读比例为集齐 36.5%、未齐 63.5%，但文字无法确定套装对象及形态；不纳入完成率统计。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:tap-images-75",
+        "url": "https://www.taptap.cn/moment/704349798681020221",
+        "platform": "TapTap",
+        "title": "丹青季七张穿搭图选择",
+        "sample_size": 75,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "图片穿搭偏好投票",
+        "status": "pending",
+        "assessment": "投票对象为图1至图7，无法从文本明确映射整套服装；不将混搭图片强行对应套装。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:gongeo-global",
+        "url": "https://gongeo.us/zh/global",
+        "platform": "暖暖共鸣录",
+        "title": "社区共鸣统计",
+        "sample_size": null,
+        "sample_scope": "使用共鸣记录工具并自愿分享的用户，当前样本量未核验",
+        "data_type": "自愿上传的共鸣汇总",
+        "status": "pending",
+        "assessment": "公开页面本次只读取到导航，未获得当前表格、样本数或完整统计定义，不推算收集率。",
+        "access_method": "direct_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:reddit-pulls",
+        "url": "https://www.reddit.com/r/InfinityNikki/comments/1kjhrxf/individual_pieces_droprate_from_700_players_pull/",
+        "platform": "Reddit",
+        "title": "社区共鸣部件掉率讨论",
+        "sample_size": null,
+        "sample_scope": "作者描述700+玩家；未核实确切样本量，存在工具用户偏差",
+        "data_type": "抽卡记录分析帖子",
+        "status": "excluded",
+        "assessment": "作者描述为700+玩家记录；这是首个部件掉落统计，非套装人气、收入或持有率。原表尚未核验，不挪用为本模块指标。",
+        "access_method": "direct_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:tiermaker-81",
+        "url": "https://tiermaker.com/categories/online-games/infinity-nikki-all-outfits-evolutions-glow-ups-110-1211609",
+        "platform": "TierMaker",
+        "title": "2.8套装形态社区分级",
+        "sample_size": 81,
+        "sample_scope": "81份自愿提交的分级表；不是81位已去重玩家",
+        "data_type": "社区分级表汇总",
+        "status": "pending",
+        "assessment": "页面标明81份提交列表、更新2026-08-21；没有读到可可靠映射的逐套等级与评分，暂不录入排行榜。",
+        "access_method": "direct_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:bili-guide",
+        "url": "https://www.bilibili.com/video/BV1YcPUzDEuS/",
+        "platform": "哔哩哔哩",
+        "title": "商城服装单作者测评",
+        "sample_size": null,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "攻略作者测评",
+        "status": "excluded",
+        "assessment": "推荐度是作者意见，播放量不是投票人数；未提供群体级逐套样本。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:official-release",
+        "url": "https://infinitynikki.nuanpaper.com/news/738",
+        "platform": "无限暖暖官网",
+        "title": "2.2版本开启公告",
+        "sample_size": null,
+        "sample_scope": "官方公告，非调查样本",
+        "data_type": "官方版本与奖励说明",
+        "status": "excluded",
+        "assessment": "可核实版本和奖励，未提供套装销量、收入或玩家完成率；不能用公告曝光代替服装流水。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:official-vote",
+        "url": "https://infinitynikki.infoldgames.com/zh-TW/news/122",
+        "platform": "无限暖暖官网",
+        "title": "2.7活动投票规则",
+        "sample_size": null,
+        "sample_scope": "活动说明，非服装偏好样本",
+        "data_type": "舞台美术投票规则",
+        "status": "excluded",
+        "assessment": "投票对象是舞台美术，不是套装；没有逐套偏好结果。",
+        "access_method": "direct_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:weibo-anniversary",
+        "url": "https://www.weibo.com/7801655101/Qh0YZpuC2",
+        "platform": "微博",
+        "title": "官方周年回顾线索",
+        "sample_size": null,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "周年统计线索",
+        "status": "pending",
+        "assessment": "搜索结果有回顾文字，未读取到可核验的逐套统计及样本定义。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "source_id": "src:wjx-marketing",
+        "url": "https://www.wjx.cn/vm/O4hZNH1.aspx",
+        "platform": "问卷星",
+        "title": "游戏营销策略问卷",
+        "sample_size": null,
+        "sample_scope": "该公开帖的自愿投票参与者；非随机抽样",
+        "data_type": "问卷入口",
+        "status": "excluded",
+        "assessment": "只见问卷题目，未公开答卷汇总；问卷入口不能当作调查结果。",
+        "access_method": "indexed_page",
+        "collected_at": "2026-09-17T17:31:28.920Z"
+      }
+    ],
+    "studies": [
+      {
+        "study_id": "study:tap-dragon-cat-62",
+        "source_id": "src:tap-dragon-cat-62",
+        "title": "龙与猫：更喜欢哪套？",
+        "status": "ready",
+        "metric": "preference",
+        "unit": "percent",
+        "selection_mode": "single",
+        "form_scope": "family",
+        "sample_size": 62,
+        "sample_unit": "participants",
+        "population": "该 TapTap 帖内自愿作答者；不同帖子参与者可能重叠，无法去重。",
+        "question": "龙与猫：更喜欢哪套？",
+        "candidate_ids": [
+          "o10330",
+          "o10331"
+        ],
+        "options": [
+          {
+            "option_id": "study:tap-dragon-cat-62:0",
+            "label": "帅龙",
+            "percent": 38.7,
+            "outfit_ids": [
+              "o10330"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-dragon-cat-62:1",
+            "label": "可爱猫",
+            "percent": 19.4,
+            "outfit_ids": [
+              "o10331"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-dragon-cat-62:2",
+            "label": "两套都喜欢",
+            "percent": 41.9,
+            "outfit_ids": [
+              "o10330",
+              "o10331"
+            ],
+            "vote_count": null
+          }
+        ],
+        "observations": [],
+        "published_date": "2025-08-01",
+        "published_label": "2025/08/01",
+        "period_start": null,
+        "period_end": null,
+        "period_version_id": null,
+        "comparison_series": null,
+        "comparability_note": null,
+        "measure_note": "按原选项公示百分比相加；“都喜欢/都要”计入双方支持，因此套装支持率之和可能超过100%。原页面四舍五入到一位小数，不反推整数票数。",
+        "mapping_note": "依据该帖所述版本及本站已核验昵称映射原色家族 ID；这不表示原色专属偏好。"
+      },
+      {
+        "study_id": "study:tap-dragon-cat-231",
+        "source_id": "src:tap-dragon-cat-231",
+        "title": "龙与猫：想抽哪套？",
+        "status": "ready",
+        "metric": "pull_intent",
+        "unit": "percent",
+        "selection_mode": "single",
+        "form_scope": "family",
+        "sample_size": 231,
+        "sample_unit": "participants",
+        "population": "该 TapTap 帖内自愿作答者；不同帖子参与者可能重叠，无法去重。",
+        "question": "龙与猫：想抽哪套？",
+        "candidate_ids": [
+          "o10330",
+          "o10331"
+        ],
+        "options": [
+          {
+            "option_id": "study:tap-dragon-cat-231:0",
+            "label": "龙套",
+            "percent": 35.5,
+            "outfit_ids": [
+              "o10330"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-dragon-cat-231:1",
+            "label": "猫套",
+            "percent": 30.3,
+            "outfit_ids": [
+              "o10331"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-dragon-cat-231:2",
+            "label": "都要",
+            "percent": 34.2,
+            "outfit_ids": [
+              "o10330",
+              "o10331"
+            ],
+            "vote_count": null
+          }
+        ],
+        "observations": [],
+        "published_date": null,
+        "published_label": "07/31，年份待核实",
+        "period_start": null,
+        "period_end": null,
+        "period_version_id": null,
+        "comparison_series": null,
+        "comparability_note": null,
+        "measure_note": "按原选项公示百分比相加；“都喜欢/都要”计入双方支持，因此套装支持率之和可能超过100%。原页面四舍五入到一位小数，不反推整数票数。",
+        "mapping_note": "依据该帖所述版本及本站已核验昵称映射原色家族 ID；这不表示原色专属偏好。"
+      },
+      {
+        "study_id": "study:tap-sansheng-118",
+        "source_id": "src:tap-sansheng-118",
+        "title": "三生因缘：外观喜欢吗？",
+        "status": "ready",
+        "metric": "approval",
+        "unit": "percent",
+        "selection_mode": "single",
+        "form_scope": "family",
+        "sample_size": 118,
+        "sample_unit": "participants",
+        "population": "该 TapTap 帖内自愿作答者；不同帖子参与者可能重叠，无法去重。",
+        "question": "三生因缘：外观喜欢吗？",
+        "candidate_ids": [
+          "o10244"
+        ],
+        "options": [
+          {
+            "option_id": "study:tap-sansheng-118:0",
+            "label": "好看",
+            "percent": 87.3,
+            "outfit_ids": [
+              "o10244"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-sansheng-118:1",
+            "label": "不喜欢",
+            "percent": 12.7,
+            "outfit_ids": [],
+            "vote_count": null
+          }
+        ],
+        "observations": [],
+        "published_date": "2025-07-28",
+        "published_label": "2025/07/28",
+        "period_start": null,
+        "period_end": null,
+        "period_version_id": null,
+        "comparison_series": null,
+        "comparability_note": null,
+        "measure_note": "公示好看选项占比87.3%；不是完成率或持有率，不能与多候选选择题直接合并。",
+        "mapping_note": "依据该帖所述版本及本站已核验昵称映射原色家族 ID；这不表示原色专属偏好。"
+      },
+      {
+        "study_id": "study:tap-fan-deer-253",
+        "source_id": "src:tap-fan-deer-253",
+        "title": "扇妖与鹿套：抽哪套？",
+        "status": "ready",
+        "metric": "pull_intent",
+        "unit": "percent",
+        "selection_mode": "single",
+        "form_scope": "family",
+        "sample_size": 253,
+        "sample_unit": "participants",
+        "population": "该 TapTap 帖内自愿作答者；不同帖子参与者可能重叠，无法去重。",
+        "question": "扇妖与鹿套：抽哪套？",
+        "candidate_ids": [
+          "o10352",
+          "o10353"
+        ],
+        "options": [
+          {
+            "option_id": "study:tap-fan-deer-253:0",
+            "label": "扇",
+            "percent": 29.2,
+            "outfit_ids": [
+              "o10352"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-fan-deer-253:1",
+            "label": "鹿",
+            "percent": 34.4,
+            "outfit_ids": [
+              "o10353"
+            ],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-fan-deer-253:2",
+            "label": "都不抽",
+            "percent": 9.1,
+            "outfit_ids": [],
+            "vote_count": null
+          },
+          {
+            "option_id": "study:tap-fan-deer-253:3",
+            "label": "都要",
+            "percent": 27.3,
+            "outfit_ids": [
+              "o10352",
+              "o10353"
+            ],
+            "vote_count": null
+          }
+        ],
+        "observations": [],
+        "published_date": null,
+        "published_label": "01/31，年份待核实",
+        "period_start": null,
+        "period_end": null,
+        "period_version_id": null,
+        "comparison_series": null,
+        "comparability_note": null,
+        "measure_note": "按原选项公示百分比相加；“都喜欢/都要”计入双方支持，因此套装支持率之和可能超过100%。原页面四舍五入到一位小数，不反推整数票数。",
+        "mapping_note": "依据该帖所述版本及本站已核验昵称映射原色家族 ID；这不表示原色专属偏好。"
+      }
+    ],
+    "search_log": [
+      {
+        "platform": "TapTap",
+        "query": "无限暖暖 投票 人参与 套装",
+        "result": "发现4份可用家族级投票，另有图片映射和完成率对象待核对。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "哔哩哔哩",
+        "query": "无限暖暖 套装 人气 投票",
+        "result": "本轮检索主要获得PV和作者评测，未获得可验证的逐套群体投票表。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "NGA",
+        "query": "无限暖暖 持有率 投票 统计",
+        "result": "本轮未获得可核验的套装样本表；不代表该平台不存在此类资料。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "贴吧",
+        "query": "无限暖暖 套装 投票",
+        "result": "本轮未获得可核验的逐套票数、样本与对象映射。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "小红书",
+        "query": "无限暖暖 套装 投票",
+        "result": "本轮未获得可核验的完整投票结果。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "微博",
+        "query": "无限暖暖 官方 周年 数据",
+        "result": "发现周年回顾线索，详细图片数字及口径待核验。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "Reddit / gongeo.us",
+        "query": "Infinity Nikki pull data 700 players global",
+        "result": "发现自愿上传共鸣记录线索，不能等同偏好或完整收集率。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "TierMaker",
+        "query": "Infinity Nikki outfits community rankings",
+        "result": "81份分级表来源待结构化及对象映射。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      },
+      {
+        "platform": "官方",
+        "query": "无限暖暖 套装 流水 官方 统计",
+        "result": "本轮可核验公告未提供逐套收入与样本完成率。",
+        "searched_at": "2026-09-17T17:31:28.920Z"
+      }
+    ]
+  },
+  "changes": []
+}

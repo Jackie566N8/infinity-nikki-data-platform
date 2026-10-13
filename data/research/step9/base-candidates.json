@@ -1,0 +1,4795 @@
+[
+  {
+    "object_id": "o10054",
+    "name": "甜酷交锋",
+    "parts_total": 7,
+    "designs": 7,
+    "pieces": [
+      {
+        "target_id": "c1020100054",
+        "name": "飒心掠影",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%92%E5%BF%83%E6%8E%A0%E5%BD%B1&oldid=68248",
+        "bling": 7500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 90,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%92%E5%BF%83%E6%8E%A0%E5%BD%B1&oldid=68248"
+          },
+          {
+            "name_zh": "浮冠果精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcrownwisp-fruit-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%92%E5%BF%83%E6%8E%A0%E5%BD%B1&oldid=68248"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%92%E5%BF%83%E6%8E%A0%E5%BD%B1&oldid=68248"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%92%E5%BF%83%E6%8E%A0%E5%BD%B1&oldid=68248"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020300054",
+        "name": "胜负一念",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%83%9C%E8%B4%9F%E4%B8%80%E5%BF%B5&oldid=68250",
+        "bling": 6000,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 72,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%83%9C%E8%B4%9F%E4%B8%80%E5%BF%B5&oldid=68250"
+          },
+          {
+            "name_zh": "岩壳鱼精粹",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mrockshell-fish-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%83%9C%E8%B4%9F%E4%B8%80%E5%BF%B5&oldid=68250"
+          },
+          {
+            "name_zh": "珠坠甲虫",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%83%9C%E8%B4%9F%E4%B8%80%E5%BF%B5&oldid=68250"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%83%9C%E8%B4%9F%E4%B8%80%E5%BF%B5&oldid=68250"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020410054",
+        "name": "澎湃心绪",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BE%8E%E6%B9%83%E5%BF%83%E7%BB%AA&oldid=68249",
+        "bling": 6000,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 72,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BE%8E%E6%B9%83%E5%BF%83%E7%BB%AA&oldid=68249"
+          },
+          {
+            "name_zh": "岩壳鱼",
+            "quantity": 10,
+            "unit": "kg",
+            "material_id": "mrockshell-fish",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BE%8E%E6%B9%83%E5%BF%83%E7%BB%AA&oldid=68249"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BE%8E%E6%B9%83%E5%BF%83%E7%BB%AA&oldid=68249"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BE%8E%E6%B9%83%E5%BF%83%E7%BB%AA&oldid=68249"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600054",
+        "name": "炽烈远行",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%82%BD%E7%83%88%E8%BF%9C%E8%A1%8C&oldid=68246",
+        "bling": 6000,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 72,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%82%BD%E7%83%88%E8%BF%9C%E8%A1%8C&oldid=68246"
+          },
+          {
+            "name_zh": "机芯果",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcore-fruit",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%82%BD%E7%83%88%E8%BF%9C%E8%A1%8C&oldid=68246"
+          },
+          {
+            "name_zh": "晶球绵蚧精粹",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mcrystal-ballfly-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%82%BD%E7%83%88%E8%BF%9C%E8%A1%8C&oldid=68246"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%82%BD%E7%83%88%E8%BF%9C%E8%A1%8C&oldid=68246"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020730054",
+        "name": "掣电定格",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8E%A3%E7%94%B5%E5%AE%9A%E6%A0%BC&oldid=68244",
+        "bling": 3800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 45,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8E%A3%E7%94%B5%E5%AE%9A%E6%A0%BC&oldid=68244"
+          },
+          {
+            "name_zh": "浮冠果精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcrownwisp-fruit-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8E%A3%E7%94%B5%E5%AE%9A%E6%A0%BC&oldid=68244"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8E%A3%E7%94%B5%E5%AE%9A%E6%A0%BC&oldid=68244"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8E%A3%E7%94%B5%E5%AE%9A%E6%A0%BC&oldid=68244"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020760054",
+        "name": "锋芒交界",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%94%8B%E8%8A%92%E4%BA%A4%E7%95%8C&oldid=68245",
+        "bling": 3800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 45,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%94%8B%E8%8A%92%E4%BA%A4%E7%95%8C&oldid=68245"
+          },
+          {
+            "name_zh": "机芯果",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcore-fruit",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%94%8B%E8%8A%92%E4%BA%A4%E7%95%8C&oldid=68245"
+          },
+          {
+            "name_zh": "暮暮蝶",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mdusk-wings",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%94%8B%E8%8A%92%E4%BA%A4%E7%95%8C&oldid=68245"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%94%8B%E8%8A%92%E4%BA%A4%E7%95%8C&oldid=68245"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020770054",
+        "name": "热忱托寄",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%AD%E5%BF%B1%E6%89%98%E5%AF%84&oldid=68247",
+        "bling": 3800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 45,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%AD%E5%BF%B1%E6%89%98%E5%AF%84&oldid=68247"
+          },
+          {
+            "name_zh": "机雀羽",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mmech-sparrow-feather",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%AD%E5%BF%B1%E6%89%98%E5%AF%84&oldid=68247"
+          },
+          {
+            "name_zh": "珠坠甲虫",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%AD%E5%BF%B1%E6%89%98%E5%AF%84&oldid=68247"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%83%AD%E5%BF%B1%E6%89%98%E5%AF%84&oldid=68247"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "complete_bwiki",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o10067",
+    "name": "绿韵心弦",
+    "parts_total": 8,
+    "designs": 8,
+    "pieces": [
+      {
+        "target_id": "c1020100067",
+        "name": "年轮记忆",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198",
+        "bling": 14400,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "卷尾伞鱼",
+            "quantity": 3,
+            "unit": "kg",
+            "material_id": "mumbrella-fish",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198"
+          },
+          {
+            "name_zh": "烛荧花精粹",
+            "quantity": 12,
+            "unit": "count",
+            "material_id": "mcandleglow-cluster-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198"
+          },
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198"
+          },
+          {
+            "name_zh": "革袋甲精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mleatherbag-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 200,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B9%B4%E8%BD%AE%E8%AE%B0%E5%BF%86&oldid=67198"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020300067",
+        "name": "根脉共息",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194",
+        "bling": 11500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "烛荧花",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mcandleglow-cluster",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194"
+          },
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194"
+          },
+          {
+            "name_zh": "羽巾绒",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mplumeveil-feather",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194"
+          },
+          {
+            "name_zh": "汐荧蟹精粹",
+            "quantity": 15,
+            "unit": "count",
+            "material_id": "mgleamshell-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 160,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%A0%B9%E8%84%89%E5%85%B1%E6%81%AF&oldid=67194"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020410067",
+        "name": "缤纷心事",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195",
+        "bling": 11500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "烛融花",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mcandlemelt-cluster",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195"
+          },
+          {
+            "name_zh": "烛融花精粹",
+            "quantity": 20,
+            "unit": "count",
+            "material_id": "mcandlemelt-cluster-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195"
+          },
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195"
+          },
+          {
+            "name_zh": "蓝鳞晶精粹",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mglaciscale-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 160,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%A4%E7%BA%B7%E5%BF%83%E4%BA%8B&oldid=67195"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020500067",
+        "name": "苔痕浅印",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199",
+        "bling": 8600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199"
+          },
+          {
+            "name_zh": "晴雨伞",
+            "quantity": 15,
+            "unit": "count",
+            "material_id": "mumbrellabloom",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199"
+          },
+          {
+            "name_zh": "金灵毛球精粹",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "memberpaw-furball-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199"
+          },
+          {
+            "name_zh": "埙音甲精粹",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mocarina-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 120,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8B%94%E7%97%95%E6%B5%85%E5%8D%B0&oldid=67199"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600067",
+        "name": "绿野行歌",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196",
+        "bling": 11500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "风舞花",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mwindspin-flower",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196"
+          },
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196"
+          },
+          {
+            "name_zh": "龙棘瑚",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mdragonspine-stem",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196"
+          },
+          {
+            "name_zh": "龙棘瑚精粹",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mdragonspine-stem-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 160,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%BF%E9%87%8E%E8%A1%8C%E6%AD%8C&oldid=67196"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020720067",
+        "name": "沐风聆歌",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "蜉幽幽",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mglimmerdrift",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192"
+          },
+          {
+            "name_zh": "烛荧花精粹",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mcandleglow-cluster-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192"
+          },
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192"
+          },
+          {
+            "name_zh": "珍蛛",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mpearled-spider",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B2%90%E9%A3%8E%E8%81%86%E6%AD%8C&oldid=67192"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020760067",
+        "name": "草木轻语",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "卷尾伞鱼",
+            "quantity": 1,
+            "unit": "kg",
+            "material_id": "mumbrella-fish",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193"
+          },
+          {
+            "name_zh": "风舞花",
+            "quantity": 8,
+            "unit": "count",
+            "material_id": "mwindspin-flower",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193"
+          },
+          {
+            "name_zh": "澜旗鱼精粹",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mbanner-fish-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193"
+          },
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%89%E6%9C%A8%E8%BD%BB%E8%AF%AD&oldid=67193"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020940067",
+        "name": "萌芽初绽",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "大地晶珀·清新",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-fresh",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197"
+          },
+          {
+            "name_zh": "革袋甲",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mleatherbag-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197"
+          },
+          {
+            "name_zh": "狠厉布块",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mruthless-fabric",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197"
+          },
+          {
+            "name_zh": "怨恨绳结",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mresentful-knot",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%90%8C%E8%8A%BD%E5%88%9D%E7%BB%BD&oldid=67197"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "complete_bwiki",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o10082",
+    "name": "云隙的针脚",
+    "parts_total": 9,
+    "designs": 9,
+    "pieces": [
+      {
+        "target_id": "c1020100082",
+        "name": "缱绻云丝",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%B1%E7%BB%BB%E4%BA%91%E4%B8%9D&oldid=68554",
+        "bling": 14400,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 200,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%B1%E7%BB%BB%E4%BA%91%E4%B8%9D&oldid=68554"
+          },
+          {
+            "name_zh": "铁剑鱼",
+            "quantity": 10,
+            "unit": "kg",
+            "material_id": "mbladefin",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%B1%E7%BB%BB%E4%BA%91%E4%B8%9D&oldid=68554"
+          },
+          {
+            "name_zh": "桂冠翎羽",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mlaurel-feather",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%B1%E7%BB%BB%E4%BA%91%E4%B8%9D&oldid=68554"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BC%B1%E7%BB%BB%E4%BA%91%E4%B8%9D&oldid=68554"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020200082",
+        "name": "绵绵归讯",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%B5%E7%BB%B5%E5%BD%92%E8%AE%AF&oldid=68552",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%B5%E7%BB%B5%E5%BD%92%E8%AE%AF&oldid=68552"
+          },
+          {
+            "name_zh": "斗篷绒毛精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcloak-fluff-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%B5%E7%BB%B5%E5%BD%92%E8%AE%AF&oldid=68552"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%B5%E7%BB%B5%E5%BD%92%E8%AE%AF&oldid=68552"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%B5%E7%BB%B5%E5%BD%92%E8%AE%AF&oldid=68552"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020300082",
+        "name": "寞寞晴袍",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%9E%E5%AF%9E%E6%99%B4%E8%A2%8D&oldid=68556",
+        "bling": 11500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 160,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%9E%E5%AF%9E%E6%99%B4%E8%A2%8D&oldid=68556"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%9E%E5%AF%9E%E6%99%B4%E8%A2%8D&oldid=68556"
+          },
+          {
+            "name_zh": "晶球绵蚧",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mcrystal-ballfly",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%9E%E5%AF%9E%E6%99%B4%E8%A2%8D&oldid=68556"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%9E%E5%AF%9E%E6%99%B4%E8%A2%8D&oldid=68556"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020410082",
+        "name": "青丛细语",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555",
+        "bling": 11500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 160,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555"
+          },
+          {
+            "name_zh": "机芯果",
+            "quantity": 7,
+            "unit": "count",
+            "material_id": "mcore-fruit",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555"
+          },
+          {
+            "name_zh": "金轴蜻蜓精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mgilded-axiswing-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 4,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%9D%92%E4%B8%9B%E7%BB%86%E8%AF%AD&oldid=68555"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600082",
+        "name": "行向溪野",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%A1%8C%E5%90%91%E6%BA%AA%E9%87%8E&oldid=68551",
+        "bling": 11500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 160,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%A1%8C%E5%90%91%E6%BA%AA%E9%87%8E&oldid=68551"
+          },
+          {
+            "name_zh": "岩壳鱼",
+            "quantity": 10,
+            "unit": "kg",
+            "material_id": "mrockshell-fish",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%A1%8C%E5%90%91%E6%BA%AA%E9%87%8E&oldid=68551"
+          },
+          {
+            "name_zh": "珠坠甲虫",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%A1%8C%E5%90%91%E6%BA%AA%E9%87%8E&oldid=68551"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%A1%8C%E5%90%91%E6%BA%AA%E9%87%8E&oldid=68551"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020720082",
+        "name": "绒绒方寸",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%92%E7%BB%92%E6%96%B9%E5%AF%B8&oldid=68549",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%92%E7%BB%92%E6%96%B9%E5%AF%B8&oldid=68549"
+          },
+          {
+            "name_zh": "铁剑鱼精粹",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mbladefin-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%92%E7%BB%92%E6%96%B9%E5%AF%B8&oldid=68549"
+          },
+          {
+            "name_zh": "珠坠甲虫",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%92%E7%BB%92%E6%96%B9%E5%AF%B8&oldid=68549"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%BB%92%E7%BB%92%E6%96%B9%E5%AF%B8&oldid=68549"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020770082",
+        "name": "松针引线",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%BE%E9%92%88%E5%BC%95%E7%BA%BF&oldid=68553",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%BE%E9%92%88%E5%BC%95%E7%BA%BF&oldid=68553"
+          },
+          {
+            "name_zh": "晶球绵蚧精粹",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mcrystal-ballfly-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%BE%E9%92%88%E5%BC%95%E7%BA%BF&oldid=68553"
+          },
+          {
+            "name_zh": "机芯果",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcore-fruit",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%BE%E9%92%88%E5%BC%95%E7%BA%BF&oldid=68553"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9D%BE%E9%92%88%E5%BC%95%E7%BA%BF&oldid=68553"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020950082",
+        "name": "软尺远征",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BD%AF%E5%B0%BA%E8%BF%9C%E5%BE%81&oldid=68548",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BD%AF%E5%B0%BA%E8%BF%9C%E5%BE%81&oldid=68548"
+          },
+          {
+            "name_zh": "岩壳鱼",
+            "quantity": 10,
+            "unit": "kg",
+            "material_id": "mrockshell-fish",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BD%AF%E5%B0%BA%E8%BF%9C%E5%BE%81&oldid=68548"
+          },
+          {
+            "name_zh": "斗篷绒毛",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mcloak-fluff",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BD%AF%E5%B0%BA%E8%BF%9C%E5%BE%81&oldid=68548"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%BD%AF%E5%B0%BA%E8%BF%9C%E5%BE%81&oldid=68548"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020980082",
+        "name": "剪剪绿野",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550",
+        "bling": 7200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 100,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550"
+          },
+          {
+            "name_zh": "机芯果",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mcore-fruit",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550"
+          },
+          {
+            "name_zh": "金轴蜻蜓精粹",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgilded-axiswing-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%89%AA%E5%89%AA%E7%BB%BF%E9%87%8E&oldid=68550"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "complete_bwiki",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o10214",
+    "name": "启源造律",
+    "parts_total": 9,
+    "designs": 9,
+    "pieces": [
+      {
+        "target_id": "c1020100214",
+        "name": "风启纪元",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%8E%E5%90%AF%E7%BA%AA%E5%85%83&oldid=68257",
+        "bling": 3200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%8E%E5%90%AF%E7%BA%AA%E5%85%83&oldid=68257"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 20,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%A3%8E%E5%90%AF%E7%BA%AA%E5%85%83&oldid=68257"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600214",
+        "name": "通行之契",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%80%9A%E8%A1%8C%E4%B9%8B%E5%A5%91&oldid=68265",
+        "bling": 2600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 16,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%80%9A%E8%A1%8C%E4%B9%8B%E5%A5%91&oldid=68265"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020710214",
+        "name": "恒思深流",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%81%92%E6%80%9D%E6%B7%B1%E6%B5%81&oldid=68260",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%81%92%E6%80%9D%E6%B7%B1%E6%B5%81&oldid=68260"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020720214",
+        "name": "至理悬光",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%87%B3%E7%90%86%E6%82%AC%E5%85%89&oldid=68259",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%87%B3%E7%90%86%E6%82%AC%E5%85%89&oldid=68259"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020760214",
+        "name": "永动心枢",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B0%B8%E5%8A%A8%E5%BF%83%E6%9E%A2&oldid=68258",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B0%B8%E5%8A%A8%E5%BF%83%E6%9E%A2&oldid=68258"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020770214",
+        "name": "心源共振",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BF%83%E6%BA%90%E5%85%B1%E6%8C%AF&oldid=68263",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BF%83%E6%BA%90%E5%85%B1%E6%8C%AF&oldid=68263"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020790214",
+        "name": "流光序列",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B5%81%E5%85%89%E5%BA%8F%E5%88%97&oldid=68262",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%B5%81%E5%85%89%E5%BA%8F%E5%88%97&oldid=68262"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020900214",
+        "name": "不落晨辉",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E6%99%A8%E8%BE%89&oldid=68264",
+        "bling": 5100,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E6%99%A8%E8%BE%89&oldid=68264"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 32,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E6%99%A8%E8%BE%89&oldid=68264"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020970214",
+        "name": "启源法则",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%90%AF%E6%BA%90%E6%B3%95%E5%88%99&oldid=68261",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%90%AF%E6%BA%90%E6%B3%95%E5%88%99&oldid=68261"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "complete_bwiki",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o10304",
+    "name": "咏赞黄昏",
+    "parts_total": 10,
+    "designs": 10,
+    "pieces": [
+      {
+        "target_id": "c1020100304",
+        "name": "不落黎光",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298",
+        "bling": 18800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298"
+          },
+          {
+            "name_zh": "晶球绵蚧精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcrystal-ballfly-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 15,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298"
+          },
+          {
+            "name_zh": "机雀羽精粹",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mmech-sparrow-feather-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 288,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E4%B8%8D%E8%90%BD%E9%BB%8E%E5%85%89&oldid=68298"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600304",
+        "name": "新火已生",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295",
+        "bling": 1500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295"
+          },
+          {
+            "name_zh": "晶球绵蚧",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mcrystal-ballfly",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295"
+          },
+          {
+            "name_zh": "重铸布块",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mreforged-cloth-piece",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 230,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%96%B0%E7%81%AB%E5%B7%B2%E7%94%9F&oldid=68295"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020720304",
+        "name": "尘与火",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291",
+        "bling": 6300,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291"
+          },
+          {
+            "name_zh": "铁剑鱼",
+            "quantity": 10,
+            "unit": "kg",
+            "material_id": "mbladefin",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291"
+          },
+          {
+            "name_zh": "桂冠翎羽",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mlaurel-feather",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291"
+          },
+          {
+            "name_zh": "火爆绳结",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mraging-knot",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 96,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E4%B8%8E%E7%81%AB&oldid=68291"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020730304",
+        "name": "承辉之坠",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290",
+        "bling": 6300,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290"
+          },
+          {
+            "name_zh": "珠坠甲虫",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290"
+          },
+          {
+            "name_zh": "机雀羽精粹",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mmech-sparrow-feather-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290"
+          },
+          {
+            "name_zh": "金轴蜻蜓精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mgilded-axiswing-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 96,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%89%BF%E8%BE%89%E4%B9%8B%E5%9D%A0&oldid=68290"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020740304",
+        "name": "神顾心辉",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292",
+        "bling": 7500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292"
+          },
+          {
+            "name_zh": "斓焰鱼",
+            "quantity": 5,
+            "unit": "kg",
+            "material_id": "mflarefin",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292"
+          },
+          {
+            "name_zh": "斗篷绒毛",
+            "quantity": 8,
+            "unit": "count",
+            "material_id": "mcloak-fluff",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 120,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%A5%9E%E9%A1%BE%E5%BF%83%E8%BE%89&oldid=68292"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020760304",
+        "name": "引炬为誓",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294",
+        "bling": 7500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294"
+          },
+          {
+            "name_zh": "悖逆构件",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mdefiant-mechartisan-component",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294"
+          },
+          {
+            "name_zh": "机雀羽精粹",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mmech-sparrow-feather-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 120,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%BC%95%E7%82%AC%E4%B8%BA%E8%AA%93&oldid=68294"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020770304",
+        "name": "期然向晓",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297",
+        "bling": 9400,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 144,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297"
+          },
+          {
+            "name_zh": "斗篷绒毛精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcloak-fluff-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297"
+          },
+          {
+            "name_zh": "珠坠甲虫",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297"
+          },
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%9C%9F%E7%84%B6%E5%90%91%E6%99%93&oldid=68297"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020900304",
+        "name": "此身长照",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296",
+        "bling": 30000,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 461,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296"
+          },
+          {
+            "name_zh": "珠坠甲虫精粹",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mpearl-drop-beetle-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296"
+          },
+          {
+            "name_zh": "机雀羽",
+            "quantity": 6,
+            "unit": "count",
+            "material_id": "mmech-sparrow-feather",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296"
+          },
+          {
+            "name_zh": "斗篷绒毛精粹",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mcloak-fluff-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 25,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296"
+          },
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%AD%A4%E8%BA%AB%E9%95%BF%E7%85%A7&oldid=68296"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020950304",
+        "name": "命运洪流",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289",
+        "bling": 6300,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289"
+          },
+          {
+            "name_zh": "机雀羽",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mmech-sparrow-feather",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289"
+          },
+          {
+            "name_zh": "金轴蜻蜓",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mgilded-axiswing",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289"
+          },
+          {
+            "name_zh": "金轴蜻蜓精粹",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mgilded-axiswing-essence",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 96,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%91%BD%E8%BF%90%E6%B4%AA%E6%B5%81&oldid=68289"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020970304",
+        "name": "灼火犹燃",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293",
+        "bling": 7500,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "炽曜金砂",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "minv_1110120007",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293"
+          },
+          {
+            "name_zh": "晶球绵蚧",
+            "quantity": 7,
+            "unit": "count",
+            "material_id": "mcrystal-ballfly",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293"
+          },
+          {
+            "name_zh": "大地晶珀·帅气",
+            "quantity": 10,
+            "unit": "count",
+            "material_id": "mterra-gem-cool",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293"
+          },
+          {
+            "name_zh": "机芯果",
+            "quantity": 5,
+            "unit": "count",
+            "material_id": "mcore-fruit",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293"
+          },
+          {
+            "name_zh": "执拗花布",
+            "quantity": 3,
+            "unit": "count",
+            "material_id": "mobstinate-floral-cloth",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 120,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%81%BC%E7%81%AB%E7%8A%B9%E7%87%83&oldid=68293"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "complete_bwiki",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o10342",
+    "name": "星跳记忆",
+    "parts_total": 9,
+    "designs": 9,
+    "pieces": [
+      {
+        "target_id": "c1020100342",
+        "name": "璨如流星",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%92%A8%E5%A6%82%E6%B5%81%E6%98%9F&oldid=51412",
+        "bling": 1600,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "明黄杯杯香",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgolden-fragrant-cup",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%92%A8%E5%A6%82%E6%B5%81%E6%98%9F&oldid=51412"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E7%92%A8%E5%A6%82%E6%B5%81%E6%98%9F&oldid=51412"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020300342",
+        "name": "荧荧如初",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%A7%E8%8D%A7%E5%A6%82%E5%88%9D&oldid=51414",
+        "bling": 1200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "明黄杯杯香",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgolden-fragrant-cup",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%A7%E8%8D%A7%E5%A6%82%E5%88%9D&oldid=51414"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E8%8D%A7%E8%8D%A7%E5%A6%82%E5%88%9D&oldid=51414"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020410342",
+        "name": "漫漫星事",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BC%AB%E6%BC%AB%E6%98%9F%E4%BA%8B&oldid=51413",
+        "bling": 1200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "明黄杯杯香",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgolden-fragrant-cup",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BC%AB%E6%BC%AB%E6%98%9F%E4%BA%8B&oldid=51413"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 2,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%BC%AB%E6%BC%AB%E6%98%9F%E4%BA%8B&oldid=51413"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600342",
+        "name": "寻光随尘",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%BB%E5%85%89%E9%9A%8F%E5%B0%98&oldid=51410",
+        "bling": 1200,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "明黄杯杯香",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgolden-fragrant-cup",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%BB%E5%85%89%E9%9A%8F%E5%B0%98&oldid=51410"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%AF%BB%E5%85%89%E9%9A%8F%E5%B0%98&oldid=51410"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020730342",
+        "name": "星色蕴声",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%9F%E8%89%B2%E8%95%B4%E5%A3%B0&oldid=51406",
+        "bling": 800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%9F%E8%89%B2%E8%95%B4%E5%A3%B0&oldid=51406"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020740342",
+        "name": "邂逅星圃",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%82%82%E9%80%85%E6%98%9F%E5%9C%83&oldid=51408",
+        "bling": 800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E9%82%82%E9%80%85%E6%98%9F%E5%9C%83&oldid=51408"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020760342",
+        "name": "星野觅光",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%9F%E9%87%8E%E8%A7%85%E5%85%89&oldid=51409",
+        "bling": 800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%98%9F%E9%87%8E%E8%A7%85%E5%85%89&oldid=51409"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020770342",
+        "name": "揽星之时",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8F%BD%E6%98%9F%E4%B9%8B%E6%97%B6&oldid=51411",
+        "bling": 800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "明黄杯杯香",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mgolden-fragrant-cup",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8F%BD%E6%98%9F%E4%B9%8B%E6%97%B6&oldid=51411"
+          },
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E6%8F%BD%E6%98%9F%E4%B9%8B%E6%97%B6&oldid=51411"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020920342",
+        "name": "尘光视野",
+        "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E5%85%89%E8%A7%86%E9%87%8E&oldid=51407",
+        "bling": 800,
+        "uses_bwiki": true,
+        "ingredients": [
+          {
+            "name_zh": "纯真丝线",
+            "quantity": 1,
+            "unit": "count",
+            "material_id": "mthread-of-purity",
+            "confidence": "medium",
+            "source_url": "https://wiki.biligame.com/wxnn/index.php?title=%E9%83%A8%E4%BB%B6%E5%B0%98%E5%85%89%E8%A7%86%E9%87%8E&oldid=51407"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "complete_bwiki",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o10389",
+    "name": "梦隙灵语",
+    "parts_total": 8,
+    "designs": 0,
+    "pieces": [
+      {
+        "target_id": "c1020100389",
+        "name": "晨风拾歌",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 14400,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 210,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389"
+          },
+          {
+            "material_id": "mglimmerdrift",
+            "english_name": "Glimmerdrift",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010233",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389"
+          },
+          {
+            "material_id": "mpearled-spider",
+            "english_name": "Pearled Spider",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010234",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389"
+          },
+          {
+            "material_id": "mboneflame-bloom",
+            "english_name": "Boneflame Bloom",
+            "quantity": 6,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010227",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100389"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020500389",
+        "name": "芳枝苒苒",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 8600,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 126,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389"
+          },
+          {
+            "material_id": "mpearled-spider-essence",
+            "english_name": "Pearled Spider Essence",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030234",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389"
+          },
+          {
+            "material_id": "mcandleglow-cluster",
+            "english_name": "Candleglow Cluster",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010226",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389"
+          },
+          {
+            "material_id": "mplumeveil-feather",
+            "english_name": "Plumeveil Feather",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500389"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600389",
+        "name": "昼夜行路",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 11500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 168,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389"
+          },
+          {
+            "material_id": "mglaciscale",
+            "english_name": "Glaciscale",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010231",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389"
+          },
+          {
+            "material_id": "mcandlemelt-cluster-essence",
+            "english_name": "Candlemelt Cluster Essence",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030225",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389"
+          },
+          {
+            "material_id": "mplumeveil-feather",
+            "english_name": "Plumeveil Feather",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600389"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020720389",
+        "name": "羽叶珊珊",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 7200,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 105,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          },
+          {
+            "material_id": "mknotted-fern",
+            "english_name": "Knotted Fern",
+            "quantity": 6,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010182",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          },
+          {
+            "material_id": "mplumeveil-feather-essence",
+            "english_name": "Plumeveil Feather Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          },
+          {
+            "material_id": "mplumeveil-feather",
+            "english_name": "Plumeveil Feather",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mplumeveil-feather-essence",
+            "english_name": "Plumeveil Feather Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020730389",
+        "name": "林溪乐音",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 7200,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 105,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          },
+          {
+            "material_id": "msproutantler-fur",
+            "english_name": "Sproutantler Fur",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010217",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          },
+          {
+            "material_id": "mglimmerdrift",
+            "english_name": "Glimmerdrift",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010233",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          },
+          {
+            "material_id": "mdragonspine-stem-essence",
+            "english_name": "Dragonspine Stem Essence",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030230",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "msproutantler-fur",
+            "english_name": "Sproutantler Fur",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010217",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020740389",
+        "name": "生命启示",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 7200,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 105,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          },
+          {
+            "material_id": "mboneflame-bloom",
+            "english_name": "Boneflame Bloom",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010227",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          },
+          {
+            "material_id": "memberpaw-furball-essence",
+            "english_name": "Emberpaw Furball Essence",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030220",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          },
+          {
+            "material_id": "mwindspin-flower-essence",
+            "english_name": "Windspin Flower Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030229",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mwindspin-flower-essence",
+            "english_name": "Windspin Flower Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030229",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020770389",
+        "name": "杳梦渺渺",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 7200,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 105,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          },
+          {
+            "material_id": "mbanner-fish",
+            "english_name": "Banner Fish",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010223",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          },
+          {
+            "material_id": "mcandlemelt-cluster",
+            "english_name": "Candlemelt Cluster",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010225",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          },
+          {
+            "material_id": "mglimmerdrift-essence",
+            "english_name": "Glimmerdrift Essence",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030233",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mbanner-fish",
+            "english_name": "Banner Fish",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010223",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020900389",
+        "name": "月华轻纱",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 23000,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 336,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389"
+          },
+          {
+            "material_id": "msproutantler-fur",
+            "english_name": "Sproutantler Fur",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010217",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389"
+          },
+          {
+            "material_id": "mcandlemelt-cluster",
+            "english_name": "Candlemelt Cluster",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010225",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389"
+          },
+          {
+            "material_id": "mgleamshell",
+            "english_name": "Gleamshell",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010222",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389"
+          },
+          {
+            "material_id": "mterra-gem-sweet",
+            "english_name": "Terra Gem: Sweet",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050020",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900389"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "pending",
+    "unknown_materials": [
+      {
+        "material_id": "mplumeveil-feather-essence",
+        "english_name": "Plumeveil Feather Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030219",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720389"
+      },
+      {
+        "material_id": "msproutantler-fur",
+        "english_name": "Sproutantler Fur",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010217",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730389"
+      },
+      {
+        "material_id": "mwindspin-flower-essence",
+        "english_name": "Windspin Flower Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030229",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020740389"
+      },
+      {
+        "material_id": "mbanner-fish",
+        "english_name": "Banner Fish",
+        "quantity": 10,
+        "unit": "count",
+        "quantity_status": "explicit_badge",
+        "source_material_id": "inv_1110010223",
+        "unit_status": "provider_weight_pending",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020770389"
+      }
+    ]
+  },
+  {
+    "object_id": "o10393",
+    "name": "霓光游星",
+    "parts_total": 7,
+    "designs": 0,
+    "pieces": [
+      {
+        "target_id": "c1020100393",
+        "name": "绚丽弧光",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 9000,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 75,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393"
+          },
+          {
+            "material_id": "mumbrellabloom",
+            "english_name": "Umbrellabloom",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010228",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393"
+          },
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393"
+          },
+          {
+            "material_id": "mplumeveil-feather",
+            "english_name": "Plumeveil Feather",
+            "quantity": 4,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393"
+          },
+          {
+            "material_id": "mterra-gem-cool",
+            "english_name": "Terra Gem: Cool",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050019",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020100393"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020200393",
+        "name": "霓彩星辰",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 4500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 38,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+          },
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+          },
+          {
+            "material_id": "mplumeveil-feather",
+            "english_name": "Plumeveil Feather",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+          },
+          {
+            "material_id": "mcandlemelt-cluster-essence",
+            "english_name": "Candlemelt Cluster Essence",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030225",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020500393",
+        "name": "律动节拍",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 5400,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 45,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+          },
+          {
+            "material_id": "mdragonspine-stem",
+            "english_name": "Dragonspine Stem",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010230",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+          },
+          {
+            "material_id": "mleafantler-fur",
+            "english_name": "Leafantler Fur",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010218",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+          },
+          {
+            "material_id": "mwindspin-flower-essence",
+            "english_name": "Windspin Flower Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030229",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mwindspin-flower-essence",
+            "english_name": "Windspin Flower Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030229",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020600393",
+        "name": "雳光踪迹",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 7200,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 60,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          },
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          },
+          {
+            "material_id": "mglaciscale-essence",
+            "english_name": "Glaciscale Essence",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030231",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          },
+          {
+            "material_id": "mocarina-beetle-essence",
+            "english_name": "Ocarina Beetle Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          },
+          {
+            "material_id": "mocarina-beetle-essence",
+            "english_name": "Ocarina Beetle Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020720393",
+        "name": "光感猫耳",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 4500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 38,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          },
+          {
+            "material_id": "mleafantler-fur-essence",
+            "english_name": "Leafantler Fur Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030218",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          },
+          {
+            "material_id": "msproutantler-fur",
+            "english_name": "Sproutantler Fur",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010217",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          },
+          {
+            "material_id": "mdragonspine-stem",
+            "english_name": "Dragonspine Stem",
+            "quantity": 6,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010230",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mleafantler-fur-essence",
+            "english_name": "Leafantler Fur Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030218",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          },
+          {
+            "material_id": "msproutantler-fur",
+            "english_name": "Sproutantler Fur",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010217",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020730393",
+        "name": "超频信号",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 4500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 38,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          },
+          {
+            "material_id": "mpearled-spider-essence",
+            "english_name": "Pearled Spider Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030234",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          },
+          {
+            "material_id": "memberpaw-furball",
+            "english_name": "Emberpaw Furball",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010220",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          },
+          {
+            "material_id": "mboneflame-bloom",
+            "english_name": "Boneflame Bloom",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010227",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mpearled-spider-essence",
+            "english_name": "Pearled Spider Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030234",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          },
+          {
+            "material_id": "memberpaw-furball",
+            "english_name": "Emberpaw Furball",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010220",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          },
+          {
+            "material_id": "mboneflame-bloom",
+            "english_name": "Boneflame Bloom",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010227",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+          }
+        ]
+      },
+      {
+        "target_id": "c1020900393",
+        "name": "寻星掠影",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 14400,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 120,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          },
+          {
+            "material_id": "mwindspin-flower",
+            "english_name": "Windspin Flower",
+            "quantity": 6,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010229",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          },
+          {
+            "material_id": "mglaciscale",
+            "english_name": "Glaciscale",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010231",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          },
+          {
+            "material_id": "mpearled-spider",
+            "english_name": "Pearled Spider",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010234",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          },
+          {
+            "material_id": "mterra-gem-cool",
+            "english_name": "Terra Gem: Cool",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050019",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mpearled-spider",
+            "english_name": "Pearled Spider",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010234",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+          }
+        ]
+      }
+    ],
+    "status": "pending",
+    "unknown_materials": [
+      {
+        "material_id": "mocarina-beetle",
+        "english_name": "Ocarina Beetle",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010235",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020200393"
+      },
+      {
+        "material_id": "mwindspin-flower-essence",
+        "english_name": "Windspin Flower Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030229",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020500393"
+      },
+      {
+        "material_id": "mocarina-beetle",
+        "english_name": "Ocarina Beetle",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010235",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+      },
+      {
+        "material_id": "mocarina-beetle-essence",
+        "english_name": "Ocarina Beetle Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030235",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020600393"
+      },
+      {
+        "material_id": "mleafantler-fur-essence",
+        "english_name": "Leafantler Fur Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030218",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+      },
+      {
+        "material_id": "msproutantler-fur",
+        "english_name": "Sproutantler Fur",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010217",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020720393"
+      },
+      {
+        "material_id": "mpearled-spider-essence",
+        "english_name": "Pearled Spider Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030234",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+      },
+      {
+        "material_id": "memberpaw-furball",
+        "english_name": "Emberpaw Furball",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010220",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+      },
+      {
+        "material_id": "mboneflame-bloom",
+        "english_name": "Boneflame Bloom",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010227",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1020730393"
+      },
+      {
+        "material_id": "mpearled-spider",
+        "english_name": "Pearled Spider",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010234",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1020900393"
+      }
+    ]
+  },
+  {
+    "object_id": "o10395",
+    "name": "一帘烟雨",
+    "parts_total": 7,
+    "designs": 0,
+    "pieces": [
+      {
+        "target_id": "c1020100395",
+        "name": "墨写流年",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020300395",
+        "name": "风洇竹影",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020410395",
+        "name": "烟雨渡青",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020500395",
+        "name": "宣上泊月",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020600395",
+        "name": "径上花明",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020710395",
+        "name": "落香邀客",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      },
+      {
+        "target_id": "c1020750395",
+        "name": "脉间听雨",
+        "source_url": null,
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [],
+        "has_data": false,
+        "unknown": []
+      }
+    ],
+    "status": "pending",
+    "unknown_materials": []
+  },
+  {
+    "object_id": "o20048",
+    "name": "无拘绿野",
+    "parts_total": 7,
+    "designs": 0,
+    "pieces": [
+      {
+        "target_id": "c1029100048",
+        "name": "旷野煦风",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 9000,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 100,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          },
+          {
+            "material_id": "mleatherbag-beetle-essence",
+            "english_name": "Leatherbag Beetle Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030232",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          },
+          {
+            "material_id": "mplumeveil-feather",
+            "english_name": "Plumeveil Feather",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          },
+          {
+            "material_id": "mumbrella-fish",
+            "english_name": "Umbrella Fish",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010224",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mleatherbag-beetle-essence",
+            "english_name": "Leatherbag Beetle Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030232",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          },
+          {
+            "material_id": "mumbrella-fish",
+            "english_name": "Umbrella Fish",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010224",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029500048",
+        "name": "迥途待书",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 5400,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 60,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          },
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          },
+          {
+            "material_id": "mdragonspine-stem-essence",
+            "english_name": "Dragonspine Stem Essence",
+            "quantity": 6,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030230",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          },
+          {
+            "material_id": "mcandlemelt-cluster",
+            "english_name": "Candlemelt Cluster",
+            "quantity": 6,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010225",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029600048",
+        "name": "从容稳步",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 7200,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 80,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          },
+          {
+            "material_id": "mmarkface-fabric",
+            "english_name": "Markface Fabric",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110040054",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          },
+          {
+            "material_id": "memberpaw-furball-essence",
+            "english_name": "Emberpaw Furball Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030220",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          },
+          {
+            "material_id": "mgrimface-fabric",
+            "english_name": "Grimface Fabric",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110040053",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "memberpaw-furball-essence",
+            "english_name": "Emberpaw Furball Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030220",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029720048",
+        "name": "仰望芳菲",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 4500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 50,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+          },
+          {
+            "material_id": "mwild-daisy",
+            "english_name": "Wild Daisy",
+            "quantity": 8,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010210",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+          },
+          {
+            "material_id": "mocarina-beetle-essence",
+            "english_name": "Ocarina Beetle Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mocarina-beetle-essence",
+            "english_name": "Ocarina Beetle Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029730048",
+        "name": "耀目盛阳",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 4500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 50,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          },
+          {
+            "material_id": "mglimmerdrift-essence",
+            "english_name": "Glimmerdrift Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030233",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          },
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          },
+          {
+            "material_id": "mplumeveil-feather-essence",
+            "english_name": "Plumeveil Feather Essence",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030219",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mglimmerdrift-essence",
+            "english_name": "Glimmerdrift Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030233",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          },
+          {
+            "material_id": "mocarina-beetle",
+            "english_name": "Ocarina Beetle",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010235",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029900048",
+        "name": "优雅新意",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 14400,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 160,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048"
+          },
+          {
+            "material_id": "mglimmerdrift",
+            "english_name": "Glimmerdrift",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010233",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048"
+          },
+          {
+            "material_id": "mwithered-cloth",
+            "english_name": "Withered Cloth",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110040047",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048"
+          },
+          {
+            "material_id": "mobsessive-woven-piece",
+            "english_name": "Obsessive Woven Piece",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110040048",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029900048"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1029940048",
+        "name": "自由向往",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 4500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 50,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          },
+          {
+            "material_id": "mglaciscale",
+            "english_name": "Glaciscale",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010231",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          },
+          {
+            "material_id": "mleafantler-fur",
+            "english_name": "Leafantler Fur",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010218",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          },
+          {
+            "material_id": "mumbrellabloom",
+            "english_name": "Umbrellabloom",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010228",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          },
+          {
+            "material_id": "mterra-gem-elegant",
+            "english_name": "Terra Gem: Elegant",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050017",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mleafantler-fur",
+            "english_name": "Leafantler Fur",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010218",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          },
+          {
+            "material_id": "mumbrellabloom",
+            "english_name": "Umbrellabloom",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110010228",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+          }
+        ]
+      }
+    ],
+    "status": "pending",
+    "unknown_materials": [
+      {
+        "material_id": "mleatherbag-beetle-essence",
+        "english_name": "Leatherbag Beetle Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030232",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+      },
+      {
+        "material_id": "mumbrella-fish",
+        "english_name": "Umbrella Fish",
+        "quantity": 10,
+        "unit": "count",
+        "quantity_status": "explicit_badge",
+        "source_material_id": "inv_1110010224",
+        "unit_status": "provider_weight_pending",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100048"
+      },
+      {
+        "material_id": "mocarina-beetle",
+        "english_name": "Ocarina Beetle",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010235",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029500048"
+      },
+      {
+        "material_id": "memberpaw-furball-essence",
+        "english_name": "Emberpaw Furball Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030220",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600048"
+      },
+      {
+        "material_id": "mocarina-beetle-essence",
+        "english_name": "Ocarina Beetle Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030235",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029720048"
+      },
+      {
+        "material_id": "mglimmerdrift-essence",
+        "english_name": "Glimmerdrift Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030233",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+      },
+      {
+        "material_id": "mocarina-beetle",
+        "english_name": "Ocarina Beetle",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010235",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730048"
+      },
+      {
+        "material_id": "mleafantler-fur",
+        "english_name": "Leafantler Fur",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010218",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+      },
+      {
+        "material_id": "mumbrellabloom",
+        "english_name": "Umbrellabloom",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110010228",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029940048"
+      }
+    ]
+  },
+  {
+    "object_id": "o20053",
+    "name": "海风的召唤",
+    "parts_total": 7,
+    "designs": 0,
+    "pieces": [
+      {
+        "target_id": "c1029100053",
+        "name": "沙滩启示",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 12500,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 150,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100053"
+          },
+          {
+            "material_id": "msproutborne-fluff-essence",
+            "english_name": "Sproutborne Fluff Essence",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030206",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100053"
+          },
+          {
+            "material_id": "mlooptail-furball",
+            "english_name": "Looptail Furball",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010173",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029100053"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1029300053",
+        "name": "拥抱海风",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 10000,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 120,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+          },
+          {
+            "material_id": "mrainbow-fish",
+            "english_name": "Rainbow Fish",
+            "quantity": 20,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010193",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+          },
+          {
+            "material_id": "mrightheart-fin",
+            "english_name": "Rightheart Fin",
+            "quantity": 20,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010189",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mrainbow-fish",
+            "english_name": "Rainbow Fish",
+            "quantity": 20,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010193",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029410053",
+        "name": "飞跃金沙",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 10000,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 120,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          },
+          {
+            "material_id": "mfrostbough-fluff-essence",
+            "english_name": "Frostbough Fluff Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030207",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          },
+          {
+            "material_id": "mcarver-fish",
+            "english_name": "Carver Fish",
+            "quantity": 20,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010191",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mfrostbough-fluff-essence",
+            "english_name": "Frostbough Fluff Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030207",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          },
+          {
+            "material_id": "mcarver-fish",
+            "english_name": "Carver Fish",
+            "quantity": 20,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010191",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029600053",
+        "name": "未知足迹",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 10000,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 120,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+          },
+          {
+            "material_id": "mhelmet-fish-essence",
+            "english_name": "Helmet Fish Essence",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030192",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+          },
+          {
+            "material_id": "madventurer-bee",
+            "english_name": "Adventurer Bee",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010212",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 10,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mhelmet-fish-essence",
+            "english_name": "Helmet Fish Essence",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030192",
+            "unit_status": "provider_weight_pending",
+            "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029730053",
+        "name": "与鱼同游",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 6300,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 75,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+          },
+          {
+            "material_id": "mnightglow-fur-essence",
+            "english_name": "Nightglow Fur Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030178",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+          },
+          {
+            "material_id": "mnight-heron-feather",
+            "english_name": "Night Heron Feather",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010174",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+          }
+        ],
+        "has_data": true,
+        "unknown": [
+          {
+            "material_id": "mnightglow-fur-essence",
+            "english_name": "Nightglow Fur Essence",
+            "quantity": null,
+            "unit": "count",
+            "quantity_status": "unknown",
+            "source_material_id": "inv_1110030178",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+          }
+        ]
+      },
+      {
+        "target_id": "c1029740053",
+        "name": "月下珍珠",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029740053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 6300,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029740053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 75,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029740053"
+          },
+          {
+            "material_id": "mheritage-feather",
+            "english_name": "Heritage Feather",
+            "quantity": 2,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010177",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029740053"
+          },
+          {
+            "material_id": "mleftheart-fin",
+            "english_name": "Leftheart Fin",
+            "quantity": 20,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010188",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029740053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029740053"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      },
+      {
+        "target_id": "c1029920053",
+        "name": "深海视野",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029920053",
+        "bling": null,
+        "uses_bwiki": false,
+        "ingredients": [
+          {
+            "material_id": "mbling",
+            "english_name": "Bling",
+            "quantity": 6300,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_2",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029920053"
+          },
+          {
+            "material_id": "mthread-of-purity",
+            "english_name": "Thread of Purity",
+            "quantity": 75,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010065",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029920053"
+          },
+          {
+            "material_id": "mbrush-beaver-fur",
+            "english_name": "Brush Beaver Fur",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110010171",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029920053"
+          },
+          {
+            "material_id": "mtailor-beetle-essence",
+            "english_name": "Tailor Beetle Essence",
+            "quantity": 3,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110030168",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029920053"
+          },
+          {
+            "material_id": "mterra-gem-sexy",
+            "english_name": "Terra Gem: Sexy",
+            "quantity": 5,
+            "unit": "count",
+            "quantity_status": "explicit_badge",
+            "source_material_id": "inv_1110050016",
+            "unit_status": "explicit",
+            "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029920053"
+          }
+        ],
+        "has_data": true,
+        "unknown": []
+      }
+    ],
+    "status": "pending",
+    "unknown_materials": [
+      {
+        "material_id": "mrainbow-fish",
+        "english_name": "Rainbow Fish",
+        "quantity": 20,
+        "unit": "count",
+        "quantity_status": "explicit_badge",
+        "source_material_id": "inv_1110010193",
+        "unit_status": "provider_weight_pending",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029300053"
+      },
+      {
+        "material_id": "mfrostbough-fluff-essence",
+        "english_name": "Frostbough Fluff Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030207",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+      },
+      {
+        "material_id": "mcarver-fish",
+        "english_name": "Carver Fish",
+        "quantity": 20,
+        "unit": "count",
+        "quantity_status": "explicit_badge",
+        "source_material_id": "inv_1110010191",
+        "unit_status": "provider_weight_pending",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029410053"
+      },
+      {
+        "material_id": "mhelmet-fish-essence",
+        "english_name": "Helmet Fish Essence",
+        "quantity": 3,
+        "unit": "count",
+        "quantity_status": "explicit_badge",
+        "source_material_id": "inv_1110030192",
+        "unit_status": "provider_weight_pending",
+        "source_url": "https://infinitynikki.th.gl/db/clothing/cl_1029600053"
+      },
+      {
+        "material_id": "mnightglow-fur-essence",
+        "english_name": "Nightglow Fur Essence",
+        "quantity": null,
+        "unit": "count",
+        "quantity_status": "unknown",
+        "source_material_id": "inv_1110030178",
+        "unit_status": "explicit",
+        "source_url": "https://infinitynikki.th.gl/db/accessories/cl_1029730053"
+      }
+    ]
+  }
+]

@@ -1,0 +1,45 @@
+{
+  "generated_at": "2026-10-11T16:57:04.838Z",
+  "client_date": "2026-10-12",
+  "snapshot_id": "snapshot:40476599ebb8f4049129085c",
+  "initial": {
+    "base": 11,
+    "evolution": 257
+  },
+  "filled": {
+    "base": 6,
+    "evolution": 76
+  },
+  "remaining": {
+    "base": 5,
+    "evolution": 181,
+    "families": 161
+  },
+  "confidence_completed": {
+    "high": 1,
+    "medium": 81,
+    "low": 0
+  },
+  "inference_candidates_excluded": 2,
+  "partial_evolutions_not_counted": 64,
+  "metrics": {
+    "base": {
+      "key": "craft_recipe",
+      "label": "可制作原色配方覆盖率",
+      "numerator": 66,
+      "denominator": 71,
+      "percent": 92.96,
+      "definition": "完整制作清单 / 已有设计图或制作线索的原色；不含直接获取及进化/焕新。"
+    },
+    "evolution": {
+      "key": "evolution_cost",
+      "label": "进化步骤资源覆盖率",
+      "numerator": 93,
+      "denominator": 274,
+      "percent": 33.94,
+      "definition": "有来源的单次进化材料与货币消耗 / 全部进化形态；拥有副本前置另表，不包括自动重制原色。"
+    },
+    "calculable": 350
+  },
+  "source_limits": "Search index queries were submitted; no logged-in/private platform access or exhaustive comments claimed."
+}

@@ -1,0 +1,635 @@
+.analytics-page {
+  color: #665774;
+  padding-bottom: 50px;
+}
+.analytics-page h1,
+.analytics-page h2 {
+  font-family: var(--serif);
+}
+.ana-heading {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 16px;
+}
+.ana-eyebrow {
+  font-size: 10px;
+  letter-spacing: 2.5px;
+  color: #a28db3;
+}
+.ana-heading h1 {
+  font-size: 31px;
+  font-weight: 500;
+  margin: 12px 0 7px;
+}
+.ana-heading p {
+  color: #9a88a7;
+  font-size: 13px;
+  margin: 0;
+}
+.ana-primary {
+  background: #8d75a6;
+  color: white;
+  border: 0;
+  border-radius: 12px;
+  padding: 13px 18px;
+  font-size: 12px;
+}
+.ana-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+  align-items: center;
+  margin: 22px 0;
+  color: #a18cac;
+  font-size: 11px;
+}
+.ana-meta button {
+  background: none;
+  border: 0;
+  font: inherit;
+  color: #927aa6;
+}
+.ana-meta code {
+  font-size: 11px;
+}
+.ana-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 13px;
+  padding: 20px;
+  background: #fff;
+  border: 1px solid #e7dfee;
+  border-radius: 17px;
+}
+.ana-filters label {
+  flex: 1;
+  min-width: 115px;
+}
+.ana-filters label:first-child {
+  flex: 1.5;
+  min-width: 185px;
+}
+.ana-filters label span {
+  display: block;
+  color: #a18cad;
+  font-size: 11px;
+  margin: 0 0 7px;
+}
+.ana-filters select {
+  width: 100%;
+  padding: 9px 10px;
+  border: 1px solid #e8dfef;
+  background: #fbf9fd;
+  border-radius: 9px;
+  color: #826c97;
+  font-size: 12px;
+}
+.ana-reset {
+  align-self: end;
+  border: 0;
+  background: transparent;
+  color: #9b83aa;
+  font-size: 11px;
+  padding: 12px 4px;
+}
+.ana-scope {
+  padding: 14px 4px;
+  font-size: 11px;
+  color: #9a87a5;
+  line-height: 1.85;
+}
+.ana-scope b {
+  font-weight: 500;
+  color: #8c719d;
+}
+.ana-scope p {
+  margin: 3px 0;
+}
+.ana-kpis {
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 15px;
+  margin: 9px 0 24px;
+}
+.ana-kpis > div {
+  background: linear-gradient(130deg, #fff, #f0eaf6);
+  padding: 21px 23px;
+  border: 1px solid #e5dced;
+  border-radius: 17px;
+}
+.ana-kpis span {
+  color: #a18aac;
+  font-size: 11px;
+}
+.ana-kpis strong {
+  display: block;
+  color: #846b9d;
+  font-size: 34px;
+  font-weight: 400;
+  margin-top: 8px;
+}
+.ana-two {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 22px;
+  align-items: start;
+}
+.ana-asymmetric {
+  grid-template-columns: 1.2fr 1fr;
+}
+.ana-card {
+  background: white;
+  border: 1px solid #e7dfed;
+  border-radius: 18px;
+  padding: 23px;
+  margin-bottom: 23px;
+  min-width: 0;
+}
+.ana-card-head {
+  display: flex;
+  gap: 12px;
+  justify-content: space-between;
+  align-items: start;
+  margin-bottom: 21px;
+}
+.ana-card h2 {
+  font-weight: 500;
+  font-size: 19px;
+  margin: 0 0 8px;
+}
+.ana-card-head p {
+  font-size: 11px;
+  line-height: 1.85;
+  color: #a18dac;
+  margin: 0;
+  max-width: 780px;
+}
+.ana-export {
+  background: #f9f6fc;
+  color: #9d85ad;
+  border: 1px solid #e9deef;
+  border-radius: 8px;
+  white-space: nowrap;
+  font-size: 10px;
+  padding: 7px 9px;
+}
+.ana-lineage {
+  font-size: 10px;
+  color: #b4a3bd;
+  border-top: 1px solid #f2edf5;
+  padding-top: 13px;
+  margin: 20px 0 0;
+  overflow-wrap: anywhere;
+}
+.ana-lineage code {
+  font-size: 10px;
+}
+.ana-note {
+  font-size: 11px;
+  line-height: 1.9;
+  color: #a38cae;
+}
+.ana-drill-button {
+  font: inherit;
+  border: 0;
+  background: transparent;
+  text-align: left;
+  color: inherit;
+}
+.ana-drill-button:hover {
+  color: #614183;
+}
+.ana-drill-button:hover b {
+  text-decoration: underline;
+}
+.ana-ring-layout {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 25px;
+  padding: 10px 0;
+}
+.ana-ring {
+  width: 180px;
+  height: 180px;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  flex-shrink: 0;
+}
+.ana-ring > div {
+  background: #fff;
+  width: 124px;
+  height: 124px;
+  border-radius: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  text-align: center;
+}
+.ana-ring strong {
+  font-size: 32px;
+  font-weight: 400;
+  color: #887099;
+}
+.ana-ring small {
+  font-size: 10px;
+  color: #aa94b4;
+}
+.ana-ring-legend {
+  flex: 1;
+  max-width: 215px;
+}
+.ana-ring-legend button {
+  display: flex;
+  width: 100%;
+  align-items: center;
+  gap: 10px;
+  padding: 8px 0;
+  font-size: 12px;
+}
+.ana-ring-legend i,
+.ana-legend i {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.ana-ring-legend b {
+  margin-left: auto;
+  font-weight: 500;
+}
+.ana-ring-legend small {
+  color: #aa95b4;
+  font-size: 10px;
+  min-width: 43px;
+  text-align: right;
+}
+.ana-bars {
+  display: grid;
+  gap: 13px;
+}
+.ana-bar {
+  display: grid;
+  grid-template-columns: 75px minmax(25px, 1fr) 35px 56px;
+  align-items: center;
+  gap: 12px;
+  width: 100%;
+  font-size: 12px;
+  padding: 5px 0;
+}
+.ana-bar-track {
+  display: block;
+  height: 9px;
+  background: #f4eff8;
+  border-radius: 5px;
+  overflow: hidden;
+}
+.ana-bar-track i {
+  display: block;
+  height: 100%;
+  border-radius: 5px;
+}
+.ana-bar b {
+  text-align: right;
+  font-weight: 500;
+}
+.ana-bar small {
+  text-align: right;
+  color: #af9bb8;
+  font-size: 10px;
+}
+#ana-category .ana-bars {
+  grid-template-columns: 1fr 1fr;
+  column-gap: 40px;
+}
+.ana-heat-scroll,
+.ana-table-scroll,
+.ana-trend-scroll {
+  overflow: auto;
+  max-width: 100%;
+  scrollbar-width: thin;
+  scrollbar-color: #d7c7e4 transparent;
+}
+.ana-heat {
+  border-collapse: separate;
+  border-spacing: 5px;
+  width: 100%;
+  font-size: 11px;
+  min-width: 330px;
+}
+.ana-heat caption {
+  text-align: left;
+  font-size: 10px;
+  color: #aa93b7;
+  margin-bottom: 12px;
+}
+.ana-heat th {
+  font-weight: 400;
+  color: #9b81ab;
+  white-space: nowrap;
+}
+.ana-heat td {
+  padding: 0;
+}
+.ana-heat td button {
+  border: 0;
+  border-radius: 5px;
+  width: 100%;
+  min-width: 38px;
+  height: 27px;
+  font-size: 10px;
+}
+.ana-heat td button:hover {
+  outline: 1px solid #9d80b5;
+  outline-offset: 1px;
+}
+.ana-combo-list {
+  display: grid;
+  gap: 5px;
+}
+.ana-combo-list button {
+  display: flex;
+  gap: 12px;
+  padding: 11px 0;
+  border-bottom: 1px solid #f1eaf5;
+  font-size: 12px;
+  align-items: center;
+  width: 100%;
+}
+.ana-combo-list span {
+  flex: 1;
+}
+.ana-combo-list b {
+  font-weight: 500;
+}
+.ana-combo-list small {
+  font-size: 10px;
+  color: #b099bb;
+}
+.ana-methods {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px 35px;
+}
+.ana-method > div:first-child {
+  display: flex;
+  gap: 12px;
+  font-size: 12px;
+  align-items: center;
+}
+.ana-method button {
+  padding: 0;
+  flex: 1;
+}
+.ana-method b {
+  font-weight: 500;
+}
+.ana-method small {
+  font-size: 10px;
+  color: #b09bb9;
+}
+.ana-stacked {
+  background: #f4eff8;
+  border-radius: 4px;
+  overflow: hidden;
+  display: flex;
+  height: 10px;
+  margin: 9px 0 4px;
+}
+.ana-stacked i {
+  height: 100%;
+  display: block;
+}
+.ana-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 16px;
+  font-size: 10px;
+  color: #a18bae;
+  margin: 20px 0 12px;
+}
+.ana-legend span {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+}
+.ana-card details {
+  margin-top: 15px;
+}
+.ana-card summary {
+  font-size: 11px;
+  color: #997faa;
+  cursor: pointer;
+}
+.ana-card pre {
+  max-height: 260px;
+  overflow: auto;
+  font-size: 11px;
+  background: #faf7fc;
+  padding: 12px;
+}
+.ana-trend-scroll svg {
+  display: block;
+  max-width: none;
+}
+.ana-table-scroll table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 11px;
+  min-width: 560px;
+}
+.ana-table-scroll th,
+.ana-table-scroll td {
+  text-align: left;
+  vertical-align: top;
+  padding: 12px 10px;
+  border-bottom: 1px solid #eee6f4;
+  font-weight: 400;
+}
+.ana-table-scroll thead {
+  background: #faf7fc;
+  color: #a38aad;
+}
+.ana-table-scroll small {
+  display: block;
+  font-size: 9px;
+  color: #b49abd;
+}
+.ana-table-scroll a {
+  color: #9373a9;
+}
+.ana-table-scroll button:not(.ana-drill-button) {
+  border: 0;
+  background: none;
+  color: #806196;
+  font: inherit;
+  padding: 0;
+  text-align: left;
+}
+.ana-pagination {
+  display: flex;
+  justify-content: end;
+  align-items: center;
+  gap: 10px;
+  font-size: 11px;
+  margin-top: 15px;
+}
+.ana-pagination button,
+.ana-card-head > button[data-ana-close] {
+  border: 1px solid #e5d8ee;
+  border-radius: 7px;
+  background: #fbf8fd;
+  color: #9476a6;
+  padding: 6px 10px;
+  font: inherit;
+}
+.ana-caveat {
+  background: #f8f4fc;
+}
+.ana-caveat p {
+  font-size: 12px;
+  color: #9d87aa;
+  line-height: 1.9;
+}
+.ana-caveat button {
+  color: #8c6ca4;
+  font-size: 12px;
+  padding: 0;
+}
+.ana-empty {
+  background: #fffaf1;
+  border-radius: 12px;
+  padding: 18px;
+  color: #b1996e;
+  font-size: 13px;
+}
+.analytics-page [hidden] {
+  display: none !important;
+}
+@media (max-width: 1200px) {
+  .ana-ring-layout {
+    gap: 15px;
+  }
+  .ana-ring {
+    width: 145px;
+    height: 145px;
+  }
+  .ana-ring > div {
+    width: 99px;
+    height: 99px;
+  }
+  .ana-bar {
+    gap: 8px;
+    grid-template-columns: 62px minmax(20px, 1fr) 30px 47px;
+  }
+  .ana-card {
+    padding: 19px;
+  }
+  .ana-two {
+    gap: 16px;
+  }
+}
+@media (max-width: 850px) {
+  .ana-two {
+    grid-template-columns: 1fr;
+  }
+  .ana-kpis {
+    gap: 10px;
+  }
+  .ana-kpis > div {
+    padding: 16px;
+  }
+  .ana-kpis strong {
+    font-size: 29px;
+  }
+  .ana-heading {
+    align-items: start;
+  }
+  .ana-primary {
+    max-width: 165px;
+  }
+  .ana-ring-layout {
+    justify-content: center;
+    padding: 10px 0;
+  }
+  .ana-ring {
+    width: 180px;
+    height: 180px;
+  }
+  .ana-ring > div {
+    width: 124px;
+    height: 124px;
+  }
+}
+@media (max-width: 600px) {
+  .ana-heading {
+    flex-direction: column;
+    gap: 14px;
+  }
+  .ana-primary {
+    max-width: none;
+  }
+  .ana-heading h1 {
+    font-size: 27px;
+  }
+  .ana-kpis {
+    grid-template-columns: 1fr 1fr;
+  }
+  .ana-filters {
+    padding: 15px;
+    gap: 13px 10px;
+  }
+  .ana-filters label {
+    min-width: 120px;
+  }
+  .ana-filters label:first-child {
+    flex: 1 1 100%;
+  }
+  .ana-meta {
+    gap: 9px 15px;
+  }
+  .ana-methods,
+  #ana-category .ana-bars {
+    grid-template-columns: 1fr;
+  }
+  .ana-card {
+    padding: 17px;
+  }
+  .ana-card h2 {
+    font-size: 17px;
+  }
+  .ana-ring {
+    width: 145px;
+    height: 145px;
+  }
+  .ana-ring > div {
+    width: 99px;
+    height: 99px;
+  }
+  .ana-ring-layout {
+    gap: 15px;
+  }
+  .ana-ring-legend button {
+    gap: 7px;
+    font-size: 11px;
+  }
+  .ana-ring-legend small {
+    font-size: 9px;
+    min-width: 38px;
+  }
+  .ana-meta code {
+    word-break: break-all;
+  }
+}
+/* Keep every navigation item reachable on shorter desktop windows. */
+@media (min-width: 901px) {
+  .sidebar {
+    overflow-y: auto;
+  }
+  .sidebar-bottom {
+    flex-shrink: 0;
+  }
+}

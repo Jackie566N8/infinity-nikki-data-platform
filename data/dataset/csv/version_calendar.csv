@@ -1,0 +1,4 @@
+version_id,version_number,launch_date,time_zone,date_basis,source_id,source_published_date,checked_at
+"version:62e6217bc8ac886b57217593","2.8","2026-07-16","UTC-07:00","publisher_announced_update_day","src:19daac5c74d415a1701d7666","2026-07-15","2026-10-10T15:37:05.085Z"
+"version:ac113449ac48a86709494554","2.10","2026-09-23","UTC-07:00","publisher_announced_update_day","src:198df3c5c6bdd1001b10ac6e","2026-09-19","2026-10-10T15:37:05.085Z"
+"version:e1eb91b06caf33692b79f191","2.9","2026-08-27","UTC-07:00","publisher_announced_update_day","src:474062988ada152450fef486","2026-08-26","2026-10-10T15:37:05.085Z"

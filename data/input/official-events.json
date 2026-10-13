@@ -1,0 +1,111 @@
+{
+  "schema_version": 1,
+  "checked_at": "2026-10-10T15:37:05.085Z",
+  "time_basis": "Publisher's UTC-7 notice. Start dates are announced update days; exact start times are not inferred from planned maintenance completion. No claim that the historical event is open now.",
+  "versions": [
+    {
+      "label": "金羽的裁决",
+      "version_number": "2.10",
+      "launch_date": "2026-09-23",
+      "time_zone": "UTC-07:00",
+      "source_url": "https://infinitynikki.infoldgames.com/en/news/591",
+      "published_date": "2026-09-19"
+    },
+    {
+      "label": "向晴空绽放",
+      "version_number": "2.9",
+      "launch_date": "2026-08-27",
+      "time_zone": "UTC-07:00",
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/714536853984772185",
+      "published_date": "2026-08-26"
+    },
+    {
+      "label": "黄金尘",
+      "version_number": "2.8",
+      "launch_date": "2026-07-16",
+      "time_zone": "UTC-07:00",
+      "source_url": "https://infinitynikki.infoldgames.com/en/news/560",
+      "published_date": "2026-07-15"
+    }
+  ],
+  "events": [
+    {
+      "key": "v2.10-collab-resonance",
+      "name": "A Story Dedicated to Children",
+      "version_label": "金羽的裁决",
+      "start_date": "2026-09-23",
+      "end_date": "2026-11-26",
+      "end_datetime": "2026-11-26T12:49:00-07:00",
+      "time_zone": "UTC-07:00",
+      "start_condition": "after_version_update",
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355",
+      "outfit_ids": [
+        "o10347",
+        "o10343"
+      ],
+      "obtain_condition": "Limited-time collaboration Resonance; rewards obtainable via draws during the stated event window. Evolution/glow-up forms require separate conditions."
+    },
+    {
+      "key": "v2.10-gilded-judgment",
+      "name": "Gilded Judgment",
+      "version_label": "金羽的裁决",
+      "start_date": "2026-09-23",
+      "end_date": "2026-10-29",
+      "end_datetime": "2026-10-29T12:49:00-07:00",
+      "time_zone": "UTC-07:00",
+      "start_condition": "after_version_update",
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355",
+      "outfit_ids": [
+        "o10399",
+        "o10430"
+      ],
+      "obtain_condition": "Limited-time Resonance; draws grant the listed base outfits. The notice is a historical schedule, not a live availability check."
+    },
+    {
+      "key": "v2.10-petal-rain-ink",
+      "name": "When Petal Rain Meets Ink",
+      "version_label": "金羽的裁决",
+      "start_date": "2026-09-23",
+      "end_date": "2026-10-29",
+      "end_datetime": "2026-10-29T12:49:00-07:00",
+      "time_zone": "UTC-07:00",
+      "start_condition": "after_version_update",
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355",
+      "outfit_ids": [
+        "o10395"
+      ],
+      "obtain_condition": "Complete event tasks for Misty Scrolls, then exchange the required number for Veil of Misty Rain; exact exchange amount not specified in this notice."
+    },
+    {
+      "key": "v2.10-store-arrivals",
+      "name": "Version 2.10 Store Clothing Arrivals",
+      "version_label": "金羽的裁决",
+      "start_date": "2026-09-23",
+      "end_date": "2026-10-29",
+      "end_datetime": "2026-10-29T12:49:00-07:00",
+      "time_zone": "UTC-07:00",
+      "start_condition": "after_version_update",
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355",
+      "outfit_ids": [
+        "o10310",
+        "o10357"
+      ],
+      "obtain_condition": "Available in Store > Clothing during the stated window. Price and whether a discount applies are not recorded."
+    },
+    {
+      "key": "v2.10-petal-note",
+      "name": "Version 2.10 Petal Note Milestones",
+      "version_label": "金羽的裁决",
+      "start_date": "2026-09-23",
+      "end_date": "2026-10-29",
+      "end_datetime": "2026-10-29T12:49:00-07:00",
+      "time_zone": "UTC-07:00",
+      "start_condition": "after_version_update",
+      "source_url": "https://steamcommunity.com/games/3164330/announcements/detail/703279756977636355",
+      "outfit_ids": [
+        "o10344"
+      ],
+      "obtain_condition": "Eligible purchases grant Petal Note; milestones unlock Gleam of Grain. Exact purchase threshold is not specified in the retained facts."
+    }
+  ]
+}

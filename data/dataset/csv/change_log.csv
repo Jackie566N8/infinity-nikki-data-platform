@@ -1,0 +1,2 @@
+change_id,snapshot_id,table_name,row_key,change_type,before_json,after_json
+"change:0d4f8a437d63213b7465e8a0","snapshot:40476599ebb8f4049129085c","*","*","baseline",,

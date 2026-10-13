@@ -1,0 +1,12 @@
+* text=auto
+*.mjs text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.yml text eol=lf
+# Frozen experiment and vendor bytes are hashed; never normalize them on checkout.
+data-platform/search/search-model.cjs -text
+data-platform/search-improved/improved-model.cjs -text
+data-platform/search-improved/vendor/* -text
+*.png binary
+*.jpg binary
+*.svg text eol=lf
