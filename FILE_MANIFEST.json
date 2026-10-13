@@ -50,13 +50,13 @@
     },
     {
       "path": "README.md",
-      "bytes": 12596,
-      "sha256": "132adb567a3c5e65800f5f4969e7180caa2d1577e5612b3821191645041a5239"
+      "bytes": 17011,
+      "sha256": "14fe46eb2a5f5c648c145c4f789792f38094850f5fad08ddcb976e62cffb0c49"
     },
     {
       "path": "README.zh-CN.md",
-      "bytes": 297,
-      "sha256": "e6d1eae05f962052f64fd67d78d06a0862735caf126e36c347e1cb74d6428d36"
+      "bytes": 12638,
+      "sha256": "d0deb337eb3738c050441d641638260fd584134defb1386a930a5b0a221e5e49"
     },
     {
       "path": "THIRD_PARTY_NOTICES.md",
@@ -1800,8 +1800,8 @@
     },
     {
       "path": "docs/DEPLOYMENT.md",
-      "bytes": 2618,
-      "sha256": "5eb096ce8041959017e1198c1d68973a922bc045d75066f104e4b474c972683a"
+      "bytes": 4461,
+      "sha256": "d34a0c9df55e72755884e6b87170544fe87b485cac14eaa21a2d535585941a12"
     },
     {
       "path": "docs/ELEVATOR_PITCH.md",

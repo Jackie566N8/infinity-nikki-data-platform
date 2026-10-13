@@ -15,8 +15,8 @@ FILE_MANIFEST.json记录其余文件的字节数与SHA-256；本清单及manifes
 | `CONTRIBUTING.md` | 贡献、证据记录与审核流程 | 2848 |
 | `FILE_MANIFEST.json` | 交付文件大小与SHA-256校验清单（不自哈希） | 见ZIP |
 | `LICENSE` | MIT源码许可；版权年份与作者栏按要求留空 | 1093 |
-| `README.md` | 最终项目介绍、科学口径、快速开始及预填演示链接 | 12596 |
-| `README.zh-CN.md` | 中文说明入口，指向精编README | 297 |
+| `README.md` | 英文项目介绍、科学口径、快速开始及预填演示链接 | 17011 |
+| `README.zh-CN.md` | 完整中文项目介绍及英文版入口 | 12638 |
 | `THIRD_PARTY_NOTICES.md` | 第三方素材、数据、依赖来源与权利边界 | 3277 |
 | `analysis/data_quality_check.py` | 32CSV表独立主键/外键/字段/覆盖率检查 | 6167 |
 | `analysis/notebooks/catalog-exploration.ipynb` | 可选Jupyter探索Notebook，读取已生成研究集 | 2409 |
@@ -365,7 +365,7 @@ FILE_MANIFEST.json记录其余文件的字节数与SHA-256；本清单及manifes
 | `docs/DATA_DICTIONARY.md` | 项目方法、运行、审核或维护文档 | 22822 |
 | `docs/DATA_SCOPE.md` | 项目方法、运行、审核或维护文档 | 1709 |
 | `docs/DEMO_SCRIPT.md` | 三分钟功能演示及面试问答 | 2982 |
-| `docs/DEPLOYMENT.md` | Jackie566N8仓库Pages根入口部署与本地运行 | 2618 |
+| `docs/DEPLOYMENT.md` | Jackie566N8仓库Pages根入口部署、404排查与本地运行 | 4461 |
 | `docs/ELEVATOR_PITCH.md` | 100字内介绍与英文仓库Description | 435 |
 | `docs/FILE_INVENTORY.md` | 逐文件用途与体积说明 | 见ZIP |
 | `docs/FINAL_STATUS.md` | 最终状态、已知缺口和用户后续操作 | 2145 |
